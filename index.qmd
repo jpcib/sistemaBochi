@@ -2,10 +2,27 @@
 title: "sistemaBochi"
 ---
 
-This is a Quarto website.
+Aplicación de consulta de intervenciones e interacción en las escuelas
+```{r packages, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+packages <- c("DT","readr","dplyr")
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages])
+}
 
-```{r}
-1 + 1
+invisible(lapply(packages, library, character.only = TRUE))
+
+```
+
+```{r read, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
+raw <- read_csv("data/base_resumida.csv")
+
+tabla <- DT::datatable(raw)
+
+```
+
+```{r show, echo=FALSE}
+tabla
 ```
