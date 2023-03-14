@@ -6,9 +6,11 @@ subtitle: Esc. Técnica N° 19 Alejandro Volta
 ##Infraestructura
 
 ---
+
 ##Mantenimiento
 
 ---
+
 ##Mobiliario
 
 ---
