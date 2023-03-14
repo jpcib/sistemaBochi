@@ -9,8 +9,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sistemaBochi",
+    "title": "SistemaBochi",
     "section": "",
-    "text": "Aplicación de consulta de intervenciones e interacción en las escuelas"
+    "text": "Busque por dirección, cue o comuna y seleccione un edificio para ver los detalles."
+  },
+  {
+    "objectID": "pages/200025.html",
+    "href": "pages/200025.html",
+    "title": "LAVALLE 1681",
+    "section": "",
+    "text": "##Mobiliario"
   }
 ]
