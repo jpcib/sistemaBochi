@@ -9,15 +9,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SistemaBochi",
+    "title": "Bochi v 0.1",
     "section": "",
-    "text": "Busque por dirección, cue o comuna y seleccione un edificio para ver los detalles."
+    "text": "Aplicación de consulta escolar de la SSGEFYAR Busque por dirección, CUI o comuna y seleccione un edificio para ver los detalles."
   },
   {
     "objectID": "pages/200025.html",
     "href": "pages/200025.html",
     "title": "LAVALLE 1681",
     "section": "",
-    "text": "##Mantenimiento\n\n##Mobiliario"
+    "text": "Mantenimiento\n\nMobiliario"
   }
 ]

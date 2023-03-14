@@ -1,9 +1,9 @@
 ---
+title: Bochi v 0.1
 ---
 
-Aplicación de consulta de intervenciones e interacción en edificios escolares 
-
-Busque por dirección, cue o comuna y seleccione un edificio para ver los detalles.
+Aplicación de consulta escolar de la SSGEFYAR\n
+Busque por dirección, CUI o comuna y seleccione un edificio para ver los detalles.
 
 ---
 
@@ -21,11 +21,20 @@ invisible(lapply(packages, library, character.only = TRUE))
 ```
 
 ```{r read, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-raw <- read_csv("data/base_resumida.csv")
+raw <- read_csv("data/base_resumida_link.csv")
 
 tabla <- DT::datatable(raw, 
                        filter = "top", 
-                       rownames = FALSE)
+                       rownames = FALSE,
+                       escape = FALSE, 
+                       class = 'cell-border stripe',
+                       options = list(pageLength = 50, autoWidth = TRUE,
+                                      initComplete = JS(
+                                        "function(settings, json) {",
+                                      "$(this.api().table().header()).css({'background-color':'#000', 'color': '#fff'});",
+                                      "}")
+                                      )
+                       )
 
 
 ```
