@@ -1,8 +1,12 @@
 ---
-title: "sistemaBochi"
 ---
 
-Aplicación de consulta de intervenciones e interacción en las escuelas
+Aplicación de consulta de intervenciones e interacción en edificios escolares 
+
+Busque por dirección, cue o comuna y seleccione un edificio para ver los detalles.
+
+---
+
 ```{r packages, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
 
 packages <- c("DT","readr","dplyr")
