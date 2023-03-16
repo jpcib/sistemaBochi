@@ -28,12 +28,7 @@ tabla <- DT::datatable(raw,
                        rownames = FALSE,
                        escape = FALSE, 
                        class = 'cell-border stripe',
-                       options = list(pageLength = 50, autoWidth = TRUE,
-                                      initComplete = JS(
-                                        "function(settings, json) {",
-                                      "$(this.api().table().header()).css({'background-color':'#000', 'color': '#fff'});",
-                                      "}")
-                                      )
+                       options = list(pageLength = 50, autoWidth = TRUE)
                        )
 
 

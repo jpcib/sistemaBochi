@@ -3,11 +3,14 @@ title: LAVALLE 1681
 subtitle: Esc. Técnica N° 19 Alejandro Volta
 ---
 
-Infraestructura
----
+# [Infraestructura]{.underline}
 
-Mantenimiento
----
+-   Mejora edilicia, Instalacion electrica completa
 
-Mobiliario
----
+    -   **EN OBRA 62%** -Inicio: 3/6/2022 -Plazo: 300 -Fin: 1/6/2023
+
+# [Mantenimiento]{.underline}
+
+![](images/paste-85A452B8.png)
+
+# [Mobiliario]{.underline}
