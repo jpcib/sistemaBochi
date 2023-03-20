@@ -3,7 +3,7 @@ title: Bochi v 0.1
 ---
 
 Aplicación de consulta escolar de la SSGEFYAR\n
-Busque por dirección, CUI o comuna y seleccione un edificio para ver los detalles.
+Busque por dirección del establecimiento o nombre de escuela para acceder a los detalles.
 
 ---
 
@@ -21,7 +21,8 @@ invisible(lapply(packages, library, character.only = TRUE))
 ```
 
 ```{r read, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-raw <- read_csv("data/base_resumida_link.csv")
+raw <- read_csv("data/base_completa_link_v2.csv") %>% 
+  select(Domicilio, Establecimiento)
 
 tabla <- DT::datatable(raw, 
                        filter = "top", 

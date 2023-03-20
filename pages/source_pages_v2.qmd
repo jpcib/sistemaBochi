@@ -1,0 +1,60 @@
+---
+title: "Source_pages_v2"
+---
+
+```{r packages, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
+
+packages <- c("tidyverse")
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages])
+}
+
+invisible(lapply(packages, library, character.only = TRUE))
+
+```
+
+
+```{r table, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
+data <- read_csv("../data/base_completa_link_v2.csv") %>%
+  # janitor::clean_names() %>%
+  # rename(ID = cui,
+  #        Adress = domicilio_edificio
+  #        ) %>%
+  # mutate(School = paste0(Adress," ",ID)) %>%
+  # slice_sample(n = 10) %>%
+  # # # group_by(ID) %>% 
+  # # # mutate(n = n()) %>% 
+  # # # filter(n >1) %>% 
+  # distinct(ID, .keep_all = TRUE) %>%
+  # drop_na(ID) %>% 
+  glimpse()
+```
+
+
+```{r fn, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
+generate_qmd <- function(id_edificio) {
+  # get the school name and address from the data frame
+  nombre_establecimiento <- data$establecimiento[data$cui == id_edificio]
+  direccion_establecimiento <- data$domicilio[data$cui == id_edificio]
+
+  # create the YAML header
+  yaml_header <- paste0("---\n",
+                        "title: '", direccion_establecimiento, "'\n",
+                        "subtitle: '", nombre_establecimiento, "'\n",
+                        "---\n\n")
+  
+  # create the file name
+  file_name <- paste0(id_edificio, ".qmd")
+  
+  # write the YAML header and some example content to the .QMD file
+  writeLines(yaml_header, file_name)
+}
+
+# apply the function to each school in the data frame
+for (id_edificio in data$cui) {
+  generate_qmd(id_edificio)
+}
+
+```

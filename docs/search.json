@@ -11,13 +11,6 @@
     "href": "index.html",
     "title": "Bochi v 0.1",
     "section": "",
-    "text": "Aplicación de consulta escolar de la SSGEFYAR Busque por dirección, CUI o comuna y seleccione un edificio para ver los detalles."
-  },
-  {
-    "objectID": "pages/200025.html",
-    "href": "pages/200025.html",
-    "title": "LAVALLE 1681",
-    "section": "",
-    "text": "Mantenimiento\n\n\n\nMobiliario"
+    "text": "Aplicación de consulta escolar de la SSGEFYAR Busque por dirección del establecimiento o nombre de escuela para acceder a los detalles."
   }
 ]
