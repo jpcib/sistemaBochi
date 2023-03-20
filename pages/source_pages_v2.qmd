@@ -17,7 +17,7 @@ invisible(lapply(packages, library, character.only = TRUE))
 
 
 ```{r table, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data <- read_csv("../data/base_completa_link_v2.csv") %>%
+data <- read_csv("../data/base_completa_link_v3.csv") %>%
   # janitor::clean_names() %>%
   # rename(ID = cui,
   #        Adress = domicilio_edificio
