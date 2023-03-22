@@ -33,6 +33,8 @@ generate_rmd <- function(school_id) {
   
   # write the YAML header and some example content to the .Rmd file
   writeLines(yaml_header, file_name)
+  # writeLines("# Example content", file_name, append = TRUE)
+  
 }
 
 # apply the function to each school in the data frame
