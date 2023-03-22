@@ -4,3 +4,21 @@ subtitle: 'EPC N° 21 JUAN JOSE PASO - JIN C (EPCJS 21/08°)'
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Coloc. AºAº salas jardin
+
+*  (2022) Incendio 
+    + SISTEMA DE PROTECCIÓN CONTRA INCENDIO
+
+*  (2022) Sanitarias 
+    + COLOCACIÓN DE BOMBA PRESURIZADORA
+
+*  (2022) Electricidad 
+    + Instalación de purificadores
+
+
+

@@ -10,4 +10,26 @@ subtitle: 'EPC N° 13 PROVINCIA DEL NEUQUEN - JII N° 06/14°'
     + Finalizado - Mejora Edilicia 
 
 
+ ## Mantenimiento
+
+*  (2023) Sanitarias 
+    + Prov. Coloc termotanque electrico
+
+*  (2022) Sanitarias 
+    + Cambio tanque cisterna y pinches palomas
+
+*  (2022) Medios de elevación 
+    + Habilitacion plataforma elevadora
+
+*  (2022) Sanitarias 
+    + Cambio tanque reserva, pinches o red ant
+
+*  (2022) Electricidad 
+    + Instalacion de purificador en comedor
+
+
+
+
+
+
 

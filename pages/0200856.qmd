@@ -4,3 +4,18 @@ subtitle: 'EPC N° 13 PRESBITERO ALBERTI - JIC N° 02/19°'
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Electricidad 
+    + Adecuación de sistema de caldera
+
+*  (2022) Gas 
+    + Adecuación de sistema de gas.
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Placas calefactores electricos
+
+
+

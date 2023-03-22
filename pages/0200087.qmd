@@ -4,3 +4,30 @@ subtitle: 'EPC N° 16 PRESIDENTE MITRE - EPA N° 16 PRESIDENTE MITRE - ESCUELA I
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2023) Electricidad 
+    + Reparar/reemplazar ventilador.
+
+*  (2023) Calefaccion y Refrigeracion 
+    + Reponer aire acondicionado sala amarilla
+
+*  (2022) Electricidad 
+    + COLOCAR LUCES EN PATIO
+
+*  (2022) Otros Servicios 
+    + COLOCAR MALLAS EN JARDIN
+
+*  (2022) Albañileria / Pintura 
+    + Pintura en hall pb
+
+*  (2022) Gas 
+    + Trabajos en instalación de gas
+
+*  (2022) Gas 
+    + Adecuación en instalaciones de gas
+
+
+

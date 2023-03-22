@@ -10,4 +10,23 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
     + En Proyecto - Mejora Edilicia 
 
 
+ ## Mantenimiento
+
+*  (2022) Sanitarias 
+    + Tendido Prov Agua Baño 1er piso
+
+*  (2022) Gas 
+    + Reparación Solenoide Cocina
+
+*  (2022) Sanitarias 
+    + Conectar sector gastronomia red cloacal
+
+*  (2022) Incendio 
+    + Reponer 2 matafuegos co2 fin vida util
+
+
+
+
+
+
 

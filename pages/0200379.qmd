@@ -4,3 +4,18 @@ subtitle: 'Sup Inicial III A - JII N° 01/07° ANDRES FERREYRA'
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Incendio 
+    + Cambio de manguera en nicho
+
+*  (2022) Electricidad 
+    + Nueva central telefónica en supervision
+
+*  (2022) Incendio 
+    + Recolocar 9 nuevos matafuegos
+
+
+

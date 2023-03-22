@@ -4,3 +4,21 @@ subtitle: 'EPC N° 05 URSULA LLAMES DE LAPUENTE - IFTS N° 18 - CEC IDIOMAS EXTR
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2023) Incendio 
+    + Reemplazo de 3 matafuegos
+
+*  (2022) Electricidad 
+    + Readecuación inst eléctrica sal computa
+
+*  (2022) Carpinterías 
+    + Colocación de pasamanos
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Cambio de quemador caldera
+
+
+

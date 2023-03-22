@@ -3,7 +3,8 @@
 
 
 library(tidyverse)
-
+raw <- read_csv("data/base_resumida.csv") %>% 
+  glimpse()
 raw <- read_csv("data/base_completa.csv") %>% 
   glimpse()
 

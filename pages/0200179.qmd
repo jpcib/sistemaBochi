@@ -10,4 +10,38 @@ subtitle: 'EPC N° 10 GRAL. ARAOZ DE LAMADRID'
     + Planificado - Mejora Edilicia 
 
 
+ ## Mantenimiento
+
+*  (2023) Electricidad 
+    + Instalación tablero de luces emergencia
+
+*  (2022) Carpinterías 
+    + Reemplazo carpinteria a patio.
+
+*  (2022) Gas 
+    + Adecuar instalación de gas a normativa
+
+*  (2022) Albañileria / Pintura 
+    + Reparación en cocina
+
+*  (2022) Sanitarias 
+    + Realizar cámara nueva en sector cocina
+
+*  (2022) Electricidad 
+    + Agregado de tomas, extensión de ménsula
+
+*  (2022) Albañileria / Pintura 
+    + Presupuesto pintira en direccion
+
+*  (2022) Sanitarias 
+    + Reposición de inodoro en baño nenas
+
+*  (2022) Carpinterías 
+    + Soporte para proyector en comedor
+
+
+
+
+
+
 

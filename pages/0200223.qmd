@@ -4,3 +4,12 @@ subtitle: 'POLIDEPORTIVO 9 DE JULIO'
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Electricidad 
+    + Cambio de termotanque 50 lts eléctrico.
+
+
+

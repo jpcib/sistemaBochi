@@ -9,8 +9,28 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
 * Accesibilidad, ascensor. (amparo) 
     + Finalizado - Mejora Edilicia 
 
+
+ ## Mantenimiento
+
+*  (2022) Gas 
+    + Reacondicionamiento de gas
+
+*  (2022) Incendio 
+    + Reacondicionamiento incendio
+
+*  (2022) Incendio 
+    + Adicional incendio - Cambio de llave de
+
+*  (2022) Gas 
+    + Adicional de gas
+
+
+
+
+
 * 3er año 
     + En Obra - SDF 
+
 
 
 

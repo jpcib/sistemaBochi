@@ -10,4 +10,29 @@ subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
     + Finalizado - SDF 
 
 
+ ## Mantenimiento
+
+*  (2022) Electricidad 
+    + 3 aulas para SDF
+
+*  (2022) Gas 
+    + Modificacion de instalacion de gas
+
+*  (2022) Incendio 
+    + Acondicionar la IFCI
+
+*  (2022) Carpinterías 
+    + Reparar paño de carpintería de aluminio
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Reparacion de Fan Coil
+
+*  (2022) Incendio 
+    + Provisión de 2 matafuegos
+
+
+
+
+
+
 

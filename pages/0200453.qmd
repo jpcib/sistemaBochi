@@ -4,3 +4,15 @@ subtitle: 'JIN D (EPCJC 14/09°) [S] - EPC N° 14 PROVINCIA DE RIO NEGRO - CENOF
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Electricidad 
+    + Instalación electrica en sala musica
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Instalacion segun normativa AA
+
+
+

@@ -4,3 +4,12 @@ subtitle: 'ESCUELA INF. N° 03/04°'
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Reponer el equipo de aire acondicionado
+
+
+

@@ -10,4 +10,14 @@ subtitle: 'ESC. TEC. N° 11 MANUEL BELGRANO'
     + Finalizado - SDF 
 
 
+ ## Mantenimiento
+
+*  (2022) Medios de elevación 
+    + Reparacion botonera montasilla
+
+
+
+
+
+
 

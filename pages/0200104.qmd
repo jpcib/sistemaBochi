@@ -4,3 +4,18 @@ subtitle: 'ESCUELA INF. N° 02/02° PAMPITA'
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2023) Electricidad 
+    + Cambio de ventilador en Dirección
+
+*  (2022) Gas 
+    + Puesta a normativa de inst de gas
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Reposición radiador 16 elementos
+
+
+

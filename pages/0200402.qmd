@@ -4,3 +4,18 @@ subtitle: 'Centro Cultural Sebastián Piana - EPC N° 03 DR. MANUEL A. MONTES DE
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Medios de elevación 
+    + Reparacion de montasilla.
+
+*  (2022) Incendio 
+    + Reacondicionamiento IFCI
+
+*  (2022) Gas 
+    + Provision y coloc de reguladores gas
+
+
+

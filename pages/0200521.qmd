@@ -4,3 +4,27 @@ subtitle: 'LICEO N° 09 SANTIAGO DERQUI'
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Aulas secundaria del futuro
+
+*  (2022) Albañileria / Pintura 
+    + Adecuacion sala de computacion
+
+*  (2022) Albañileria / Pintura 
+    + Adecuación preceptoria PA
+
+*  (2022) Electricidad 
+    + Instalacion electrica sala de musica
+
+*  (2022) Electricidad 
+    + Instalacion electrica sala de profesores
+
+*  (2022) Albañileria / Pintura 
+    + Colocacion piso sala de lectura
+
+
+

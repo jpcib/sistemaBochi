@@ -4,3 +4,15 @@ subtitle: 'ESCUELA INF. N° 09/05° - EPC N°05 DE 05'
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Electricidad 
+    + Instalación de luminarias led
+
+*  (2022) Electricidad 
+    + Reemplazo de ventiladores con anomalías
+
+
+

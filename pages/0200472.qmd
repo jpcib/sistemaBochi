@@ -4,3 +4,30 @@ subtitle: 'INST. SUPERIOR DEL PROF. DE EDUC. INICIAL SARA CHAMBERLAIN DE ECCLEST
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Electricidad 
+    + readecua normativa circuito tomas
+
+*  (2022) Electricidad 
+    + Etapa 2 de normalización de tomas
+
+*  (2022) Carpinterías 
+    + Coloc de vidrios, limpieza y pintura
+
+*  (2022) Gas 
+    + Instalación de termotanque eléctrico
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Cambio de quemador caldera
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Colocación de tren de válvulas
+
+*  (2022) Electricidad 
+    + Instalación de reflectores
+
+
+

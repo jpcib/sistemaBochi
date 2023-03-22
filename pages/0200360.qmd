@@ -4,3 +4,15 @@ subtitle: 'JIN C (EPCJC 09/07°) - EPC N° 09 JAPON'
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Sanitarias 
+    + Cambio de TR y colentor
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Adecuación de instalación termomecánica.
+
+
+

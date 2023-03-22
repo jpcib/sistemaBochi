@@ -4,3 +4,21 @@ subtitle: 'EPA N° 01 T. DE LA QUINTANA DE ESCALADA - JIN A (EPCJC 01/07°) [S] 
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Reparación de 2 equipos fan coils
+
+*  (2022) Electricidad 
+    + Conexión Portero eléctrico casera
+
+*  (2022) Albañileria / Pintura 
+    + Reparación de revoques y pintura
+
+*  (2022) Gas 
+    + clocacion de regulador de gas
+
+
+

@@ -10,4 +10,26 @@ subtitle: 'ESPACIO DE PRIMERA INFANCIA EEM Nº2 DE 17 - EEM N° 02/17° RUMANIA 
     + Finalizado - SDF 
 
 
+ ## Mantenimiento
+
+*  (2023) Electricidad 
+    + PROV Y COLOC LUCES EMERGENCIA
+
+*  (2022) Medios de elevación 
+    + Habilitacion del ascensor existente.
+
+*  (2022) Gas 
+    + Doble regulación de gas
+
+*  (2022) Electricidad 
+    + Reemplazo de paneles led quemados
+
+*  (2022) Sanitarias 
+    + Reemplazo de tanque de bombeo dañado
+
+
+
+
+
+
 

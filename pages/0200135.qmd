@@ -4,3 +4,15 @@ subtitle: 'JIN B (EPCJC 23/03°) [S] - CENS N° 37 SEDE - EPC N° 23 GRAL. VIAMO
 ---
 
 #
+
+
+ ## Mantenimiento
+
+*  (2023) Electricidad 
+    + Reemplazo de ventiladores de techo
+
+*  (2022) Gas 
+    + Adecuación de inst de gas a normativa
+
+
+
