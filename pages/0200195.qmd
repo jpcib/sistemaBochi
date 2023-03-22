@@ -3,4 +3,14 @@ title: 'AVDA. PASEO COLON 650'
 subtitle: 'Sup Media Tecnica Region I - IFTS Nº 06 - ESC. TEC. N° 01 ING. OTTO KRAUSE'
 ---
 
+#
+## Infraestructura
+
+* Instalacion electrica completa sector talleres 
+    + En Obra - Mejora Edilicia 
+
+* 2do año 
+    + Licitación - SDF 
+
+
 

@@ -3,4 +3,11 @@ title: 'NUÑEZ 3620'
 subtitle: 'ESC. TEC. N° 21 FRAGATA ESCUELA LIBERTAD'
 ---
 
+#
+## Infraestructura
+
+* Restauracion de fachadas, humedades de cimientos, instalacion electrica completa 
+    + Finalizado - Mejora Edilicia 
+
+
 

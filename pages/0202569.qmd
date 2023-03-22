@@ -3,4 +3,11 @@ title: 'PERU 1357'
 subtitle: 'ESC. DE COM.   N° 27 ANTARTIDA ARGENTINA - ESC. DE COM.  N° 04 BALDOMERO FERNANDEZ MORENO'
 ---
 
+#
+## Infraestructura
+
+* Instalacion electrica, ampliacion, mejora edilicia 
+    + Finalizado - Mejora Edilicia 
+
+
 

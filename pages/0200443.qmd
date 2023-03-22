@@ -3,4 +3,11 @@ title: 'AVDA. RAUL SCALABRINI ORTIZ 1336'
 subtitle: 'EPC N° 04 PROVINCIA DE CORDOBA'
 ---
 
+#
+## Infraestructura
+
+* Sanitario e impermeabilizacion 
+    + Finalizado - Mejora Edilicia 
+
+
 

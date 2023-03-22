@@ -3,4 +3,14 @@ title: 'AVDA. RIVADAVIA 4950'
 subtitle: 'ENS N°04 ESTANISLAO SEVERO ZEBALLOS - LICEO N° 02 AMANCIO ALCORTA'
 ---
 
+#
+## Infraestructura
+
+* Creacion de un comedor 
+    + Licitación - Mejora Edilicia 
+
+* Instalacion electrica completa, impermeabilizacion, restauracion de un sector de fachada 
+    + Finalizado - Mejora Edilicia 
+
+
 

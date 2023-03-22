@@ -3,4 +3,11 @@ title: 'VALDENEGRO 3525'
 subtitle: 'EPC N° 12 ESPAÑA - JIN C (EPCJC 12/15°) [S] - PI VALDENEGRO'
 ---
 
+#
+## Infraestructura
+
+* Obra rescindida: trabajos de ampliación edilicia, medios de salida y pintura integral de fachadas 
+    + Finalizado - Mejora Edilicia 
+
+
 

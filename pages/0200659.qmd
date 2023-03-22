@@ -3,4 +3,11 @@ title: 'GIRARDOT 1946'
 subtitle: 'EPC N° 03 ING. ALVAREZ CONDARCO - JIN C (EPCJC 03/14°) [S]'
 ---
 
+#
+## Infraestructura
+
+* Instalacion electrica completa 
+    + En Obra - Mejora Edilicia 
+
+
 

@@ -16,24 +16,17 @@ invisible(lapply(packages, library, character.only = TRUE))
 ```
 
 
-```{r table, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
+```{r data, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
 data <- read_csv("../data/base_completa_link_v3.csv") %>%
-  # janitor::clean_names() %>%
-  # rename(ID = cui,
-  #        Adress = domicilio_edificio
-  #        ) %>%
-  # mutate(School = paste0(Adress," ",ID)) %>%
-  # slice_sample(n = 10) %>%
-  # # # group_by(ID) %>% 
-  # # # mutate(n = n()) %>% 
-  # # # filter(n >1) %>% 
-  # distinct(ID, .keep_all = TRUE) %>%
-  # drop_na(ID) %>% 
+  # slice_head(n = 3)
   glimpse()
 ```
 
 
-```{r fn, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
+
+
+```{r generate_qmd, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
+
 generate_qmd <- function(id_edificio) {
   # get the school name and address from the data frame
   nombre_establecimiento <- data$establecimiento[data$cui == id_edificio]
@@ -43,13 +36,17 @@ generate_qmd <- function(id_edificio) {
   yaml_header <- paste0("---\n",
                         "title: '", direccion_establecimiento, "'\n",
                         "subtitle: '", nombre_establecimiento, "'\n",
-                        "---\n\n")
+                        "---\n\n", 
+                        "#")
+  
+
   
   # create the file name
   file_name <- paste0(id_edificio, ".qmd")
   
   # write the YAML header and some example content to the .QMD file
   writeLines(yaml_header, file_name)
+
 }
 
 # apply the function to each school in the data frame
@@ -58,3 +55,78 @@ for (id_edificio in data$cui) {
 }
 
 ```
+
+
+```{r data_infra, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
+data_infra <- read_csv("../data/infra_gop_v2.csv") %>% 
+  select(-c(nota_de_inicio:avance_de_obra_real)) %>% 
+  arrange(cui) %>% 
+  # slice(5:14) %>% 
+  glimpse()
+
+```
+
+```{r add_project_section, include=FALSE}
+
+#V4
+add_project_section <- function(data, dir) {
+  # Loop through each id in the dataset
+  for (i in unique(data$cui)) {
+    
+    # Generate the file name for the corresponding Quarto Markdown document
+    file_name <- paste0(i, ".qmd")
+    file_path <- file.path(dir, file_name)
+    
+    # Check if the file exists
+    if (file.exists(file_path)) {
+      
+      # Subset the dataset for the current id
+      id_data <- data[data$cui == i, ]
+      
+      # Create a bulleted list of the projects and dates
+      projects_list <- paste0("* ", id_data$intervenciones, " \n", 
+                              "    + ", id_data$estado, " - ", id_data$eje,  " \n")  
+      
+      # Combine the title and bulleted list
+      project_section <- paste0("## Infraestructura\n\n", paste(projects_list, collapse = "\n"), "\n\n")
+      
+      # Read the contents of the Quarto Markdown file
+      file_contents <- readLines(file_path)
+      
+      # Find the position of the first heading in the file
+      heading_pos <- grep("^#", file_contents)[1]
+      
+      # Check if heading_pos is NA
+      if (is.na(heading_pos)) {
+        cat("Warning: File", file_name, "does not contain any heading\n")
+        next
+      }
+      
+      # Insert the project section after the first heading
+      updated_contents <- append(file_contents, project_section, after = heading_pos)
+      
+      # Write the updated contents back to the file
+      writeLines(updated_contents, file_path)
+      
+      # Print a message indicating the file was updated
+      cat("Updated", file_name, "\n")
+      
+    } else {
+      
+      # Print a warning if the file doesn't exist
+      cat("Warning: File", file_name, "not found in directory\n")
+      
+    }
+    
+  }
+}
+
+
+add_project_section(data = data_infra, dir = ".")
+
+
+```
+
+
+
+

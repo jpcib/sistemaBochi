@@ -3,4 +3,14 @@ title: 'FORMOSA 136'
 subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 19 - ESC. DE COM. N° 19 JUAN MONTALVO - ESEA DANZA MASTRAZZI DANZA JUV. N°02'
 ---
 
+#
+## Infraestructura
+
+* 2do año 
+    + Finalizado - SDF 
+
+* Accesibilidad, ascensor. (amparo) 
+    + Finalizado - Mejora Edilicia 
+
+
 

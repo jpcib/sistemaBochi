@@ -3,4 +3,11 @@ title: 'MORON 4149'
 subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
 ---
 
+#
+## Infraestructura
+
+* 2do año 
+    + Finalizado - SDF 
+
+
 

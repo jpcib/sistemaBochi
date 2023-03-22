@@ -3,4 +3,11 @@ title: 'SANTO TOME 4529'
 subtitle: 'JINA(EPCJS 17/18°)LA CALESITA DON JOSE - EPC N° 17 TTE. GRAL. LUIS MARIA CAMPOS'
 ---
 
+#
+## Infraestructura
+
+* NA 
+    + Planificado - Mejora Edilicia 
+
+
 

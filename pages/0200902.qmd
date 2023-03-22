@@ -3,4 +3,11 @@ title: 'TANDIL 6690'
 subtitle: 'EPC N° 05 VICENTE LOPEZ Y PLANES - CENS N° 02'
 ---
 
+#
+## Infraestructura
+
+* Accesibilidad, ascensor. 
+    + Finalizado - Mejora Edilicia 
+
+
 

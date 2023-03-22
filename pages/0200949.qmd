@@ -3,4 +3,11 @@ title: 'AVDA. RIESTRA 5030'
 subtitle: 'EEM N° 04/21° - EPC N° 04 PROVINCIA DE TUCUMAN - CAIYJ CLUB LUGANO - JIN A (EPCJS 04/21°) (SEDE) - PI RIESTRA'
 ---
 
+#
+## Infraestructura
+
+* 3er año 
+    + En Obra - SDF 
+
+
 

@@ -3,4 +3,11 @@ title: 'ECUADOR 1158'
 subtitle: 'COLEGIO N° 06 MANUEL BELGRANO - COLEGIO N° 15 REVOLUCION DE MAYO'
 ---
 
+#
+## Infraestructura
+
+* 3er año 
+    + En Obra - SDF 
+
+
 

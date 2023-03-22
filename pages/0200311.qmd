@@ -3,4 +3,11 @@ title: 'AVDA. JUAN DE GARAY 3972'
 subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
 ---
 
+#
+## Infraestructura
+
+* Pintura y acondicionamiento de patio 
+    + Finalizado - Mejora Edilicia 
+
+
 

@@ -3,4 +3,11 @@ title: 'LUIS VIALE 1046'
 subtitle: 'EPC N° 19 GALICIA'
 ---
 
+#
+## Infraestructura
+
+* Patio, demolicion de casa del casero en patio, pluviales del patio, accesibilidad basica, baños 
+    + En Proyecto - Mejora Edilicia 
+
+
 

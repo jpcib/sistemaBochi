@@ -3,4 +3,11 @@ title: 'CAFAYATE 5388'
 subtitle: 'EPC N° 15 DR. CARLOS ALBERTO VERONELLI - JII N° 01/21° - CENOF CENTRO CAFAYATE'
 ---
 
+#
+## Infraestructura
+
+* Cambio de carpintenrias (fondos covid) 
+    + Planificado - Mejora Edilicia 
+
+
 

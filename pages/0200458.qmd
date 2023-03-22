@@ -3,4 +3,11 @@ title: 'HUMBOLDT 742'
 subtitle: 'JIN D (EPCJS 19/09°) - EPC N° 19 PROVINCIA DEL CHUBUT - CAIYJ CHACARITA'
 ---
 
+#
+## Infraestructura
+
+* Instalacion electrica completa 
+    + Planificado - Mejora Edilicia 
+
+
 

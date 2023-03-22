@@ -3,4 +3,11 @@ title: 'ROQUE PEREZ 3545'
 subtitle: 'EPC N°14 FRAY MARTIN DEL BARCO CENTENERA - JIC Nº 10 DE 10'
 ---
 
+#
+## Infraestructura
+
+* Amparo - accesibilidad plena y pintura parcial + ie ajustar 
+    + En Proyecto - Mejora Edilicia 
+
+
 

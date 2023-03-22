@@ -3,4 +3,11 @@ title: 'SIMBRON 5821'
 subtitle: 'EPC N° 13 PREFECTURA NAVAL ARGENTINA - ESCUELA INF. N° 04/17°'
 ---
 
+#
+## Infraestructura
+
+* Impermeabilizacion 
+    + Finalizado - Mejora Edilicia 
+
+
 

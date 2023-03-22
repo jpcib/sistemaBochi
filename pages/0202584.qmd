@@ -3,4 +3,14 @@ title: 'ZUVIRIA 6550'
 subtitle: 'EEM N° 01/20° BIB.CONGRESO DE LA NACION - ESCUELA INF. N° 08/20° - JII N° 04/20°'
 ---
 
+#
+## Infraestructura
+
+* 3er año 
+    + En Obra - SDF 
+
+* Tanque de bombeo, bombas (fondos covid) 
+    + Finalizado - Mejora Edilicia 
+
+
 

@@ -9,8 +9,1226 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Bochi v 0.1",
+    "title": "Bochi v 0.2",
     "section": "",
     "text": "Aplicación de consulta escolar de la SSGEFYAR Busque por dirección del establecimiento o nombre de escuela para acceder a los detalles."
+  },
+  {
+    "objectID": "pages/0200728.html",
+    "href": "pages/0200728.html",
+    "title": "TRONADOR 4136",
+    "section": "",
+    "text": "Reparación de humedad de cimientos, reparación de las mamposterías afectadas y pintura integral. Impermeabilización de cubiertas, en sector con filtraciones y respiración de cielorrasos. Acondicionamiento de baños\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200428.html",
+    "href": "pages/0200428.html",
+    "title": "AVDA. CURAPALIGÜE 1150",
+    "section": "",
+    "text": "Refaccion integral edilicia accesibilidad plena carpinteria y pintura patio\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200827.html",
+    "href": "pages/0200827.html",
+    "title": "GALLARDO 149",
+    "section": "",
+    "text": "2do año\n\nFinalizado - SDF"
+  },
+  {
+    "objectID": "pages/0200530.html",
+    "href": "pages/0200530.html",
+    "title": "CUBA 2410",
+    "section": "",
+    "text": "Instalacion electrica y termomecanica, filtracion por cubierta.\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200600.html",
+    "href": "pages/0200600.html",
+    "title": "GRAL. VENANCIO FLORES 3869",
+    "section": "",
+    "text": "Ampliación - rehabilitación parcial - instalación eléctrica\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200552.html",
+    "href": "pages/0200552.html",
+    "title": "AVDA. SAN PEDRITO 1415",
+    "section": "",
+    "text": "Patio cubierto, creacion de un comedor con sanitarios\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200746.html",
+    "href": "pages/0200746.html",
+    "title": "JOSE CUBAS 4440",
+    "section": "",
+    "text": "Instalacion electrica + accesibilidad + filtraciones + pintura\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200412.html",
+    "href": "pages/0200412.html",
+    "title": "DON BOSCO 4200",
+    "section": "",
+    "text": "Sanitarios y carp, pintura en areas comunes.\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200123.html",
+    "href": "pages/0200123.html",
+    "title": "CHILE 1626",
+    "section": "",
+    "text": "Etapa 2022-23 adecuación de cubierta, patio, instalación eléctrica completa (amparo) y pintura\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200028.html",
+    "href": "pages/0200028.html",
+    "title": "JUNCAL 3251",
+    "section": "",
+    "text": "Nuevo ascensor exterior - aumento caudal, reserva sanitaria\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200426.html",
+    "href": "pages/0200426.html",
+    "title": "FORMOSA 136",
+    "section": "",
+    "text": "2do año\n\nFinalizado - SDF\n\nAccesibilidad, ascensor. (amparo)\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200032.html",
+    "href": "pages/0200032.html",
+    "title": "CARLOS PELLEGRINI 1515",
+    "section": "",
+    "text": "Proyecto terminado por sum\n\nLicitación - Mejora Edilicia\n\nPuesta en valor de la escalera\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200523.html",
+    "href": "pages/0200523.html",
+    "title": "AVDA. MIGUEL SANCHEZ 1050",
+    "section": "",
+    "text": "A definir\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200326.html",
+    "href": "pages/0200326.html",
+    "title": "CARLOS CALVO 3150",
+    "section": "",
+    "text": "2 aulas de jardín. Accesibilidad plena adecuacion pintura acceso y circulaciones. Casa casero\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200022.html",
+    "href": "pages/0200022.html",
+    "title": "LIBERTAD 1257",
+    "section": "",
+    "text": "2do año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200080.html",
+    "href": "pages/0200080.html",
+    "title": "RIO DE JANEIRO 986",
+    "section": "",
+    "text": "Acc. plena, pintura y adecuacion de instalacion electrica\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200655.html",
+    "href": "pages/0200655.html",
+    "title": "ACASSUSO 6138",
+    "section": "",
+    "text": "2do año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200650.html",
+    "href": "pages/0200650.html",
+    "title": "OLIDEN 1245",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200679.html",
+    "href": "pages/0200679.html",
+    "title": "NICASIO OROÑO 2131",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200628.html",
+    "href": "pages/0200628.html",
+    "title": "LACARRA 1135",
+    "section": "",
+    "text": "Cubierta, carpinterias (madera, deterioradas), playon de acceso, puesta en valor sector original del edificio\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0201864.html",
+    "href": "pages/0201864.html",
+    "title": "LACARRA 1151 Y AVDA. FRANCISCO BILBAO",
+    "section": "",
+    "text": "Fachadas exteriores (desprendimiento de pintura y revoques), humedad en subsuelo y levantamiento de solado, aulas en mal estado (placas de cielorraso faltantes, pinturas con grafitis), patio cubierto con filtración por cubierta de vidrio. Baños: filtración, faltante de cerámicos y artefactos de luz. pintura en general.\n\nEn Proyecto - Mejora Edilicia\n\n2do año\n\nFinalizado - SDF"
+  },
+  {
+    "objectID": "pages/0200302.html",
+    "href": "pages/0200302.html",
+    "title": "HUMBERTO I° 3171",
+    "section": "",
+    "text": "Acondicionamiento de acc basica, sanitarios , inst electrica e incendio, prov de agua , cielorraso , carpinteria ,arreglo patio y muros con sus revoques. pintura y patio\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200253.html",
+    "href": "pages/0200253.html",
+    "title": "JUAN CARLOS GOMEZ 253",
+    "section": "",
+    "text": "Acondicionamiento inst electrica incendio, carpinteria arreglo de revoque y piso patio + adecuacion casa casero para re ubicación aula adecuacion pintura interior pasillos (dgmesc pintaria aulas ) y areas significantes + patio y fachada\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200818.html",
+    "href": "pages/0200818.html",
+    "title": "SANTO TOME 4529",
+    "section": "",
+    "text": "NA\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0202388.html",
+    "href": "pages/0202388.html",
+    "title": "AVDA. RIESTRA 3300",
+    "section": "",
+    "text": "Instalacion electrica\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200839.html",
+    "href": "pages/0200839.html",
+    "title": "MORON 4149",
+    "section": "",
+    "text": "2do año\n\nFinalizado - SDF"
+  },
+  {
+    "objectID": "pages/0200519.html",
+    "href": "pages/0200519.html",
+    "title": "RAMSAY 2250",
+    "section": "",
+    "text": "Etapa 2022-23 adecuación de cubierta, instalación eléctrica\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200962.html",
+    "href": "pages/0200962.html",
+    "title": "AQUINO 6040",
+    "section": "",
+    "text": "Instalacion electrica, mejorar patio, sanitarios, y accesibilidad basica. Ampliacion de aulas region v (4 / 5 aulas), ver posibilidad de cambio de sistema de calefaccion\n\nEn Proyecto - Mejora Edilicia\n\n2do año\n\nFinalizado - SDF"
+  },
+  {
+    "objectID": "pages/0200607.html",
+    "href": "pages/0200607.html",
+    "title": "PJE. LA PORTEÑA 54",
+    "section": "",
+    "text": "Obra nueva, ampliación de la porteña 54 ( 9 aulas)\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200420.html",
+    "href": "pages/0200420.html",
+    "title": "QUITO 4045",
+    "section": "",
+    "text": "Mejoramiento edilicio e instalación eléctrica\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200010.html",
+    "href": "pages/0200010.html",
+    "title": "LAVALLE 2366",
+    "section": "",
+    "text": "Impermeabilización en el patio descubierto y el local sanitario de 1° piso y el reemplazo de los desagües Cloacales en el sector; el mejoramiento sanitarios de alumnos/as presentes; ejecución de rampas que salven diversos desniveles existentes en la planta baja; pintura y revoques en diversos locales interiores (espacios áulicos y circulaciones) Mejoramiento integral de los patios descubiertos del edificio. Instalación eléctrica de baja tensión y de muy baja tensión.\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200498.html",
+    "href": "pages/0200498.html",
+    "title": "JUANA AZURDUY 2541",
+    "section": "",
+    "text": "Acond de sanitarios, prov de agua , carpinteria y pintura en areas sgnificativas\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200906.html",
+    "href": "pages/0200906.html",
+    "title": "AVDA. LARRAZABAL 420",
+    "section": "",
+    "text": "Reparación en cubiertas, impermeabilización.\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200643.html",
+    "href": "pages/0200643.html",
+    "title": "PIO COLLIVADINO 436",
+    "section": "",
+    "text": "Adecuación de sanitarios e incorporación del sanitario para personas con movilidad reducida. Restauración, conservación y tratamiento de prevención de las fachadas del edificio Reparación / recomposición de los revoques en paramentos interiores afectados por humedad de cimientos, cielorrasos armados de yeso y solados. Restauración de carpinterías y herrerías (puertas, ventanas, postigos, celosías y rejas de protección). Pintura general de paramentos interiores y cielorrasos de todos los locales del establecimiento Adecuación de instalación eléctrica a normativas vigentes, ejecución de instalación sanitaria nueva para los núcleos sanitarios, instalación pluvial. Reinstalación de cañerías de gas exteriores en el interior del edificio.\n\nLicitación - Mejora Edilicia\n\nReparacion de medianera\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200575.html",
+    "href": "pages/0200575.html",
+    "title": "PUMACAHUA 390",
+    "section": "",
+    "text": "2do año\n\nLicitación - SDF"
+  },
+  {
+    "objectID": "pages/0200396.html",
+    "href": "pages/0200396.html",
+    "title": "YERBAL 25",
+    "section": "",
+    "text": "Puesta en funcionamiento de la plieta y accesibilidad\n\nEn Proyecto - CORP SUR"
+  },
+  {
+    "objectID": "pages/0200563.html",
+    "href": "pages/0200563.html",
+    "title": "AVDA. CARABOBO 253",
+    "section": "",
+    "text": "Acondicionamiento de sanitarios pb y 1er. Pintura. Provision de piletones de acero inx. Acondicionamiento de solado en expansion descubierta del 2do piso. Creacion de sanitario para disca en pb. Rearmado de locales con tabiqueria en area de pb. Colocacion de montaescalera en acceso (pb).\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200002.html",
+    "href": "pages/0200002.html",
+    "title": "AVDA. PTE. MANUEL QUINTANA 31",
+    "section": "",
+    "text": "Acondicionamiento de fachadas/ adecuacion de supervision de1\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200798.html",
+    "href": "pages/0200798.html",
+    "title": "AVDA. FRANCISCO BEIRO 4418",
+    "section": "",
+    "text": "Cielorrasos, instalación iluminacion (taller de cerámica), puesta en valor y refuncionalizacion de la ex vivienda del casero y depositos en pb, carpinterías, instal elect, pintura\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200740.html",
+    "href": "pages/0200740.html",
+    "title": "FERNANDEZ DE ENCISO 4451",
+    "section": "",
+    "text": "NA\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200902.html",
+    "href": "pages/0200902.html",
+    "title": "TANDIL 6690",
+    "section": "",
+    "text": "Accesibilidad, ascensor.\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200950.html",
+    "href": "pages/0200950.html",
+    "title": "AVDA. LARRAZABAL 4520",
+    "section": "",
+    "text": "Instalación eléctrica completa, filtraciones, cambio de parasoles, pintura general\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200502.html",
+    "href": "pages/0200502.html",
+    "title": "MENDOZA 1000",
+    "section": "",
+    "text": "Accesibilidad plena. Acondicionamiento / recambio de carpinterías y herrajes. Subsanación de grietas en muros. Revestimiento de toda la fachada (se retiró parte del revestimiento de ladrillo original por desprendimiento) / contrapiso a nuevo del patio del comedor / detector de intrusos (alarma / amparo\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200380.html",
+    "href": "pages/0200380.html",
+    "title": "AVDA. RIVADAVIA 5161",
+    "section": "",
+    "text": "2do año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200259.html",
+    "href": "pages/0200259.html",
+    "title": "ARCAMENDIA 743",
+    "section": "",
+    "text": "Instalacion electrica completa, impermeabilizacion, restauracion de un sector de fachada\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200079.html",
+    "href": "pages/0200079.html",
+    "title": "DR. TOMAS MANUEL DE ANCHORENA 441",
+    "section": "",
+    "text": "Adecuacion inst y pintura\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200529.html",
+    "href": "pages/0200529.html",
+    "title": "NUÑEZ 3620",
+    "section": "",
+    "text": "Restauracion de fachadas, humedades de cimientos, instalacion electrica completa\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200641.html",
+    "href": "pages/0200641.html",
+    "title": "ACASSUSO 5860",
+    "section": "",
+    "text": "Sede: sanitarios a nuevos, impermeabilizaciones, pintura (20mm), reparaciones varias, adecuacion de carpinterias, ie completa y cambio e canaletas y sesagues pluviales. anexo: solado de los balcones, bicicletero, cortinas roller, adecuacion en sala de musica, pintura y arreglo de fachada, reparacion de carpinterias, patio: demarcacion de canchas, pintura y cerco de alambre. refuncionalizacion de sala de tanque. ie completa.\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200684.html",
+    "href": "pages/0200684.html",
+    "title": "TEODORO GARCIA 3871",
+    "section": "",
+    "text": "Instalacion electrica completa, instalacion contra incendios\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200443.html",
+    "href": "pages/0200443.html",
+    "title": "AVDA. RAUL SCALABRINI ORTIZ 1336",
+    "section": "",
+    "text": "Sanitario e impermeabilizacion\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200026.html",
+    "href": "pages/0200026.html",
+    "title": "ESMERALDA 285",
+    "section": "",
+    "text": "Restauracion de fachadas, refacciones generales de cielorrasos, pisos, sala De cooperadora y sala docente , inst eléctrica, sanitarios\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200444.html",
+    "href": "pages/0200444.html",
+    "title": "AVDA. DEL LIBERTADOR 4777",
+    "section": "",
+    "text": "Electrica e incendio / amparo\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200257.html",
+    "href": "pages/0200257.html",
+    "title": "SANTA MAGDALENA 431",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200425.html",
+    "href": "pages/0200425.html",
+    "title": "AVDA. JOSE MARIA MORENO 345",
+    "section": "",
+    "text": "Accesibilidad, ascensor. (amparo)\n\nFinalizado - Mejora Edilicia\n\n3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200311.html",
+    "href": "pages/0200311.html",
+    "title": "AVDA. JUAN DE GARAY 3972",
+    "section": "",
+    "text": "Pintura y acondicionamiento de patio\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200007.html",
+    "href": "pages/0200007.html",
+    "title": "LIBERTAD 581",
+    "section": "",
+    "text": "Freno de deterioro (escuela patrimoniada): restauración de las fachadas interiores (patios). Reparación de los revoques en paramentos interiores (circulaciones) afectados por humedad De cimientos. Reparación de cielorrasos dañados por humedad. Restauracion de zócalos perimetral de marmol, solados, escaleras principales, carpinterias y herrerias. Reacondicionamiento de aulas de jardín de infante. Colocacion de una rampa para dar accesibilidad. Adecuación de la instalación eléctrica de baja tensión y muy baja tensión, en planta baja y en Primer piso\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200136.html",
+    "href": "pages/0200136.html",
+    "title": "AVDA. SAN JUAN 2277",
+    "section": "",
+    "text": "Proyecto de accesibilidad y pintura general. Agregar impermeabilización. Expediente: construccion de galeria en patio para paso (jardin)\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200670.html",
+    "href": "pages/0200670.html",
+    "title": "GRAL. ENRIQUE MARTINEZ 1432",
+    "section": "",
+    "text": "Plan obras covid comedor\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200009.html",
+    "href": "pages/0200009.html",
+    "title": "TTE. GRAL. JUAN DOMINGO PERON 1140",
+    "section": "",
+    "text": "Adecuacion de cubierta , sanitario ,electricidad , cielorraso , carpinteria arreglo de revoques en aulas y patio adecuacion pintura interior de areas significantes y patio\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200003.html",
+    "href": "pages/0200003.html",
+    "title": "AVDA. SANTA FE 1510",
+    "section": "",
+    "text": "Patios, freno de deterioro en las fachadas.\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200405.html",
+    "href": "pages/0200405.html",
+    "title": "AVDA. ASAMBLEA 1221",
+    "section": "",
+    "text": "Acondicionamiento de patio\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200025.html",
+    "href": "pages/0200025.html",
+    "title": "LAVALLE 1681",
+    "section": "",
+    "text": "Mejora edilicia, instalacion electrica completa\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200442.html",
+    "href": "pages/0200442.html",
+    "title": "ZAPATA 449",
+    "section": "",
+    "text": "Impermeabilizacion, instalación pluvial y pintura\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200016.html",
+    "href": "pages/0200016.html",
+    "title": "AYACUCHO 1849",
+    "section": "",
+    "text": "Instalacion electrica\n\nLicitación - Mejora Edilicia\n\nNA\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200146.html",
+    "href": "pages/0200146.html",
+    "title": "MEXICO 1627",
+    "section": "",
+    "text": "Sanitarios. (Fondos covid)\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200179.html",
+    "href": "pages/0200179.html",
+    "title": "GRAL. GREGORIO ARAOZ DE LAMADRID 499",
+    "section": "",
+    "text": "Historica. Fachada, patio, instalacion electrica,carpinterias,sanitarios y pintura\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200382.html",
+    "href": "pages/0200382.html",
+    "title": "AVDA. GAONA 1502",
+    "section": "",
+    "text": "2do año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200369.html",
+    "href": "pages/0200369.html",
+    "title": "LUIS VIALE 1046",
+    "section": "",
+    "text": "Patio, demolicion de casa del casero en patio, pluviales del patio, accesibilidad basica, baños\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200197.html",
+    "href": "pages/0200197.html",
+    "title": "WENCESLAO VILLAFAÑE 1342",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200601.html",
+    "href": "pages/0200601.html",
+    "title": "MORON 3745",
+    "section": "",
+    "text": "NA\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200946.html",
+    "href": "pages/0200946.html",
+    "title": "CAFAYATE 5115",
+    "section": "",
+    "text": "Sanitarios. (Fondos covid)\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200006.html",
+    "href": "pages/0200006.html",
+    "title": "BASAVILBASO 1295",
+    "section": "",
+    "text": "Reparacion de cubiertas (inicial y primaria), acc basica (montasilla y baño de disca), pintura general - instalacion electrica de la inicial - sector de sombras inicial y primaria - solado de patio de la primaria e inicial - recambio de carpinterias y colocacion de rejas - evaluacion de instalacion sanitaria + ee: remediacion de rejas\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200497.html",
+    "href": "pages/0200497.html",
+    "title": "MOLDES 1854",
+    "section": "",
+    "text": "Sanitarios y patios / ie completa\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0201863.html",
+    "href": "pages/0201863.html",
+    "title": "AYACUCHO 632",
+    "section": "",
+    "text": "Adecuacion y puesto funcionamiento elevadores\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200299.html",
+    "href": "pages/0200299.html",
+    "title": "SAAVEDRA 695",
+    "section": "",
+    "text": "Mejora edilicia en varios sectores\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200711.html",
+    "href": "pages/0200711.html",
+    "title": "VALDENEGRO 3525",
+    "section": "",
+    "text": "Obra rescindida: trabajos de ampliación edilicia, medios de salida y pintura integral de fachadas\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200629.html",
+    "href": "pages/0200629.html",
+    "title": "OLIDEN 2851",
+    "section": "",
+    "text": "Etapa 2022-23 adecuación instalación eléctrica e incendio, accesibilidad básica con pintura en áreas significativas\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200501.html",
+    "href": "pages/0200501.html",
+    "title": "AVDA. CABILDO 3615",
+    "section": "",
+    "text": "Sanitarios, impermeablizacion y pintura / ie completa\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0202188.html",
+    "href": "pages/0202188.html",
+    "title": "AVDA. CRISOLOGO LARRALDE 5085",
+    "section": "",
+    "text": "Terminación vestuarios, pileta, sanitarios, estacionamiento, parquizado\n\nEn Obra - Mejora Edilicia\n\n3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200196.html",
+    "href": "pages/0200196.html",
+    "title": "AVDA. DON PEDRO DE MENDOZA 1777",
+    "section": "",
+    "text": "Reparacion de aleros, cubiertas.\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200318.html",
+    "href": "pages/0200318.html",
+    "title": "AVDA. JUJUY 150",
+    "section": "",
+    "text": "2do año\n\nFinalizado - SDF"
+  },
+  {
+    "objectID": "pages/0200642.html",
+    "href": "pages/0200642.html",
+    "title": "MURGUIONDO 1568",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200441.html",
+    "href": "pages/0200441.html",
+    "title": "AGUIRRE 752",
+    "section": "",
+    "text": "Instalacion electrica\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0202179.html",
+    "href": "pages/0202179.html",
+    "title": "LOS PATOS 3004",
+    "section": "",
+    "text": "Puerta, ampliación aulas\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200821.html",
+    "href": "pages/0200821.html",
+    "title": "CUZCO 116",
+    "section": "",
+    "text": "Cambio de cubiertas. Reacondicionamiento sanitario. Reparaciones varias. Pintura. Instalacion electrica completa\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200863.html",
+    "href": "pages/0200863.html",
+    "title": "MARTINEZ CASTRO 3061",
+    "section": "",
+    "text": "3er año\n\nLicitación - SDF"
+  },
+  {
+    "objectID": "pages/0200255.html",
+    "href": "pages/0200255.html",
+    "title": "JOSE A. CORTEJARENA 3350",
+    "section": "",
+    "text": "Sanitarios. (Fondos covid)\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200794.html",
+    "href": "pages/0200794.html",
+    "title": "MERCEDES 4002",
+    "section": "",
+    "text": ", Adecuacion de cubierta, pluviales, carpinteria. Arreglo de revoques en aulas y patio. Adecuacion pintura interior de areas significantes y patio. Agregar sdf\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0202569.html",
+    "href": "pages/0202569.html",
+    "title": "PERU 1357",
+    "section": "",
+    "text": "Instalacion electrica, ampliacion, mejora edilicia\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200777.html",
+    "href": "pages/0200777.html",
+    "title": "HELGUERA 2435",
+    "section": "",
+    "text": "Acondicionamiento de cubierta , cocina , inst electrica + gas e incendio , arreglo patio y muros con sus revoques adecuacion pintura interior de areas significantes y patio\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200832.html",
+    "href": "pages/0200832.html",
+    "title": "ALEJANDRO MAGARIÑOS CERVANTES 5068",
+    "section": "",
+    "text": "2do año\n\nLicitación - SDF\n\nInstalacion electrica completa, sanitarios\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200527.html",
+    "href": "pages/0200527.html",
+    "title": "AVDA. CRAMER 2136",
+    "section": "",
+    "text": "2do año\n\nLicitación - SDF"
+  },
+  {
+    "objectID": "pages/0200949.html",
+    "href": "pages/0200949.html",
+    "title": "AVDA. RIESTRA 5030",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200865.html",
+    "href": "pages/0200865.html",
+    "title": "MOM 2380",
+    "section": "",
+    "text": "Instalacion electrica completa, aa en patio central\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200886.html",
+    "href": "pages/0200886.html",
+    "title": "AVDA. SAENZ 631",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0202635.html",
+    "href": "pages/0202635.html",
+    "title": "REPÚBLICA BOLIVARIANA DE VENEZUELA 3269",
+    "section": "",
+    "text": "Instalacion electirca impermeabilizacion\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200178.html",
+    "href": "pages/0200178.html",
+    "title": "AVDA. DON PEDRO DE MENDOZA 1835",
+    "section": "",
+    "text": "Acondicionamiento de cubierta, instalacion sanitario, electrica e incendio. Arreglo de revoques menores en aulas. Adecuacion pintura interior de areas significantes y patio.\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0202391.html",
+    "href": "pages/0202391.html",
+    "title": "DR. ANTONIO BERMEJO 6675",
+    "section": "",
+    "text": "Adaptacion de modulares en un cfp / acceso independiente / cambiar sanitarios / instalaciones/ aula\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200312.html",
+    "href": "pages/0200312.html",
+    "title": "RONDEAU 2751",
+    "section": "",
+    "text": "Freno de deterioro en fachadas exteriores e interiores\n\nLicitación - Mejora Edilicia\n\nRestauracion de cielorrasos de sector pileta\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200568.html",
+    "href": "pages/0200568.html",
+    "title": "AVELINO DIAZ 2356",
+    "section": "",
+    "text": "Adecuar patios, carps, impermeabilización y reparación de muros afectados, electrica completa, incendio, accesibilidad basica, pintura\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200508.html",
+    "href": "pages/0200508.html",
+    "title": "ROQUE PEREZ 3545",
+    "section": "",
+    "text": "Amparo - accesibilidad plena y pintura parcial + ie ajustar\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200100.html",
+    "href": "pages/0200100.html",
+    "title": "JERONIMO SALGUERO 920",
+    "section": "",
+    "text": "Mejora edilicia, sanitarios, talleres.\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200029.html",
+    "href": "pages/0200029.html",
+    "title": "AVDA. CORDOBA 1951",
+    "section": "",
+    "text": "Impermeabilizacion\n\nEn Obra - Mejora Edilicia\n\n2do año\n\nLicitación - SDF"
+  },
+  {
+    "objectID": "pages/0200918.html",
+    "href": "pages/0200918.html",
+    "title": "GOLETA SANTA CRUZ 6997",
+    "section": "",
+    "text": "Carpinterías, cubierta y pintura en areas significativas\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200088.html",
+    "href": "pages/0200088.html",
+    "title": "AVDA. ANGEL GALLARDO 246",
+    "section": "",
+    "text": "Restauracion patrimonial,impermeabilizacion, cielorrasos, acondicionamiento instalaciones y pintura patios\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200666.html",
+    "href": "pages/0200666.html",
+    "title": "ALMTE. FRANCISCO J. SEGUI 2580",
+    "section": "",
+    "text": "Biblioteca, sala maestros, filtraciones\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200320.html",
+    "href": "pages/0200320.html",
+    "title": "AVDA. JUJUY 780",
+    "section": "",
+    "text": "Cambio de chapas y pintura\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200516.html",
+    "href": "pages/0200516.html",
+    "title": "FRANKLIN DELANO ROOSEVELT 1510",
+    "section": "",
+    "text": "Accesibilidad plena (ascensor en patio de planta baja), reutilizacion pb para conformar un aula y acondicionar baño de discapacitado (no funciona griferia y falta timbre) / amparo\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200200.html",
+    "href": "pages/0200200.html",
+    "title": "AVDA. PASEO COLON 255",
+    "section": "",
+    "text": "Conformación de la biblioteca de la universidad de la ciudad\n\nFinalizado - Mejora Edilicia\n\nConformacion de 4 aulas y apoyo administrativo\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200957.html",
+    "href": "pages/0200957.html",
+    "title": "CAFAYATE 5388",
+    "section": "",
+    "text": "Cambio de carpintenrias (fondos covid)\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200647.html",
+    "href": "pages/0200647.html",
+    "title": "AVDA. TTE. GRAL. DELLEPIANE Y AVDA. ESCALADA",
+    "section": "",
+    "text": "3er año\n\nLicitación - SDF"
+  },
+  {
+    "objectID": "pages/0200589.html",
+    "href": "pages/0200589.html",
+    "title": "CARACAS 2057",
+    "section": "",
+    "text": "NA\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200708.html",
+    "href": "pages/0200708.html",
+    "title": "ECHEVERRIA 5034",
+    "section": "",
+    "text": "Demoliciones varias, reparaciones y provisión de nuevas carpinterías (herreria), accesibilidad basica, sanitario adaptado, patio, pintura gral.\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200098.html",
+    "href": "pages/0200098.html",
+    "title": "ECUADOR 1158",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200097.html",
+    "href": "pages/0200097.html",
+    "title": "AVDA. RIVADAVIA 3577",
+    "section": "",
+    "text": "Reparación de estructura y vitreaux en el salón de actos del 1º piso (ver electrica de las areas a intervenir)\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200319.html",
+    "href": "pages/0200319.html",
+    "title": "COCHABAMBA 2830",
+    "section": "",
+    "text": "2do año\n\nFinalizado - SDF"
+  },
+  {
+    "objectID": "pages/0202662.html",
+    "href": "pages/0202662.html",
+    "title": "AVDA. JUAN BAUTISTA ALBERDI 4139",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF\n\nTrabajos en medianeras, subsuelo por filtraciones\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200001.html",
+    "href": "pages/0200001.html",
+    "title": "AYACUCHO 1680",
+    "section": "",
+    "text": "Facahadas y carpinterias / aula de gines\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200244.html",
+    "href": "pages/0200244.html",
+    "title": "LYNCH 3536",
+    "section": "",
+    "text": "Sanitarios. (Fondos covid)\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200030.html",
+    "href": "pages/0200030.html",
+    "title": "AVDA. CALLAO 450",
+    "section": "",
+    "text": "2do año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200790.html",
+    "href": "pages/0200790.html",
+    "title": "NAVARRO 4344",
+    "section": "",
+    "text": "Sanitarios, electricidad, accesibilidad y preceptoria\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200916.html",
+    "href": "pages/0200916.html",
+    "title": "COSQUIN 3100",
+    "section": "",
+    "text": "Ampliación de nucleos sanitarios / ampliacion del comedor / instalacion electrica del jardin\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200829.html",
+    "href": "pages/0200829.html",
+    "title": "AVDA. ALVAREZ JONTE 5075",
+    "section": "",
+    "text": "Instalacion electrica completa\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200261.html",
+    "href": "pages/0200261.html",
+    "title": "AVDA. GRAL. IRIARTE 3880",
+    "section": "",
+    "text": "Traslado de aulas modulares + adecuación y tendido elect\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200715.html",
+    "href": "pages/0200715.html",
+    "title": "AVDA. TRIUNVIRATO 4247",
+    "section": "",
+    "text": "Reparacion de cubierta (fondos covid)\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200139.html",
+    "href": "pages/0200139.html",
+    "title": "AVDA. ENTRE RIOS 757",
+    "section": "",
+    "text": "Instalacion electrica completa, impermeabilizacion, mejoras varias en el edificio\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200322.html",
+    "href": "pages/0200322.html",
+    "title": "AVDA. JUJUY 255",
+    "section": "",
+    "text": "Sanitarios. (Fondos inet)\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200354.html",
+    "href": "pages/0200354.html",
+    "title": "CAMARGO 725",
+    "section": "",
+    "text": "Acondicionamiento de acc basica cubierta (nueva toda la cubierta del gym),inst electricidad, incendio, cambio calera, prov agua arreglo menores de revoquers patio. pintura genereal. provicion de moviliariio para guardado\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200729.html",
+    "href": "pages/0200729.html",
+    "title": "QUESADA 4357",
+    "section": "",
+    "text": "Acondicionamiento de pisos y cielorraso. Revision de instalacion electrica. Provisión de agua. Arreglo de revoque en fachada internas. Adecuacion de sanitarios. pintura completa. Humedad de cimiento sobre medianera. Intervencion casa del casero.\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200510.html",
+    "href": "pages/0200510.html",
+    "title": "AVDA. CONGRESO 3045",
+    "section": "",
+    "text": "Instalacion electrica completa\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200300.html",
+    "href": "pages/0200300.html",
+    "title": "24 DE NOVIEMBRE 1536",
+    "section": "",
+    "text": "Accesibilidad, ascensor, instalacion electrica completa\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200099.html",
+    "href": "pages/0200099.html",
+    "title": "VALENTIN GOMEZ 3163",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0202678.html",
+    "href": "pages/0202678.html",
+    "title": "LETONIA 1928",
+    "section": "",
+    "text": "Obra en escuela temporaria de la media, se desafecta el edificio y paso a justicia\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200496.html",
+    "href": "pages/0200496.html",
+    "title": "CUBA 2039",
+    "section": "",
+    "text": "Sanitarios, cubierta, carpinterias y pintura\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200788.html",
+    "href": "pages/0200788.html",
+    "title": "AVDA. SALVADOR MARIA DEL CARRIL 3650",
+    "section": "",
+    "text": "Restauración y puesta en valor de Fachadas externas e internas (patio) - Restauración de revoques en general, Cielorrasos, solados, cambio de cubierta De tejas coloniales, reacondicionamiento De locales en 1º piso, instalaciones Eléctricas , sanitarias y termomecánicas\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200683.html",
+    "href": "pages/0200683.html",
+    "title": "AVDA. DEL CAMPO 1340",
+    "section": "",
+    "text": "2do año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200193.html",
+    "href": "pages/0200193.html",
+    "title": "BENITO QUINQUELA MARTIN 1649",
+    "section": "",
+    "text": "2do año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200707.html",
+    "href": "pages/0200707.html",
+    "title": "JURAMENTO 4849",
+    "section": "",
+    "text": "Impermeabilización e inst electrica completa\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200797.html",
+    "href": "pages/0200797.html",
+    "title": "PEDRO LOZANO 3056",
+    "section": "",
+    "text": "Impermeabilizacion parcial y pintura de cielorrasos. Albañileria. Reparacion de escaleras. Humedad de cimientos.\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200755.html",
+    "href": "pages/0200755.html",
+    "title": "VALLEJOS 2555",
+    "section": "",
+    "text": "Etapa i2020 adecuacion espacios aulicos y ampliacion comedor pintura, accesibilidad\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200572.html",
+    "href": "pages/0200572.html",
+    "title": "AVDA. JUAN BAUTISTA ALBERDI 1845",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200447.html",
+    "href": "pages/0200447.html",
+    "title": "ARCE 611",
+    "section": "",
+    "text": "Re ajuste aulas y ampliacion sala de 3. Casa casero?\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200718.html",
+    "href": "pages/0200718.html",
+    "title": "ROGELIO YRURTIA 5806",
+    "section": "",
+    "text": "Completo o por etapas de obra / acondicionamiento de aulas, sanitarios y pintura general\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200659.html",
+    "href": "pages/0200659.html",
+    "title": "GIRARDOT 1946",
+    "section": "",
+    "text": "Instalacion electrica completa\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200964.html",
+    "href": "pages/0200964.html",
+    "title": "SOLDADO DE LA FRONTERA 5155",
+    "section": "",
+    "text": "3er año\n\nLicitación - SDF"
+  },
+  {
+    "objectID": "pages/0200635.html",
+    "href": "pages/0200635.html",
+    "title": "SAN PEDRO 4457",
+    "section": "",
+    "text": "NA\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200385.html",
+    "href": "pages/0200385.html",
+    "title": "PADILLA 1051",
+    "section": "",
+    "text": "2do año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200298.html",
+    "href": "pages/0200298.html",
+    "title": "CATAMARCA 462",
+    "section": "",
+    "text": "Pintura general y arreglos de algunos sectores de revoque.\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200195.html",
+    "href": "pages/0200195.html",
+    "title": "AVDA. PASEO COLON 650",
+    "section": "",
+    "text": "Instalacion electrica completa sector talleres\n\nEn Obra - Mejora Edilicia\n\n2do año\n\nLicitación - SDF"
+  },
+  {
+    "objectID": "pages/0200381.html",
+    "href": "pages/0200381.html",
+    "title": "GRAL. MARTIN DE GAINZA 1050",
+    "section": "",
+    "text": "NA\n\nEn Obra - Mejora Edilicia\n\nImperbeabilizacion de un sector de azotea\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200795.html",
+    "href": "pages/0200795.html",
+    "title": "MANUEL PORCEL DE PERALTA 1437",
+    "section": "",
+    "text": "3er año\n\nFinalizado - SDF"
+  },
+  {
+    "objectID": "pages/0200085.html",
+    "href": "pages/0200085.html",
+    "title": "JOSE ANTONIO CABRERA 3430",
+    "section": "",
+    "text": "Reparaciones varias. Mejoras en núcleos sanitarios. Ejecución cuña desmontable. Tratamiento de humedad de cimientos. Trabajos sanitarios. Instalación eléctrica\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200427.html",
+    "href": "pages/0200427.html",
+    "title": "AVDA. RIVADAVIA 4950",
+    "section": "",
+    "text": "Creacion de un comedor\n\nLicitación - Mejora Edilicia\n\nInstalacion electrica completa, impermeabilizacion, restauracion de un sector de fachada\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200720.html",
+    "href": "pages/0200720.html",
+    "title": "JOSE PASCUAL TAMBORINI 3948",
+    "section": "",
+    "text": "Sanitarios, revoques, patios y pintura.\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200871.html",
+    "href": "pages/0200871.html",
+    "title": "AGUSTIN DE VEDIA 2519",
+    "section": "",
+    "text": "3er año\n\nLicitación - SDF"
+  },
+  {
+    "objectID": "pages/0200963.html",
+    "href": "pages/0200963.html",
+    "title": "CNEL. MARTINIANO CHILAVERT 5460",
+    "section": "",
+    "text": "2do año\n\nEn Obra - SDF"
+  },
+  {
+    "objectID": "pages/0200251.html",
+    "href": "pages/0200251.html",
+    "title": "AVDA. CASEROS 1555",
+    "section": "",
+    "text": "Impermeabilización de techos\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200138.html",
+    "href": "pages/0200138.html",
+    "title": "CHACABUCO 922",
+    "section": "",
+    "text": "Refacción sanitarios y restauración de cubierta\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200458.html",
+    "href": "pages/0200458.html",
+    "title": "HUMBOLDT 742",
+    "section": "",
+    "text": "Instalacion electrica completa\n\nPlanificado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200505.html",
+    "href": "pages/0200505.html",
+    "title": "AVDA. INTENDENTE CANTILO Y LA PAMPA",
+    "section": "",
+    "text": "Obra nueva primaria -ajustes por cambio de terreno-\n\nEn Obra - OBRA NUEVA"
+  },
+  {
+    "objectID": "pages/0200362.html",
+    "href": "pages/0200362.html",
+    "title": "FRANKLIN 1836",
+    "section": "",
+    "text": "Sanitarios. (Fondos covid)\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200665.html",
+    "href": "pages/0200665.html",
+    "title": "FITZ ROY 171",
+    "section": "",
+    "text": "Accesibilidad basica, cubierta, pintura hall y patio. Instalacion electrica completa\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200528.html",
+    "href": "pages/0200528.html",
+    "title": "AVDA. DEL LIBERTADOR 8635",
+    "section": "",
+    "text": "Sanitarios. (Fondos covid)\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200137.html",
+    "href": "pages/0200137.html",
+    "title": "AVDA. SAN JUAN 1545",
+    "section": "",
+    "text": "NA\n\nPlanificado - Mejora Edilicia\n\nImpermeabilizacion de todas las terrazas y cubiertas. tratamiento de patologias estructurales, hierros expuestos. Tratamiento de humedad de cimientos. Optimizacion en instalaciones pluvial.\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0202395.html",
+    "href": "pages/0202395.html",
+    "title": "SIMBRON 5821",
+    "section": "",
+    "text": "Impermeabilizacion\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200445.html",
+    "href": "pages/0200445.html",
+    "title": "AVDA. SANTA FE 5039",
+    "section": "",
+    "text": "Instalación eléctrica\n\nEn Obra - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200644.html",
+    "href": "pages/0200644.html",
+    "title": "LACARRA 535",
+    "section": "",
+    "text": "Cielorrasos, ie del sector\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200801.html",
+    "href": "pages/0200801.html",
+    "title": "BAHIA BLANCA 4025",
+    "section": "",
+    "text": "Refuncionalizacion edilicia: casa del casero en oficinas de la supervision. Accesibilidad basica, instalacion electrica completa, sanitaria y termomecanica.\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0202584.html",
+    "href": "pages/0202584.html",
+    "title": "ZUVIRIA 6550",
+    "section": "",
+    "text": "3er año\n\nEn Obra - SDF\n\nTanque de bombeo, bombas (fondos covid)\n\nFinalizado - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200304.html",
+    "href": "pages/0200304.html",
+    "title": "GRAL. URQUIZA 227",
+    "section": "",
+    "text": "Casa de casero\n\nLicitación - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200965.html",
+    "href": "pages/0200965.html",
+    "title": "AVDA. LARRAZABAL 5130",
+    "section": "",
+    "text": "2do año\n\nFinalizado - SDF"
+  },
+  {
+    "objectID": "pages/0200953.html",
+    "href": "pages/0200953.html",
+    "title": "BERON DE ASTRADA 5920",
+    "section": "",
+    "text": "Adecuacion accesibilidad y electrica, incendio, pintura interior + ver cd patio\n\nEn Proyecto - Mejora Edilicia"
+  },
+  {
+    "objectID": "pages/0200571.html",
+    "href": "pages/0200571.html",
+    "title": "CNEL. RAMON L. FALCON 2248",
+    "section": "",
+    "text": "2do año\n\nLicitación - SDF"
+  },
+  {
+    "objectID": "pages/0200470.html",
+    "href": "pages/0200470.html",
+    "title": "MALABIA 2148",
+    "section": "",
+    "text": "2do año\n\nFinalizado - SDF"
   }
 ]

@@ -3,4 +3,11 @@ title: 'GRAL. URQUIZA 227'
 subtitle: 'EPC N° 13 BRIG. GRAL. JOSE M. ZAPIOLA - JIN B (EPCJC 13/06°) MAESTRO F. REYES - EPA N° 13 BRIG.GRAL. JOSE MATIAS ZAPIOLA'
 ---
 
+#
+## Infraestructura
+
+* Casa de casero 
+    + Licitación - Mejora Edilicia 
+
+
 

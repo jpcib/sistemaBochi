@@ -3,4 +3,14 @@ title: 'AVDA. PASEO COLON 255'
 subtitle: 'ESC. TEC. N° 15 MAIPU - UNIVERSIDAD DE LA CIUDAD'
 ---
 
+#
+## Infraestructura
+
+* Conformación de la biblioteca de la universidad de la ciudad 
+    + Finalizado - Mejora Edilicia 
+
+* Conformacion de 4 aulas y apoyo administrativo 
+    + Finalizado - Mejora Edilicia 
+
+
 

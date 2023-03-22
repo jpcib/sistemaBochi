@@ -3,4 +3,11 @@ title: 'YERBAL 25'
 subtitle: 'EEM N° 01/07 JULIETA LANTERI'
 ---
 
+#
+## Infraestructura
+
+* Puesta en funcionamiento de la plieta y accesibilidad 
+    + En Proyecto - CORP SUR 
+
+
 

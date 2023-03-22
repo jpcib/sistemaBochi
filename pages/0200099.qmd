@@ -3,4 +3,11 @@ title: 'VALENTIN GOMEZ 3163'
 subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI LUCIERNAGAS'
 ---
 
+#
+## Infraestructura
+
+* 3er año 
+    + En Obra - SDF 
+
+
 

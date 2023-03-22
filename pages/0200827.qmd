@@ -3,4 +3,11 @@ title: 'GALLARDO 149'
 subtitle: 'COLEGIO N° 13 CNEL. TOMAS ESPORA - EEM N° 01/18° E REINGRESO - PI LUZ DE LUNA'
 ---
 
+#
+## Infraestructura
+
+* 2do año 
+    + Finalizado - SDF 
+
+
 

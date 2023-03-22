@@ -3,4 +3,11 @@ title: 'LACARRA 535'
 subtitle: 'Sup Media Tecnica Region V Oeste - ESC. TEC.  N° 17 BRIG. GRAL. CORNELIO SAAVEDRA - CAIYJ LACARRA'
 ---
 
+#
+## Infraestructura
+
+* Cielorrasos, ie del sector 
+    + En Proyecto - Mejora Edilicia 
+
+
 

@@ -3,4 +3,11 @@ title: 'QUITO 4045'
 subtitle: 'BOA N° 01 ANTONIO BERNI - COLEGIO N° 10 JOSE DE SAN MARTIN'
 ---
 
+#
+## Infraestructura
+
+* Mejoramiento edilicio e instalación eléctrica 
+    + En Obra - Mejora Edilicia 
+
+
 

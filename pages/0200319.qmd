@@ -3,4 +3,11 @@ title: 'COCHABAMBA 2830'
 subtitle: 'ESC. TEC. N° 11 MANUEL BELGRANO'
 ---
 
+#
+## Infraestructura
+
+* 2do año 
+    + Finalizado - SDF 
+
+
 

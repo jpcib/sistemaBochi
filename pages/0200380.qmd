@@ -3,4 +3,11 @@ title: 'AVDA. RIVADAVIA 5161'
 subtitle: 'ESC. DE COM. N° 23 DR. LUIS AGOTE - EC N° 29 MARINA MERCANTE ARGENTINA - COLEGIO N° 17 PRIMERA JUNTA - CAIYJ CLUB PRIMERA JUNTA'
 ---
 
+#
+## Infraestructura
+
+* 2do año 
+    + En Obra - SDF 
+
+
 

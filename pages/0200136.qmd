@@ -3,4 +3,11 @@ title: 'AVDA. SAN JUAN 2277'
 subtitle: 'CENS N° 59 - EPC N° 25 GERVASIO POSADAS - EPA N° 25 GERVASIO POSADAS - JIN A (EPCJC 25/03°) [S] - ESEA EN DANZA MASTRAZZI CURSO VOCACIONAL DE DANZA Y EXPRESIÓN CORPORAL INFANTIL N° 05'
 ---
 
+#
+## Infraestructura
+
+* Proyecto de accesibilidad y pintura general. Agregar impermeabilización. Expediente: construccion de galeria en patio para paso (jardin) 
+    + Planificado - Mejora Edilicia 
+
+
 

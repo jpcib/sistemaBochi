@@ -3,4 +3,11 @@ title: 'MOM 2380'
 subtitle: 'JIN B (EPCJS 11/19°) [S] HOMERO MANZI - EPC N° 22 JUANA AZURDUY'
 ---
 
+#
+## Infraestructura
+
+* Instalacion electrica completa, aa en patio central 
+    + Finalizado - Mejora Edilicia 
+
+
 

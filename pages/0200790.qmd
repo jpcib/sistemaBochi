@@ -3,4 +3,11 @@ title: 'NAVARRO 4344'
 subtitle: 'COLEGIO N° 19 LUIS PASTEUR'
 ---
 
+#
+## Infraestructura
+
+* Sanitarios, electricidad, accesibilidad y preceptoria 
+    + En Obra - Mejora Edilicia 
+
+
 
