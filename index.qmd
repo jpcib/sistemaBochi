@@ -1,8 +1,8 @@
 ---
-title: Bochi v 0.1
+title: Bochi v 0.2
 ---
 
-Aplicación de consulta escolar de la SSGEFYAR\n
+Aplicación de consulta escolar de la SSGEFYAR \n
 Busque por dirección del establecimiento o nombre de escuela para acceder a los detalles.
 
 ---
