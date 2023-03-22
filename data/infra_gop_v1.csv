@@ -1,0 +1,276 @@
+n_proyecto,cui,direccion,intervenciones,estado,subestado,eje
+x005,0200510,AVDA. CONGRESO 3045,Instalacion Electrica completa,PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x006,0200458,HUMBOLDT 742,Instalacion Electrica completa,PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x017,0200447,ARCE 611,Re ajuste aulas y ampliacion Sala de 3. Casa casero?,PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x021,0200707,JURAMENTO 4849,Impermeabilización e Inst electrica completa,PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x023,0200137,SAN JUAN 1545 - FRENADA,NA,PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x001,0200865,MOM 2358,"Instalacion Electrica completa, AA en Patio Central",FRACASADO,FRACASO / PASE F11,Mejora Edilicia
+x001,0200865,MOM 2358,"Instalacion Electrica completa, AA en Patio Central",FINALIZADO,FINALIZADO,Mejora Edilicia
+x002,0200659,GIRARDOT 1946,instalacion electrica completa,FRACASADO,FRACASO / PASE F11,Mejora Edilicia
+x002,0200659,GIRARDOT 1946,instalacion electrica completa,EN OBRA,EN OBRA,Mejora Edilicia
+x003,0200010,LAVALLE 2386 / 2366,"Impermeabilización en el Patio Descubierto y el local sanitario de 1° piso y el reemplazo de los desagües
+cloacales en el sector; el mejoramiento sanitarios de alumnos/as presentes; ejecución de rampas que salven diversos desniveles existentes en la Planta Baja;  pintura y revoques en diversos locales interiores (espacios áulicos y circulaciones)
+Mejoramiento integral de los Patios Descubiertos del edificio. Instalación eléctrica de Baja Tensión y de Muy Baja Tensión.",FRACASADO,FRACASO / PASE F11,Mejora Edilicia
+x003,0200010,LAVALLE 2386 / 2366,"Impermeabilización en el Patio Descubierto y el local sanitario de 1° piso y el reemplazo de los desagües
+cloacales en el sector; el mejoramiento sanitarios de alumnos/as presentes; ejecución de rampas que salven diversos desniveles existentes en la Planta Baja;  pintura y revoques en diversos locales interiores (espacios áulicos y circulaciones)
+Mejoramiento integral de los Patios Descubiertos del edificio. Instalación eléctrica de Baja Tensión y de Muy Baja Tensión.",EN OBRA,EN OBRA,Mejora Edilicia
+x004,0200684,TEODORO GARCIA 3871,"Instalacion Electrica completa, Instalacion contra incendios",FRACASADO,FRACASO R,Mejora Edilicia
+x004,0200684,TEODORO GARCIA 3871 FRACASO,"Instalacion Electrica completa, Instalacion contra incendios",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x005,0200510,AVDA. CONGRESO 3045,Instalacion Electrica completa,FRACASADO,FRACASO R,Mejora Edilicia
+x006,0200458,HUMBOLDT 742,Instalacion Electrica completa,FRACASADO,FRACASO R,Mejora Edilicia
+x007,0200715,Avda. Triunvirato 4247,Reparacion de cubierta (FONDOS COVID),FRACASADO,FRACASO R,Mejora Edilicia
+x007,0200715,Avda. Triunvirato 4247,Reparacion de cubierta (FONDOS COVID),PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x008,0200138,CHACABUCO 922,Reparacion de cubierta (FONDOS COVID),FRACASADO,FRACASO / PASE F11,Mejora Edilicia
+x008,0200138,CHACABUCO 922 / FRACASADA,Refacción Sanitarios y Restauración de cubierta,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x009,0200740,FERNANDEZ DE ENCISO 4451,NA,FRACASADO,FRACASO R,Mejora Edilicia
+x009,0200740,FERNANDEZ DE ENCISO 4451,NA,PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x010,0200818,SANTO TOME  4529,NA,FRACASADO,FRACASO R,Mejora Edilicia
+x010,0200818,SANTO TOME  4529,NA,PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x011,0200946,CAFAYATE 5115,Sanitarios. (FONDOS COVID),FRACASADO,FRACASO R,Mejora Edilicia
+x011,0200946,CAFAYATE 5115,Sanitarios. (FONDOS COVID),PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x012,0200957,CAFAYATE 5388,Cambio de carpintenrias (FONDOS COVID),FRACASADO,FRACASO R,Mejora Edilicia
+x012,0200957,CAFAYATE 5388,Cambio de carpintenrias (FONDOS COVID),PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x013,0200589,Caracas 2057,NA,FRACASADO,FRACASO R,Mejora Edilicia
+x013,0200589,Caracas 2057,NA,PLANIFICADO,RELICITAR PROYECTO,Mejora Edilicia
+x014,0200644,LACARRA 535,"ETAPA 2022 Edificio Histórico cubierta de tejas y  cielorrasos, revoque y fisuras en paredes.
+ETAPA 2024 Adecuación de techos en talleres de fibrocemento",FRACASADO,FRACASO R,Mejora Edilicia
+x015,0200643,PIO COLLIVADINO 436,"Adecuación de sanitarios e incorporación del sanitario para personas con movilidad reducida.
+Restauración, conservación y tratamiento de prevención de las fachadas del edificio
+Reparación / recomposición de los revoques en paramentos interiores afectados por humedad de cimientos, cielorrasos armados de yeso y solados.
+Restauración de carpinterías y herrerías (puertas, ventanas, postigos, celosías y rejas de protección).
+Pintura general de paramentos interiores y cielorrasos de todos los locales del establecimiento
+Adecuación de instalación eléctrica a normativas vigentes, ejecución de instalación sanitaria nueva para los núcleos sanitarios, instalación pluvial.
+Reinstalación de cañerías de gas exteriores en el interior del edificio.",FRACASADO,FRACASO R,Mejora Edilicia
+x015,0200643,PIO COLLIVADINO 436 / FRACASADA,"Adecuación de sanitarios e incorporación del sanitario para personas con movilidad reducida.
+Restauración, conservación y tratamiento de prevención de las fachadas del edificio
+Reparación / recomposición de los revoques en paramentos interiores afectados por humedad de cimientos, cielorrasos armados de yeso y solados.
+Restauración de carpinterías y herrerías (puertas, ventanas, postigos, celosías y rejas de protección).
+Pintura general de paramentos interiores y cielorrasos de todos los locales del establecimiento
+Adecuación de instalación eléctrica a normativas vigentes, ejecución de instalación sanitaria nueva para los núcleos sanitarios, instalación pluvial.
+Reinstalación de cañerías de gas exteriores en el interior del edificio.",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x016,0200953,BERON DE ASTRADA 5920,"Adecuacion accesibilidad y electrica, Incendio, Pintura interior + ver CD patio",FRACASADO,F14 - FRACASO - R,Mejora Edilicia
+x016,0200953,BERON DE ASTRADA 5920,"Adecuacion accesibilidad y electrica, Incendio, Pintura interior + ver CD patio",EN PROYECTO,CORPORACION SUR,Mejora Edilicia
+x017,0200447,ARCE 611,Re ajuste aulas y ampliacion Sala de 3. Casa casero?,FRACASADO,F14 - FRACASO - R,Mejora Edilicia
+x018,0200251,AVDA. CASEROS 1555,Impermeabilización de techos,FRACASADO,FRACASO R,Mejora Edilicia
+x018,0200251,AVDA. CASEROS 1555 FRACASO,Impermeabilización de techos,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x019,0200601,MORON 3745,"Acondicionamiento de cubierta, sanitarios, cocina  Inst electrica gas, piso, cielorraso. Arreglo de revoque patio. Adecuacion pintura interior de areas significantes y patio",FRACASADO,FRACASO R,Mejora Edilicia
+x019,0200601,MORON 3745 / FRACASADA,NA,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x020,0200312,RONDEAU 2751 - BERNASCONI,"Freno de deterioro en Fachadas exteriores e interiores, adecuación carpinteria",FRACASADO,FRACASO R,Mejora Edilicia
+x020,0200312,RONDEAU 2751 - BERNASCONI,Freno de deterioro en Fachadas exteriores e interiores,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x021,0200707,JURAMENTO 4849,Impermeabilización e Inst electrica completa,FRACASADO,F14 - FRACASO - R,Mejora Edilicia
+x022,0200003,AVDA. SANTA FE 1510,"Patios, freno de deterioro en las fachadas.",FRACASADO,FRACASO R,Mejora Edilicia
+x022,0200003,AVDA. SANTA FE 1510 / FRACASADA,"Patios, freno de deterioro en las fachadas.",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x023,0200137,SAN JUAN 1545 - FRENADA,NA,FRACASADO,FRACASO R,Mejora Edilicia
+x023,0200137,SAN JUAN 1545,"Impermeabilizacion de todas las terrazas y cubiertas. tratamiento de patologias estructurales, hierros expuestos. Tratamiento de humedad de cimientos. Optimizacion en instalaciones pluvial.",FINALIZADO,FINALIZADO,Mejora Edilicia
+x024,0200300,24 DE NOVIEMBRE 1536,"Accesibilidad, Ascensor, Instalacion Electrica completa",EN OBRA,EN OBRA,Mejora Edilicia
+x025,0200029,PARAGUAY 1950,Impermeabilizacion,EN OBRA,EN OBRA,Mejora Edilicia
+x026,0200007,LIBERTAD 581,"Freno de deterioro (escuela patrimoniada): Restauración de las fachadas interiores (patios). Reparación de los revoques en paramentos interiores (circulaciones) afectados por humedad
+de cimientos. Reparación de cielorrasos dañados por humedad.  Restauracion de zócalos perimetral de marmol, solados, escaleras principales, carpinterias y herrerias. Reacondicionamiento de aulas de jardín de infante. Colocacion de una rampa para dar accesibilidad. Adecuación de la instalación eléctrica de baja tensión y muy baja tensión, en planta baja y en
+primer piso",EN OBRA,EN OBRA,Mejora Edilicia
+x027,01228EU,ESTADOS UNIDOS 1228 (5to),Obra de finalizacion 5TO piso DGINFE,FINALIZADO,NEUTRALIZADA,Mejora Edilicia
+x028,0200425,AVDA. JOSE MARIA MORENO 345,"Accesibilidad, Ascensor. (amparo)",FINALIZADO,FINALIZADO,Mejora Edilicia
+x029,0200902,TANDIL 6690,"Accesibilidad, Ascensor.",FINALIZADO,FINALIZADO,Mejora Edilicia
+x030,0200829,AVDA. ALVAREZ JONTE 5075,Instalacion Electrica completa,FINALIZADO,FINALIZADO,Mejora Edilicia
+x031,0200025,LAVALLE 1681,"Mejora edilicia, Instalacion electrica completa",EN OBRA,EN OBRA,Mejora Edilicia
+x032,0200139,AVDA. ENTRE RIOS 757,"Instalacion Electrica completa, impermeabilizacion, mejoras varias en el edificio",EN OBRA,EN OBRA,Mejora Edilicia
+x033,0200788,AVDA. SALVADOR MARIA DEL CARRIL 3650,"RESTAURACIÓN Y PUESTA EN VALOR DE
+FACHADAS EXTERNAS E INTERNAS (PATIO) -
+RESTAURACIÓN DE REVOQUES EN GENERAL,
+CIELORRASOS, SOLADOS, CAMBIO DE CUBIERTA
+DE TEJAS COLONIALES, REACONDICIONAMIENTO
+DE LOCALES EN 1º PISO, INSTALACIONES
+ELÉCTRICAS , SANITARIAS Y TERMOMECÁNICAS",EN OBRA,EN OBRA,Mejora Edilicia
+x034,0200259,ARCAMENDIA 743,"Instalacion Electrica completa, Impermeabilizacion, restauracion de un sector de fachada",EN OBRA,EN OBRA,Mejora Edilicia
+x035,0200195,AVDA. PASEO COLON 650,Instalacion Electrica completa sector talleres,EN OBRA,EN OBRA,Mejora Edilicia
+x036,0200528,AV DEL LIBERTADOR 8635,Sanitarios. (FONDOS COVID),FINALIZADO,FINALIZADO,Mejora Edilicia
+x037,0200322,JUJUY 255,Sanitarios. (FONDOS INET),LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x038,0200670,Gral. Enrique Martinez 1432,Plan obras covid comedor,FINALIZADO,FINALIZADO,Mejora Edilicia
+x039,0200146,MEXICO 1627,Sanitarios. (FONDOS COVID),FINALIZADO,FINALIZADO,Mejora Edilicia
+x040,0200790,NAVARRO 4344,"Sanitarios, electricidad, accesibilidad y preceptoria",EN OBRA,EN OBRA,Mejora Edilicia
+x041,0200629,OLIDEN 2855,"ETAPA 2022-23 Adecuación instalación eléctrica e incendio, accesibilidad básica con pintura en áreas significativas",EN OBRA,EN OBRA,Mejora Edilicia
+x042,0200519,RAMSAY 2250,"ETAPA 2022-23 Adecuación de cubierta, instalación eléctrica",EN OBRA,EN OBRA,Mejora Edilicia
+x043,0200261,AVDA. GRAL. IRIARTE 3880,Traslado de aulas modulares + adecuación y tendido elect,EN OBRA,EN OBRA,Mejora Edilicia
+x044,0200028,JUNCAL 3251 / adicional proyecto aula,"NUEVO ASCENSOR EXTERIOR - AUMENTO CAUDAL, RESERVA SANITARIA",EN OBRA,EN OBRA,Mejora Edilicia
+x045,0200916,YRUPE 6835,Ampliación de nucleos sanitarios / ampliacion del comedor / instalacion electrica del jardin,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x046,0200320,AVDA. JUJUY 780,Cambio de chapas y pintura,EN OBRA,EN OBRA,Mejora Edilicia
+x047,0200002,AVDA. PTE. MANUEL QUINTANA 31,Acondicionamiento de fachadas/ adecuacion de supervision DE1,EN OBRA,EN OBRA,Mejora Edilicia
+x048,0200755,VALLEJOS 2555 CAF,"ETAPA I2020 Adecuacion espacios aulicos y ampliacion comedor Pintura, Accesibilidad",LICITACIÓN,F14 - CAF - RESCINDIO,Mejora Edilicia
+x049,0200085,JOSE ANTONIO CABRERA 3430,Reparaciones varias. Mejoras en núcleos sanitarios. Ejecución cuña desmontable. Tratamiento de humedad de cimientos. Trabajos sanitarios. Instalación eléctrica,EN OBRA,EN OBRA,Mejora Edilicia
+x050,0200445,AVDA. SANTA FE 5039,Instalación eléctrica,EN OBRA,EN OBRA,Mejora Edilicia
+x051,0200798,AVDA. FRANCISCO BEIRO 4418,"Cielorrasos, instalación iluminacion (taller de cerámica), Puesta en valor y refuncionalizacion de la ex vivienda del casero y depositos en pb, carpinterías, instal elect, pintura",EN OBRA,EN OBRA,Mejora Edilicia
+x052,0200906,AVDA. LARRAZABAL 420,"Reparación en cubiertas, impermeabilización.",EN OBRA,EN OBRA,Mejora Edilicia
+x053,0202188,POLO SAAVEDRA,"Terminación vestuarios, pileta, sanitarios, estacionamiento, parquizado",EN OBRA,EN OBRA,Mejora Edilicia
+x054,0200708,ECHEVERRIA 5034,"Demoliciones varias, reparaciones y provisión de nuevas carpinterías (herreria), Accesibilidad Basica, sanitario adaptado, Patio, pintura gral.",EN OBRA,EN OBRA,Mejora Edilicia
+x055,0201863,AYACUCHO 632 / PERU 1236 ASCENSORES,Adecuacion y puesto funcionamiento elevadores,EN OBRA,EN OBRA,Mejora Edilicia
+x056,0200666,ALMTE. FRANCISCO J. SEGUI 2580,"Biblioteca, sala maestros, filtraciones",FINALIZADO,FINALIZADO,Mejora Edilicia
+x057,0200821,CUZCO 116,Cambio de cubiertas. Reacondicionamiento sanitario. Reparaciones varias. Pintura. Instalacion electrica completa,EN OBRA,EN OBRA,Mejora Edilicia
+x058,0200428,AVDA. CURAPALIGUE 1150,Refaccion Integral edilicia Accesibilidad Plena carpinteria y pintura patio,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x059,0200665,FITZ ROY 171,"Accesibilidad basica,  cubierta, Pintura hall y patio. Instalacion electrica completa",EN PROYECTO,A ENVIAR A CYP,Mejora Edilicia
+x060,0200136,AVDA. SAN JUAN 2277,PROYECTO DE ACCESIBILIDAD Y PINTURA GENERAL. Agregar impermeabilización. Expediente: construccion de galeria en patio para paso (jardin),PLANIFICADO,BANCO DE PROYECTOS,Mejora Edilicia
+x061,0200326,CARLOS CALVO 3150 - LA RIOJA 1042,2 aulas de jardín. Accesibilidad Plena Adecuacion pintura acceso y circulaciones. Casa casero,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x062,0202179,LOS PATOS 3004,"Puerta, ampliación aulas",LICITACIÓN,LICITACION,Mejora Edilicia
+x063,0200794,MERCEDES 4002,", Adecuacion de cubierta, Pluviales, carpinteria. Arreglo de revoques en aulas y patio. Adecuacion pintura interior de areas significantes y patio. AGREGAR SDF",LICITACIÓN,LICITACION,Mejora Edilicia
+x064,0200253,JUAN CARLOS GOMEZ 253,"Acondicionamiento Inst electrica Incendio, carpinteria Arreglo de revoque y piso patio + Adecuacion Casa casero para re ubicación aula Adecuacion pintura interior pasillos (dgmesc pintaria aulas ) y areas significantes  + patio y fachada",EN OBRA,EN OBRA,Mejora Edilicia
+x065,0200123,CHILE 1626,"ETAPA 2022-23 Adecuación de cubierta, patio, instalación eléctrica completa (amparo) y pintura",EN PROYECTO,EN PROYECTO/INSTALACIONES,Mejora Edilicia
+x066,0200032,CARLOS PELLEGRINI 1515,Proyecto terminado por SUM,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x067,0200552,AVDA. SAN PEDRITO 1415,"Patio cubierto, creacion de un comedor con sanitarios",PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x068,0200009,TTE. GRAL. JUAN DOMINGO PERON 1140,"Adecuacion de cubierta , sanitario ,electricidad , cielorraso , carpinteria                                                          Arreglo de revoques  en aulas y patio                                                                 Adecuacion pintura interior de areas significantes  y patio",PLANIFICADO,BANCO DE PROYECTOS,Mejora Edilicia
+x069,0200777,HELGUERA 2435,"Acondicionamiento  de cuBierta , cocina , Inst electrica + gas e incendio , arreglo patio y  muros con sus revoques                                                                                        Adecuacion  pintura interior de areas significantes  y patio",PLANIFICADO,BANCO DE PROYECTOS,Mejora Edilicia
+x070,0200797,PEDRO LOZANO 3056,Impermeabilizacion parcial y pintura de cielorrasos. Albañileria. Reparacion de escaleras. Humedad de cimientos.,EN PROYECTO,CYP,Mejora Edilicia
+x071,0200508,ROQUE PEREZ 3545 (amparo),Amparo - Accesibilidad Plena y pintura parcial + IE AJUSTAR,EN PROYECTO,EN PROYECTO,Mejora Edilicia
+x072,0200728,TRONADOR 4134,"reparación de humedad de cimientos, reparación de las mamposterías afectadas y pintura integral. Impermeabilización de cubiertas, en sector con filtraciones y respiración de cielorrasos.
+Acondicionamiento de Baños",PLANIFICADO,BANCO DE PROYECTOS,Mejora Edilicia
+x073,0200088,AVDA. ANGEL GALLARDO 246,"Restauracion patrimonial,impermeabilizacion, cielorrasos, acondicionamiento instalaciones y  pintura patios",LICITACIÓN,F14 - DGAR,Mejora Edilicia
+x074,0200298,CATAMARCA 462,Pintura General y arreglos de algunos sectores de revoque.,EN OBRA,EN OBRA,Mejora Edilicia
+x075,0200729,QUESADA 4357,Acondicionamiento de pisos y cielorraso. Revision de instalacion electrica.  Provisión de agua. Arreglo de revoque en fachada internas. Adecuacion de sanitarios. pintura completa. Humedad de cimiento sobre medianera. Intervencion casa del casero.,EN PROYECTO,EN PROYECTO/INSTALACIONES,Mejora Edilicia
+x076,0200950,AVDA. LARRAZABAL 4520,"Instalación eléctrica completa, Filtraciones, cambio de parasoles, pintura general",EN PROYECTO,A CERRAR PLIEGO,Mejora Edilicia
+x077,0200530,CUBA 2410,"Instalacion electrica y  termomecanica, Filtracion por cubierta.",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x078,0200354,CAMARGO 725,"Acondicionamiento  de Acc Basica cuBierta (NUEVA TODA LA CUBIERTA DEL GYM),Inst electricidad,  Incendio, Cambio calera, Prov agua  Arreglo menores de revoquers patio. pintura genereal.  provicion de moviliariio para guardado",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x079,0200302,HUMBERTO Iº 3171,"Acondicionamiento  de Acc Basica, sanitarios , Inst electrica e incendio, Prov de agua , cielorraso   , carpinteria ,arreglo patio y  muros con sus revoques. pintura  y patio",EN PROYECTO,CONTROL DOC,Mejora Edilicia
+x080,0200962,AQUINO 6040,"INSTALACION ELECTRICA, MEJORAR PATIO, SANITARIOS, Y ACCESIBILIDAD BASICA. AMPLIACION DE AULAS REGION V (4 / 5 AULAS), VER POSIBILIDAD DE CAMBIO DE SISTEMA DE CALEFACCION",EN PROYECTO,EN PROYECTO,Mejora Edilicia
+x081,0200628,LACARRA 1135,"cubierta, carpinterias (madera, deterioradas), playon de acceso, puesta en valor sector original del edificio",PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x082,0200412,DON BOSCO 4200,"SANITARIOS Y CARP, pintura en areas comunes.",PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x083,0200097,AVDA. RIVADAVIA 3577,Reparación de estructura y vitreaux en el salón de actos del 1º piso (ver electrica de las areas a intervenir),PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x084,0200496,CUBA 2039,"Sanitarios, cubierta, carpinterias y pintura",LICITACIÓN,LICITACION,Mejora Edilicia
+x085,0200497,MOLDES 1858,Sanitarios y patios / ie completa,PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x086,0200501,AVDA. CABILDO 3615,"Sanitarios, impermeablizacion y pintura / ie completa",PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x087,0200178,AVDA. DON PEDRO DE MENDOZA 1835,"Acondicionamiento  de cubierta, instalacion sanitario, electrica e incendio. Arreglo de revoques menores en aulas.  Adecuacion pintura interior de areas significantes  y patio.",EN PROYECTO,EN PROYECTO,Mejora Edilicia
+x088,0200568,AVELINO DIAZ 2356,"Adecuar patios, carps, impermeabilización y reparación de muros afectados, electrica completa, incendio, accesibilidad basica, pintura",PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x089,0200001,AYACUCHO 1680,facahadas y carpinterias / aula de gines,PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x090,0202391,DR. ANTONIO BERMEJO 6675 -MODULARES BERMEJO,Adaptacion de modulares en un CFP / acceso independiente / cambiar sanitarios / instalaciones/ aula,EN PROYECTO,F14 - CYP,Mejora Edilicia
+x091,0200600,GRAL. VENANCIO FLORES 3869,AMPLIACIÓN - REHABILITACIÓN PARCIAL - INSTALACIÓN ELÉCTRICA,EN OBRA,EN OBRA,Mejora Edilicia
+x092,0200498,JUANA DE AZURDUY 2541,"Acond de sanitarios, prov de agua , carpinteria y pintura en areas sgnificativas",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x093,0200918,GOLETA SANTA CRUZ 6997,"Carpinterías, cubierta y pintura en areas significativas",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x094,0200502,MENDOZA 1000,Accesibilidad plena. Acondicionamiento / recambio de carpinterías y herrajes. Subsanación de grietas en muros. Revestimiento de toda la fachada (Se retiró parte del revestimiento de ladrillo original por desprendimiento) / contrapiso a nuevo del patio del comedor / detector de intrusos (alarma / AMPARO,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x095,0200427,RIVADAVIA 4950 - COMEDOR,creacion de un comedor,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x096,0200523,NATATORIO ROMERO BREST,a definir,PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x097,0000000,ALVAREZ THOMAS 2253,"Completar: mamposterías, revoques y solados. Pintura completa. Provisión y colocación de carpinterías y herrerías. Completar instalaciones: eléctrica y sanitaria.Ejecutar escalera a azotea (hormigón)",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x098,0200516,ROOSEVELT 1510,"accesibilidad plena (ascensor en patio de planta baja), reutilizacion pb para conformar un aula y acondicionar baño de discapacitado (no funciona griferia y falta timbre) / AMPARO",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x099,0200801,BAHIA BLANCA 4025,"Refuncionalizacion edilicia: casa del casero en oficinas de la supervision. Accesibilidad basica, instalacion electrica completa, sanitaria y termomecanica.",EN PROYECTO,CYP,Mejora Edilicia
+x100,0000000,VILLA OLIMPICA,"sistema de alarma primaria, limpieza de terreno y cortinas. Ver posibilidad de incorporar mas tareas.",EN PROYECTO,A ENVIAR A CYP,Mejora Edilicia
+x101,0200718,EX YRURTIA  - ALBERDI 4754,"completo o por etapas de obra / acondicionamiento de aulas, sanitarios y pintura general",PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x102,0200179,LAMADRID 499,"Historica. Fachada, patio, instalacion electrica,carpinterias,sanitarios y pintura",PLANIFICADO,A INICIAR PROYECTO,Mejora Edilicia
+x103,0201864,LACARRA 1151 Y AVDA. FRANCISCO BILBAO,"Fachadas exteriores (desprendimiento de pintura y revoques), humedad en subsuelo y levantamiento de solado, aulas en mal estado (placas de cielorraso faltantes, pinturas con grafitis), patio cubierto con filtración por cubierta de vidrio. Baños: filtración, faltante de cerámicos y artefactos de luz. pintura en general.",EN PROYECTO,A PASAR A CYP,Mejora Edilicia
+x104,0200369,LUIS VIALE 1052,"Patio, demolicion de casa del casero en patio, pluviales del patio, accesibilidad basica, BAÑOS",EN PROYECTO,EN PROYECTO,Mejora Edilicia
+x105,0200304,GRAL URQUIZA 277,casa de casero,LICITACIÓN,LICITACION,Mejora Edilicia
+x106,0200746,JOSE CUBAS 4440,instalacion electrica + accesibilidad + filtraciones + pintura,EN PROYECTO,A INICIAR PROYECTO,Mejora Edilicia
+x107,0200720,TAMBORINI 3948 - PLANI,"Sanitarios, revoques, patios y pintura.",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x108,0200444,LIBERTADOR 4777,electrica e incendio / AMPARO,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x109,0200016,AYACUCHO 1849,instalacion electrica,LICITACIÓN,LICITACION,Mejora Edilicia
+x110,0200563,CARABOBO 253 RESCISION,Acondicionamiento de sanitarios pb y 1er. Pintura. Provision de piletones de acero inx. Acondicionamiento de solado en expansion descubierta del 2do piso. Creacion de sanitario para disca en pb. Rearmado de locales con tabiqueria en area de  pb. Colocacion de montaescalera en acceso (pb).,EN PROYECTO,CYP,Mejora Edilicia
+x111,00000GG,PLANETARIO ASESORIA,NA,EN PROYECTO,EN PROYECTO,OBRA NUEVA
+x112,0200441,GURRUCHAGA  739,instalacion electrica,LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x113,0200080,RIO DE JANEIRO 986,"Acc. plena, pintura y adecuacion de instalacion electrica",EN PROYECTO,EN PROYECTO,Mejora Edilicia
+x114,00000AU,AV. ROCA 6902 - AUTODROMO,"Demolicion de mamposterias, tabiques, pisos y canteros. Proveer y colocar reja de proteccion en las ventanas de aula y oficina. Ejecucion de contrapiso, carpeta y solado en sector terraza. Ejecucion de canteros. Provision y colocacion de lockers. Instalacion sanitaria: Instalación y colocación de nuevos inodoros pedestal, Cambio de placas afectadas por humedad, Proveer y colocar accesorios y espejos en los sanitarios.",LICITACIÓN,LICITACIÓN,Mejora Edilicia
+x115,0200442,ZAPATA 449,"Impermeabilizacion, instalación pluvial y pintura",FINALIZADO,FINALIZADO,Mejora Edilicia
+x116,0200006,JUNCAL 690,"Reparacion de cubiertas (inicial y primaria), Acc basica (montasilla y baño de disca), pintura general - instalacion electrica de la inicial - sector de sombras inicial y primaria - solado de patio de la primaria e inicial - recambio de carpinterias y colocacion de rejas - evaluacion de instalacion sanitaria + ee: remediacion de rejas",EN PROYECTO,EN PROYECTO/INSTALACIONES,Mejora Edilicia
+x117,00000EB,ESTACION BUENOS AIRES PRIMARIA,"Creacion de una escuela con 14 aulas comunes, 1 aula de música, 1 aula de
+plástica, 1 aula laboratorio y un espacio para biblioteca.
+Además la escuela contara con un S.U.M. cubierto, Comedor independiente para la
+población de la escuela, Cocina y el área de gestión administrativa completa.",LICITACIÓN,F14 - LICITACION,Obra Nueva
+x118,0000000,DOBLAS 1768,"Polideportivo contempla la construcción de un volumen de apoyo y servicios, un área de cancha cubierta con estructura liviana de chapa y un área de cancha descubierta de verde que permite terreno absorbente en pulmón de manzana.",EN OBRA,EN OBRA,OBRA NUEVA
+x119,0200644,LACARRA 535,"cielorrasos, ie del sector",EN PROYECTO,CYP,Mejora Edilicia
+x120,00000PQ,PARQUE DE LA CIUDAD / tendido electrico,provision e instalacion de cable,FRACASADO,FRACASO R,Mejora Edilicia
+x121,0200193,"QUINQUELA MARTIN, BENITO 1649 GRUPO -",2do año,EN OBRA,EN OBRA,SDF
+x122,0200382,AV. GAONA 1502 GRUPO -,2do año,EN OBRA,EN OBRA,SDF
+x123,0200575,PUMACAHUA 390 GRUPO 1,2do año,LICITACIÓN,ESPERANDO DOCUMENTACION,SDF
+x123,0200527,AV. CRAMER 2136 GRUPO 1,2do año,LICITACIÓN,ESPERANDO DOCUMENTACION,SDF
+x123,0200571,"CNEL. FALCON, RAMON L.,2248 GRUPO 1",2do año,LICITACIÓN,ESPERANDO DOCUMENTACION,SDF
+x124,0200030,CALLAO AV. 450 GRUPO 2,2do año,EN OBRA,EN OBRA,SDF
+x124,0200022,LIBERTAD 1257 GRUPO 2,2do año,EN OBRA,EN OBRA,SDF
+x125,0200963,"CHILAVERT, MARTINIANO, CORONEL 5460 GRUPO -",2do año,EN OBRA,EN OBRA,SDF
+x126,0200827,GALLARDO 149 GRUPO 3,2do año,FINALIZADO,FINALIZADO,SDF
+x126,0200839,MORON 4149 GRUPO 3,2do año,FINALIZADO,FiNALIZADO,SDF
+x127,0200319,COCHABAMBA 2830 GRUPO 4,2do año,FINALIZADO,FiNALIZADO,SDF
+x127,0200470,MALABIA 2148 GRUPO 4,2do año,FINALIZADO,FiNALIZADO,SDF
+x128,0200318,AV. JUJUY 150 GRUPO 5,2do año,FINALIZADO,FiNALIZADO,SDF
+x128,0200426,FORMOSA 136 GRUPO 5,2do año,FINALIZADO,FiNALIZADO,SDF
+x129,0200385,PADILLA 1051 GRUPO 6,2do año,EN OBRA,EN OBRA,SDF
+x129,0200380,AV. RIVADAVIA 5161 GRUPO 6,2do año,EN OBRA,EN OBRA,SDF
+x130,0200965,AV.LARRAZABAL 5140 GRUPO 7,2do año,FINALIZADO,FiNALIZADO,SDF
+x130,0200962,AQUINO 6040 GRUPO 7,2do año,FINALIZADO,FiNALIZADO,SDF
+x131,0200195,PASEO COLON AV. 650 GRUPO -,2do año,FRACASADO,FRACASO R,SDF
+x131,0200195,PASEO COLON AV. 650 GRUPO -,2do año,LICITACIÓN,433,SDF
+x132,0200832,"MAGARIÑOS CERVANTES, A. 5068 GRUPO -",2do año,FRACASADO,FRACASO R,SDF
+x132,0200832,"MAGARIÑOS CERVANTES, A. 5068 GRUPO -",2do año,LICITACIÓN,433,SDF
+x133,0200655,ACASSUSO 6138 ANEXO GRUPO -,2do año,EN OBRA,EN OBRA,SDF
+x134,0200683,AV. DEL CAMPO 1340 GRUPO 8,2do año,EN OBRA,EN OBRA,SDF
+x134,0201864,AV. LACARRA 1151 GRUPO 8,2do año,FINALIZADO,FiNALIZADO,SDF
+x135,0200029,AYACUCHO 875 GRUPO -,2do año,FRACASADO,FRACASO R,SDF
+x135,0200029,AYACUCHO 875 GRUPO -,2do año,LICITACIÓN,433,SDF
+x136,0200425,AV.JOSE MARIA MORENO 345 GRUPO 9,3er año,EN OBRA,EN OBRA,SDF
+x136,0202188,"LARRALDE, CRISOLOGO AV. 5085 GRUPO 9",3er año,EN OBRA,EN OBRA,SDF
+x137,0200795,MANUEL PORCEL DE PERALTA 1437 GRUPO 10,3er año,FINALIZADO,FINALIZADO,SDF
+x137,0200679,NICASIO OROÑO 2131 GRUPO 10,3er año,EN OBRA,EN OBRA,SDF
+x138,0200964,SOLDADO DE LA FRONTERA AV. 5155 GRUPO 11,3er año,LICITACIÓN,ESPERANDO DOCUMENTACION,SDF
+x138,0200863,MARTINEZ CASTRO 3067 GRUPO 11,3er año,LICITACIÓN,ESPERANDO DOCUMENTACION,SDF
+x139,0200949,AV. RIESTRA 5030 GRUPO 12,3er año,EN OBRA,EN OBRA,SDF
+x139,0200886,AV. SAENZ 631 GRUPO 12,3er año,EN OBRA,EN OBRA,SDF
+x140,0202662,"ALBERDI, JUAN BAUTISTA AV. 4139 GRUPO 13",3er año,EN OBRA,EN OBRA,SDF
+x140,0200642,MURGUIONDO 1568 GRUPO 13,3er año,EN OBRA,EN OBRA,SDF
+x141,0202584,ZUVIRIA 6550 GRUPO 14,3er año,EN OBRA,EN OBRA,SDF
+x141,0200098,ECUADOR 1158 GRUPO 14,3er año,EN OBRA,EN OBRA,SDF
+x142,0200099,"GOMEZ, VALENTIN 3163 GRUPO 15",3er año,EN OBRA,EN OBRA,SDF
+x142,0200197,"VILLAFAÑE, WENCESLAO 1342 GRUPO 15",3er año,EN OBRA,EN OBRA,SDF
+x143,0200257,SANTA MAGDALENA 431 GRUPO -,3er año,EN OBRA,EN OBRA,SDF
+x144,0200572,"ALBERDI, JUAN BAUTISTA AV. 1845 GRUPO 16",3er año,EN OBRA,EN OBRA,SDF
+x144,0200650,Oliden 1245 GRUPO 16,3er año,EN OBRA,EN OBRA,SDF
+x145,0200871,"AGUSTIN DE VEDIA, 2519 GRUPO 17",3er año,LICITACIÓN,ESPERANDO DOCUMENTACION,SDF
+x145,0200647,AV. ESCALADA 2890 GRUPO 17,3er año,LICITACIÓN,ESPERANDO DOCUMENTACION,SDF
+x146,0000000,AVDA. MARTIN GARCIA 874,OBRA NUEVA,EN OBRA,EN OBRA,OBRA NUEVA
+x147,0000000,LOPE DE VEGA Y MURATURE,OBRA NUEVA,EN OBRA,EN OBRA,OBRA NUEVA
+x148,0202635,VENEZUELA 3259,Instalacion electirca Impermeabilizacion,FINALIZADO,FINALIZADO,Mejora Edilicia
+x149,0200362,Franklin 1836,Sanitarios. (FONDOS COVID),FINALIZADO,FINALIZADO,Mejora Edilicia
+x150,0200032,PELLEGRINI 1515,puesta en valor de la escalera,FINALIZADO,FINALIZADO,Mejora Edilicia
+x151,0202584,ZUVIRIA 6554,"Tanque de bombeo, bombas (FONDOS COVID)",FINALIZADO,FINALIZADO,Mejora Edilicia
+x152,0202388,AVDA. RIESTRA 3300,Instalacion Electrica,FINALIZADO,FINALIZADO,Mejora Edilicia
+x153,0200196,DON PEDRO DE MENDOZA 1777,"Reparacion de Aleros, Cubiertas.",FINALIZADO,FINALIZADO,Mejora Edilicia
+x154,0202395,SIMBRON 5855,Impermeabilizacion,FINALIZADO,FINALIZADO,Mejora Edilicia
+x155,0202569,PERU 1357,"Instalacion electrica, ampliacion, mejora edilicia",FINALIZADO,FINALIZADO,Mejora Edilicia
+x156,0200299,SAAVEDRA 695,Mejora edilicia en varios sectores,FINALIZADO,FINALIZADO,Mejora Edilicia
+x157,0200200,PASEO COLON 255 (4to),Conformación de la Biblioteca de la Universidad de la Ciudad,FINALIZADO,FINALIZADO,Mejora Edilicia
+x158,-,Catamarca s/n y Avda. Belgrano,Escalera para salida de emergencia,FINALIZADO,FINALIZADO,Mejora Edilicia
+x159,0202678,LETONIA Y ANTARTIDA ARGENTINA,"Obra en escuela temporaria de la MEDIA, Se desafecta el edificio y paso a JUSTICIA",FINALIZADO,FINALIZADO,Mejora Edilicia
+x160,0200405,ASAMBLEA 1221,Acondicionamiento de patio,FINALIZADO,FINALIZADO,Mejora Edilicia
+x161,0200443,SCALABRINI ORTIZ 1336,Sanitario e impermeabilizacion,FINALIZADO,FINALIZADO,Mejora Edilicia
+x162,0200643,PIO COLLIVADINO 436,Reparacion de medianera,FINALIZADO,FINALIZADO,Mejora Edilicia
+x163,0200311,JUAN DE GARAY 3972,Pintura y acondicionamiento de patio,FINALIZADO,FINALIZADO,Mejora Edilicia
+x164,0202662,ALBERDI 4139,"Trabajos en  medianeras, subsuelo por filtraciones",FINALIZADO,FINALIZADO,Mejora Edilicia
+x165,0200255,Jose A. Cortejarena 3350,Sanitarios. (FONDOS COVID),FINALIZADO,FINALIZADO,Mejora Edilicia
+x166,0200244,Lynch 3536,Sanitarios. (FONDOS COVID),FINALIZADO,FINALIZADO,Mejora Edilicia
+x167,0200529,NUÑEZ 3638,"Restauracion de fachadas, humedades de cimientos, instalacion electrica completa",FINALIZADO,NEUTRALIZADA,Mejora Edilicia
+x168,0200312,RONDEAU 2751,Restauracion de cielorrasos de sector pileta,FINALIZADO,FINALIZADO,Mejora Edilicia
+x169,0200832,ALEJANDRO MAGARIÑOS CERVANTES 5068,"Instalacion electrica completa, sanitarios",FINALIZADO,NEUTRALIZADA,Mejora Edilicia
+x170,00000GG,PLANETARIO,"Instalacion de caldera electrica, tendido electrico al edificio desde CT",FINALIZADO,NEUTRALIZADA,Mejora Edilicia
+x171,0200426,FORMOSA 136,"Accesibilidad, Ascensor. (amparo)",FINALIZADO,FINALIZADO,Mejora Edilicia
+x172,0200200,PASEO COLON 255 (5to),CONFORMACION DE 4 AULAS Y APOYO ADMINISTRATIVO,FINALIZADO,FINALIZADO,Mejora Edilicia
+x173,0200100,JERONIMO SALGUERO 920,"Mejora edilicia, sanitarios, talleres.",FINALIZADO,NEUTRALIZADA,Mejora Edilicia
+x174,0200427,AVDA. RIVADAVIA 4950,"Instalacion Electrica completa, Impermeabilizacion, restauracion de un sector de fachada",FINALIZADO,NEUTRALIZADA,Mejora Edilicia
+x175,00000PQ,PARQUE DE LA CIUDAD,"Obra nueva, PILETA",FINALIZADO,NEUTRALIZADA,Mejora Edilicia
+x176,0200016,AYACUCHO 1849,NA,FINALIZADO,EN OBRA,Mejora Edilicia
+x177,0200635,SAN PEDRO 4457,NA,FINALIZADO,FINALIZADO,Mejora Edilicia
+x178,0200420,QUITO 4043,MEJORAMIENTO EDILICIO E INSTALACIÓN ELÉCTRICA,EN OBRA,EN OBRA,Mejora Edilicia
+x179,0200079,DR. TOMAS MANUEL DE ANCHORENA 441,Adecuacion Inst y pintura,LICITACIÓN,F14 - DGAR,Mejora Edilicia
+x180,0200026,ESMERALDA 285 CAF,"restauracion de fachadas, refacciones generales de cielorrasos, pisos, sala
+de cooperadora y sala docente , inst eléctrica, sanitarios",EN OBRA,EN OBRA,Mejora Edilicia
+x181,0200641,ACASSUSO 5860 sede ACASSUSO 6138 anexo,"sede: sanitarios a nuevos, impermeabilizaciones, pintura (20mm), reparaciones varias, adecuacion de carpinterias, ie completa y cambio e canaletas y sesagues pluviales.  anexo: Solado de los balcones, bicicletero, cortinas roller, adecuacion en sala de musica, pintura y arreglo de fachada, reparacion de carpinterias, patio: demarcacion de canchas, pintura y cerco de alambre. refuncionalizacion de sala de tanque. ie completa.",EN PROYECTO,EN PROYECTO/INSTALACIONES,Mejora Edilicia
+x182,0200711,VALDENEGRO 3525,"OBRA RESCINDIDA: Trabajos de ampliación edilicia, medios de salida y pintura integral de fachadas",FINALIZADO,FINALIZADO,Mejora Edilicia
+x183,0200607,LA PORTEÑA 54 - YERBAL 2750,"Obra nueva, ampliación de La Porteña 54  ( 9 aulas)",EN OBRA,EN OBRA,Mejora Edilicia
+x184,0200396,NATATORIO YERBAL 25,puesta en funcionamiento de la plieta y accesibilidad,EN PROYECTO,CORPORACION SUR,CORP SUR
+x185,0000000,DAOM - VARELA 1802,"cancha de futbol 5, sintetico, 8 luminarias, acceso independiente desde Av Varela.",EN PROYECTO,CORPORACION SUR,CORP SUR
+x186,ECOSAN,PLIEGO ECOSAN,armar pliego con lo enviado por la empresa / cañada de gomez y escalada,FRACASADO,FRACASO R,Mejora Edilicia
+x187,ECOSAN,PLIEGO ECOSAN,armar pliego con lo enviado por la empresa / cañada de gomez y escalada,FRACASADO,FRACASO R,Mejora Edilicia
+NA,0200647,Avda. Escalada 2890,NA,FINALIZADO,FINALIZADO,SDF
+x188,0200505,Barrio 31- Indira Gandhi,Obra nueva PRIMARIA -ajustes por cambio de terreno-,EN OBRA,EN OBRA,OBRA NUEVA
+x189,0200381,Gral. MARTIN DE GAINZA 1050,NA,EN OBRA,EN OBRA,Mejora Edilicia
+x190,-,LETRAS CORPOREAS,PROVISIÓN Y COLOCACIÓN DE LETRAS CORPÓREAS,FINALIZADO,FINALIZADO,Mejora Edilicia
+x191,0200381,Gral. MARTIN DE GAINZA 1050 (433),imperbeabilizacion de un sector de azotea,FINALIZADO,FINALIZADO,Mejora Edilicia
+x186,NA,ESCALADA 2890,NA,EN PROYECTO,CORPORACION SUR,CORP SUR
+x187,NA,CAÑADA DE GOMEZ 3859,Incorporacion de dos aulas de steel frame y nucleo sanitarios. Traslado de mastil.,EN PROYECTO,CORPORACION SUR,CORP SUR
+x192,NA,LIBERTADOR 8635,Patio: analizar posibilidad de cubrir algun patio o parte para generar espacio de sombra. Electricidad: Adecuacion de la instalacion segu normativa. Calefaccion y refrigeracion. Pintura. Campo de deportes: trabajos para evitar inundaciones.  Accesibilidad en sector  de aulas.  Cubierta: adecuacion en sector historico.,EN PROYECTO,EN PROYECTO,Mejora Edilicia
+x193,NA,LA RIOJA - MATERNIDAD SARDA,NA,PLANIFICADO,A INICIAR PROYECTO,OBRA NUEVA
+x194,NA,LOYOLA 1500,NA,PLANIFICADO,A INICIAR PROYECTO,OBRA NUEVA
+x195,NA,PASEO COLON 650,"433: completamiento de aulas de mecanica, torneria y electricidad.",EN PROYECTO,CYP,Mejora Edilicia
+x196,NA,POLO PIEDRABUENA,instalacion de gas + Habilitacion y puesta en marcha Calefaccion,EN PROYECTO,EN PROYECTO/INSTALACIONES,Mejora Edilicia
+NA,00000PQ,PARQUE DE LA CIUDAD,"rejas, provision de cable y parquizacion",EN PROYECTO,CYP,Mejora Edilicia
+NA,NA,ESTADOS UNIDOS 1721 (MUDANZA ALICIA),"nstalación eléctrica completa, Retiro de instalación de gas,  pintura completa, Provision y colocacion de hoja de ventana faltante, Reacondicionamiento gral de núcleos sanitarios, Provision y colocacion de equipos A°A°, Acondicionamiento de solados (pintura o limpieza), Refuncionalización de area administrativa y Señaletica y matafuegos.",EN PROYECTO,EN PROYECTO/INSTALACIONES,Mejora Edilicia

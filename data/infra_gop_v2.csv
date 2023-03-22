@@ -1,0 +1,218 @@
+n_proyecto,cui,direccion,intervenciones,estado,subestado,eje,nota_de_inicio,pase_dgar,inicio_obra,fin_obra,avance_de_obra_real
+x005,0200510,AVDA. CONGRESO 3045,Instalacion electrica completa,Planificado,relicitar proyecto,Mejora Edilicia,NA,NA,NA,30/12/1899,NA
+x006,0200458,HUMBOLDT 742,Instalacion electrica completa,Planificado,relicitar proyecto,Mejora Edilicia,NA,NA,NA,30/12/1899,NA
+x017,0200447,ARCE 611,Re ajuste aulas y ampliacion sala de 3. Casa casero?,Planificado,relicitar proyecto,Mejora Edilicia,19/10/2021,25/7/2022,22/11/2022,22/3/2023,NA
+x021,0200707,JURAMENTO 4849,Impermeabilización e inst electrica completa,Planificado,relicitar proyecto,Mejora Edilicia,9/9/2022,12/7/2022,2/1/2023,1/6/2023,NA
+x023,0200137,SAN JUAN 1545 - FRENADA,NA,Planificado,relicitar proyecto,Mejora Edilicia,NA,NA,NA,30/12/1899,NA
+x001,0200865,MOM 2358,"Instalacion electrica completa, aa en patio central",Finalizado,finalizado,Mejora Edilicia,NA,7/7/2022,21/10/2022,28/2/2023,100%
+x002,0200659,GIRARDOT 1946,Instalacion electrica completa,En Obra,en obra,Mejora Edilicia,-,7/7/2022,17/11/2022,16/4/2023,31%
+x003,0200010,LAVALLE 2386 / 2366,"Impermeabilización en el patio descubierto y el local sanitario de 1° piso y el reemplazo de los desagües
+Cloacales en el sector; el mejoramiento sanitarios de alumnos/as presentes; ejecución de rampas que salven diversos desniveles existentes en la planta baja;  pintura y revoques en diversos locales interiores (espacios áulicos y circulaciones)
+Mejoramiento integral de los patios descubiertos del edificio. Instalación eléctrica de baja tensión y de muy baja tensión.",En Obra,en obra,Mejora Edilicia,-,23/8/2022,20/1/2023,18/8/2023,0%
+x004,0200684,TEODORO GARCIA 3871 FRACASO,"Instalacion electrica completa, instalacion contra incendios",Licitación,licitación,Mejora Edilicia,-,26/12/2022,25/04/2023,20/1/2024,NA
+x007,0200715,Avda. Triunvirato 4247,Reparacion de cubierta (fondos covid),Planificado,relicitar proyecto,Mejora Edilicia,NA,NA,NA,30/12/1899,NA
+x008,0200138,CHACABUCO 922 / FRACASADA,Refacción sanitarios y restauración de cubierta,Licitación,licitación,Mejora Edilicia,25/11/2022,07/02/2023,07/06/2023,4/12/2023,NA
+x009,0200740,FERNANDEZ DE ENCISO 4451,NA,Planificado,relicitar proyecto,Mejora Edilicia,NA,NA,NA,30/12/1899,NA
+x010,0200818,SANTO TOME  4529,NA,Planificado,relicitar proyecto,Mejora Edilicia,NA,NA,NA,30/12/1899,NA
+x011,0200946,CAFAYATE 5115,Sanitarios. (Fondos covid),Planificado,relicitar proyecto,Mejora Edilicia,NA,NA,NA,30/12/1899,NA
+x012,0200957,CAFAYATE 5388,Cambio de carpintenrias (fondos covid),Planificado,relicitar proyecto,Mejora Edilicia,NA,NA,NA,30/12/1899,NA
+x013,0200589,Caracas 2057,NA,Planificado,relicitar proyecto,Mejora Edilicia,NA,NA,NA,30/12/1899,NA
+x015,0200643,PIO COLLIVADINO 436 / FRACASADA,"Adecuación de sanitarios e incorporación del sanitario para personas con movilidad reducida.
+Restauración, conservación y tratamiento de prevención de las fachadas del edificio
+Reparación / recomposición de los revoques en paramentos interiores afectados por humedad de cimientos, cielorrasos armados de yeso y solados.
+Restauración de carpinterías y herrerías (puertas, ventanas, postigos, celosías y rejas de protección).
+Pintura general de paramentos interiores y cielorrasos de todos los locales del establecimiento
+Adecuación de instalación eléctrica a normativas vigentes, ejecución de instalación sanitaria nueva para los núcleos sanitarios, instalación pluvial.
+Reinstalación de cañerías de gas exteriores en el interior del edificio.",Licitación,licitación,Mejora Edilicia,-,02/01/2023,02/05/2023,1/5/2024,NA
+x016,0200953,BERON DE ASTRADA 5920,"Adecuacion accesibilidad y electrica, incendio, pintura interior + ver cd patio",En Proyecto,corporacion sur,Mejora Edilicia,NA,NA,NA,30/12/1899,NA
+x018,0200251,AVDA. CASEROS 1555 FRACASO,Impermeabilización de techos,Licitación,licitación,Mejora Edilicia,-,24/02/2023,24/06/2023,21/11/2023,NA
+x019,0200601,MORON 3745 / FRACASADA,NA,Licitación,licitación,Mejora Edilicia,17/11/2022,02/12/2022,01/04/2023,1/4/2023,NA
+x020,0200312,RONDEAU 2751 - BERNASCONI,Freno de deterioro en fachadas exteriores e interiores,Licitación,licitación,Mejora Edilicia,-,2/2/2023,2/6/2023,22/5/2025,NA
+x022,0200003,AVDA. SANTA FE 1510 / FRACASADA,"Patios, freno de deterioro en las fachadas.",Licitación,licitación,Mejora Edilicia,18/11/2022,01/12/2022,31/03/2023,26/11/2023,NA
+x023,0200137,SAN JUAN 1545,"Impermeabilizacion de todas las terrazas y cubiertas. tratamiento de patologias estructurales, hierros expuestos. Tratamiento de humedad de cimientos. Optimizacion en instalaciones pluvial.",Finalizado,finalizado,Mejora Edilicia,07/03/2022,19/04/2022,07/07/2022,4/12/2022,100%
+x024,0200300,24 DE NOVIEMBRE 1536,"Accesibilidad, ascensor, instalacion electrica completa",En Obra,en obra,Mejora Edilicia,NA,NA,8/7/2022,1/5/2023,57%
+x025,0200029,PARAGUAY 1950,Impermeabilizacion,En Obra,en obra,Mejora Edilicia,NA,NA,1/5/2023,1/5/2023,56%
+x026,0200007,LIBERTAD 581,"Freno de deterioro (escuela patrimoniada): restauración de las fachadas interiores (patios). Reparación de los revoques en paramentos interiores (circulaciones) afectados por humedad
+De cimientos. Reparación de cielorrasos dañados por humedad.  Restauracion de zócalos perimetral de marmol, solados, escaleras principales, carpinterias y herrerias. Reacondicionamiento de aulas de jardín de infante. Colocacion de una rampa para dar accesibilidad. Adecuación de la instalación eléctrica de baja tensión y muy baja tensión, en planta baja y en
+Primer piso",En Obra,en obra,Mejora Edilicia,-,NA,27/5/2022,1/5/2023,90%
+x027,01228EU,ESTADOS UNIDOS 1228 (5to),Obra de finalizacion 5to piso dginfe,Finalizado,neutralizada,Mejora Edilicia,-,NA,12/5/2022,10/8/2022,100%
+x028,0200425,AVDA. JOSE MARIA MORENO 345,"Accesibilidad, ascensor. (amparo)",Finalizado,finalizado,Mejora Edilicia,-,NA,15/9/2021,12/6/2022,100%
+x029,0200902,TANDIL 6690,"Accesibilidad, ascensor.",Finalizado,finalizado,Mejora Edilicia,-,NA,19/1/2022,17/1/2023,100%
+x030,0200829,AVDA. ALVAREZ JONTE 5075,Instalacion electrica completa,Finalizado,finalizado,Mejora Edilicia,NA,NA,19/8/2022,31/1/2023,100%
+x031,0200025,LAVALLE 1681,"Mejora edilicia, instalacion electrica completa",En Obra,en obra,Mejora Edilicia,NA,NA,3/6/2022,1/6/2023,78%
+x032,0200139,AVDA. ENTRE RIOS 757,"Instalacion electrica completa, impermeabilizacion, mejoras varias en el edificio",En Obra,en obra,Mejora Edilicia,-,NA,22/12/2021,28/2/2023,61%
+x033,0200788,AVDA. SALVADOR MARIA DEL CARRIL 3650,"Restauración y puesta en valor de
+Fachadas externas e internas (patio) -
+Restauración de revoques en general,
+Cielorrasos, solados, cambio de cubierta
+De tejas coloniales, reacondicionamiento
+De locales en 1º piso, instalaciones
+Eléctricas , sanitarias y termomecánicas",En Obra,en obra,Mejora Edilicia,-,4/8/2021,22/2/2022,1/3/2023,96%
+x034,0200259,ARCAMENDIA 743,"Instalacion electrica completa, impermeabilizacion, restauracion de un sector de fachada",En Obra,en obra,Mejora Edilicia,-,NA,23/11/2021,1/3/2023,78%
+x035,0200195,AVDA. PASEO COLON 650,Instalacion electrica completa sector talleres,En Obra,en obra,Mejora Edilicia,-,NA,27/12/2021,22/12/2022,66%
+x036,0200528,AV DEL LIBERTADOR 8635,Sanitarios. (Fondos covid),Finalizado,finalizado,Mejora Edilicia,NA,NA,18/8/2022,15/1/2023,100%
+x037,0200322,JUJUY 255,Sanitarios. (Fondos inet),Licitación,licitación,Mejora Edilicia,-,17/10/2022,14/2/2023,14/6/2023,NA
+x038,0200670,Gral. Enrique Martinez 1432,Plan obras covid comedor,Finalizado,finalizado,Mejora Edilicia,NA,NA,12/7/2022,10/9/2022,100%
+x039,0200146,MEXICO 1627,Sanitarios. (Fondos covid),Finalizado,finalizado,Mejora Edilicia,NA,NA,18/8/2022,1/3/2023,100%
+x040,0200790,NAVARRO 4344,"Sanitarios, electricidad, accesibilidad y preceptoria",En Obra,en obra,Mejora Edilicia,NA,NA,27/5/2022,1/5/2023,69%
+x041,0200629,OLIDEN 2855,"Etapa 2022-23 adecuación instalación eléctrica e incendio, accesibilidad básica con pintura en áreas significativas",En Obra,en obra,Mejora Edilicia,15/4/2021,27/4/2022,1/12/2022,1/1/2024,2%
+x042,0200519,RAMSAY 2250,"Etapa 2022-23 adecuación de cubierta, instalación eléctrica",En Obra,en obra,Mejora Edilicia,1/6/2021,11/5/2022,1/12/2022,30/5/2023,2%
+x043,0200261,AVDA. GRAL. IRIARTE 3880,Traslado de aulas modulares + adecuación y tendido elect,En Obra,en obra,Mejora Edilicia,31/7/2021,18/11/2021,23/8/2022,19/6/2023,36%
+x044,0200028,JUNCAL 3251 / adicional proyecto aula,"Nuevo ascensor exterior - aumento caudal, reserva sanitaria",En Obra,en obra,Mejora Edilicia,2/8/2021,22/10/2021,26/6/2022,22/4/2023,63%
+x045,0200916,YRUPE 6835,Ampliación de nucleos sanitarios / ampliacion del comedor / instalacion electrica del jardin,Licitación,licitación,Mejora Edilicia,15/03/2022,16/1/2023,16/5/2023,12/12/2023,NA
+x046,0200320,AVDA. JUJUY 780,Cambio de chapas y pintura,En Obra,en obra,Mejora Edilicia,NA,13/7/2022,20/01/2023,20/4/2023,52%
+x047,0200002,AVDA. PTE. MANUEL QUINTANA 31,Acondicionamiento de fachadas/ adecuacion de supervision de1,En Obra,en obra,Mejora Edilicia,7/9/2021,7/3/2022,1/12/2022,31/10/2023,0%
+x048,0200755,VALLEJOS 2555 CAF,"Etapa i2020 adecuacion espacios aulicos y ampliacion comedor pintura, accesibilidad",Licitación,f14 - caf - rescindio,Mejora Edilicia,20/9/2021,17/10/2022,14/2/2023,14/2/2023,NA
+x049,0200085,JOSE ANTONIO CABRERA 3430,Reparaciones varias. Mejoras en núcleos sanitarios. Ejecución cuña desmontable. Tratamiento de humedad de cimientos. Trabajos sanitarios. Instalación eléctrica,En Obra,en obra,Mejora Edilicia,1/10/2021,9/12/2021,8/7/2022,1/5/2023,87%
+x050,0200445,AVDA. SANTA FE 5039,Instalación eléctrica,En Obra,en obra,Mejora Edilicia,1/10/2021,26/11/2021,8/10/2022,6/4/2023,55%
+x051,0200798,AVDA. FRANCISCO BEIRO 4418,"Cielorrasos, instalación iluminacion (taller de cerámica), puesta en valor y refuncionalizacion de la ex vivienda del casero y depositos en pb, carpinterías, instal elect, pintura",En Obra,en obra,Mejora Edilicia,4/10/2021,24/11/2021,26/8/2022,23/4/2023,45%
+x052,0200906,AVDA. LARRAZABAL 420,"Reparación en cubiertas, impermeabilización.",En Obra,en obra,Mejora Edilicia,7/1/2022,16/6/2022,1/12/2022,30/4/2023,24%
+x053,0202188,POLO SAAVEDRA,"Terminación vestuarios, pileta, sanitarios, estacionamiento, parquizado",En Obra,en obra,Mejora Edilicia,15/10/2021,5/9/2022,20/1/2023,16/12/2023,2%
+x054,0200708,ECHEVERRIA 5034,"Demoliciones varias, reparaciones y provisión de nuevas carpinterías (herreria), accesibilidad basica, sanitario adaptado, patio, pintura gral.",En Obra,en obra,Mejora Edilicia,18/10/2021,19/3/2022,23/9/2022,22/3/2023,45%
+x055,0201863,AYACUCHO 632 / PERU 1236 ASCENSORES,Adecuacion y puesto funcionamiento elevadores,En Obra,en obra,Mejora Edilicia,27/6/2022,22/7/2022,22/12/2022,29/7/2023,39%
+x056,0200666,ALMTE. FRANCISCO J. SEGUI 2580,"Biblioteca, sala maestros, filtraciones",Finalizado,finalizado,Mejora Edilicia,15/12/2021,19/5/2022,20/10/2022,23/2/2023,100%
+x057,0200821,CUZCO 116,Cambio de cubiertas. Reacondicionamiento sanitario. Reparaciones varias. Pintura. Instalacion electrica completa,En Obra,en obra,Mejora Edilicia,11/10/2021,27/12/2021,26/9/2022,23/6/2023,55%
+x058,0200428,AVDA. CURAPALIGUE 1150,Refaccion integral edilicia accesibilidad plena carpinteria y pintura patio,Licitación,licitación,Mejora Edilicia,26/10/2021,25/1/2022,25/5/2022,20/1/2023,NA
+x059,0200665,FITZ ROY 171,"Accesibilidad basica,  cubierta, pintura hall y patio. Instalacion electrica completa",En Proyecto,a enviar a cyp,Mejora Edilicia,23/11/2022,24/4/2023,22/8/2023,18/2/2024,NA
+x060,0200136,AVDA. SAN JUAN 2277,Proyecto de accesibilidad y pintura general. Agregar impermeabilización. Expediente: construccion de galeria en patio para paso (jardin),Planificado,banco de proyectos,Mejora Edilicia,01/05/2023,28/9/2023,26/1/2024,23/8/2024,NA
+x061,0200326,CARLOS CALVO 3150 - LA RIOJA 1042,2 aulas de jardín. Accesibilidad plena adecuacion pintura acceso y circulaciones. Casa casero,Licitación,licitación,Mejora Edilicia,9/11/2021,17/1/2023,17/5/2023,12/3/2024,NA
+x062,0202179,LOS PATOS 3004,"Puerta, ampliación aulas",Licitación,licitacion,Mejora Edilicia,18/10/2021,29/12/2022,28/4/2023,24/12/2023,NA
+x063,0200794,MERCEDES 4002,", Adecuacion de cubierta, pluviales, carpinteria. Arreglo de revoques en aulas y patio. Adecuacion pintura interior de areas significantes y patio. Agregar sdf",Licitación,licitacion,Mejora Edilicia,11/04/2022,13/3/2023,11/7/2023,6/5/2024,NA
+x064,0200253,JUAN CARLOS GOMEZ 253,"Acondicionamiento inst electrica incendio, carpinteria arreglo de revoque y piso patio + adecuacion casa casero para re ubicación aula adecuacion pintura interior pasillos (dgmesc pintaria aulas ) y areas significantes  + patio y fachada",En Obra,en obra,Mejora Edilicia,19/11/2021,7/7/2022,1/12/2022,15/6/2023,23%
+x065,0200123,CHILE 1626,"Etapa 2022-23 adecuación de cubierta, patio, instalación eléctrica completa (amparo) y pintura",En Proyecto,en proyecto/instalaciones,Mejora Edilicia,03/10/2022,15/5/2023,12/9/2023,9/2/2024,NA
+x066,0200032,CARLOS PELLEGRINI 1515,Proyecto terminado por sum,Licitación,licitación,Mejora Edilicia,04/07/2022,17/10/2022,14/2/2023,12/9/2023,NA
+x067,0200552,AVDA. SAN PEDRITO 1415,"Patio cubierto, creacion de un comedor con sanitarios",Planificado,a iniciar proyecto,Mejora Edilicia,01/05/2023,21/9/2023,19/1/2024,15/9/2024,NA
+x068,0200009,TTE. GRAL. JUAN DOMINGO PERON 1140,"Adecuacion de cubierta , sanitario ,electricidad , cielorraso , carpinteria                                                          arreglo de revoques  en aulas y patio                                                                 adecuacion pintura interior de areas significantes  y patio",Planificado,banco de proyectos,Mejora Edilicia,30/6/2023,12/11/2023,11/3/2024,7/9/2024,NA
+x069,0200777,HELGUERA 2435,"Acondicionamiento  de cubierta , cocina , inst electrica + gas e incendio , arreglo patio y  muros con sus revoques                                                                                        adecuacion  pintura interior de areas significantes  y patio",Planificado,banco de proyectos,Mejora Edilicia,28/4/2023,23/9/2023,21/1/2024,19/7/2024,NA
+x070,0200797,PEDRO LOZANO 3056,Impermeabilizacion parcial y pintura de cielorrasos. Albañileria. Reparacion de escaleras. Humedad de cimientos.,En Proyecto,cyp,Mejora Edilicia,2/8/2022,9/4/2023,7/8/2023,2/6/2024,NA
+x071,0200508,ROQUE PEREZ 3545 (amparo),Amparo - accesibilidad plena y pintura parcial + ie ajustar,En Proyecto,en proyecto,Mejora Edilicia,1/3/2023,7/7/2023,4/11/2023,2/5/2024,NA
+x072,0200728,TRONADOR 4134,"Reparación de humedad de cimientos, reparación de las mamposterías afectadas y pintura integral. Impermeabilización de cubiertas, en sector con filtraciones y respiración de cielorrasos.
+Acondicionamiento de baños",Planificado,banco de proyectos,Mejora Edilicia,17/07/2023,24/11/2023,23/3/2024,19/9/2024,NA
+x073,0200088,AVDA. ANGEL GALLARDO 246,"Restauracion patrimonial,impermeabilizacion, cielorrasos, acondicionamiento instalaciones y  pintura patios",Licitación,f14 - dgar,Mejora Edilicia,21/3/2022,12/7/2022,9/11/2022,7/7/2023,NA
+x074,0200298,CATAMARCA 462,Pintura general y arreglos de algunos sectores de revoque.,En Obra,en obra,Mejora Edilicia,-,25/07/2022,20/1/2023,11/4/2023,80%
+x075,0200729,QUESADA 4357,Acondicionamiento de pisos y cielorraso. Revision de instalacion electrica.  Provisión de agua. Arreglo de revoque en fachada internas. Adecuacion de sanitarios. pintura completa. Humedad de cimiento sobre medianera. Intervencion casa del casero.,En Proyecto,en proyecto/instalaciones,Mejora Edilicia,15/11/2022,12/5/2023,9/9/2023,7/3/2024,NA
+x076,0200950,AVDA. LARRAZABAL 4520,"Instalación eléctrica completa, filtraciones, cambio de parasoles, pintura general",En Proyecto,a cerrar pliego,Mejora Edilicia,23/05/2022,24/3/2023,22/7/2023,16/7/2024,NA
+x077,0200530,CUBA 2410,"Instalacion electrica y  termomecanica, filtracion por cubierta.",Licitación,licitación,Mejora Edilicia,10/05/2022,1/2/2023,1/6/2023,27/1/2024,NA
+x078,0200354,CAMARGO 725,"Acondicionamiento  de acc basica cubierta (nueva toda la cubierta del gym),inst electricidad,  incendio, cambio calera, prov agua  arreglo menores de revoquers patio. pintura genereal.  provicion de moviliariio para guardado",Licitación,licitación,Mejora Edilicia,01/02/2022,12/9/2022,10/1/2023,9/7/2023,NA
+x079,0200302,HUMBERTO Iº 3171,"Acondicionamiento  de acc basica, sanitarios , inst electrica e incendio, prov de agua , cielorraso   , carpinteria ,arreglo patio y  muros con sus revoques. pintura  y patio",En Proyecto,control doc,Mejora Edilicia,08/03/2022,18/3/2023,16/7/2023,11/5/2024,NA
+x080,0200962,AQUINO 6040,"Instalacion electrica, mejorar patio, sanitarios, y accesibilidad basica. Ampliacion de aulas region v (4 / 5 aulas), ver posibilidad de cambio de sistema de calefaccion",En Proyecto,en proyecto,Mejora Edilicia,18/1/2023,10/7/2023,7/11/2023,#VALUE!,NA
+x081,0200628,LACARRA 1135,"Cubierta, carpinterias (madera, deterioradas), playon de acceso, puesta en valor sector original del edificio",Planificado,a iniciar proyecto,Mejora Edilicia,3/7/2023,15/11/2023,14/3/2024,10/9/2024,NA
+x082,0200412,DON BOSCO 4200,"Sanitarios y carp, pintura en areas comunes.",Planificado,a iniciar proyecto,Mejora Edilicia,20/3/2023,7/8/2023,5/12/2023,2/6/2024,NA
+x083,0200097,AVDA. RIVADAVIA 3577,Reparación de estructura y vitreaux en el salón de actos del 1º piso (ver electrica de las areas a intervenir),Planificado,a iniciar proyecto,Mejora Edilicia,27/3/2023,9/8/2023,7/12/2023,4/6/2024,NA
+x084,0200496,CUBA 2039,"Sanitarios, cubierta, carpinterias y pintura",Licitación,licitacion,Mejora Edilicia,13/7/2022,27/2/2023,27/6/2023,23/1/2024,NA
+x085,0200497,MOLDES 1858,Sanitarios y patios / ie completa,Planificado,a iniciar proyecto,Mejora Edilicia,19/4/2023,3/9/2023,1/1/2024,29/6/2024,NA
+x086,0200501,AVDA. CABILDO 3615,"Sanitarios, impermeablizacion y pintura / ie completa",Planificado,a iniciar proyecto,Mejora Edilicia,30/6/2023,17/11/2023,16/3/2024,12/10/2024,NA
+x087,0200178,AVDA. DON PEDRO DE MENDOZA 1835,"Acondicionamiento  de cubierta, instalacion sanitario, electrica e incendio. Arreglo de revoques menores en aulas.  Adecuacion pintura interior de areas significantes  y patio.",En Proyecto,en proyecto,Mejora Edilicia,12/04/2022,22/5/2023,19/9/2023,#VALUE!,NA
+x088,0200568,AVELINO DIAZ 2356,"Adecuar patios, carps, impermeabilización y reparación de muros afectados, electrica completa, incendio, accesibilidad basica, pintura",Planificado,a iniciar proyecto,Mejora Edilicia,12/5/2023,24/9/2023,22/1/2024,19/8/2024,NA
+x089,0200001,AYACUCHO 1680,Facahadas y carpinterias / aula de gines,Planificado,a iniciar proyecto,Mejora Edilicia,27/3/2023,24/8/2023,22/12/2023,19/7/2024,NA
+x090,0202391,DR. ANTONIO BERMEJO 6675 -MODULARES BERMEJO,Adaptacion de modulares en un cfp / acceso independiente / cambiar sanitarios / instalaciones/ aula,En Proyecto,f14 - cyp,Mejora Edilicia,14/01/2022,NA,10/9/2022,10/9/2022,NA
+x091,0200600,GRAL. VENANCIO FLORES 3869,Ampliación - rehabilitación parcial - instalación eléctrica,En Obra,en obra,Mejora Edilicia,NA,03/02/2022,1/11/2022,28/8/2023,14%
+x092,0200498,JUANA DE AZURDUY 2541,"Acond de sanitarios, prov de agua , carpinteria y pintura en areas sgnificativas",Licitación,licitación,Mejora Edilicia,01/06/2022,2/2/2023,02/06/2023,NA,NA
+x093,0200918,GOLETA SANTA CRUZ 6997,"Carpinterías, cubierta y pintura en areas significativas",Licitación,licitación,Mejora Edilicia,04/07/2022,26/09/2022,24/1/2023,22/8/2023,NA
+x094,0200502,MENDOZA 1000,Accesibilidad plena. Acondicionamiento / recambio de carpinterías y herrajes. Subsanación de grietas en muros. Revestimiento de toda la fachada (se retiró parte del revestimiento de ladrillo original por desprendimiento) / contrapiso a nuevo del patio del comedor / detector de intrusos (alarma / amparo,Licitación,licitación,Mejora Edilicia,20/07/2022,14/02/2023,14/06/2023,09/04/2024,NA
+x095,0200427,RIVADAVIA 4950 - COMEDOR,Creacion de un comedor,Licitación,licitación,Mejora Edilicia,21/06/2022,30/11/2022,30/03/2023,26/10/2023,NA
+x096,0200523,NATATORIO ROMERO BREST,A definir,Planificado,a iniciar proyecto,Mejora Edilicia,08/08/2023,03/01/2024,02/05/2024,NA,NA
+x098,0200516,ROOSEVELT 1510,"Accesibilidad plena (ascensor en patio de planta baja), reutilizacion pb para conformar un aula y acondicionar baño de discapacitado (no funciona griferia y falta timbre) / amparo",Licitación,licitación,Mejora Edilicia,02/09/2022,01/02/2023,01/06/2023,27/01/2024,NA
+x099,0200801,BAHIA BLANCA 4025,"Refuncionalizacion edilicia: casa del casero en oficinas de la supervision. Accesibilidad basica, instalacion electrica completa, sanitaria y termomecanica.",En Proyecto,cyp,Mejora Edilicia,15/09/2022,25/03/2023,23/07/2023,NA,NA
+x101,0200718,EX YRURTIA  - ALBERDI 4754,"Completo o por etapas de obra / acondicionamiento de aulas, sanitarios y pintura general",Planificado,a iniciar proyecto,Mejora Edilicia,18/04/2023,10/09/2023,08/01/2024,NA,NA
+x102,0200179,LAMADRID 499,"Historica. Fachada, patio, instalacion electrica,carpinterias,sanitarios y pintura",Planificado,a iniciar proyecto,Mejora Edilicia,04/08/2023,22/12/2023,20/4/2024,NA,NA
+x103,0201864,LACARRA 1151 Y AVDA. FRANCISCO BILBAO,"Fachadas exteriores (desprendimiento de pintura y revoques), humedad en subsuelo y levantamiento de solado, aulas en mal estado (placas de cielorraso faltantes, pinturas con grafitis), patio cubierto con filtración por cubierta de vidrio. Baños: filtración, faltante de cerámicos y artefactos de luz. pintura en general.",En Proyecto,a pasar a cyp,Mejora Edilicia,23/11/2022,25/04/2023,23/08/2023,20/3/2024,NA
+x104,0200369,LUIS VIALE 1052,"Patio, demolicion de casa del casero en patio, pluviales del patio, accesibilidad basica, baños",En Proyecto,en proyecto,Mejora Edilicia,09/02/2023,19/06/2023,17/10/2023,NA,NA
+x105,0200304,GRAL URQUIZA 277,Casa de casero,Licitación,licitacion,Mejora Edilicia,12/11/2022,14/03/2023,12/07/2023,NA,NA
+x106,0200746,JOSE CUBAS 4440,Instalacion electrica + accesibilidad + filtraciones + pintura,En Proyecto,a iniciar proyecto,Mejora Edilicia,22/03/2023,17/07/2023,14/11/2023,NA,NA
+x107,0200720,TAMBORINI 3948 - PLANI,"Sanitarios, revoques, patios y pintura.",Licitación,licitación,Mejora Edilicia,17/10/2022,07/02/2023,07/06/2023,NA,NA
+x108,0200444,LIBERTADOR 4777,Electrica e incendio / amparo,Licitación,licitación,Mejora Edilicia,-,19/01/2023,19/05/2023,NA,NA
+x109,0200016,AYACUCHO 1849,Instalacion electrica,Licitación,licitacion,Mejora Edilicia,23/01/2023,15/03/2023,13/07/2023,NA,NA
+x110,0200563,CARABOBO 253 RESCISION,Acondicionamiento de sanitarios pb y 1er. Pintura. Provision de piletones de acero inx. Acondicionamiento de solado en expansion descubierta del 2do piso. Creacion de sanitario para disca en pb. Rearmado de locales con tabiqueria en area de  pb. Colocacion de montaescalera en acceso (pb).,En Proyecto,cyp,Mejora Edilicia,22/11/2022,05/04/2023,03/08/2023,NA,NA
+x112,0200441,GURRUCHAGA  739,Instalacion electrica,Licitación,licitación,Mejora Edilicia,18/11/2022,19/01/2023,19/05/2023,NA,NA
+x113,0200080,RIO DE JANEIRO 986,"Acc. plena, pintura y adecuacion de instalacion electrica",En Proyecto,en proyecto,Mejora Edilicia,27/02/2023,23/05/2023,20/9/2023,NA,NA
+x114,00000AU,AV. ROCA 6902 - AUTODROMO,"Demolicion de mamposterias, tabiques, pisos y canteros. Proveer y colocar reja de proteccion en las ventanas de aula y oficina. Ejecucion de contrapiso, carpeta y solado en sector terraza. Ejecucion de canteros. Provision y colocacion de lockers. Instalacion sanitaria: instalación y colocación de nuevos inodoros pedestal, cambio de placas afectadas por humedad, proveer y colocar accesorios y espejos en los sanitarios.",Licitación,licitación,Mejora Edilicia,14/10/2022,26/01/2023,-,NA,NA
+x115,0200442,ZAPATA 449,"Impermeabilizacion, instalación pluvial y pintura",Finalizado,finalizado,Mejora Edilicia,-,-,20/05/2022,16/11/2022,100%
+x116,0200006,JUNCAL 690,"Reparacion de cubiertas (inicial y primaria), acc basica (montasilla y baño de disca), pintura general - instalacion electrica de la inicial - sector de sombras inicial y primaria - solado de patio de la primaria e inicial - recambio de carpinterias y colocacion de rejas - evaluacion de instalacion sanitaria + ee: remediacion de rejas",En Proyecto,en proyecto/instalaciones,Mejora Edilicia,7/12/2022,21/5/2023,18/9/2023,16/3/2024,NA
+x117,00000EB,ESTACION BUENOS AIRES PRIMARIA,"Creacion de una escuela con 14 aulas comunes, 1 aula de música, 1 aula de
+Plástica, 1 aula laboratorio y un espacio para biblioteca.
+Además la escuela contara con un s.u.m. cubierto, comedor independiente para la
+Población de la escuela, cocina y el área de gestión administrativa completa.",Licitación,f14 - licitacion,Obra Nueva,-,25/11/2022,25/03/2023,15/09/2024,NA
+x119,0200644,LACARRA 535,"Cielorrasos, ie del sector",En Proyecto,cyp,Mejora Edilicia,-,03/04/2023,1/8/2023,NA,NA
+x121,0200193,"QUINQUELA MARTIN, BENITO 1649 GRUPO -",2do año,En Obra,en obra,SDF,NA,NA,28/12/2022,28/03/2023,40%
+x122,0200382,AV. GAONA 1502 GRUPO -,2do año,En Obra,en obra,SDF,NA,NA,NA,26/05/2023,0%
+x123,0200575,PUMACAHUA 390 GRUPO 1,2do año,Licitación,esperando documentacion,SDF,NA,NA,NA,NA,DGMESC
+x123,0200527,AV. CRAMER 2136 GRUPO 1,2do año,Licitación,esperando documentacion,SDF,NA,NA,NA,NA,DGMESC
+x123,0200571,"CNEL. FALCON, RAMON L.,2248 GRUPO 1",2do año,Licitación,esperando documentacion,SDF,NA,NA,NA,NA,DGMESC
+x124,0200030,CALLAO AV. 450 GRUPO 2,2do año,En Obra,en obra,SDF,NA,NA,NA,21/04/2023,0%
+x124,0200022,LIBERTAD 1257 GRUPO 2,2do año,En Obra,en obra,SDF,NA,NA,NA,20/02/2023,0%
+x125,0200963,"CHILAVERT, MARTINIANO, CORONEL 5460 GRUPO -",2do año,En Obra,en obra,SDF,NA,NA,03/01/2023,04/03/2023,55%
+x126,0200827,GALLARDO 149 GRUPO 3,2do año,Finalizado,finalizado,SDF,NA,NA,22/01/2023,04/04/2023,100%
+x126,0200839,MORON 4149 GRUPO 3,2do año,Finalizado,finalizado,SDF,NA,NA,22/01/2023,23/03/2023,100%
+x127,0200319,COCHABAMBA 2830 GRUPO 4,2do año,Finalizado,finalizado,SDF,-,-,10/12/2022,08/02/2023,100%
+x127,0200470,MALABIA 2148 GRUPO 4,2do año,Finalizado,finalizado,SDF,-,-,10/12/2022,08/02/2023,100%
+x128,0200318,AV. JUJUY 150 GRUPO 5,2do año,Finalizado,finalizado,SDF,-,-,01/12/2022,30/01/2023,100%
+x128,0200426,FORMOSA 136 GRUPO 5,2do año,Finalizado,finalizado,SDF,-,-,01/12/2022,30/01/2023,100%
+x129,0200385,PADILLA 1051 GRUPO 6,2do año,En Obra,en obra,SDF,NA,NA,17/01/2023,18/03/2023,40%
+x129,0200380,AV. RIVADAVIA 5161 GRUPO 6,2do año,En Obra,en obra,SDF,NA,NA,17/01/2023,18/03/2023,45%
+x130,0200965,AV.LARRAZABAL 5140 GRUPO 7,2do año,Finalizado,finalizado,SDF,NA,NA,10/01/2023,11/03/2023,100%
+x130,0200962,AQUINO 6040 GRUPO 7,2do año,Finalizado,finalizado,SDF,NA,NA,10/01/2023,11/03/2023,100%
+x131,0200195,PASEO COLON AV. 650 GRUPO -,2do año,Licitación,433,SDF,NA,26/12/2022,NA,NA,0%
+x132,0200832,"MAGARIÑOS CERVANTES, A. 5068 GRUPO -",2do año,Licitación,433,SDF,NA,30/12/2022,NA,NA,0%
+x133,0200655,ACASSUSO 6138 ANEXO GRUPO -,2do año,En Obra,en obra,SDF,NA,17/01/2023,15/01/2023,16/03/2023,87%
+x134,0200683,AV. DEL CAMPO 1340 GRUPO 8,2do año,En Obra,en obra,SDF,NA,17/01/2023,15/01/2023,16/03/2023,55%
+x134,0201864,AV. LACARRA 1151 GRUPO 8,2do año,Finalizado,finalizado,SDF,NA,17/01/2023,15/01/2023,16/03/2023,100%
+x135,0200029,AYACUCHO 875 GRUPO -,2do año,Licitación,433,SDF,NA,28/12/2022,NA,NA,30%
+x136,0200425,AV.JOSE MARIA MORENO 345 GRUPO 9,3er año,En Obra,en obra,SDF,NA,NA,10/01/2023,11/03/2023,75%
+x136,0202188,"LARRALDE, CRISOLOGO AV. 5085 GRUPO 9",3er año,En Obra,en obra,SDF,NA,NA,10/01/2023,11/03/2023,33%
+x137,0200795,MANUEL PORCEL DE PERALTA 1437 GRUPO 10,3er año,Finalizado,finalizado,SDF,NA,NA,19/01/2023,20/03/2023,100%
+x137,0200679,NICASIO OROÑO 2131 GRUPO 10,3er año,En Obra,en obra,SDF,NA,NA,19/01/2023,20/03/2023,97%
+x138,0200964,SOLDADO DE LA FRONTERA AV. 5155 GRUPO 11,3er año,Licitación,esperando documentacion,SDF,NA,NA,NA,NA,DGMESC
+x138,0200863,MARTINEZ CASTRO 3067 GRUPO 11,3er año,Licitación,esperando documentacion,SDF,NA,NA,NA,NA,DGMESC
+x139,0200949,AV. RIESTRA 5030 GRUPO 12,3er año,En Obra,en obra,SDF,NA,NA,18/01/2023,19/03/2023,75%
+x139,0200886,AV. SAENZ 631 GRUPO 12,3er año,En Obra,en obra,SDF,NA,NA,18/01/2023,19/03/2023,75%
+x140,0202662,"ALBERDI, JUAN BAUTISTA AV. 4139 GRUPO 13",3er año,En Obra,en obra,SDF,NA,NA,10/01/2023,11/03/2023,75%
+x140,0200642,MURGUIONDO 1568 GRUPO 13,3er año,En Obra,en obra,SDF,NA,NA,10/01/2023,11/03/2023,70%
+x141,0202584,ZUVIRIA 6550 GRUPO 14,3er año,En Obra,en obra,SDF,NA,NA,NA,03/02/2023,5%
+x141,0200098,ECUADOR 1158 GRUPO 14,3er año,En Obra,en obra,SDF,NA,NA,NA,03/02/2023,1%
+x142,0200099,"GOMEZ, VALENTIN 3163 GRUPO 15",3er año,En Obra,en obra,SDF,NA,NA,NA,03/02/2023,20%
+x142,0200197,"VILLAFAÑE, WENCESLAO 1342 GRUPO 15",3er año,En Obra,en obra,SDF,NA,NA,NA,03/02/2023,20%
+x143,0200257,SANTA MAGDALENA 431 GRUPO -,3er año,En Obra,en obra,SDF,NA,NA,22/01/2023,23/03/2023,10%
+x144,0200572,"ALBERDI, JUAN BAUTISTA AV. 1845 GRUPO 16",3er año,En Obra,en obra,SDF,NA,NA,10/01/2023,11/03/2023,0%
+x144,0200650,Oliden 1245 GRUPO 16,3er año,En Obra,en obra,SDF,NA,NA,NA,28/03/2023,0%
+x145,0200871,"AGUSTIN DE VEDIA, 2519 GRUPO 17",3er año,Licitación,esperando documentacion,SDF,NA,NA,NA,NA,0%
+x145,0200647,AV. ESCALADA 2890 GRUPO 17,3er año,Licitación,esperando documentacion,SDF,NA,NA,NA,28/02/1900,0%
+x148,0202635,VENEZUELA 3259,Instalacion electirca impermeabilizacion,Finalizado,finalizado,Mejora Edilicia,-,7/5/2021,21/9/2021,25/1/2022,100%
+x149,0200362,Franklin 1836,Sanitarios. (Fondos covid),Finalizado,finalizado,Mejora Edilicia,NA,NA,3/1/2022,3/4/2022,100%
+x150,0200032,PELLEGRINI 1515,Puesta en valor de la escalera,Finalizado,finalizado,Mejora Edilicia,-,NA,20/9/2021,19/11/2021,100%
+x151,0202584,ZUVIRIA 6554,"Tanque de bombeo, bombas (fondos covid)",Finalizado,finalizado,Mejora Edilicia,-,NA,10/2/2022,11/4/2022,100%
+x152,0202388,AVDA. RIESTRA 3300,Instalacion electrica,Finalizado,finalizado,Mejora Edilicia,-,NA,19/11/2021,17/2/2022,100%
+x153,0200196,DON PEDRO DE MENDOZA 1777,"Reparacion de aleros, cubiertas.",Finalizado,finalizado,Mejora Edilicia,-,NA,24/9/2021,23/3/2022,100%
+x154,0202395,SIMBRON 5855,Impermeabilizacion,Finalizado,finalizado,Mejora Edilicia,-,18/6/2021,5/10/2021,3/4/2022,100%
+x155,0202569,PERU 1357,"Instalacion electrica, ampliacion, mejora edilicia",Finalizado,finalizado,Mejora Edilicia,-,24/6/2021,19/11/2021,19/3/2022,100%
+x156,0200299,SAAVEDRA 695,Mejora edilicia en varios sectores,Finalizado,finalizado,Mejora Edilicia,-,NA,23/11/2021,23/3/2022,100%
+x157,0200200,PASEO COLON 255 (4to),Conformación de la biblioteca de la universidad de la ciudad,Finalizado,finalizado,Mejora Edilicia,-,NA,4/1/2022,5/3/2022,100%
+x159,0202678,LETONIA Y ANTARTIDA ARGENTINA,"Obra en escuela temporaria de la media, se desafecta el edificio y paso a justicia",Finalizado,finalizado,Mejora Edilicia,NA,NA,NA,NA,100%
+x160,0200405,ASAMBLEA 1221,Acondicionamiento de patio,Finalizado,finalizado,Mejora Edilicia,NA,NA,NA,NA,100%
+x161,0200443,SCALABRINI ORTIZ 1336,Sanitario e impermeabilizacion,Finalizado,finalizado,Mejora Edilicia,NA,NA,NA,NA,100%
+x162,0200643,PIO COLLIVADINO 436,Reparacion de medianera,Finalizado,finalizado,Mejora Edilicia,NA,NA,NA,NA,100%
+x163,0200311,JUAN DE GARAY 3972,Pintura y acondicionamiento de patio,Finalizado,finalizado,Mejora Edilicia,NA,NA,NA,NA,100%
+x164,0202662,ALBERDI 4139,"Trabajos en  medianeras, subsuelo por filtraciones",Finalizado,finalizado,Mejora Edilicia,-,NA,20/5/2022,17/10/2022,100%
+x165,0200255,Jose A. Cortejarena 3350,Sanitarios. (Fondos covid),Finalizado,finalizado,Mejora Edilicia,NA,NA,24/5/2022,25/8/2022,100%
+x166,0200244,Lynch 3536,Sanitarios. (Fondos covid),Finalizado,finalizado,Mejora Edilicia,NA,NA,21/6/2022,19/9/2022,100%
+x167,0200529,NUÑEZ 3638,"Restauracion de fachadas, humedades de cimientos, instalacion electrica completa",Finalizado,neutralizada,Mejora Edilicia,-,NA,1/11/2021,12/11/2022,100%
+x168,0200312,RONDEAU 2751,Restauracion de cielorrasos de sector pileta,Finalizado,finalizado,Mejora Edilicia,-,NA,16/9/2021,14/1/2022,100%
+x169,0200832,ALEJANDRO MAGARIÑOS CERVANTES 5068,"Instalacion electrica completa, sanitarios",Finalizado,neutralizada,Mejora Edilicia,-,NA,5/10/2021,22/9/2022,100%
+x171,0200426,FORMOSA 136,"Accesibilidad, ascensor. (amparo)",Finalizado,finalizado,Mejora Edilicia,-,NA,27/9/2021,25/4/2022,100%
+x172,0200200,PASEO COLON 255 (5to),Conformacion de 4 aulas y apoyo administrativo,Finalizado,finalizado,Mejora Edilicia,-,NA,21/6/2022,20/8/2022,100%
+x173,0200100,JERONIMO SALGUERO 920,"Mejora edilicia, sanitarios, talleres.",Finalizado,neutralizada,Mejora Edilicia,-,NA,18/11/2021,7/1/2023,100%
+x174,0200427,AVDA. RIVADAVIA 4950,"Instalacion electrica completa, impermeabilizacion, restauracion de un sector de fachada",Finalizado,neutralizada,Mejora Edilicia,-,NA,17/11/2021,13/9/2022,100%
+x175,00000PQ,PARQUE DE LA CIUDAD,"Obra nueva, pileta",Finalizado,neutralizada,Mejora Edilicia,-,NA,25/11/2021,24/5/2022,100%
+x176,0200016,AYACUCHO 1849,NA,Finalizado,en obra,Mejora Edilicia,NA,NA,6/10/2022,03/03/2023,31%
+x177,0200635,SAN PEDRO 4457,NA,Finalizado,finalizado,Mejora Edilicia,NA,NA,27/7/2022,-,100%
+x178,0200420,QUITO 4043,Mejoramiento edilicio e instalación eléctrica,En Obra,en obra,Mejora Edilicia,1/12/2021,12/7/2022,30/1/2023,25/5/2023,42%
+x179,0200079,DR. TOMAS MANUEL DE ANCHORENA 441,Adecuacion inst y pintura,Licitación,f14 - dgar,Mejora Edilicia,-,11/7/2022,8/11/2022,8/11/2022,1%
+x180,0200026,ESMERALDA 285 CAF,"Restauracion de fachadas, refacciones generales de cielorrasos, pisos, sala
+De cooperadora y sala docente , inst eléctrica, sanitarios",En Obra,en obra,Mejora Edilicia,-,16/5/2022,20/1/2023,26/11/2023,0%
+x181,0200641,ACASSUSO 5860 sede ACASSUSO 6138 anexo,"Sede: sanitarios a nuevos, impermeabilizaciones, pintura (20mm), reparaciones varias, adecuacion de carpinterias, ie completa y cambio e canaletas y sesagues pluviales.  anexo: solado de los balcones, bicicletero, cortinas roller, adecuacion en sala de musica, pintura y arreglo de fachada, reparacion de carpinterias, patio: demarcacion de canchas, pintura y cerco de alambre. refuncionalizacion de sala de tanque. ie completa.",En Proyecto,en proyecto/instalaciones,Mejora Edilicia,03/11/2022,22/5/2023,19/9/2023,15/6/2024,NA
+x182,0200711,VALDENEGRO 3525,"Obra rescindida: trabajos de ampliación edilicia, medios de salida y pintura integral de fachadas",Finalizado,finalizado,Mejora Edilicia,19/8/2021,NA,17/01/2022,17/05/2022,100%
+x183,0200607,LA PORTEÑA 54 - YERBAL 2750,"Obra nueva, ampliación de la porteña 54  ( 9 aulas)",En Obra,en obra,Mejora Edilicia,21/03/2022,29/8/2022,20/1/2023,14/2/2024,1%
+x184,0200396,NATATORIO YERBAL 25,Puesta en funcionamiento de la plieta y accesibilidad,En Proyecto,corporacion sur,CORP SUR,01/12/2022,08/03/2023,06/07/2023,NA,NA
+x188,0200505,Barrio 31- Indira Gandhi,Obra nueva primaria -ajustes por cambio de terreno-,En Obra,en obra,OBRA NUEVA,28/7/2021,23/9/2022,1/2/2023,26/4/2024,0%
+x189,0200381,Gral. MARTIN DE GAINZA 1050,NA,En Obra,en obra,Mejora Edilicia,4/11/2021,12/8/2022,19/1/2023,15/11/2023,0%
+x191,0200381,Gral. MARTIN DE GAINZA 1050 (433),Imperbeabilizacion de un sector de azotea,Finalizado,finalizado,Mejora Edilicia,NA,NA,27/5/2023,#REF!,100%
