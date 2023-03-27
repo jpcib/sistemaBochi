@@ -6,7 +6,7 @@ subtitle: 'EPC N° 19 REPUBLICA ITALIANA - JIN C (EPCJC 19/04°)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Cambio de ventilador de techo

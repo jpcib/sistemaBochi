@@ -10,7 +10,7 @@ subtitle: 'EEM N° 04/19° HOMERO MANZI - PI POMPEYITOS'
     + En Obra - SDF 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Edificación de aula

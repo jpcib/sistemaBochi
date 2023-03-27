@@ -10,7 +10,7 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
     + En Obra - SDF 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Reparación de red pluvial

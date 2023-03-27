@@ -6,7 +6,7 @@ subtitle: 'EPC N° 11 MANUELA PEDRAZA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Adecuación de sala de plástica

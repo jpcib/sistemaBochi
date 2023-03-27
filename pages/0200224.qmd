@@ -6,7 +6,7 @@ subtitle: 'EPC N° 01 EST. PLURINACIONAL DE BOLIVIA - CECIE N° 05'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Incendio 
     + Luces de emergencia

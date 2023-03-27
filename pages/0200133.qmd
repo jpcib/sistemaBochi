@@ -6,7 +6,7 @@ subtitle: 'EPA N° 22 CARLOS PELLEGRINI - JIN A (EPCJS 22/03°) - EPC N° 22 CAR
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Reparar filtraciones en cubierta

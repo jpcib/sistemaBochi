@@ -6,7 +6,7 @@ subtitle: 'INST. SUPERIOR DEL PROF. DE EDUC. INICIAL SARA CHAMBERLAIN DE ECCLEST
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + readecua normativa circuito tomas

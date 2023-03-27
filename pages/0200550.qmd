@@ -6,7 +6,7 @@ subtitle: 'JIN B (EPCJC 02/11°) - EPC N° 02 MAXIMIO S. VICTORIA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Reemplazo de anafe en sala auxiliares

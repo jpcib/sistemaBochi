@@ -6,7 +6,7 @@ subtitle: 'EPC N° 16 PRESIDENTE MITRE - EPA N° 16 PRESIDENTE MITRE - ESCUELA I
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Reparar/reemplazar ventilador.

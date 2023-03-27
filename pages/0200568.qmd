@@ -10,7 +10,7 @@ subtitle: 'EPC N° 22 HIPOLITO BOUCHARD'
     + Planificado - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Instalación de A°A° de tipo split

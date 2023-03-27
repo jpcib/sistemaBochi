@@ -6,7 +6,7 @@ subtitle: 'EPC N° 08 CARMEN C. DE MENDEZ CASARIEGO - JIN B (EPCJC 08/14°)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Refuerzo bovedilla-Techo de cocina

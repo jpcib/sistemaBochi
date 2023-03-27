@@ -6,7 +6,7 @@ subtitle: 'JIN C (EPCJC 28/04°) [S] - EPC N° 28 FRANCISCO PASCASIO MORENO - CA
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Luces de emergencia

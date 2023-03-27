@@ -10,7 +10,7 @@ subtitle: 'EEM N° 01/20° BIB.CONGRESO DE LA NACION - ESCUELA INF. N° 08/20° 
     + En Obra - SDF 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Prov, coloc 4 reflectores LED 100 watt

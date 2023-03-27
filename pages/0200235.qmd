@@ -6,7 +6,7 @@ subtitle: 'EPC N° 13 FRAY MAMERTO ESQUIU'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Prov. Inst. artefacto cocina

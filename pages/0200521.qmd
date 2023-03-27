@@ -6,7 +6,7 @@ subtitle: 'LICEO N° 09 SANTIAGO DERQUI'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Aulas secundaria del futuro

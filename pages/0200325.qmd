@@ -6,7 +6,7 @@ subtitle: 'ENS N° 08 PRESIDENTE J.A. ROCA (SEDE)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Adecuación de inst de gas a normativa

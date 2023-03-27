@@ -6,7 +6,7 @@ subtitle: 'ENS N° 10 JUAN BAUTISTA ALBERDI (SEDE)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Adecuación elétrica para pantallas HDMI

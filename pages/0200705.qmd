@@ -6,7 +6,7 @@ subtitle: 'EPC N° 03 REPUBLICA DE COSTA RICA - JIN C (EPCJC 03/15°) - CECIE N�
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Cambiar cortinas de enrollar biblioteca

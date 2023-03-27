@@ -10,7 +10,7 @@ subtitle: 'EPC N° 24 CONTRALMIRANTE MARTIN GUERRICO'
     + Finalizado - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Protecciones para equipos de A.A

@@ -10,7 +10,7 @@ subtitle: 'EPC N° 19 GALICIA'
     + En Proyecto - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Aumento de potencia

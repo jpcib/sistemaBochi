@@ -10,7 +10,7 @@ subtitle: 'COLEGIO N° 07 JUAN MARTIN DE PUEYRREDON'
     + Licitación - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Incendio 
     + Reemplazo de extintores

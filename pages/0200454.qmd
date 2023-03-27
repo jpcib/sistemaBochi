@@ -6,7 +6,7 @@ subtitle: 'JIN B (EPCJS 15/09°) - EPC N° 15 CAP. GRAL. BERNARDO O HIGGINS - EP
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Reparación humedades en Placares y muros

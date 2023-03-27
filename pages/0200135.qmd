@@ -6,7 +6,7 @@ subtitle: 'JIN B (EPCJC 23/03°) [S] - CENS N° 37 SEDE - EPC N° 23 GRAL. VIAMO
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Reemplazo de ventiladores de techo

@@ -6,7 +6,7 @@ subtitle: 'CENS N° 73 - CENS N° 88'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Prov. Coloc 3 ventiladores

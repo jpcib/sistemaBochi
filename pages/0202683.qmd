@@ -6,7 +6,7 @@ subtitle: 'EPC N° 18 JORGE NEWBERY'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Adecuar sistema de calefacción

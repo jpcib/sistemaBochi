@@ -6,7 +6,7 @@ subtitle: 'JIC N° 04/21° - EPC N° 08 JUDITH Y DEMETRIO DEMARCHI - EPA N° 08 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Puesta en normativa gas.

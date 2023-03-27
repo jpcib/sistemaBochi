@@ -10,7 +10,7 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
     + En Obra - SDF 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Trabajos instalacion electrica y pintura

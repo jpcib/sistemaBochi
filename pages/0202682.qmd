@@ -6,7 +6,7 @@ subtitle: 'SUPERVISIÓN INICIAL DE 21 - ESCUELA INF. N° 11/21°'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Carpinterías 
     + Prov y coloc rejas en ventanas sector ad

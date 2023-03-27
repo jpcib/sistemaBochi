@@ -6,7 +6,7 @@ subtitle: 'ENS N° 03 BERNARDINO RIVADAVIA ([A])'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Agregar tomas-Ajuste carpinteria y cerco

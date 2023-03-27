@@ -6,7 +6,7 @@ subtitle: 'COLEGIO N° 09 JUSTO JOSE DE URQUIZA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Aulas secundarias del futuro

@@ -10,7 +10,7 @@ subtitle: 'EPC N° 08 JORGE ANGEL BOERO'
     + Planificado - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Reparacion de Central Telefonica

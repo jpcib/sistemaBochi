@@ -6,7 +6,7 @@ subtitle: 'JM N° 12/04° - ESCUELA INF. N° 08/04°'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Incendio 
     + Reemplazo y provisión de extintores falt

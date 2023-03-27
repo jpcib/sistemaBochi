@@ -6,7 +6,7 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Colocacion de dos ventiladores de 19´

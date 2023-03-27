@@ -6,7 +6,7 @@ subtitle: 'JIC Nº12 DE 06 - EPC N° 08 ALMAFUERTE'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Medios de elevación 
     + reparacion ascensor

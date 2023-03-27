@@ -6,7 +6,7 @@ subtitle: 'EPC N° 24 DE 20'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Proveer y colocar ventilador de pared

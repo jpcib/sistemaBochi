@@ -10,7 +10,7 @@ subtitle: 'COLEGIO N° 19 LUIS PASTEUR'
     + En Obra - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Reacondicionamiento de 3 aulas para SDF

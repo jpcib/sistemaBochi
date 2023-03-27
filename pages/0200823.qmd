@@ -6,7 +6,7 @@ subtitle: 'EPC N° 24 MAIPU - JIN B (EPCJS 24/18°)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Reemplazo de vidrios de ventanas

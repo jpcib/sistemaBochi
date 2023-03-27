@@ -6,7 +6,7 @@ subtitle: 'INST. DE ENSEÑANZA SUPERIOR EN LENGUAS VIVAS JUAN B. JUSTO (SEDE)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Reparaciones en Aula por Incendio

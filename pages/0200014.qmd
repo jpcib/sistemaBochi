@@ -6,7 +6,7 @@ subtitle: 'EPC N° 16 WENCESLAO POSSE - JIC N° 03/01° - CENOF CENTRO JUNCAL - 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Reparar instalación de calefacción

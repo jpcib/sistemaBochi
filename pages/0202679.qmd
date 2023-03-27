@@ -6,7 +6,7 @@ subtitle: 'EPC N° 25 BANDERA ARGENTINA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Incendio 
     + Rep. de Extintores y Acc. de la IFCI

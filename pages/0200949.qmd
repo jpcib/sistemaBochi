@@ -10,7 +10,7 @@ subtitle: 'EEM N° 04/21° - EPC N° 04 PROVINCIA DE TUCUMAN - CAIYJ CLUB LUGANO
     + En Obra - SDF 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Recambio de 7 ventiladores de pared

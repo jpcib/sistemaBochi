@@ -6,7 +6,7 @@ subtitle: 'EPC N° 15 EVARISTO CARRIEGO - ESC. DE MUSICA N° 04'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + inst. prov. ventiladores

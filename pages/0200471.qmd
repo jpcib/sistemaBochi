@@ -6,7 +6,7 @@ subtitle: 'ESC. TEC. DE JARDINERIA CRISTOBAL M. HICKEN'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Colocar Bacha, readecuar inst agua.

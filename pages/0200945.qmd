@@ -6,7 +6,7 @@ subtitle: 'CENTRO EDUCATIVO DE NIVEL PRIMARIO N° 05 - CENTRO EDUCATIVO DE NIVEL
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Acondicionar instalacion de gas

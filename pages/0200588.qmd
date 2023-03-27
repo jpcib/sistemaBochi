@@ -6,7 +6,7 @@ subtitle: 'JIN A (EPCJC 05/12°) - EPC N° 05 REPUBLICA DE EL SALVADOR'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Incendio 
     + Proveer e instalar extintores

@@ -6,7 +6,7 @@ subtitle: 'EPC N° 10 DEAN DIEGO E. DE ZAVALETA - CENS N° 75'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Colocación de 4 aires acondiconados

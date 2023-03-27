@@ -6,7 +6,7 @@ subtitle: 'EPC N° 20 TTE. BENJAMIN MATIENZO - JINB(EPCJS 20/07)VELETA DE CABALL
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Colocación de luces de emergencia

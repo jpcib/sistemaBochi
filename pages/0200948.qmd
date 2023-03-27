@@ -6,7 +6,7 @@ subtitle: 'EPC N° 03 CRISTOBAL COLON - EPA N° 03 CRISTOBAL COLON - JIN A (EPCJ
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Reposicion tanque reserva

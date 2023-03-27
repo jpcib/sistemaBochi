@@ -10,7 +10,7 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N° 02 - COLEGIO N° 02 DOMINGO FAUS
     + En Obra - SDF 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Adecuación de la instalación eléctrica

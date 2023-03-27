@@ -6,7 +6,7 @@ subtitle: 'JII N° 01/10° ATHOS PALMA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Adecuar portero eléctrico

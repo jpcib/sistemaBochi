@@ -6,7 +6,7 @@ subtitle: 'CENS N° 14 - CFP N° 04 ([A])'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Adecuación instalación de gas

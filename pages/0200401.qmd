@@ -6,7 +6,7 @@ subtitle: 'EPC N° 02 TOMAS SANTA COLOMA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Medios de elevación 
     + REPARACIÓN DE MONTASILLAS

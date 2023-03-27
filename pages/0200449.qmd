@@ -6,7 +6,7 @@ subtitle: 'JIN A (EPCJS 10/09°) [S] - EPC N° 10 MANUEL LAINEZ - ESCUELA DE MAE
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Istalación de tomas

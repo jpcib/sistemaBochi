@@ -6,7 +6,7 @@ subtitle: 'EPA N° 01 VALENTIN GOMEZ - EPC N° 01 VALENTIN GOMEZ - CENS N° 36 -
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Cambiar tapas de inspección en tranques

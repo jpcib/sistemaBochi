@@ -6,7 +6,7 @@ subtitle: 'ESCUELA INF. N° 11/05° (A) - EPC N° 28 Argentino China'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Proveer 11 ventiladores de pared de 20"

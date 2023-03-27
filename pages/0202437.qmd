@@ -6,7 +6,7 @@ subtitle: 'ESCUELA INF. N° 11/20°'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Colocacion de dos cerraduras en puertas

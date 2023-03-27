@@ -6,7 +6,7 @@ subtitle: 'ESC. DOMICILIARIA PARA NIÑOS, NIÑAS Y JÓVENES CON DISCAPACIDAD N°
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Incendio 
     + Provisión y colocación de dos matafuegos

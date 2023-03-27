@@ -6,7 +6,7 @@ subtitle: 'JIC N° 06 DE 12'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Insonorización extracción cocina

@@ -6,7 +6,7 @@ subtitle: 'Sup Primaria DE07 - EPA N° 16 ANDRES FERREYRA - EPC N° 16 ANDRES FE
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Reemplazo de puertas de salida

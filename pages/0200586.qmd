@@ -6,7 +6,7 @@ subtitle: 'JIN D (EPCJC 03/12°) [S] - EPC N° 03 EMILIO GIMENEZ ZAPIOLA - EPA N
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Incendio 
     + Proveer 4 Extintores

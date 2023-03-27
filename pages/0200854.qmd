@@ -6,7 +6,7 @@ subtitle: 'EPC N° 11 IGNACIO FERMIN RODRIGUEZ'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + colocación de estufas en aulas

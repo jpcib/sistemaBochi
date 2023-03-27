@@ -6,7 +6,7 @@ subtitle: 'Sup Inicial X A - JII N° 03/14° EL JARDIN DE OLLEROS'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Readecuacion tableros, alimentacion toma

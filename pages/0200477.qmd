@@ -6,7 +6,7 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS Y JÓVENES CON PLURIDISCAPACIDAD N° 26 DR. 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Instalacion luz de emergencia

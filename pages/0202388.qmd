@@ -10,7 +10,7 @@ subtitle: 'JM N°15/19°'
     + Finalizado - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Reposición de ventilador en comedor.

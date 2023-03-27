@@ -6,7 +6,7 @@ subtitle: 'EPC N° 03 PROF. CARLOS JUSTO FLORIT - CENS N° 84'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Instalar Split Sala Computación

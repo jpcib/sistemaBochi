@@ -6,7 +6,7 @@ subtitle: 'EPC N° 18 CABILDO DE BUENOS AIRES - EPA N° 18 CABILDO DE BUENOS AIR
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Pintura aulas PA,hall acceso,fachada,pat

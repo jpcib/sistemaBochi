@@ -10,7 +10,7 @@ subtitle: 'Sup Media Region III - COLEGIO N° 03 MARIANO MORENO - IFTS N° 28'
     + Planificado - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Readecuacion aulas para SDF.

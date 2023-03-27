@@ -6,7 +6,7 @@ subtitle: 'EPC N° 14 GUILLERMO ENRIQUE HUDSON - JIN B (EPCJS 14/18°) [S]'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Incendio 
     + Colocación de luces de emergencia

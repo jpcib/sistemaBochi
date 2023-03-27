@@ -15,15 +15,11 @@ invisible(lapply(packages, library, character.only = TRUE))
 
 ```
 
-
 ```{r data, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
 data <- read_csv("../data/base_completa_link_v3.csv") %>%
   # slice_head(n = 3)
   glimpse()
 ```
-
-
-
 
 ```{r generate_qmd, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
 
@@ -55,7 +51,6 @@ for (id_edificio in data$cui) {
 }
 
 ```
-
 
 ```{r data_infra, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
 data_infra <- read_csv("../data/infra_gop_v2.csv") %>% 
@@ -134,9 +129,6 @@ data_mtom <- read_csv("../data/mtom_2019_2023_16-03.csv") %>%
   glimpse()
 ```
 
-
-
-
 ```{r add_service_section, include=FALSE}
 add_service_section_v3 <- function(data, dir) {
   # Loop through each cui in the dataset
@@ -157,7 +149,7 @@ add_service_section_v3 <- function(data, dir) {
                               "    + ", cui_data$descripcion_obra, "\n")  
       
       # Combine the title and bulleted list
-      services_section <- paste0("\n\n ", "## Mantenimiento\n\n", paste(services_list, collapse = "\n"), "\n\n")
+      services_section <- paste0("\n\n", "## Mantenimiento\n\n", paste(services_list, collapse = "\n"), "\n\n")
       
       # Read the contents of the Quarto Markdown file
       file_contents <- readLines(file_path)
@@ -201,4 +193,3 @@ add_service_section_v3 <- function(data, dir) {
 add_service_section_v3(data_mtom, dir = ".")
 
 ```
-

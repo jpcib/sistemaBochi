@@ -6,7 +6,7 @@ subtitle: 'EPC N° 09 IRLANDA - JIN C (EPCJC 09/16°)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Construcción de una pared gimnasio

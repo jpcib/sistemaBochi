@@ -6,7 +6,7 @@ subtitle: 'EPC N° 05 GABRIELA MISTRAL - EPA N° 05 GABRIELA MISTRAL'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Instalación de termotanque en cocina

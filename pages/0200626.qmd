@@ -6,7 +6,7 @@ subtitle: 'JINC(EPCJS 08/13)[S]NIÑOS LATINOAMERIC. - EPC N° 08 REINO DE THAILA
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Medios de elevación 
     + Reparar ascensor

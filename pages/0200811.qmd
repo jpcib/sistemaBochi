@@ -6,7 +6,7 @@ subtitle: 'JIC N° 04/18° - IFTS N° 16 SEDE - EPC N° 09 PROVINCIA DE MISIONES
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Colocar 3 ventiladores y tomas

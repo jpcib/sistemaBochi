@@ -6,7 +6,7 @@ subtitle: 'JIC N° 02/13° - EPC N° 15 REPUBLICA ARGENTINA - CECEP N° 13 MARTI
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Prov y coloc.  inodoro en baño por vanda

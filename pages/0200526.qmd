@@ -6,7 +6,7 @@ subtitle: 'ESC. DE COM. N° 07 MANUEL BELGRANO - PI EL MUNDO DEL REVÉS - EEM N�
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Adecuar central telefonica

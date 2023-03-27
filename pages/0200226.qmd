@@ -6,7 +6,7 @@ subtitle: 'ESC. DE MUSICA N° 05 - EPC N° 03 BERNARDO DE IRIGOYEN - JIN A (EPCJ
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Adecuar inst eléctrica en Supervisión

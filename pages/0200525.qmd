@@ -6,7 +6,7 @@ subtitle: 'COLEGIO N° 08 JULIO ARGENTINO ROCA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Adecuacion pozo de bombeo cloacal

@@ -6,7 +6,7 @@ subtitle: 'EPC N° 02 CARLOS RAMON VIGNALE - EPA N° 02 CARLOS RAMON VIGNALE'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Instalacion luces de emergencia

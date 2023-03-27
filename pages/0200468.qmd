@@ -6,7 +6,7 @@ subtitle: 'ESC. TEC. N° 03 MARIA SANCHEZ DE THOMPSON'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Aulas del futuro

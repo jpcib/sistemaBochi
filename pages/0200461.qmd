@@ -6,7 +6,7 @@ subtitle: 'EPC N° 30 GRANADEROS DE SAN MARTIN - JIC N° 02/09° GRANADEROS DE S
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Instalación eléctrica sector hidroponia.

@@ -6,7 +6,7 @@ subtitle: 'EPC N° 14 DR. ERNESTO E. PADILLA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Instalación de un nuevo timbre de recreo

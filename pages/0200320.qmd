@@ -10,7 +10,7 @@ subtitle: 'ESC. TEC.  N°25 TTE.1° DE ARTILLERIA F.L.BELTRAN'
     + En Obra - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Reemp ventiladores en aulas y oficinas

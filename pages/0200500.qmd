@@ -6,7 +6,7 @@ subtitle: 'EPC N° 06 MANUEL DORREGO'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + cambio T°R° y colector

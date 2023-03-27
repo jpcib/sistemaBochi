@@ -6,7 +6,7 @@ subtitle: 'LICEO N° 05 PASCUAL GUAGLIANONE - ESC. TEC.  N° 18 JOSE ANTONIO ALV
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Provisión de caldera de calefacción

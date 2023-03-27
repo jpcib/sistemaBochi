@@ -6,7 +6,7 @@ subtitle: 'JII Nº 05 DE 14 - Polideportivo EEM N° 01/14°'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Prov. Inst. 2 ventiladores cocina

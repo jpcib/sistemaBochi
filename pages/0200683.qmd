@@ -10,7 +10,7 @@ subtitle: 'ESC. DE COM. N° 24 DR. DALMACIO VELEZ SARSFIELD'
     + En Obra - SDF 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Instalacion de 4 purificadores

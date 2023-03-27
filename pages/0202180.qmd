@@ -6,7 +6,7 @@ subtitle: 'ESCUELA INF. N° 12/19°'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Proveer e instalar piso en sala lila

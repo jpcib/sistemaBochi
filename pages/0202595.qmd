@@ -6,7 +6,7 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Carpinterías 
     + reparación de carpinterias de aluminio

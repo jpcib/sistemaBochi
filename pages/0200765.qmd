@@ -6,7 +6,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 16 GRAL. ING. MOSCONI'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Impermeabilizacion de cubierta plana.

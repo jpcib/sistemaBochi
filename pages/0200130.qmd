@@ -6,7 +6,7 @@ subtitle: 'EPC N° 14 GRAL. MARIANO NECOCHEA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Incendio 
     + Reposición de extintores portátiles

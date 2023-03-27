@@ -6,7 +6,7 @@ subtitle: 'JIN A (EPCJS 20/10°) - EPC N° 20 VICEALM. VICENTE E. MONTES - ESEA 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Prolongacion rejas de proteccion.

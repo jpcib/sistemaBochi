@@ -6,7 +6,7 @@ subtitle: 'EPA N° 04 RAFAEL RUIZ DE LOS LLANOS - EPC N° 04 RAFAEL RUIZ DE LOS 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Inst de gas v. solenoide y extractor

@@ -6,7 +6,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA Nª 01'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + 4 ventiladores de pared de 20" y 1 techo

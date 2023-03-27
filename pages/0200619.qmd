@@ -6,7 +6,7 @@ subtitle: 'JIN D (EPCJC 01/13°) [S] - EPC N° 01 PROF. JOSE ONAINDIA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Rep. piso cocina consecionario

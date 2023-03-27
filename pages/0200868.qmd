@@ -6,7 +6,7 @@ subtitle: 'ESCUELA INF. N° 05/19° SAN LORENZO DE ALMAGRO'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Reja perimetral con refuerzo

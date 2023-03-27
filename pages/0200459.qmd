@@ -6,7 +6,7 @@ subtitle: 'JIN C (EPCJC 20/09°) [S] - EPC N° 20 CARLOS MARIA BIEDMA - ESEA EN 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Incendio 
     + Provision y colocacion de matafuegos

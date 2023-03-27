@@ -6,7 +6,7 @@ subtitle: 'ENS N° 06 VICENTE LOPEZ Y PLANES'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Secundaria del Futuro etapa 5

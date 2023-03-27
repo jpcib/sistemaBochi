@@ -6,7 +6,7 @@ subtitle: 'EPA N° 16 RDO. PADRE AGUSTIN P. NORES - JIN C (EPCJS 16/17°) LOLA M
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Sistema de extracción de 2 anafes

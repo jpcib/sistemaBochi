@@ -6,7 +6,7 @@ subtitle: 'EPC N° 08 PROVINCIA DE SAN JUAN - JIC N° 04/07° - ESC. DE MUSICA N
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Medios de elevación 
     + Cables de traccion ascensor

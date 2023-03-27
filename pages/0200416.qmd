@@ -6,7 +6,7 @@ subtitle: 'EPC N° 22 ANTONIO ABRAHAM ZINNY - CECEP N° 08 - CECIE N° 08'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Incendio 
     + ADECUACIÓN SISTEMA FIJO CONTRA INCENDIO

@@ -10,7 +10,7 @@ subtitle: 'Polideportivo ESC. TEC. N° 30 DR. NORBERTO PIÑERO - ESC. TEC. N° 3
     + Finalizado - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Instalaciones de gas en taller fundicion

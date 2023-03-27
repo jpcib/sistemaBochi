@@ -6,7 +6,7 @@ subtitle: 'ESCUELA INF. N° 06/10° MADRE EUFRASIA IACONIS'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Prov. Coloc. de concertina

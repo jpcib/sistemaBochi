@@ -6,7 +6,7 @@ subtitle: 'JIC N° 03/05° - EPC N° 09 JOSE PEDRO VARELA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Prov colocacion termotanque eléctrico

@@ -6,7 +6,7 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N°04 - COLEGIO N° 04 NICOLAS AVELL
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Ejecución Instalacion Luz de Emergencia

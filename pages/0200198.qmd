@@ -6,7 +6,7 @@ subtitle: 'CENS N° 51 - CFP N° 01'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Cambio de termotanque a gas

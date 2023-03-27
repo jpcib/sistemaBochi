@@ -6,7 +6,7 @@ subtitle: 'ESC. DE COM.  N° 17 SANTA MARIA DE LOS BUENOS AIRES'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Instalación de bombeo

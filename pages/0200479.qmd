@@ -6,7 +6,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 09'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Remplazar artefacto luminarias

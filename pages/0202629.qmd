@@ -6,7 +6,7 @@ subtitle: 'JII Nº 09/20'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Prov. coloc. equipo de iluminacion

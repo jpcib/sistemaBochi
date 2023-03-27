@@ -6,7 +6,7 @@ subtitle: 'EPC N° 05 URSULA LLAMES DE LAPUENTE - IFTS N° 18 - CEC IDIOMAS EXTR
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Incendio 
     + Reemplazo de 3 matafuegos

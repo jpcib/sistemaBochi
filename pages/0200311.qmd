@@ -10,7 +10,7 @@ subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
     + Finalizado - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Acond. de instalación de GAS

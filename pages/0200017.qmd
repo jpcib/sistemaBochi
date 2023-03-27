@@ -6,7 +6,7 @@ subtitle: 'CENS N° 24 - EPC N° 23 BERNARDINO RIVADAVIA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Prov. coloc canillas ducha y lavatorio

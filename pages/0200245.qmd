@@ -6,7 +6,7 @@ subtitle: 'EPC N° 25 MARCOS PAZ'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Incendio 
     + Faltantes incendio según informe AJYB

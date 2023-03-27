@@ -10,7 +10,7 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
     + Licitación - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Calefaccion y Refrigeracion 
     + Reemplazo de 2 estufas

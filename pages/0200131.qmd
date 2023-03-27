@@ -6,7 +6,7 @@ subtitle: 'EPC N° 15 FRANCISCO NARCISO DE LAPRIDA - JIN B (EPCJS 15/03°) - CEN
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Adecuación de inst de gas a normativa

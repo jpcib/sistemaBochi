@@ -6,7 +6,7 @@ subtitle: 'EPC N° 02 DR. GENARO SISTO - JIN A (EPCJS 02/19°)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Colocación Tomas Salas y Sanitizador

@@ -6,7 +6,7 @@ subtitle: 'EPC N° 09 HOMERO MANZI - CENS N° 91'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Prov y coloc 2 veentiladores

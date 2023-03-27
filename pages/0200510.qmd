@@ -10,7 +10,7 @@ subtitle: 'EPC N° 16 REPUBLICA DOMINICANA - JIN C (EPCJS 16/10°) - EPA N° 16 
     + Planificado - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Reparacion de revoques por filtracion

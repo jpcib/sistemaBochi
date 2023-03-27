@@ -6,7 +6,7 @@ subtitle: 'EPC N° 19 JOSE MARTI - EPA N° 19 JOSE MARTI'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Incendio 
     + Cambiar matafuegos de pasillo 1erP

@@ -10,7 +10,7 @@ subtitle: 'EPC N° 10 GRAL. ARAOZ DE LAMADRID'
     + Planificado - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Instalación tablero de luces emergencia

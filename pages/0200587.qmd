@@ -6,7 +6,7 @@ subtitle: 'JIN A (EPCJS 04/12°) [S] - EPC N° 04 PROVINCIA DE LA PAMPA - ESEA E
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Plataforma para caloventiladores

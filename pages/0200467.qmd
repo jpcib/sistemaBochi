@@ -6,7 +6,7 @@ subtitle: 'CENS N° 38 - IFTS N° 22 - ESC. TEC. N° 02 OSVALDO MAGNASCO'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Otros Servicios 
     + Cerramiento medianera

@@ -6,7 +6,7 @@ subtitle: 'EPC N° 15 GRAL. JOSE GERVASIO DE ARTIGAS - JINB(EPCJC 15/07°)LA VEL
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + cambio de 2 estufas de 2do y 5to.

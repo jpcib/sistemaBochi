@@ -10,7 +10,7 @@ subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
     + Finalizado - SDF 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + 3 aulas para SDF

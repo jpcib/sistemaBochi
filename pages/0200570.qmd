@@ -6,7 +6,7 @@ subtitle: 'Sup Inicial IV B - EPC N° 24 DR. PEDRO AVELINO TORRES - JII N° 03/1
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Incendio 
     + Reposición de mangueras en hidrantes

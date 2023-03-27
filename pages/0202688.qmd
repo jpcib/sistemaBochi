@@ -6,7 +6,7 @@ subtitle: 'ESCUELA INF. N° 09/05° - EPC N°05 DE 05'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Instalación de luminarias led

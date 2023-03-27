@@ -6,7 +6,7 @@ subtitle: 'EPC N° 26 BRIGADIER MIGUEL DE AZCUENAGA - JIN B (EPCJC 26/05°)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Desprendimiento de Cielo Raso en aula.

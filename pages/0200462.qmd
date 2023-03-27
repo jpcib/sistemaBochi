@@ -6,7 +6,7 @@ subtitle: 'Sup Inicial IX A - JIC N° 09/09°'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Tomas para sector contiguo a cocina

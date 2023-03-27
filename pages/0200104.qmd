@@ -6,7 +6,7 @@ subtitle: 'ESCUELA INF. N° 02/02° PAMPITA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Cambio de ventilador en Dirección

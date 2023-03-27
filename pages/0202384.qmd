@@ -6,7 +6,7 @@ subtitle: 'ESCUELA INF. N° 07/01° PALACIO PIZZURNO'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Adecuar sistema de bombas

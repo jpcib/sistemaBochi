@@ -6,7 +6,7 @@ subtitle: 'EPC N° 06 CARLOS GUIDO Y SPANO - JIN D (EPCJC 06/13°)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Reparar mampostería de arco-Pasillo PA

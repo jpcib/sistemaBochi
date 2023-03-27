@@ -6,7 +6,7 @@ subtitle: 'ESC. TEC. N° 35 ING. EDUARDO LATZINA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Sanitarias 
     + Canaleta perimetral patio deportes

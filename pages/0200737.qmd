@@ -6,7 +6,7 @@ subtitle: 'EPC Nº 21 Lic. J.J.Núñez [A: Polidep.]'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + eecución de contrapiso, carpeta

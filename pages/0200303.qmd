@@ -6,7 +6,7 @@ subtitle: 'EPC N° 12 REPUBLICA DEL PARAGUAY - CENOF CENT.MUN.DEL TANGO-ESC.PRIM
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Adecuación de instalación de gas/calefac

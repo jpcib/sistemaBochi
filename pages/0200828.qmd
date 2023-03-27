@@ -6,7 +6,7 @@ subtitle: 'ESC. DE COM. N° 30 DR. ESTEBAN AGUSTIN GASCON'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Cambio de artefactos electrico

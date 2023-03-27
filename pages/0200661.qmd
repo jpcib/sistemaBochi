@@ -6,7 +6,7 @@ subtitle: 'EPC N° 05 ENRIQUE DE VEDIA - JIN C (EPCJS 05/14°) - CECIE N° 24'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Sanitarias 
     + Cambio 2 tanques de agua

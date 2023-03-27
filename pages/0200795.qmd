@@ -10,7 +10,7 @@ subtitle: 'ESPACIO DE PRIMERA INFANCIA EEM Nº2 DE 17 - EEM N° 02/17° RUMANIA 
     + Finalizado - SDF 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + PROV Y COLOC LUCES EMERGENCIA

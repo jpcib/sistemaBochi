@@ -6,7 +6,7 @@ subtitle: 'EPC N° 21 GUILLERMO JOSE BARROS - CENS N° 71 - CAIYJ CLUB DE JOVENE
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + provision y colocacion termotanque

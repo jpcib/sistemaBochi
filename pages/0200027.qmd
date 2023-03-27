@@ -6,7 +6,7 @@ subtitle: 'IFTS N° 14 - CBF OCUPACIONAL N° 04 PAULO FREIRE'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Provisión de extintores faltantes

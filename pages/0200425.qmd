@@ -10,7 +10,7 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
     + Finalizado - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Reacondicionamiento de gas

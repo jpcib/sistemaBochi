@@ -6,7 +6,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 21'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Gas 
     + Instalación de gas

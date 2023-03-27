@@ -6,7 +6,7 @@ subtitle: 'Centro Cultural Sebastián Piana - EPC N° 03 DR. MANUEL A. MONTES DE
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Medios de elevación 
     + Reparacion de montasilla.

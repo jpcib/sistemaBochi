@@ -6,7 +6,7 @@ subtitle: 'EPC N° 13 PRESBITERO ALBERTI - JIC N° 02/19°'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Adecuación de sistema de caldera

@@ -6,7 +6,7 @@ subtitle: 'Sup Primaria DE 18 - EPC N° 15 MANUEL PEÑA - JIN C (EPCJC 15/18°) 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Colocar protecciones de estufas TB

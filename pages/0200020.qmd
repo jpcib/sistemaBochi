@@ -6,7 +6,7 @@ subtitle: 'EPC N° 26 ADOLFO VAN GELDEREN - CONSERVATORIO SUPERIOR DE MÚSICA MA
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Incendio 
     + reemplazo de  4 matafuegos

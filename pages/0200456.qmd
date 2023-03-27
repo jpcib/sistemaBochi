@@ -6,7 +6,7 @@ subtitle: 'CAI N° 17 DE 09 - JII N° 04/09° - EPC N° 17 BLAS PARERA - EPA N°
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Instalación de 2 ventiladores de pared

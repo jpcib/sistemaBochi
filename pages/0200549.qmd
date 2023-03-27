@@ -6,7 +6,7 @@ subtitle: 'CENS N° 09 - EPC N° 01 JOSE ALFREDO FERREIRA - JIN B (EPCJC 01/11°
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Colocación de luces de emergencia

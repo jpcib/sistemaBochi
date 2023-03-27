@@ -6,7 +6,7 @@ subtitle: 'CENTRO CULTURAL FORTUNATO LACÁMERA - EPC N° 26 HIPOLITO YRIGOYEN - 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Adecuacion de instal de gas a normativa

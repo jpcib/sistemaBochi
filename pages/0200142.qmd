@@ -6,7 +6,7 @@ subtitle: 'ESC. PARA JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL Y DE FORMACIÓN 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Colocacion de 5 ventiladores

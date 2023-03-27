@@ -6,7 +6,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 04'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Reparación de red telefónica interna

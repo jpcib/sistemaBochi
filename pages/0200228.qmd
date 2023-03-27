@@ -6,7 +6,7 @@ subtitle: 'JIN B (EPCJS 06/05°) (SEDE) - EPC N° 06 TOMAS GUIDO'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Cambio de Termotanque e inodoro

@@ -10,7 +10,7 @@ subtitle: 'EPC N° 11 PONCIANO VIVANCO - JIC N° 01/13°'
     + En Obra - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Adecuación de la instalación de gas.

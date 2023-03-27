@@ -6,7 +6,7 @@ subtitle: 'COLEGIO N° 16 GUILLERMO RAWSON - COLEGIO N° 12 RECONQUISTA - LICEO 
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Adecuación de tres aulas PA- SDF

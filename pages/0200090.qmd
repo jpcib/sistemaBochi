@@ -6,7 +6,7 @@ subtitle: 'EPA N° 19 FLORENCIO BALCARCE - JIN D (EPCJC 19/02°) - EPC N° 19 FL
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Primera etapa núcleo baño

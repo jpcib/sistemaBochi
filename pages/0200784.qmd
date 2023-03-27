@@ -6,7 +6,7 @@ subtitle: 'Sup Inicial VIII B - EPC N° 19 BARTOLINA SISA - JII N° 03/17° EL J
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Refaccion aula 4to grado

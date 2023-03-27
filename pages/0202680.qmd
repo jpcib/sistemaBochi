@@ -6,7 +6,7 @@ subtitle: 'EEM N° 06/01° PADRE CARLOS MUGICA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Adecuacion de tableros por vandalismo

@@ -6,7 +6,7 @@ subtitle: 'INST. DE ENSEÑANZA SUPERIOR EN LENGUAS VIVAS JUAN B. JUSTO (ANEXO)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Carpinterías 
     + Prov y coloc  red de protección

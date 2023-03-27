@@ -6,7 +6,7 @@ subtitle: 'EPC N° 15 MAESTRO JORGE LUIS CHINETTI - IFTS N° 26'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Reemplazo estufas TB en mal estado

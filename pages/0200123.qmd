@@ -10,7 +10,7 @@ subtitle: 'ESCUELA INF. N° 02/03° MANE BERNARDO'
     + En Proyecto - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Reparacion Fachada y aberturas

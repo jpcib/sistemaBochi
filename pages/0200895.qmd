@@ -6,7 +6,7 @@ subtitle: 'EPC Nº 07 Aeronáutica Argentina (anexo)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Reparar y pintar paredes gimnasio

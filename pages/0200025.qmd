@@ -10,7 +10,7 @@ subtitle: 'ESC. TEC. N° 19 ALEJANDRO VOLTA'
     + En Obra - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Reemplazo de Ventiladores

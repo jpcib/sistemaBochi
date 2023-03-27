@@ -6,7 +6,7 @@ subtitle: 'INST. DE EDUCACIÓN SUPERIOR N° 01 DRA. ALICIA MOREAU DE JUSTO - CEN
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Iluminacion sector Bilblioteca

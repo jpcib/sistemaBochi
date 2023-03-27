@@ -6,7 +6,7 @@ subtitle: 'EPC N° 08 LUIS FEDERICO LELOIR - JIN A (EPCJC 08/19°)'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Gas 
     + Cambio de reguladores.

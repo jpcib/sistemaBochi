@@ -6,7 +6,7 @@ subtitle: 'JIN C (EPCJS 11/12°)(SEDE) - EPC N° 11 ANDRES BELLO'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Cambiar portero eléctrico de casero

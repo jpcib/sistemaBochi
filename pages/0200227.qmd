@@ -6,7 +6,7 @@ subtitle: 'JIN B (EPCJS 04/05°) - EPC N° 04 CNEL. DE MARINA TOMAS ESPORA'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Puesta en valor aula 2do

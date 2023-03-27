@@ -6,7 +6,7 @@ subtitle: 'ESCUELA INF. N° 11/19°'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Reparación de cerco de alambre divisorio

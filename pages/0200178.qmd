@@ -10,7 +10,7 @@ subtitle: 'Museo de Bellas Artes de Artistas Argentinos Benito Quinquela Martin 
     + En Proyecto - Mejora Edilicia 
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Reemplazo de compresor en corto

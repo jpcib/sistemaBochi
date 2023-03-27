@@ -6,7 +6,7 @@ subtitle: 'ENS N° 03 BERNARDINO RIVADAVIA (SEDE) - ENS N° 03 BERNARDINO RIVADA
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Electricidad 
     + Adecuación de SDF 2023

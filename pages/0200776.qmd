@@ -6,7 +6,7 @@ subtitle: 'EPC N° 09 BENITO JUAREZ - JIN D (EPCJS 09/17°) VICTORIA OCAMPO'
 #
 
 
- ## Mantenimiento
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Pintura de completa patio cubierto
