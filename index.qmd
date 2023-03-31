@@ -22,8 +22,8 @@ invisible(lapply(packages, library, character.only = TRUE))
 ```
 
 ```{r read, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-raw <- read_csv("data/base_completa_link_v2.csv") %>% 
-  select(Domicilio, Establecimiento)
+raw <- read_csv("data/base_completa_link_v4.csv") %>% 
+  select(Domicilio, Establecimiento, Nº, DE)
 
 tabla <- DT::datatable(raw, 
                        filter = "top", 

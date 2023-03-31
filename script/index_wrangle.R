@@ -1,11 +1,12 @@
 #Wrangle Tabla index
 
-
-
 library(tidyverse)
+
+
 raw <- read_csv("data/base_resumida.csv") %>% 
   glimpse()
-raw <- read_csv("data/base_completa.csv") %>% 
+
+raw <- read_csv("data/base_completa_v4.csv") %>% 
   glimpse()
 
 base_resumida_link <- raw %>% 
@@ -18,8 +19,10 @@ base_resumida_link <- raw %>%
   mutate(Establecimiento = paste0("<a href='https://jpcib.github.io/sistemaBochi/pages/",cui,".html","'>", nombre_establecimiento,"</a>")) %>%
   rename(establecimiento = nombre_establecimiento) %>% 
   rename(domicilio = domicilio_edificio) %>% 
+  mutate(DE = str_pad(distrito, width = 2, side = "left", pad = "0")) %>%
+  mutate("Nº" = numero_escuela) %>% 
   # select(-any_of(c("domicilio_edificio"))) %>%
   glimpse()
+unique(base_resumida_link$distrito)
 
-
-write_csv(base_resumida_link,"data/base_completa_link_v3.csv")
+write_csv(base_resumida_link,"data/base_completa_link_v4.csv")

@@ -16,7 +16,7 @@ invisible(lapply(packages, library, character.only = TRUE))
 ```
 
 ```{r data, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data <- read_csv("../data/base_completa_link_v3.csv") %>%
+data <- read_csv("../data/base_completa_link_v4.csv") %>%
   # slice_head(n = 3)
   glimpse()
 ```
@@ -198,7 +198,7 @@ add_service_section_v3(data_mtom, dir = ".")
 
 
 ```{r data_mobi, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_mobi <- read_csv("../data/base_mobiliario_itemizada.csv") %>% 
+data_mobi <- read_csv("../data/base_mobiliario_itemizada_v2.csv") %>% 
   arrange(desc(entrega)) %>%
   glimpse()
 ```
