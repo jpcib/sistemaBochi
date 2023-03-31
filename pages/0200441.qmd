@@ -10,30 +10,32 @@ subtitle: 'JIC N° 03/09° LEOPOLDO MARECHAL - EPC N° 02 AUSTRALIA - IFTS N° 2
     + Licitación - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Carpinterías 
-    + colocación de escalera en lateral patio
-
-
 ## Mobiliario
 
-*  (2021) : mesa inicial 23 
+*  (2022) : armario 2, pizarrón 14 
 
-*  (2021) : silla escolar 120 
-
-*  (2022) : armario 2 
-
-*  (2022) : pizarrón 14 
+*  (2021) : mesa inicial 23, silla escolar 120 
 
 
 
 
-*  (2022) Carpinterías 
-    + Colocación de pinches para palomas
+
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Cambio de display de temperatura
+
+*  (2022) Carpinterías 
+    + colocación de escalera en lateral patio, Colocación de pinches para palomas
+
+*  (2021) Albañileria / Pintura 
+    + Reparacion y pintura pared medianera
+
+*  (2021) Carpinterías 
+    + Colocación de red antipalomas
+
+*  (2021) Gas 
+    + Cambio de campana cocina y adecuacion
 
 
 

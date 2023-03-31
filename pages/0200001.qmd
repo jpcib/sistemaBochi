@@ -10,37 +10,32 @@ subtitle: 'JIN C (EPCJS 01/01°) - EPC N° 01 JUAN JOSE CASTELLI - CENS - UGEE N
     + Planificado - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2022) : armario 4, banco largo comedor 60 
+
+*  (2021) : armario 4, escritorio 6, mesa pupitre doble 60, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Sanitarias 
     + Cambio de 2 inodoros
 
-
-## Mobiliario
-
-*  (2021) : armario 4 
-
-*  (2021) : escritorio 6 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : armario 4 
-
-*  (2022) : banco largo comedor 60 
-
-
-
-
 *  (2022) Gas 
     + Cambio de termotanque casa casera
 
 *  (2022) Sanitarias 
-    + Bajada de caño pluvial
+    + Bajada de caño pluvial, Cambio de tapa en tanque de bombeo
 
-*  (2022) Sanitarias 
-    + Cambio de tapa en tanque de bombeo
+*  (2021) Albañileria / Pintura 
+    + Cambio de solados vinilicos
+
+*  (2021) Sanitarias 
+    + sanitarios de comedor niños y adultos
 
 
 

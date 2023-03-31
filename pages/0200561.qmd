@@ -6,22 +6,20 @@ subtitle: 'JIN D (EPCJC 13/11°) SIN FRONTERAS - EPC N° 13 FRANCISCA JACQUES'
 #
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Adecuación de sistema de calefaccion
-
-
 ## Mobiliario
-
-*  (2021) : mesa inicial 4 
-
-*  (2021) : pizarrón 2 
 
 *  (2022) : silla escolar 24 
 
+*  (2021) : mesa inicial 4, pizarrón 2 
 
 
+
+
+
+## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Adecuación de sistema de calefaccion, Adicional obra de reac. calefaccion
 
 *  (2022) Carpinterías 
     + Colocar 2 puertas-Baño jardín
@@ -29,11 +27,14 @@ subtitle: 'JIN D (EPCJC 13/11°) SIN FRONTERAS - EPC N° 13 FRANCISCA JACQUES'
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Impermeab. terraza sector biblioteca
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Adicional obra de reac. calefaccion
-
 *  (2022) Electricidad 
     + Instalación de purificadores
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Inst de dos equipos de Aire Acdo, Reposición 2 (dos) radiadores
+
+*  (2021) Gas 
+    + Instalación de horno nuevo
 
 
 

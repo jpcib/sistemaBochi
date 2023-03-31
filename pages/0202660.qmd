@@ -6,33 +6,38 @@ subtitle: 'JIN A (EPCJC 11/01Âº) - EPC N° 11 DE 01 - Adultos 2000 - Direcció
 #
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Revisión especializada de sistemas VRV
-
-
 ## Mobiliario
+
+*  (2023) : mesa inicial 5, mesa pupitre doble 50, silla escolar 130 
 
 *  (2021) : mesa inicial 58 
 
-*  (2023) : mesa inicial 5 
-
-*  (2023) : mesa pupitre doble 50 
-
-*  (2023) : silla escolar 130 
 
 
 
+
+## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Revisión especializada de sistemas VRV, Reparación de A°A°
 
 *  (2022) Carpinterías 
     + Prov y coloc de cortinas roller black ou
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Reparación de A°A°
-
 *  (2022) Saneamiento 
     + Desratizacion
+
+*  (2021) Carpinterías 
+    + Reemplazo de dvh vandalizados
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Reemplazo DVHs-Adecuacion Accesibilidad
+
+*  (2021) Electricidad 
+    + colocacion de portero visor PB acceso
+
+*  (2021) Medios de elevación 
+    + Arreglo de ascensores
 
 
 

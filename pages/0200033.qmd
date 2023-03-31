@@ -6,31 +6,26 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA Nª 01'
 #
 
 
+## Mobiliario
+
+*  (2022) : silla escolar 6 
+
+*  (2021) : armario 5, mesa inicial 1 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + 4 ventiladores de pared de 20" y 1 techo
 
-
-## Mobiliario
-
-*  (2021) : armario 5 
-
-*  (2021) : mesa inicial 1 
-
-*  (2022) : silla escolar 6 
-
-
-
+*  (2022) Gas 
+    + Reemplazo de termotanque casa casera, Prov. coloc. placas eléctricas calef.
 
 *  (2022) Sanitarias 
     + Reemp de bomba cloacal-Subsuelo
-
-*  (2022) Gas 
-    + Reemplazo de termotanque casa casera
-
-*  (2022) Gas 
-    + Prov. coloc. placas eléctricas calef.
 
 
 

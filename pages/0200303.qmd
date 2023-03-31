@@ -6,31 +6,38 @@ subtitle: 'EPC N° 12 REPUBLICA DEL PARAGUAY - CENOF CENT.MUN.DEL TANGO-ESC.PRIM
 #
 
 
+## Mobiliario
+
+*  (2022) : pizarrón 5 
+
+*  (2021) : banco largo comedor 8, mesa 6 alumnos 4 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Carpinterías 
+    + Reemplazo de dos puertas PB
 
 *  (2022) Gas 
     + Adecuación de instalación de gas/calefac
 
-
-## Mobiliario
-
-*  (2021) : banco largo comedor 8 
-
-*  (2021) : mesa 6 alumnos 4 
-
-*  (2022) : pizarrón 5 
-
-
-
-
 *  (2022) Sanitarias 
-    + Reparacion de camara desengrasadora
+    + Reparacion de camara desengrasadora, Cambio de cañerías cloacales en 1erP
 
-*  (2022) Sanitarias 
-    + Cambio de cañerías cloacales en 1erP
+*  (2021) Albañileria / Pintura 
+    + Nucleos sanitarios de PB
 
-*  (2022) Carpinterías 
-    + Reemplazo de dos puertas PB
+*  (2021) Gas 
+    + Cumplir observaciones metrogas
+
+*  (2021) Incendio 
+    + Proveer y colocar matafuego de 5Kg
+
+*  (2021) Sanitarias 
+    + Acondicionamiento de sanitarios 1° piso
 
 
 

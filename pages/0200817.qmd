@@ -6,69 +6,47 @@ subtitle: 'EPC N° 16 JOHN F. KENNEDY - JIC N° 02/18° EL TRENCITO DE VERSALLES
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 4, banco largo comedor 174, mesa 6 alumnos 44, mesa inicial 10, mesa pupitre doble 45, silla escolar 150 
+
+*  (2021) : armario 8, escritorio 6, mesa pupitre doble 90, silla escolar 186 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Reparar frizos PB y 1er piso
-
-
-## Mobiliario
-
-*  (2021) : armario 8 
-
-*  (2021) : escritorio 6 
-
-*  (2021) : mesa pupitre doble 90 
-
-*  (2021) : silla escolar 186 
-
-*  (2022) : armario 4 
-
-*  (2022) : banco largo comedor 174 
-
-*  (2022) : mesa 6 alumnos 44 
-
-*  (2022) : mesa inicial 10 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : silla escolar 150 
-
-
-
-
-*  (2023) Albañileria / Pintura 
-    + Reacondicionamiento solado
-
-*  (2022) Incendio 
-    + Colocación de luces de emergencia
-
-*  (2022) Incendio 
-    + Colocación de luces de emergencia
-
-*  (2022) Electricidad 
-    + Reinstalación de luces en linea fachada
+    + Reparar frizos PB y 1er piso, Reacondicionamiento solado
 
 *  (2022) Albañileria / Pintura 
     + División de Baño en nucleo
 
 *  (2022) Carpinterías 
-    + Construcción de cubierta en sala
+    + Construcción de cubierta en sala, Cerramiento para cocina
 
 *  (2022) Electricidad 
-    + Tendido electrico para carros de computa
+    + Reinstalación de luces en linea fachada, Tendido electrico para carros de computa, Reemplazo de 9 ventiladores, Reemplazo de 4 ventiladores, Reemplazo de 1 ventilador
 
-*  (2022) Carpinterías 
-    + Cerramiento para cocina
+*  (2022) Incendio 
+    + Colocación de luces de emergencia, Colocación de luces de emergencia
 
-*  (2022) Electricidad 
-    + Reemplazo de 9 ventiladores
+*  (2021) Albañileria / Pintura 
+    + Reparacion de piso exterior en cancha, Reparar revoques y pintura Bº V y M PB
 
-*  (2022) Electricidad 
-    + Reemplazo de 4 ventiladores
+*  (2021) Calefaccion y Refrigeracion 
+    + Reemplazo de radiador
 
-*  (2022) Electricidad 
-    + Reemplazo de 1 ventilador
+*  (2021) Carpinterías 
+    + Colocar red tenzada en ventanas
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Cambio de toldos en acceso
+
+*  (2021) Sanitarias 
+    + Colocar cambiador de bebes Bº discapac
 
 
 

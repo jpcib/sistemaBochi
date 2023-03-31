@@ -14,5 +14,8 @@ subtitle: 'Sup Educacion Especial. Escal C A Centro Cultural Roberto Santoro - E
 *  (2022) Otros Servicios 
     + Ejecucion alero y reparacion junta patio
 
+*  (2021) Gas 
+    + Adecuacion instalacion de gas
+
 
 

@@ -6,37 +6,35 @@ subtitle: 'JINC(EPCJS 08/13)[S]NIÑOS LATINOAMERIC. - EPC N° 08 REINO DE THAILA
 #
 
 
-## Mantenimiento
-
-*  (2022) Medios de elevación 
-    + Reparar ascensor
-
-
 ## Mobiliario
 
-*  (2021) : banco largo comedor 20 
+*  (2023) : armario 2, silla escolar 27 
 
-*  (2021) : mesa 6 alumnos 10 
-
-*  (2021) : mesa inicial 3 
-
-*  (2021) : silla escolar 10 
-
-*  (2023) : armario 2 
-
-*  (2023) : silla escolar 27 
+*  (2021) : banco largo comedor 20, mesa 6 alumnos 10, mesa inicial 3, silla escolar 10 
 
 
 
 
-*  (2022) Sanitarias 
-    + Reponer inodoro roto
+
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Cambio puerta doble de acceso
 
 *  (2022) Electricidad 
     + Reemplazar ventiladores faltante o rotos
+
+*  (2022) Medios de elevación 
+    + Reparar ascensor
+
+*  (2022) Sanitarias 
+    + Reponer inodoro roto
+
+*  (2021) Albañileria / Pintura 
+    + Rep pared irregular aulas,pase cañeria
+
+*  (2021) Carpinterías 
+    + reparar 10 puertas de madera rotas, Colocar placares en aulas
 
 
 

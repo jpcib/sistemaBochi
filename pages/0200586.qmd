@@ -6,26 +6,35 @@ subtitle: 'JIN D (EPCJC 03/12°) [S] - EPC N° 03 EMILIO GIMENEZ ZAPIOLA - EPA N
 #
 
 
-## Mantenimiento
-
-*  (2022) Incendio 
-    + Proveer 4 Extintores
-
-
 ## Mobiliario
-
-*  (2021) : mesa inicial 12 
 
 *  (2022) : silla escolar 40 
 
+*  (2021) : mesa inicial 12 
 
 
+
+
+
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Colocación de red en dos ventanas
 
+*  (2022) Incendio 
+    + Proveer 4 Extintores
+
 *  (2022) Sanitarias 
     + Cambiar inodoro roto en B° Varones
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Impermeab cubiertas y pintura 2 aulas 2P
+
+*  (2021) Gas 
+    + Cambio Eq calefacción en dirección
+
+*  (2021) Incendio 
+    + Proveer,coloc extintores
 
 
 

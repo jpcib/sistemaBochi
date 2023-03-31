@@ -6,34 +6,35 @@ subtitle: 'CAEBYT N° 47 - EEM N° 06/05° - EPC N° 12 HORACIO QUIROGA - CAIYJ 
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, mesa trabajo estante 9, silla escolar 60, varios 18 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Retiro del piso de Porcelanato
 
+*  (2021) Albañileria / Pintura 
+    + Humedad de cimientos y otros, Accesibilidad y otros
 
-## Mobiliario
+*  (2021) Calefaccion y Refrigeracion 
+    + Rep. cañeria y sistema de calefaccion., REPARACION DE CALDERA, Colocacion un Split en Lactario
 
-*  (2021) : escritorio 2 
+*  (2021) Carpinterías 
+    + Cerramiento, puertas x 2 videoteca, Reparaciones y Pintura en Palestra
 
-*  (2021) : mesa pupitre doble 30 
+*  (2021) Gas 
+    + Adecuación Gas por Inspección Metrogas, Adecuación instalación de gas, Adecuación instalación de gas, Adecuación por Inspección de Metrogas
 
-*  (2021) : mesa trabajo estante 9 
-
-*  (2021) : silla escolar 60 
-
-*  (2021) : varios 18 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
+*  (2021) Incendio 
+    + Provisión faltantes Incendio, Reemplazo de Tapas de Tanque de Incendio, Cambio de Mangueras y Acondicionamiento, Cambio de Mangueras de Hidrantes
 
 
 

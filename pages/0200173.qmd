@@ -6,12 +6,6 @@ subtitle: 'EPC N° 01 ALTE. GUILLERMO BROWN - EEM N° 07/04° ESCUELA DE LA RIBE
 #
 
 
-## Mantenimiento
-
-*  (2022) Gas 
-    + Provision cocina casera
-
-
 ## Mobiliario
 
 *  (2021) : silla escolar 30 
@@ -19,11 +13,20 @@ subtitle: 'EPC N° 01 ALTE. GUILLERMO BROWN - EEM N° 07/04° ESCUELA DE LA RIBE
 
 
 
+
+## Mantenimiento
+
 *  (2022) Gas 
-    + INSTALACION DE GAS
+    + Provision cocina casera, INSTALACION DE GAS
 
 *  (2022) Sanitarias 
     + Hundimiento sala de sisterna
+
+*  (2021) Carpinterías 
+    + Reparar nicho de gas
+
+*  (2021) Gas 
+    + Adecuar a norma vigente-Inst de gas
 
 
 

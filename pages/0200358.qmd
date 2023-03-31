@@ -8,17 +8,9 @@ subtitle: 'EPC N° 06 DELFIN JIJENA'
 
 ## Mobiliario
 
-*  (2022) : banco largo comedor 36 
-
-*  (2022) : mesa 6 alumnos 18 
-
-*  (2022) : mesa integradora con escotadura 1 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : silla escolar 60 
-
 *  (2023) : banco largo comedor 36 
+
+*  (2022) : banco largo comedor 36, mesa 6 alumnos 18, mesa integradora con escotadura 1, mesa pupitre doble 30, silla escolar 60 
 
 
 

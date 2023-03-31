@@ -9,10 +9,13 @@ subtitle: 'JIN C (EPCJS 11/12°)(SEDE) - EPC N° 11 ANDRES BELLO'
 ## Mantenimiento
 
 *  (2022) Electricidad 
-    + Cambiar portero eléctrico de casero
+    + Cambiar portero eléctrico de casero, Ventilador de SUM y reemp artef de luz
 
-*  (2022) Electricidad 
-    + Ventilador de SUM y reemp artef de luz
+*  (2021) Gas 
+    + Puesta en norma de inst de gas
+
+*  (2021) Sanitarias 
+    + Sala de bombeo-Aula-Sala jardin-Pasillo.
 
 
 

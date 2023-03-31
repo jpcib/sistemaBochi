@@ -6,20 +6,21 @@ subtitle: 'JII N° 01/09° DR. ALFREDO PALACIOS'
 #
 
 
+## Mobiliario
+
+*  (2022) : mesa inicial 10, silla escolar 60 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Construccion tramo pared medianera
 
-
-## Mobiliario
-
-*  (2022) : mesa inicial 10 
-
-*  (2022) : silla escolar 60 
-
-
-
+*  (2021) Sanitarias 
+    + Prov y coloc. termotanque en cocina
 
 
 

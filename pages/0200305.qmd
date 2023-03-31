@@ -6,35 +6,32 @@ subtitle: 'JIC N° 04/06° MARIANO BOEDO - EPC N° 14 INTENDENTE ALVEAR'
 #
 
 
-## Mantenimiento
-
-*  (2022) Albañileria / Pintura 
-    + Baldosas vinílicas para 3 aulas
-
-
 ## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa integradora con escotadura 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
 
 *  (2022) : pizarrón 3 
 
+*  (2021) : escritorio 2, mesa integradora con escotadura 2, mesa pupitre doble 30, silla escolar 62 
 
 
+
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Ejecución de contrapiso en 3 aulas
+    + Baldosas vinílicas para 3 aulas, Ejecución de contrapiso en 3 aulas
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Instalar equipo de aire acondicionado
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Cambio de membrana
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalar equipo de aire acondicionado
+*  (2021) Electricidad 
+    + Colocar ventiladores
+
+*  (2021) Incendio 
+    + Reparación de dos bombas de incendio
 
 
 

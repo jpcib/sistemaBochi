@@ -6,42 +6,41 @@ subtitle: 'JIN C (EPCJC 20/09°) [S] - EPC N° 20 CARLOS MARIA BIEDMA - ESEA EN 
 #
 
 
-## Mantenimiento
-
-*  (2022) Incendio 
-    + Provision y colocacion de matafuegos
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 2 
+*  (2022) : banco largo comedor 16, escritorio 2, mesa 6 alumnos 8, mesa pupitre doble 60, silla escolar 62 
 
-*  (2021) : mesa inicial 10 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 122 
-
-*  (2021) : varios 40 
-
-*  (2022) : banco largo comedor 16 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa 6 alumnos 8 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : silla escolar 62 
+*  (2021) : escritorio 2, mesa inicial 10, mesa pupitre doble 30, silla escolar 122, varios 40 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Gas 
     + Cambio de llaves de paso de estufas
 
+*  (2022) Incendio 
+    + Provision y colocacion de matafuegos
+
 *  (2022) Otros Servicios 
     + Provision y Colocacion de Ventiladores
+
+*  (2021) Albañileria / Pintura 
+    + Pintura en aulas y espacios comunes
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Cambio de calderas elect.Prov e Instal.
+
+*  (2021) Electricidad 
+    + PROV Y COLOCACION DE LUCES DE EMERGENCIA
+
+*  (2021) Gas 
+    + Prov y coloc nueva cocina en Casa casera
+
+*  (2021) Otros Servicios 
+    + Prov y col bombas de achique
 
 
 

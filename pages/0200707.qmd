@@ -10,20 +10,24 @@ subtitle: 'EPC N° 08 JORGE ANGEL BOERO'
     + Planificado - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2021) : banco largo comedor 42, mesa 6 alumnos 25 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + Reparacion de Central Telefonica
 
+*  (2021) Electricidad 
+    + Instalacion de purificadores de aire
 
-## Mobiliario
-
-*  (2021) : banco largo comedor 42 
-
-*  (2021) : mesa 6 alumnos 25 
-
-
-
+*  (2021) Gas 
+    + Reemplazo de Termotanque-Caseros
 
 
 

@@ -10,54 +10,42 @@ subtitle: 'EPC N° 10 GRAL. ARAOZ DE LAMADRID'
     + Planificado - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2022) : armario 6, banco largo comedor 16, escritorio 1, mesa 6 alumnos 8, mesa pupitre doble 15, pizarrón 28, silla escolar 30 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Instalación tablero de luces emergencia
 
-
-## Mobiliario
-
-*  (2022) : armario 6 
-
-*  (2022) : banco largo comedor 16 
-
-*  (2022) : escritorio 1 
-
-*  (2022) : mesa 6 alumnos 8 
-
-*  (2022) : mesa pupitre doble 15 
-
-*  (2022) : pizarrón 28 
-
-*  (2022) : silla escolar 30 
-
-
-
+*  (2022) Albañileria / Pintura 
+    + Reparación en cocina, Presupuesto pintira en direccion
 
 *  (2022) Carpinterías 
-    + Reemplazo carpinteria a patio.
-
-*  (2022) Gas 
-    + Adecuar instalación de gas a normativa
-
-*  (2022) Albañileria / Pintura 
-    + Reparación en cocina
-
-*  (2022) Sanitarias 
-    + Realizar cámara nueva en sector cocina
+    + Reemplazo carpinteria a patio., Soporte para proyector en comedor
 
 *  (2022) Electricidad 
     + Agregado de tomas, extensión de ménsula
 
-*  (2022) Albañileria / Pintura 
-    + Presupuesto pintira en direccion
+*  (2022) Gas 
+    + Adecuar instalación de gas a normativa
 
 *  (2022) Sanitarias 
-    + Reposición de inodoro en baño nenas
+    + Realizar cámara nueva en sector cocina, Reposición de inodoro en baño nenas
 
-*  (2022) Carpinterías 
-    + Soporte para proyector en comedor
+*  (2021) Albañileria / Pintura 
+    + Reparar fachada, Pintura exterior de fachadas frente
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Impermeabilizar azotea
+
+*  (2021) Gas 
+    + Adecuación de Inst de Gas
 
 
 

@@ -6,38 +6,33 @@ subtitle: 'Sup Media Region II - CFP N째 36 (A) - CICLO BASICO DE FORM. OCUP. N�
 #
 
 
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Artefactos LED 60x60 Paneles Led
-
-
 ## Mobiliario
 
-*  (2021) : mesa trabajo estante 8 
-
-*  (2021) : varios 16 
+*  (2021) : mesa trabajo estante 8, varios 16 
 
 
 
 
-*  (2022) Sanitarias 
-    + Cambio tapa de tanque
 
-*  (2022) Medios de elevaci처n 
-    + Reparaci처n de plataformas elevadoras
-
-*  (2022) Gas 
-    + Remplazo de Termotanque de 80l
-
-*  (2022) Electricidad 
-    + Reparar programador de timbre
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Equipo de A째A째 para Supervisi처n
 
+*  (2022) Electricidad 
+    + Artefactos LED 60x60 Paneles Led, Reparar programador de timbre
+
 *  (2022) Gas 
-    + Bobina de Valvula Solenoide
+    + Remplazo de Termotanque de 80l, Bobina de Valvula Solenoide
+
+*  (2022) Medios de elevaci처n 
+    + Reparaci처n de plataformas elevadoras
+
+*  (2022) Sanitarias 
+    + Cambio tapa de tanque
+
+*  (2021) Incendio 
+    + 1 EXTINTOR ABC X 5 KG
 
 
 

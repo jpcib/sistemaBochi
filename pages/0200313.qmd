@@ -6,35 +6,26 @@ subtitle: 'ESC. DE COM.  N° 22 G.A.MARTINEZ ZUVIRIA'
 #
 
 
+## Mobiliario
+
+*  (2022) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Otros Servicios 
-    + Intervencion aulas secundarias del futur
+    + Intervencion aulas secundarias del futur, Adicionales Aulas del Futuro
 
+*  (2021) Incendio 
+    + Provision de matafuegos faltantes
 
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 2 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 62 
-
-
-
-
-*  (2022) Otros Servicios 
-    + Adicionales Aulas del Futuro
+*  (2021) Otros Servicios 
+    + Aulas secundarias del futuro, Reparaciones generales de Gas
 
 
 

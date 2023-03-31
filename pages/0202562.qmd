@@ -6,20 +6,18 @@ subtitle: 'JII N° 10/19° (SEDE)'
 #
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Cambio de mochila de inodoro sala roja
-
-
 ## Mobiliario
 
-*  (2021) : mesa inicial 5 
-
-*  (2021) : silla escolar 30 
+*  (2021) : mesa inicial 5, silla escolar 30 
 
 
 
+
+
+## Mantenimiento
+
+*  (2022) Carpinterías 
+    + Prov. coloc.puerta en cocina., Vidrio vandalizado
 
 *  (2022) Electricidad 
     + Prov y coloc. ventilador sala azul
@@ -27,11 +25,14 @@ subtitle: 'JII N° 10/19° (SEDE)'
 *  (2022) Incendio 
     + Adecuacion instalacion contra incendio
 
-*  (2022) Carpinterías 
-    + Prov. coloc.puerta en cocina.
+*  (2022) Sanitarias 
+    + Cambio de mochila de inodoro sala roja
 
-*  (2022) Carpinterías 
-    + Vidrio vandalizado
+*  (2021) Carpinterías 
+    + Prov, inst de candados nichos de gas
+
+*  (2021) Electricidad 
+    + Proveer y colocar timbre
 
 
 

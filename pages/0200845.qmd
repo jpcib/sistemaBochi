@@ -11,5 +11,29 @@ subtitle: 'EPC N° 02 DR. GENARO SISTO - JIN A (EPCJS 02/19°)'
 *  (2022) Electricidad 
     + Colocación Tomas Salas y Sanitizador
 
+*  (2021) Albañileria / Pintura 
+    + Reparación cubierta y cielorraso
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Instalar 6 purificadores
+
+*  (2021) Carpinterías 
+    + Colocación rejas existentes en Gimnasio
+
+*  (2021) Electricidad 
+    + Colocación de Timbre Programable
+
+*  (2021) Gas 
+    + Adecuación instalación de gas
+
+*  (2021) Incendio 
+    + Incendio: Reemplazo de extintore
+
+*  (2021) Medios de elevación 
+    + Reposición piezas montasilla
+
+*  (2021) Sanitarias 
+    + Provisión de nueva bomba impulsora
+
 
 

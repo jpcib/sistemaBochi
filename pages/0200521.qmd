@@ -6,47 +6,29 @@ subtitle: 'LICEO N° 09 SANTIAGO DERQUI'
 #
 
 
+## Mobiliario
+
+*  (2022) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2021) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 106 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Aulas secundaria del futuro
-
-
-## Mobiliario
-
-*  (2021) : escritorio 3 
-
-*  (2021) : mesa pupitre doble 45 
-
-*  (2021) : pizarrón 3 
-
-*  (2021) : silla escolar 106 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 93 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + Adecuacion sala de computacion
-
-*  (2022) Albañileria / Pintura 
-    + Adecuación preceptoria PA
+    + Aulas secundaria del futuro, Adecuacion sala de computacion, Adecuación preceptoria PA, Colocacion piso sala de lectura
 
 *  (2022) Electricidad 
-    + Instalacion electrica sala de musica
+    + Instalacion electrica sala de musica, Instalacion electrica sala de profesores
 
-*  (2022) Electricidad 
-    + Instalacion electrica sala de profesores
+*  (2021) Albañileria / Pintura 
+    + Aulas del futuro, Integracion sala de arte y tecnologia
 
-*  (2022) Albañileria / Pintura 
-    + Colocacion piso sala de lectura
+*  (2021) Calefaccion y Refrigeracion 
+    + COLOCACION DE AIRE ACONDICIONADO ENAULAS
 
 
 

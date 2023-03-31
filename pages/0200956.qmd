@@ -6,28 +6,32 @@ subtitle: 'JIN C (EPCJS 14/21°) [S] - EPC N° 14 DR. RICARDO LEVENE'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 2 
+
+*  (2021) : armario 7, mesa inicial 6, mesa pupitre doble 10, pizarrón 16, silla escolar 40 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Sanitarias 
     + Recambio de inodoro por vandalismo
 
+*  (2021) Albañileria / Pintura 
+    + Desprend. cielorraso galeria PA, Rep  pared medianera y  filtraciones
 
-## Mobiliario
+*  (2021) Carpinterías 
+    + cambio de cerradura por vandalismo
 
-*  (2021) : armario 7 
+*  (2021) Electricidad 
+    + Reponer 3 luces de emergencia, coloc timbre inalámbrico en jardin, Coloc 3 purificadores de aire salas jard
 
-*  (2021) : mesa inicial 6 
-
-*  (2021) : mesa pupitre doble 10 
-
-*  (2021) : pizarrón 16 
-
-*  (2021) : silla escolar 40 
-
-*  (2022) : armario 2 
-
-
-
+*  (2021) Gas 
+    + reacondicionamiento instalación de gas
 
 
 

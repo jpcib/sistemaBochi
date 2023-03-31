@@ -6,31 +6,32 @@ subtitle: 'Sup Primaria DE 18 - EPC N° 15 MANUEL PEÑA - JIN C (EPCJC 15/18°) 
 #
 
 
-## Mantenimiento
-
-*  (2022) Gas 
-    + Colocar protecciones de estufas TB
-
-
 ## Mobiliario
+
+*  (2022) : mesa inicial 8, silla escolar 60 
 
 *  (2021) : mesa inicial 4 
 
-*  (2022) : mesa inicial 8 
-
-*  (2022) : silla escolar 60 
 
 
 
+
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Aire Acond Supervision Escolar
 
-*  (2022) Sanitarias 
-    + Inodoro corto baño patio exterior
+*  (2022) Gas 
+    + Colocar protecciones de estufas TB
 
 *  (2022) Sanitarias 
-    + Inodoro corto Baño Inicial
+    + Inodoro corto baño patio exterior, Inodoro corto Baño Inicial
+
+*  (2021) Albañileria / Pintura 
+    + Reparar y pintar sector patio exterior, Pintura Friso Escalera Supervision
+
+*  (2021) Sanitarias 
+    + Instalacion provisiones de agua
 
 
 

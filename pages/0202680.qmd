@@ -6,12 +6,6 @@ subtitle: 'EEM N° 06/01° PADRE CARLOS MUGICA'
 #
 
 
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Adecuacion de tableros por vandalismo
-
-
 ## Mobiliario
 
 *  (2021) : banco largo comedor 74 
@@ -19,11 +13,20 @@ subtitle: 'EEM N° 06/01° PADRE CARLOS MUGICA'
 
 
 
-*  (2022) Electricidad 
-    + Colocar tomacorrientes-Espacio Digital
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + SdF 2023- 3 aulas
+
+*  (2022) Electricidad 
+    + Adecuacion de tableros por vandalismo, Colocar tomacorrientes-Espacio Digital
+
+*  (2021) Gas 
+    + Reemplazar reguladores de gas
+
+*  (2021) Medios de elevación 
+    + PUESTA EN REGLAMENTEACION DE ASCENSOR
 
 
 

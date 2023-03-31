@@ -6,49 +6,35 @@ subtitle: 'EPC N° 10 ITALO AMERICO FORADORI - JIC N° 07/21°'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 8, escritorio 2, mesa inicial 2, mesa integradora con escotadura 1, mesa pupitre doble 16, pizarrón 2, silla escolar 46 
+
+*  (2021) : mesa pupitre doble 20, silla escolar 40 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Reaalización de dos aulas en PA
-
-
-## Mobiliario
-
-*  (2021) : mesa pupitre doble 20 
-
-*  (2021) : silla escolar 40 
-
-*  (2022) : armario 8 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa inicial 2 
-
-*  (2022) : mesa integradora con escotadura 1 
-
-*  (2022) : mesa pupitre doble 16 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 46 
-
-
-
-
-*  (2022) Incendio 
-    + Reponer lanzas y tapas pvc en nichos
+    + Reaalización de dos aulas en PA, Rep. de Solado en patio del jardín
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Prov. inst. placas termicas Planta Alta
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Provision de protecciones de estufas
+    + Prov. inst. placas termicas Planta Alta, Provision de protecciones de estufas
 
 *  (2022) Incendio 
-    + Reposición de mangueras en hidrantes
+    + Reponer lanzas y tapas pvc en nichos, Reposición de mangueras en hidrantes
 
-*  (2022) Albañileria / Pintura 
-    + Rep. de Solado en patio del jardín
+*  (2021) Albañileria / Pintura 
+    + Reparación cantero y puerta lateral
+
+*  (2021) Carpinterías 
+    + Reparar estructura tela sombra-Patio JIC
+
+*  (2021) Medios de elevación 
+    + puesta en norma del ascensor
 
 
 

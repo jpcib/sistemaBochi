@@ -6,40 +6,22 @@ subtitle: 'ESC. DE COM.  N° 17 SANTA MARIA DE LOS BUENOS AIRES'
 #
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Instalación de bombeo
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 3 
+*  (2023) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
 
-*  (2021) : mesa pupitre doble 45 
+*  (2022) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
 
-*  (2021) : pizarrón 3 
-
-*  (2021) : silla escolar 93 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 93 
-
-*  (2023) : escritorio 2 
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 2 
-
-*  (2023) : silla escolar 62 
+*  (2021) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
 
 
 
+
+
+## Mantenimiento
+
+*  (2022) Electricidad 
+    + S.D.F. - 1º - 2 aulas
 
 *  (2022) Gas 
     + Cambio de Vàlvula solenoide vandalizada
@@ -47,8 +29,11 @@ subtitle: 'ESC. DE COM.  N° 17 SANTA MARIA DE LOS BUENOS AIRES'
 *  (2022) Medios de elevación 
     + Puesta en valor de elevador
 
-*  (2022) Electricidad 
-    + S.D.F. - 1º - 2 aulas
+*  (2022) Sanitarias 
+    + Instalación de bombeo
+
+*  (2021) Incendio 
+    + Puesta en valor IFCI
 
 
 

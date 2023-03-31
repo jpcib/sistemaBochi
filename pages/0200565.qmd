@@ -6,27 +6,27 @@ subtitle: 'JIN B (EPCJC 17/11°) [S] - EPC N° 17 GRAL. JUAN GALO LAVALLE'
 #
 
 
+## Mobiliario
+
+*  (2023) : armario 9, escritorio 4, mesa inicial 15, silla escolar 87 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Carpinterías 
     + Colocacion de rejas en ventanas de aulas
 
-
-## Mobiliario
-
-*  (2023) : armario 9 
-
-*  (2023) : escritorio 4 
-
-*  (2023) : mesa inicial 15 
-
-*  (2023) : silla escolar 87 
-
-
-
-
 *  (2022) Medios de elevación 
     + Puesta en servicio del ascensor
+
+*  (2021) Electricidad 
+    + Reparación de red telefónica interna
+
+*  (2021) Medios de elevación 
+    + puesta en norma del ascensor
 
 
 

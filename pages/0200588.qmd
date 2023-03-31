@@ -6,31 +6,24 @@ subtitle: 'JIN A (EPCJC 05/12°) - EPC N° 05 REPUBLICA DE EL SALVADOR'
 #
 
 
-## Mantenimiento
-
-*  (2022) Incendio 
-    + Proveer e instalar extintores
-
-
 ## Mobiliario
 
-*  (2023) : armario 3 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : silla escolar 9 
+*  (2023) : armario 3, escritorio 3, silla escolar 9 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Colocación luces emergencia
 
 *  (2022) Gas 
-    + REACONDICIONAMIENTO INST GAS
+    + REACONDICIONAMIENTO INST GAS, COCINA Y VENTILACIONES
 
-*  (2022) Gas 
-    + COCINA Y VENTILACIONES
+*  (2022) Incendio 
+    + Proveer e instalar extintores
 
 
 

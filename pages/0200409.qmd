@@ -6,38 +6,32 @@ subtitle: 'IFTS N° 13 - EPC N° 11 PRES. MARCELO T. DE ALVEAR - JIN A (EPCJC 11
 #
 
 
+## Mobiliario
+
+*  (2022) : banco largo comedor 10, mesa 6 alumnos 5, mesa inicial 5, silla escolar 82 
+
+*  (2021) : escritorio 2, mesa inicial 5, mesa pupitre doble 30, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Pintura de Paredes y carpinterias 4 sala
-
-
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa inicial 5 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : banco largo comedor 10 
-
-*  (2022) : mesa 6 alumnos 5 
-
-*  (2022) : mesa inicial 5 
-
-*  (2022) : silla escolar 82 
-
-
-
 
 *  (2022) Carpinterías 
     + provision y colocacion de cerramiento
 
 *  (2022) Medios de elevación 
     + Reparación montasilla
+
+*  (2021) Albañileria / Pintura 
+    + Pintura cielorraso-Proteccion barandas
+
+*  (2021) Medios de elevación 
+    + habilitacion montasilla
 
 
 

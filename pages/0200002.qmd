@@ -10,46 +10,35 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
     + En Obra - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2022) : armario 2, mesa inicial 5, pizarrón 7, silla escolar 30, varios 1 
+
+*  (2021) : banco largo comedor 36, escritorio 4, juego de patio 1, mesa 6 alumnos 18, piso antigolpe para juegos 60, silla escolar 124, varios 10 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Recambio de tramo de conducto pluvial
 
-
-## Mobiliario
-
-*  (2021) : banco largo comedor 36 
-
-*  (2021) : escritorio 4 
-
-*  (2021) : juego de patio 1 
-
-*  (2021) : mesa 6 alumnos 18 
-
-*  (2021) : piso antigolpe para juegos 60 
-
-*  (2021) : silla escolar 124 
-
-*  (2021) : varios 10 
-
-*  (2022) : armario 2 
-
-*  (2022) : mesa inicial 5 
-
-*  (2022) : pizarrón 7 
-
-*  (2022) : silla escolar 30 
-
-*  (2022) : varios 1 
-
-
-
+*  (2022) Electricidad 
+    + Remplazo de ventiladores
 
 *  (2022) Sanitarias 
     + Reposición de Bidet vandalizado
 
-*  (2022) Electricidad 
-    + Remplazo de ventiladores
+*  (2021) Albañileria / Pintura 
+    + Recambio de solados en patio Jardín, Apertura de la puerta de Quintana, Apuntalamiento
+
+*  (2021) Electricidad 
+    + Reemplazo de Ventiladores de Pared
+
+*  (2021) Sanitarias 
+    + Limpieza y desinfección tanque cisterna, Recambio de tapa de inspección
 
 
 

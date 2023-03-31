@@ -6,30 +6,23 @@ subtitle: 'Sup Primaria DE20 A Sup Adultos Region IV A - JIN B (EPCJC 08/20°) [
 #
 
 
+## Mobiliario
+
+*  (2022) : silla escolar 54 
+
+*  (2021) : armario 4, escritorio 2, mesa inicial 9, mesa pupitre doble 30, pizarrón 10, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Gas 
     + Adecuación inst. gas a normativa
 
-
-## Mobiliario
-
-*  (2021) : armario 4 
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa inicial 9 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 10 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : silla escolar 54 
-
-
-
+*  (2021) Albañileria / Pintura 
+    + Pintura interior circulación y locales, Pintura aulas
 
 
 

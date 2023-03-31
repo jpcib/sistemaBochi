@@ -6,42 +6,28 @@ subtitle: 'EPA N° 18 DR. RAFAEL HERRERA VEGAS - EPC N° 18 DR. RAFAEL HERRERA V
 #
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Cambio de 1 una estufa
-
-
 ## Mobiliario
-
-*  (2021) : armario 8 
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa inicial 5 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 3 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : armario 8 
-
-*  (2022) : mesa inicial 5 
-
-*  (2022) : silla escolar 60 
 
 *  (2023) : armario 3 
 
+*  (2022) : armario 8, mesa inicial 5, silla escolar 60 
+
+*  (2021) : armario 8, escritorio 4, mesa inicial 5, mesa pupitre doble 60, pizarrón 3, silla escolar 124 
 
 
+
+
+
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Solicitud 2 ventiladores pared por aula.
+    + Cambio de 1 una estufa, Solicitud 2 ventiladores pared por aula.
 
 *  (2022) Electricidad 
     + Tendido de cableado y otros
+
+*  (2021) Sanitarias 
+    + Puesta en valor tanque de reserva y terr
 
 
 

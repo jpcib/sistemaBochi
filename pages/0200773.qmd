@@ -11,5 +11,8 @@ subtitle: 'JIN C (EPCJS 06/17°) LOLA MORA - EPC N° 06 ESTADO DE ISRAEL'
 *  (2022) Electricidad 
     + Instalacion luces de emergencia
 
+*  (2021) Electricidad 
+    + Instalar 6 equipos purificadores
+
 
 

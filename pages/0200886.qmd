@@ -10,43 +10,28 @@ subtitle: 'EEM N° 04/19° HOMERO MANZI - PI POMPEYITOS'
     + En Obra - SDF 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2022) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
+
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Edificación de aula
 
-
-## Mobiliario
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 4 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 124 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
-
 *  (2022) Sanitarias 
     + Recambio de tapa de tanque de reserva
+
+*  (2021) Incendio 
+    + Cambio de extintores, mangueras y lanzas
 
 
 

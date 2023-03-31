@@ -6,18 +6,18 @@ subtitle: 'ESCUELA INF. N° 11/20°'
 #
 
 
-## Mantenimiento
-
-*  (2022) Carpinterías 
-    + Colocacion de dos cerraduras en puertas
-
-
 ## Mobiliario
 
 *  (2023) : piso antigolpe para juegos 80 
 
 
 
+
+
+## Mantenimiento
+
+*  (2022) Carpinterías 
+    + Colocacion de dos cerraduras en puertas
 
 *  (2022) Electricidad 
     + Prov. inst. LED en Sum y acceso

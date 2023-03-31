@@ -6,42 +6,33 @@ subtitle: 'EPC N° 07 JUAN DE GARAY - EPA N° 07 JUAN DE GARAY - JIN A (EPCJS 07
 #
 
 
+## Mobiliario
+
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 10, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Cateos
-
-
-## Mobiliario
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 10 
-
-*  (2021) : silla escolar 124 
-
-
-
+    + Cateos, Cateo contrafrente
 
 *  (2023) Electricidad 
     + instalación de 16 ventiladores
 
-*  (2023) Albañileria / Pintura 
-    + Cateo contrafrente
-
 *  (2022) Albañileria / Pintura 
-    + Cambio de solado - 2da Etapa
-
-*  (2022) Albañileria / Pintura 
-    + 3 etapa solado patio delantero
+    + Cambio de solado - 2da Etapa, 3 etapa solado patio delantero
 
 *  (2022) Electricidad 
     + Rejas en circulaciones y reflectores
 
 *  (2022) Medios de elevación 
     + Reparación ascensor
+
+*  (2021) Albañileria / Pintura 
+    + Cambio de solado patio delantero, Reparaciones en departamento vecino, Impermeabilizacion y nivelacion de pilar
 
 
 

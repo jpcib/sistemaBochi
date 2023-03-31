@@ -6,12 +6,6 @@ subtitle: 'CFP Nº02 - CENS N° 49'
 #
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalación de 2 equipos de a/a
-
-
 ## Mobiliario
 
 *  (2021) : armario 6 
@@ -19,8 +13,17 @@ subtitle: 'CFP Nº02 - CENS N° 49'
 
 
 
+
+## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Instalación de 2 equipos de a/a
+
 *  (2022) Electricidad 
     + Cambio de tablero de sala de cerámica
+
+*  (2021) Carpinterías 
+    + Colocar alambrado jardin
 
 
 

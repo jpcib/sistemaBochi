@@ -6,35 +6,27 @@ subtitle: 'EPC N° 19 PROVINCIA DE FORMOSA'
 #
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Obra para la instalacion de equipos A°A°
-
-
 ## Mobiliario
 
-*  (2022) : armario 5 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 50 
+*  (2022) : armario 5, escritorio 4, mesa pupitre doble 30, pizarrón 2, silla escolar 50 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Piso de aula de 1 graso y laboratorio le
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Reemplazo de estufas por tiro balanceado
+    + Obra para la instalacion de equipos A°A°, Reemplazo de estufas por tiro balanceado
 
 *  (2022) Gas 
     + Adecuar instalación de gas
+
+*  (2021) Incendio 
+    + Cambio central de Incendio
 
 
 

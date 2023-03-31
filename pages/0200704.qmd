@@ -8,9 +8,22 @@ subtitle: 'JIN A (EPCJC 02/15°) [S] - EPC N° 02 JUANA MANUELA GORRITI - EPA N�
 
 ## Mobiliario
 
-*  (2021) : banco largo comedor 20 
+*  (2021) : banco largo comedor 20, mesa 6 alumnos 10 
 
-*  (2021) : mesa 6 alumnos 10 
+
+
+
+
+## Mantenimiento
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Adecuación de sistema de calefaccíon
+
+*  (2021) Electricidad 
+    + Inst portero eléct c/telefono-Jardin
+
+*  (2021) Gas 
+    + Reemplazo de reguladores en gabinete
 
 
 

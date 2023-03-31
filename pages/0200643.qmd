@@ -16,49 +16,37 @@ Reinstalación de cañerías de gas exteriores en el interior del edificio.
     + Licitación - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 7, mesa pupitre doble 105, pizarrón 7, silla escolar 217 
+
+*  (2022) : armario 9, escritorio 2, mesa pupitre doble 30, silla escolar 62 
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, silla escolar 62, varios 12 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Adecuación de 7 aulas S.F
-
-
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
-
-*  (2021) : varios 12 
-
-*  (2022) : armario 9 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : silla escolar 62 
-
-*  (2023) : escritorio 7 
-
-*  (2023) : mesa pupitre doble 105 
-
-*  (2023) : pizarrón 7 
-
-*  (2023) : silla escolar 217 
-
-
-
-
-*  (2022) Incendio 
-    + Proveer un extintor ABC de 5 kg
 
 *  (2022) Albañileria / Pintura 
     + Colocación protecciones bajo cornisas
 
 *  (2022) Electricidad 
     + Espacio Digital
+
+*  (2022) Incendio 
+    + Proveer un extintor ABC de 5 kg
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Cambio cuatro bombas de calefacción, Colocación de protecciones de estufas
+
+*  (2021) Electricidad 
+    + Reacondicionamiento eléctrico biblioteca, Instalación de purificadores
 
 
 

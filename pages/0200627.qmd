@@ -6,37 +6,35 @@ subtitle: 'EPC N° 09 HOMERO MANZI - CENS N° 91'
 #
 
 
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Prov y coloc 2 veentiladores
-
-
 ## Mobiliario
 
-*  (2021) : mesa pupitre doble 45 
+*  (2022) : armario 4, escritorio 8, mesa pupitre doble 30, silla escolar 60 
 
-*  (2021) : pizarrón 13 
-
-*  (2022) : armario 4 
-
-*  (2022) : escritorio 8 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : silla escolar 60 
+*  (2021) : mesa pupitre doble 45, pizarrón 13 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Pintura en frisos
 
-*  (2022) Gas 
-    + Adecuación de la Instalación de Gas
+*  (2022) Electricidad 
+    + Prov y coloc 2 veentiladores
 
 *  (2022) Gas 
-    + ADECUACION DE GAS 2 PARTE
+    + Adecuación de la Instalación de Gas, ADECUACION DE GAS 2 PARTE
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Colocar 7 purificadores de aire
+
+*  (2021) Carpinterías 
+    + Proveer y colocar puerta en B° nenes
+
+*  (2021) Electricidad 
+    + colocar 3 purificadores de aire
 
 
 

@@ -6,38 +6,28 @@ subtitle: 'ENS N°02 EN LENGUAS VIVAS MARIANO ACOSTA - IES MARIANO ACOSTA - ESEA
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2022) : armario 4, escritorio 6, mesa 6 alumnos 1 
+
+*  (2021) : armario 4, escritorio 4, mesa pupitre doble 40, silla escolar 84 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Realizar 3 aulas del futuro
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Acondicionar sistema de caldera, Instalación de placas calefactoras
 
-## Mobiliario
-
-*  (2021) : armario 4 
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 40 
-
-*  (2021) : silla escolar 84 
-
-*  (2022) : armario 4 
-
-*  (2022) : escritorio 6 
-
-*  (2022) : mesa 6 alumnos 1 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Imimpermeabilizacion de azotea, Coloc placas antihumedad aula L154 La in
 
 *  (2022) Gas 
     + CAMBIO TT CASA CASERA
@@ -45,17 +35,17 @@ subtitle: 'ENS N°02 EN LENGUAS VIVAS MARIANO ACOSTA - IES MARIANO ACOSTA - ESEA
 *  (2022) Otros Servicios 
     + COLOCAR PURIFICADORES DE AIRE
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Acondicionar sistema de caldera
+*  (2021) Calefaccion y Refrigeracion 
+    + Inst 3 placas calefactoras aulas jardin, Corto el motor de 16 ventiladores pared
 
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Imimpermeabilizacion de azotea
+*  (2021) Incendio 
+    + Prov 2 matafuegos PVP X 5KG por fallas
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalación de placas calefactoras
+*  (2021) Medios de elevación 
+    + Puesta en marcha de ascensores 2 y 3
 
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Coloc placas antihumedad aula L154 La in
+*  (2021) Sanitarias 
+    + Reparar puertas de cubiculos de baños, Refacción de baño de niñas - Patio
 
 
 

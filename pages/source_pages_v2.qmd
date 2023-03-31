@@ -123,8 +123,9 @@ add_project_section(data = data_infra, dir = ".")
 ```
 
 ```{r data_mtom, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_mtom <- read_csv("../data/mtom_2019_2023_16-03.csv") %>% 
-  filter(ano %in% c("2023", "2022")) %>% 
+data_mtom <- read_csv("../data/mtom_2019_2023_16-03_framed.csv") %>% 
+  filter(ano %in% c("2023", "2022", "2021")) %>% 
+  drop_na(cui) %>% 
   arrange(desc(ano)) %>%
   glimpse()
 ```
@@ -198,8 +199,7 @@ add_service_section_v3(data_mtom, dir = ".")
 
 ```{r data_mobi, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
 data_mobi <- read_csv("../data/base_mobiliario_itemizada.csv") %>% 
-  # filter(ano %in% c("2023", "2022")) %>% 
-  # arrange(desc(ano)) %>%
+  arrange(desc(entrega)) %>%
   glimpse()
 ```
 
@@ -229,7 +229,7 @@ add_mobi_section_v1 <- function(data, dir) {
       file_contents <- readLines(file_path)
       
       # Find the position of the Infrastructure header in the file
-      infra_pos <- grep("^## Mantenimiento", file_contents)
+      infra_pos <- grep("^## Infraestructura", file_contents)
       
       if (length(infra_pos) > 0) {
         # Find the position of the last bulleted item under the Infrastructure header

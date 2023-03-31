@@ -14,5 +14,8 @@ subtitle: 'IFTS N° 14 - CBF OCUPACIONAL N° 04 PAULO FREIRE'
 *  (2022) Gas 
     + Adecuación de instalación de gas-calefac
 
+*  (2021) Electricidad 
+    + Prov,inst ventiladores faltantes
+
 
 

@@ -6,27 +6,21 @@ subtitle: 'EPC N° 21 ALTE. SEGUNDO R. STORNI - JIN B (EPCJC 21/14°)'
 #
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Cambio de tanques de agua
-
-
 ## Mobiliario
 
-*  (2022) : banco largo comedor 16 
-
-*  (2022) : mesa 6 alumnos 8 
-
-*  (2022) : mesa inicial 7 
-
-*  (2022) : silla escolar 42 
+*  (2022) : banco largo comedor 16, mesa 6 alumnos 8, mesa inicial 7, silla escolar 42 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Instalacion de purificadores
+
+*  (2022) Sanitarias 
+    + Cambio de tanques de agua
 
 
 

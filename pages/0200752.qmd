@@ -6,30 +6,29 @@ subtitle: 'EPC N° 14 LEOPOLDO LUGONES - JIC N° 04/16° DR. FLORENCIO ESCARDO'
 #
 
 
+## Mobiliario
+
+*  (2023) : armario 4, mesa 6 alumnos 4, mesa pupitre doble 52, silla escolar 104 
+
+*  (2022) : armario 2, mesa inicial 8, silla escolar 48 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Reparar calefacción
 
+*  (2021) Albañileria / Pintura 
+    + Albañilería- Instalaciones
 
-## Mobiliario
+*  (2021) Electricidad 
+    + Instalacion Electricidad- Purificadores
 
-*  (2022) : armario 2 
-
-*  (2022) : mesa inicial 8 
-
-*  (2022) : silla escolar 48 
-
-*  (2023) : armario 4 
-
-*  (2023) : mesa 6 alumnos 4 
-
-*  (2023) : mesa pupitre doble 52 
-
-*  (2023) : silla escolar 104 
-
-
-
+*  (2021) Sanitarias 
+    + Reparación cámara cloacal
 
 
 

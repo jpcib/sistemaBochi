@@ -8,15 +8,25 @@ subtitle: 'Sup Inicial II A - EPC N° 08 CARLOS DELLA PENNA - JIC N° 02/04° CA
 
 ## Mobiliario
 
-*  (2022) : escritorio 3 
+*  (2022) : escritorio 3, mesa inicial 10, mesa pupitre doble 48, pizarrón 15, silla escolar 156 
 
-*  (2022) : mesa inicial 10 
 
-*  (2022) : mesa pupitre doble 48 
 
-*  (2022) : pizarrón 15 
 
-*  (2022) : silla escolar 156 
+
+## Mantenimiento
+
+*  (2021) Albañileria / Pintura 
+    + Cambio de solado en 7 aulas
+
+*  (2021) Carpinterías 
+    + Cambiar puertas de balcon
+
+*  (2021) Electricidad 
+    + Prov,coloc 9 artef de luz-Casa casero. E
+
+*  (2021) Gas 
+    + Regularizar inst de gas, Red y artefactos de gas en cocina
 
 
 

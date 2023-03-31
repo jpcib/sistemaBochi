@@ -8,11 +8,20 @@ subtitle: 'JIN C (EPCJC 09/07°) - EPC N° 09 JAPON'
 
 ## Mantenimiento
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Adecuación de instalación termomecánica.
+
 *  (2022) Sanitarias 
     + Cambio de TR y colentor
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Adecuación de instalación termomecánica.
+*  (2021) Carpinterías 
+    + Cambio de puerta en nivel inicial
+
+*  (2021) Electricidad 
+    + Instalación circuito luces emergencia
+
+*  (2021) Gas 
+    + Adecuación de instalaciónes de gas ET-2, Recambio de estufas por fin de vida util
 
 
 

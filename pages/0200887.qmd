@@ -6,42 +6,34 @@ subtitle: 'EEM N° 06/19 - EPC N° 23 RENÉ FAVALORO'
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+*  (2022) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+*  (2021) : armario 20, escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Carpinterías 
     + Secundarias del Futuro
 
+*  (2021) Albañileria / Pintura 
+    + Cerco medianero con fundacion y rejas, Refacciones Aulas del Futuro + cerramien, Adicional reja medianera Chilavert
 
-## Mobiliario
+*  (2021) Gas 
+    + Puesta en normativa inst. gas
 
-*  (2021) : armario 20 
+*  (2021) Incendio 
+    + Reposicion de lanzas plasticas para mang
 
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 2 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 62 
-
-*  (2023) : escritorio 2 
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 2 
-
-*  (2023) : silla escolar 62 
-
-
-
+*  (2021) Medios de elevación 
+    + Puesta en normativa ascensor
 
 
 

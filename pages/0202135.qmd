@@ -11,5 +11,11 @@ subtitle: 'ESCUELA INF. N° 07/04° CASA AMARILLA'
 *  (2022) Albañileria / Pintura 
     + Cambiar tapa de cámara de pasillo
 
+*  (2021) Carpinterías 
+    + Cambio paños fijos por ventanas en Viced
+
+*  (2021) Incendio 
+    + agregar 1 matafuegos de polvo abc
+
 
 

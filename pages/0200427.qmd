@@ -10,77 +10,43 @@ subtitle: 'ENS N°04 ESTANISLAO SEVERO ZEBALLOS - LICEO N° 02 AMANCIO ALCORTA'
     + Licitación - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 7, mesa 6 alumnos 1, mesa pupitre doble 105, pizarrón 7, silla escolar 217 
+
+*  (2022) : escritorio 11, mesa pupitre doble 208, pizarrón 11, silla escolar 467 
+
+*  (2021) : escritorio 8, mesa inicial 4, mesa pupitre doble 120, pizarrón 8, silla escolar 268 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Reacondicionamiento para 7 aulas
-
-
-## Mobiliario
-
-*  (2021) : escritorio 8 
-
-*  (2021) : mesa inicial 4 
-
-*  (2021) : mesa pupitre doble 120 
-
-*  (2021) : pizarrón 8 
-
-*  (2021) : silla escolar 268 
-
-*  (2022) : escritorio 11 
-
-*  (2022) : mesa pupitre doble 208 
-
-*  (2022) : pizarrón 11 
-
-*  (2022) : silla escolar 467 
-
-*  (2023) : escritorio 7 
-
-*  (2023) : mesa 6 alumnos 1 
-
-*  (2023) : mesa pupitre doble 105 
-
-*  (2023) : pizarrón 7 
-
-*  (2023) : silla escolar 217 
-
-
-
-
-*  (2023) Albañileria / Pintura 
-    + Adicional por zocalos
+    + Reacondicionamiento para 7 aulas, Adicional por zocalos
 
 *  (2022) Albañileria / Pintura 
-    + Pintura SUM integral
+    + Pintura SUM integral, Desmonte de pilar perimetro patio jardin, Pintura de carpinterias de SUM, Cambio solados y pintura en salas
 
 *  (2022) Carpinterías 
-    + Prov. y coloc. de rejas
-
-*  (2022) Incendio 
-    + Reacondicionamiento del sistema incendio
+    + Prov. y coloc. de rejas, Prov. Coloc. 7 rejas en puertas
 
 *  (2022) Electricidad 
     + Reacondicionamiento de telefonia
 
 *  (2022) Gas 
-    + Reacondicionamiento de gas
+    + Reacondicionamiento de gas, Acondicionar instalación de gas
 
-*  (2022) Albañileria / Pintura 
-    + Desmonte de pilar perimetro patio jardin
+*  (2022) Incendio 
+    + Reacondicionamiento del sistema incendio
 
-*  (2022) Albañileria / Pintura 
-    + Pintura de carpinterias de SUM
+*  (2021) Carpinterías 
+    + Colocar rejas-Sala digital y balcones 1P
 
-*  (2022) Gas 
-    + Acondicionar instalación de gas
-
-*  (2022) Carpinterías 
-    + Prov. Coloc. 7 rejas en puertas
-
-*  (2022) Albañileria / Pintura 
-    + Cambio solados y pintura en salas
+*  (2021) Sanitarias 
+    + Recambio de cañeria de tanques
 
 
 

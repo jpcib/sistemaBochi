@@ -6,23 +6,27 @@ subtitle: 'EPC N° 23 ALFREDO RODOLFO BUFANO - JIN B (EPCJC 23/14°)'
 #
 
 
+## Mobiliario
+
+*  (2023) : banco largo comedor 20, mesa 6 alumnos 10 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Colocacion placas de aislacion
 
 *  (2022) Electricidad 
     + Reemplazo de caja/tabero
 
+*  (2021) Gas 
+    + Caldera, reguladores y ceramicos
 
-## Mobiliario
-
-*  (2023) : banco largo comedor 20 
-
-*  (2023) : mesa 6 alumnos 10 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + Colocacion placas de aislacion
+*  (2021) Sanitarias 
+    + Cambio de bombas de elevacion
 
 
 

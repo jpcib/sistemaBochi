@@ -6,47 +6,44 @@ subtitle: 'PI EL RINCONCITO DE CLAUDIO - EEM N° 05/21° JUAN MANUEL FANGIO - EP
 #
 
 
+## Mobiliario
+
+*  (2022) : escritorio 2, mesa pupitre doble 18, pizarrón 2, silla escolar 38 
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Calefaccion y Refrigeracion 
     + Reposicion de 2 calderas
 
-
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 2 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 18 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 38 
-
-
-
-
 *  (2022) Albañileria / Pintura 
     + Aulas secundaria del futuro
-
-*  (2022) Electricidad 
-    + Recambio 6 ventiladores de pared
-
-*  (2022) Electricidad 
-    + Reposición de 2 termotanques
 
 *  (2022) Calefaccion y Refrigeracion 
     + Colocación 12 placas dobles
 
+*  (2022) Electricidad 
+    + Recambio 6 ventiladores de pared, Reposición de 2 termotanques
+
 *  (2022) Incendio 
     + Reposición de extintor en cocina
+
+*  (2021) Albañileria / Pintura 
+    + Secundaria del futuro en 2 aulas 1erPiso
+
+*  (2021) Carpinterías 
+    + 2 Rejas de protección de estufas
+
+*  (2021) Electricidad 
+    + coloc 6 purificadores de aire en aulas, Colocacion reflectores patio cubierto
+
+*  (2021) Gas 
+    + Reacondicionamiento de gas
 
 
 

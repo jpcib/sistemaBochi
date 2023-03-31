@@ -6,26 +6,21 @@ subtitle: 'JII N° 02/06° FEDERICO FROEBEL'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 10, biblioteca 5, mesa inicial 30, pizarrón 6, silla escolar 180 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + Recambio de extractor de aire
 
-
-## Mobiliario
-
-*  (2022) : armario 10 
-
-*  (2022) : biblioteca 5 
-
-*  (2022) : mesa inicial 30 
-
-*  (2022) : pizarrón 6 
-
-*  (2022) : silla escolar 180 
-
-
-
+*  (2021) Gas 
+    + Sellar ventilacion caldera,modif tubo
 
 
 

@@ -6,63 +6,43 @@ subtitle: 'ESC. TEC. N° 27 HIPOLITO YRIGOYEN'
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2022) : escritorio 4, mesa pupitre doble 60, pizarrón 3, silla escolar 123 
+
+*  (2021) : armario 6, escritorio 4, mesa pupitre doble 60, pizarrón 9, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Secundarias del Futuro 2023
 
-
-## Mobiliario
-
-*  (2021) : armario 6 
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 9 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 123 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
-
-*  (2022) Electricidad 
-    + Inst Eléctrica Reflectores azoteas (2)
-
 *  (2022) Albañileria / Pintura 
     + Secundarias del Futuro 2022 - 3 Aulas
-
-*  (2022) Electricidad 
-    + Colocac de grupo electróg/ selector fase
-
-*  (2022) Carpinterías 
-    + Riel dentado fundicion en porton acceso
-
-*  (2022) Carpinterías 
-    + Films polarizados Laboratorio cero.
 
 *  (2022) Calefaccion y Refrigeracion 
     + Aire Acondicionado Aula Computacion
 
+*  (2022) Carpinterías 
+    + Riel dentado fundicion en porton acceso, Films polarizados Laboratorio cero.
+
 *  (2022) Electricidad 
-    + Puesta en Norma Inst Luces de Emergencia
+    + Inst Eléctrica Reflectores azoteas (2), Colocac de grupo electróg/ selector fase, Puesta en Norma Inst Luces de Emergencia
+
+*  (2021) Albañileria / Pintura 
+    + Reparacion de fachadas y pintura patio, Demolición revestimiento fachadcipatio
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Impermeabilización membrana s/Biblioteca, Colocacion chapas sobre semicubierto
+
+*  (2021) Sanitarias 
+    + Provision agua pileta Sala Profesores
 
 
 

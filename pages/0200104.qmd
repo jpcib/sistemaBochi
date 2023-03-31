@@ -6,26 +6,36 @@ subtitle: 'ESCUELA INF. N° 02/02° PAMPITA'
 #
 
 
+## Mobiliario
+
+*  (2022) : mesa inicial 10, silla escolar 75 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Cambio de ventilador en Dirección
 
-
-## Mobiliario
-
-*  (2022) : mesa inicial 10 
-
-*  (2022) : silla escolar 75 
-
-
-
+*  (2022) Calefaccion y Refrigeracion 
+    + Reposición radiador 16 elementos
 
 *  (2022) Gas 
     + Puesta a normativa de inst de gas
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Reposición radiador 16 elementos
+*  (2021) Calefaccion y Refrigeracion 
+    + cambio de 1 radiador en planta baja
+
+*  (2021) Gas 
+    + Adecuación de ventilaciones
+
+*  (2021) Medios de elevación 
+    + Prov montaje y conexion sist de limites
+
+*  (2021) Sanitarias 
+    + Cambio termotanque agua caliente cocina
 
 
 

@@ -6,30 +6,24 @@ subtitle: 'EPC N° 07 AERONAUTICA ARGENTINA - CECIE N° 19'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 6, mesa pupitre doble 60, pizarrón 9, silla escolar 129 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Instalacion de purificadores de aire
 
-
-## Mobiliario
-
-*  (2022) : armario 6 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : pizarrón 9 
-
-*  (2022) : silla escolar 129 
-
-
-
+*  (2022) Electricidad 
+    + Iluminación en terraza
 
 *  (2022) Gas 
     + Artefacto de cocina para casa casero.
-
-*  (2022) Electricidad 
-    + Iluminación en terraza
 
 
 

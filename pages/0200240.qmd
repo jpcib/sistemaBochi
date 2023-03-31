@@ -6,20 +6,36 @@ subtitle: 'JIN B (EPCJC 18/05°) - EPC N° 18 JUAN ENRIQUE PESTALOZZI - ESEA DAN
 #
 
 
+## Mobiliario
+
+*  (2022) : mesa inicial 5, silla escolar 30 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + Prov inst, timbre de recreo
 
+*  (2021) Albañileria / Pintura 
+    + Reparar piso gimnasio, Reparacion de pared medianera Revisar m2, Remodelacion Baño jardin y discapacitad
 
-## Mobiliario
+*  (2021) Calefaccion y Refrigeracion 
+    + Instalar 4 purificadores
 
-*  (2022) : mesa inicial 5 
+*  (2021) Electricidad 
+    + Prov 29 ventiladores de pared
 
-*  (2022) : silla escolar 30 
+*  (2021) Gas 
+    + Prov. y coloc. de valvula solnoide Falta
 
+*  (2021) Incendio 
+    + Proveer Extintores
 
-
+*  (2021) Sanitarias 
+    + Cambio desagues y pileta de patio
 
 
 

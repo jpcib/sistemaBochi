@@ -6,24 +6,24 @@ subtitle: 'Sup Inicial VIII A - EEM N° 02/16°'
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + SDF 2 AULAS 2023
 
+*  (2021) Carpinterías 
+    + colocar reja de malla soldada 5 x 5 PA
 
-## Mobiliario
-
-*  (2023) : escritorio 2 
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 2 
-
-*  (2023) : silla escolar 62 
-
-
-
+*  (2021) Electricidad 
+    + reemplazo central telefónica
 
 
 

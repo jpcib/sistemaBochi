@@ -4,34 +4,30 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS Y JÓVENES CON PLURIDISCAPACIDAD MOTORA N° 
 ---
 
 #
-
-
-## Mobiliario
-
-*  (2021) : armario 14 
-
-*  (2021) : banco largo comedor 4 
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa 6 alumnos 2 
-
-*  (2021) : mesa inicial 2 
-
-*  (2021) : mesa pupitre doble 2 
-
-*  (2021) : pizarrón 2 
-
-*  (2021) : silla escolar 20 
-
-*  (2021) : varios 5 
-
-
-
 ## Infraestructura
 
 * Acondicionamiento de pisos y cielorraso. Revision de instalacion electrica.  Provisión de agua. Arreglo de revoque en fachada internas. Adecuacion de sanitarios. pintura completa. Humedad de cimiento sobre medianera. Intervencion casa del casero. 
     + En Proyecto - Mejora Edilicia 
+
+
+## Mobiliario
+
+*  (2021) : armario 14, banco largo comedor 4, escritorio 2, mesa 6 alumnos 2, mesa inicial 2, mesa pupitre doble 2, pizarrón 2, silla escolar 20, varios 5 
+
+
+
+
+
+## Mantenimiento
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Colocación de membrana de aluminio
+
+*  (2021) Sanitarias 
+    + Instalación  tanque de plástico cocina
+
+
+
 
 
 

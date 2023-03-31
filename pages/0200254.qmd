@@ -6,43 +6,28 @@ subtitle: 'ESC. TEC. N° 04 REPUBLICA DEL LIBANO'
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+*  (2022) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + 2 aulas - SDF
 
 *  (2022) Electricidad 
     + Instalacion de tomacorrientes
 
-
-## Mobiliario
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 4 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 93 
-
-*  (2023) : escritorio 2 
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 2 
-
-*  (2023) : silla escolar 62 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + 2 aulas - SDF
+*  (2021) Gas 
+    + Reformas en instalación de gas
 
 
 

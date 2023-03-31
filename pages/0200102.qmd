@@ -6,63 +6,43 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 25 - ENS N° 07 JOSE MARIA 
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
+
+*  (2022) : armario 8, escritorio 4, mesa pupitre doble 60, pizarrón 4, varios 3 
+
+*  (2021) : armario 4, banco largo comedor 20, escritorio 5, mesa 6 alumnos 10, mesa pupitre doble 75, pizarrón 7, silla escolar 155 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + 4 aulas - Secundaria del Futuro
 
-
-## Mobiliario
-
-*  (2021) : armario 4 
-
-*  (2021) : banco largo comedor 20 
-
-*  (2021) : escritorio 5 
-
-*  (2021) : mesa 6 alumnos 10 
-
-*  (2021) : mesa pupitre doble 75 
-
-*  (2021) : pizarrón 7 
-
-*  (2021) : silla escolar 155 
-
-*  (2022) : armario 8 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : varios 3 
-
-*  (2023) : escritorio 4 
-
-*  (2023) : mesa pupitre doble 60 
-
-*  (2023) : pizarrón 4 
-
-*  (2023) : silla escolar 124 
-
-
-
-
 *  (2022) Carpinterías 
     + Prov. Coloc. rejas de seguridad en aula
-
-*  (2022) Incendio 
-    + Reposicion de 1 matafuego ABC de 5 k
-
-*  (2022) Incendio 
-    + Reemplazo de 1 matafuegos ABC 5kg
 
 *  (2022) Electricidad 
     + Reponer lámparas o artefactos
 
+*  (2022) Incendio 
+    + Reposicion de 1 matafuego ABC de 5 k, Reemplazo de 1 matafuegos ABC 5kg
+
 *  (2022) Medios de elevación 
     + Reparación de ascensor n°2
+
+*  (2021) Albañileria / Pintura 
+    + Reparar e impermeab. medianera oeste, Aulas del Futuro- 5 aulas 2do piso
+
+*  (2021) Electricidad 
+    + Reponer ventiladores en diversas aulas, Instalacion 3 purificadores de aire
+
+*  (2021) Sanitarias 
+    + Prov. coloc  bomba de caudal de entrada
 
 
 

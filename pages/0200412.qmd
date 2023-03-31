@@ -10,28 +10,36 @@ subtitle: 'JIN A (EPCJS 16/08°) - EPC N° 16 JOSE MARIA RAMOS MEJIA - CENOF CEN
     + Planificado - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2022) : mesa inicial 5, pizarrón 2, silla escolar 30 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Retiro de cielorrasos-aulas y baños 1P
-
-
-## Mobiliario
-
-*  (2022) : mesa inicial 5 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 30 
-
-
-
 
 *  (2022) Incendio 
     + Provisión de 13 matafuegos ABC 5 kg
 
 *  (2022) Saneamiento 
     + Refuerzo de desratización
+
+*  (2021) Calefaccion y Refrigeracion 
+    + cambio de radiador en sala auxiliares
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Cambio de membrana en terraza accesible
+
+*  (2021) Electricidad 
+    + Instalación 6 purificadores de aire
+
+*  (2021) Gas 
+    + Ejecucion Observaciones por metrogas
 
 
 

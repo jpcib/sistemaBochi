@@ -6,41 +6,29 @@ subtitle: 'Supervisión de Nivel Primaria DE 02 - EPC N° 14 JUAN MARTIN DE PUEY
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 14, banco largo comedor 64, escritorio 7, mesa 6 alumnos 32, mesa pupitre doble 26, pizarrón 8, silla escolar 61 
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, pizarrón 6, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Refuerzo estructural losa y vigas
 
-
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 6 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : armario 14 
-
-*  (2022) : banco largo comedor 64 
-
-*  (2022) : escritorio 7 
-
-*  (2022) : mesa 6 alumnos 32 
-
-*  (2022) : mesa pupitre doble 26 
-
-*  (2022) : pizarrón 8 
-
-*  (2022) : silla escolar 61 
-
-
-
-
 *  (2022) Calefaccion y Refrigeracion 
     + Recambio de estufas
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Readecuacion de inst pluvial en terraza
+
+*  (2021) Electricidad 
+    + Reemplazo de tablero principal
 
 
 

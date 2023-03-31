@@ -4,28 +4,27 @@ subtitle: 'JIN D (EPCJS 19/09°) - EPC N° 19 PROVINCIA DEL CHUBUT - CAIYJ CHACA
 ---
 
 #
-
-
-## Mobiliario
-
-*  (2023) : armario 6 
-
-*  (2023) : banco largo comedor 32 
-
-*  (2023) : escritorio 7 
-
-*  (2023) : mesa 6 alumnos 16 
-
-*  (2023) : mesa pupitre doble 60 
-
-*  (2023) : silla escolar 123 
-
-
-
 ## Infraestructura
 
 * Instalacion electrica completa 
     + Planificado - Mejora Edilicia 
+
+
+## Mobiliario
+
+*  (2023) : armario 6, banco largo comedor 32, escritorio 7, mesa 6 alumnos 16, mesa pupitre doble 60, silla escolar 123 
+
+
+
+
+
+## Mantenimiento
+
+*  (2021) Gas 
+    + Adecuacion instalacion de gas
+
+
+
 
 
 

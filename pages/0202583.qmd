@@ -6,51 +6,33 @@ subtitle: 'EPC N° 24'
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 9, escritorio 2, mesa pupitre doble 30, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Carpinterías 
-    + Vidrio vandalizado en puerta de ingreso
-
-
-## Mobiliario
-
-*  (2021) : armario 9 
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
-
-
-
-
-*  (2022) Carpinterías 
-    + provision y colocacion de puerta por van
-
-*  (2022) Carpinterías 
-    + Prov y coloc.pasadores en pueta Sum
-
-*  (2022) Carpinterías 
-    + Puerta en baño nenes PB
-
-*  (2022) Carpinterías 
-    + Prov. Coloc soga en mastil
-
-*  (2022) Sanitarias 
-    + CAMBIO DE TERMOTANQUE
-
-*  (2022) Carpinterías 
-    + Rep.de alambre de púas por vandalismo
+    + Vidrio vandalizado en puerta de ingreso, provision y colocacion de puerta por van, Prov y coloc.pasadores en pueta Sum, Puerta en baño nenes PB, Prov. Coloc soga en mastil, Rep.de alambre de púas por vandalismo, Provisión de puerta principal, Prov y coloc  red antipalomas en sum
 
 *  (2022) Gas 
     + Instalación de gas
 
-*  (2022) Carpinterías 
-    + Provisión de puerta principal
+*  (2022) Sanitarias 
+    + CAMBIO DE TERMOTANQUE
 
-*  (2022) Carpinterías 
-    + Prov y coloc  red antipalomas en sum
+*  (2021) Carpinterías 
+    + Prov e instalacion de cerraduras x vanda, Colocar cerradura puerta principal x van, Prov y coloc.  vidrios rotos por vandali
+
+*  (2021) Incendio 
+    + Reparar nichos y lanzas de incendio
+
+*  (2021) Medios de elevación 
+    + Adecuación de ascensor
 
 
 

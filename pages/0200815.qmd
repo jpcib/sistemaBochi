@@ -6,39 +6,33 @@ subtitle: 'EPC N° 14 GUILLERMO ENRIQUE HUDSON - JIN B (EPCJS 14/18°) [S]'
 #
 
 
-## Mantenimiento
-
-*  (2022) Incendio 
-    + Colocación de luces de emergencia
-
-
 ## Mobiliario
 
-*  (2022) : banco largo comedor 100 
-
-*  (2022) : mesa 6 alumnos 25 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : silla escolar 120 
+*  (2022) : banco largo comedor 100, mesa 6 alumnos 25, mesa pupitre doble 60, silla escolar 120 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Tratamiento ignifugo en escenario
+    + Tratamiento ignifugo en escenario, Arreglos de revoque y pintura
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Reparación de cubierta en sala
 
-*  (2022) Albañileria / Pintura 
-    + Arreglos de revoque y pintura
+*  (2022) Electricidad 
+    + Reemplazo de 2 ventiladores
 
 *  (2022) Gas 
     + Protecciones para estufas
 
-*  (2022) Electricidad 
-    + Reemplazo de 2 ventiladores
+*  (2022) Incendio 
+    + Colocación de luces de emergencia
+
+*  (2021) Gas 
+    + Cambio de estufa en 4to grado, Reemplazo de termotanque en cocina
 
 
 

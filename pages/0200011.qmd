@@ -6,31 +6,35 @@ subtitle: 'JII N° 01/01° - EPC N° 12 GRAL. LAS HERAS - CEC PLASTICA 01'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 2, escritorio 2, varios 3 
+
+*  (2021) : mesa inicial 10, mesa pupitre doble 12, silla escolar 84 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Gas 
+    + Colocación de solenoide y extractor
 
 *  (2022) Sanitarias 
     + Colocación de bachas en salas de 5 años
 
+*  (2021) Carpinterías 
+    + Rejas en ventanas a la vía pública
 
-## Mobiliario
+*  (2021) Electricidad 
+    + Colocación de luces de emergencia
 
-*  (2021) : mesa inicial 10 
+*  (2021) Incendio 
+    + Reemplazo de 1 matafuegos 5k abc
 
-*  (2021) : mesa pupitre doble 12 
-
-*  (2021) : silla escolar 84 
-
-*  (2022) : armario 2 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : varios 3 
-
-
-
-
-*  (2022) Gas 
-    + Colocación de solenoide y extractor
+*  (2021) Sanitarias 
+    + Reparacion entrada de agua al edificio
 
 
 

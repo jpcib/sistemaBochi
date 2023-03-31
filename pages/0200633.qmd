@@ -6,48 +6,23 @@ subtitle: 'JIC N° 02/13° - EPC N° 15 REPUBLICA ARGENTINA - CECEP N° 13 MARTI
 #
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Prov y coloc.  inodoro en baño por vanda
-
-
 ## Mobiliario
+
+*  (2022) : armario 4, banco largo comedor 6, escritorio 3, juego de patio 1, mesa 6 alumnos 3, mesa pupitre doble 45, piso antigolpe para juegos 60, pizarrón 12, silla escolar 93 
 
 *  (2021) : armario 4 
 
-*  (2022) : armario 4 
-
-*  (2022) : banco largo comedor 6 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : juego de patio 1 
-
-*  (2022) : mesa 6 alumnos 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : piso antigolpe para juegos 60 
-
-*  (2022) : pizarrón 12 
-
-*  (2022) : silla escolar 93 
 
 
 
 
-*  (2022) Sanitarias 
-    + Prov y coloc.  inodoro en baño
-
-*  (2022) Electricidad 
-    + Reemplazar 7 ventilaores
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Coloc alambre de púa-Pintar carpinterías
+    + Coloc alambre de púa-Pintar carpinterías, Ejecución de contrapiso y carpeta
 
-*  (2022) Otros Servicios 
-    + retiro de dos juegos
+*  (2022) Electricidad 
+    + Reemplazar 7 ventilaores, Reemplazo de 18 luces de emergencia,
 
 *  (2022) Gas 
     + Adecuación instalación de gas
@@ -55,11 +30,29 @@ subtitle: 'JIC N° 02/13° - EPC N° 15 REPUBLICA ARGENTINA - CECEP N° 13 MARTI
 *  (2022) Incendio 
     + Reponer dos lanzas de bronce
 
-*  (2022) Electricidad 
-    + Reemplazo de 18 luces de emergencia,
+*  (2022) Otros Servicios 
+    + retiro de dos juegos
 
-*  (2022) Albañileria / Pintura 
-    + Ejecución de contrapiso y carpeta
+*  (2022) Sanitarias 
+    + Prov y coloc.  inodoro en baño por vanda, Prov y coloc.  inodoro en baño
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Colocar purificador de aire
+
+*  (2021) Carpinterías 
+    + Cambiar cerraduras aulas 1 y 2 x vandali, Coloc 2 pasadores-Cuarto bombas
+
+*  (2021) Electricidad 
+    + Coloc 10 tomas dobles-Direc,secretaria, Coloc. secamanos electrico
+
+*  (2021) Incendio 
+    + Coloc extintor A informat,BC laboratorio, Colocacion de hidrantes x vandalismo.
+
+*  (2021) Otros Servicios 
+    + nivelar superficie verde en patio jardin
+
+*  (2021) Sanitarias 
+    + Coloc canilla entre bebederos-Entrada, Colocar inodoro Bº V
 
 
 

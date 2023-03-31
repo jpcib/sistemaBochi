@@ -8,21 +8,30 @@ subtitle: 'INST. DE TIEMPO LIBRE Y RECREACION - LICEO N° 01 JOSE FIGUEROA ALCOR
 
 ## Mobiliario
 
-*  (2021) : escritorio 4 
+*  (2022) : escritorio 4, mesa pupitre doble 68, pizarrón 4, silla escolar 136 
 
-*  (2021) : mesa pupitre doble 108 
+*  (2021) : escritorio 4, mesa pupitre doble 108, pizarrón 6, silla escolar 124 
 
-*  (2021) : pizarrón 6 
 
-*  (2021) : silla escolar 124 
 
-*  (2022) : escritorio 4 
 
-*  (2022) : mesa pupitre doble 68 
 
-*  (2022) : pizarrón 4 
+## Mantenimiento
 
-*  (2022) : silla escolar 136 
+*  (2021) Albañileria / Pintura 
+    + Puesta en valor de aula 15, 16 y 26, Acondicionar dos aulas para SDF 202
+
+*  (2021) Carpinterías 
+    + Cambio de vidrios en 2 aulas 1er piso
+
+*  (2021) Electricidad 
+    + REALIZAR 4 AULAS DEL FUTURO, Provisión y colocación de un nuevo timbr, Proveer y colocar 14 ventiladores
+
+*  (2021) Incendio 
+    + Adecuar IFCI
+
+*  (2021) Sanitarias 
+    + Proveer y colocar termotanque-Casero, Reponer tapa de tanque de agua
 
 
 

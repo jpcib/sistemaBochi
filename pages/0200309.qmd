@@ -8,21 +8,24 @@ subtitle: 'EPC N° 22 MARTINA SILVA DE GURRUCHAGA - EPA N° 22 MARTINA SILVA DE 
 
 ## Mobiliario
 
-*  (2021) : escritorio 2 
+*  (2022) : banco largo comedor 10, escritorio 3, mesa pupitre doble 45, silla escolar 62 
 
-*  (2021) : mesa integradora con escotadura 2 
+*  (2021) : escritorio 2, mesa integradora con escotadura 2, mesa pupitre doble 30, silla escolar 62 
 
-*  (2021) : mesa pupitre doble 30 
 
-*  (2021) : silla escolar 62 
 
-*  (2022) : banco largo comedor 10 
 
-*  (2022) : escritorio 3 
 
-*  (2022) : mesa pupitre doble 45 
+## Mantenimiento
 
-*  (2022) : silla escolar 62 
+*  (2021) Carpinterías 
+    + Reparacion de carpinteria de madera etap
+
+*  (2021) Electricidad 
+    + Circuito y luces de emergencia, colocacion de 7 luminarias asimetricas
+
+*  (2021) Gas 
+    + Proteccion de calefactores
 
 
 

@@ -11,32 +11,29 @@ subtitle: 'ESCUELA INF. N°05/21° HEBE SAN MARTIN DUPRAT'
 *  (2023) Electricidad 
     + Colocacion de artefactos luz tubos led
 
-*  (2022) Carpinterías 
-    + Colocacion de 3 cerradura por vandalismo
+*  (2022) Albañileria / Pintura 
+    + Cambio de piso de goma-Sala 1 año, Colocacion placas en friso
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Prov. coloc.equipo AA frio calor, Equipo aire frio calor inverter de 5000
 
 *  (2022) Carpinterías 
-    + Colocación cerraduras puerta de entrada
-
-*  (2022) Incendio 
-    + Cambio de matafuegos 5kg
-
-*  (2022) Gas 
-    + Estufa para sector de comedor
+    + Colocacion de 3 cerradura por vandalismo, Colocación cerraduras puerta de entrada
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Cambio de canaleta
 
-*  (2022) Albañileria / Pintura 
-    + Cambio de piso de goma-Sala 1 año
+*  (2022) Gas 
+    + Estufa para sector de comedor
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Prov. coloc.equipo AA frio calor
+*  (2022) Incendio 
+    + Cambio de matafuegos 5kg
 
-*  (2022) Albañileria / Pintura 
-    + Colocacion placas en friso
+*  (2021) Calefaccion y Refrigeracion 
+    + Cambio de estufa
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Equipo aire frio calor inverter de 5000
+*  (2021) Gas 
+    + Cambio de calefon por termotanque 50L
 
 
 

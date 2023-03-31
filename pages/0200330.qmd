@@ -6,43 +6,29 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 06'
 #
 
 
-## Mantenimiento
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Tepa Verificar item HERRERIA 7.4 Me da 1
-
-
 ## Mobiliario
 
-*  (2021) : armario 5 
+*  (2022) : escritorio 1, mesa inicial 2, silla escolar 8 
 
-*  (2021) : biblioteca 3 
-
-*  (2021) : escritorio 3 
-
-*  (2021) : mesa 6 alumnos 6 
-
-*  (2021) : mesa pupitre doble 20 
-
-*  (2021) : silla escolar 70 
-
-*  (2022) : escritorio 1 
-
-*  (2022) : mesa inicial 2 
-
-*  (2022) : silla escolar 8 
+*  (2021) : armario 5, biblioteca 3, escritorio 3, mesa 6 alumnos 6, mesa pupitre doble 20, silla escolar 70 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Pintura: aulas del fondo biblioteca Ver
+    + Pintura: aulas del fondo biblioteca Ver, Pintura exterior: Patio, Baños, Falta ag
 
 *  (2022) Calefaccion y Refrigeracion 
     + Reparar equipo de aire acondicionado
 
-*  (2022) Albañileria / Pintura 
-    + Pintura exterior: Patio, Baños, Falta ag
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Tepa Verificar item HERRERIA 7.4 Me da 1
+
+*  (2021) Incendio 
+    + Cambio de central de incendio
 
 
 

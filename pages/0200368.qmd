@@ -6,27 +6,30 @@ subtitle: 'JIN C (EPCJS 18/07°) - EPC N° 18 COMODORO CLODOMIRO URTUBEY'
 #
 
 
+## Mobiliario
+
+*  (2022) : banco largo comedor 40, mesa 6 alumnos 10, mesa pupitre doble 30, silla escolar 90 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Plastificado en piso de sala informática
 
-
-## Mobiliario
-
-*  (2022) : banco largo comedor 40 
-
-*  (2022) : mesa 6 alumnos 10 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : silla escolar 90 
-
-
-
-
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Reparaciones en cocina
+
+*  (2021) Electricidad 
+    + Colocación de purificadores.
+
+*  (2021) Gas 
+    + Adecuación de instalaciónes de gas ET-2
+
+*  (2021) Sanitarias 
+    + Cambio de cañerìa cloacal
 
 
 

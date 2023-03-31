@@ -6,32 +6,30 @@ subtitle: 'EPC N° 01 MARTIN FIERRO - JIN E (EPCJS 01/18°) (SEDE)'
 #
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Solicitud tapa de inodoros
-
-
 ## Mobiliario
 
-*  (2022) : banco largo comedor 100 
-
-*  (2022) : mesa 6 alumnos 25 
-
-*  (2022) : mesa pupitre doble 90 
-
-*  (2022) : pizarrón 7 
-
-*  (2022) : silla escolar 186 
+*  (2022) : banco largo comedor 100, mesa 6 alumnos 25, mesa pupitre doble 90, pizarrón 7, silla escolar 186 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Arreglos de revoques y pintura
 
 *  (2022) Electricidad 
     + Reemplazo de 3 ventiladores
+
+*  (2022) Sanitarias 
+    + Solicitud tapa de inodoros
+
+*  (2021) Electricidad 
+    + Colocación de purificadores
+
+*  (2021) Incendio 
+    + Colocación de luces de emergencia
 
 
 

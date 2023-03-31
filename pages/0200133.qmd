@@ -6,58 +6,44 @@ subtitle: 'EPA N° 22 CARLOS PELLEGRINI - JIN A (EPCJS 22/03°) - EPC N° 22 CAR
 #
 
 
-## Mantenimiento
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Reparar filtraciones en cubierta
-
-
 ## Mobiliario
 
-*  (2021) : banco largo comedor 10 
+*  (2022) : armario 2, mesa pupitre doble 30, silla escolar 70 
 
-*  (2021) : mesa 6 alumnos 5 
-
-*  (2021) : varios 2 
-
-*  (2022) : armario 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : silla escolar 70 
+*  (2021) : banco largo comedor 10, mesa 6 alumnos 5, varios 2 
 
 
 
 
-*  (2022) Otros Servicios 
-    + RETIRO DE ARBOL
 
-*  (2022) Sanitarias 
-    + Sustitucion de inodoro b.discapacitados
+## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Reparar revoques de aula de plástica, Pintura de pasillo y 2 hall
 
 *  (2022) Carpinterías 
     + Sustitucion Puertas baño Jardin
 
-*  (2022) Electricidad 
-    + Reemplazar y suministrar ventiladores
-
 *  (2022) Cubiertas / Impermeabilizaciones 
-    + Elemento estructural para filtraciones
-
-*  (2022) Albañileria / Pintura 
-    + Reparar revoques de aula de plástica
+    + Reparar filtraciones en cubierta, Elemento estructural para filtraciones
 
 *  (2022) Electricidad 
-    + Colocar Cinco Ventiladores distribuidos
-
-*  (2022) Albañileria / Pintura 
-    + Pintura de pasillo y 2 hall
-
-*  (2022) Otros Servicios 
-    + Retiro de Materiales o Restos de Obra
+    + Reemplazar y suministrar ventiladores, Colocar Cinco Ventiladores distribuidos
 
 *  (2022) Gas 
     + Adecuación de inst de gas a normativa
+
+*  (2022) Otros Servicios 
+    + RETIRO DE ARBOL, Retiro de Materiales o Restos de Obra
+
+*  (2022) Sanitarias 
+    + Sustitucion de inodoro b.discapacitados
+
+*  (2021) Albañileria / Pintura 
+    + Rep,pintar cielorraso biblioteca,pasillo
+
+*  (2021) Gas 
+    + Verificar instalacion de gas
 
 
 

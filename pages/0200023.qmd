@@ -6,49 +6,37 @@ subtitle: 'Sup Media Region I - Sup.Educ.Tec.Region I DE 01,03 - ESC. DE COM. N�
 #
 
 
-## Mantenimiento
-
-*  (2022) Otros Servicios 
-    + READECUACION CASA CASERO
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 4 
+*  (2023) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
 
-*  (2021) : mesa pupitre doble 60 
+*  (2022) : escritorio 4, mesa pupitre doble 64, pizarrón 4, silla escolar 132 
 
-*  (2021) : pizarrón 4 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 64 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 132 
-
-*  (2023) : escritorio 4 
-
-*  (2023) : mesa pupitre doble 60 
-
-*  (2023) : pizarrón 4 
-
-*  (2023) : silla escolar 124 
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
 
 
 
+
+
+## Mantenimiento
+
+*  (2022) Carpinterías 
+    + Colocacion  alambre concertina en reja., Brazo hidraulico en puerta de acceso
 
 *  (2022) Incendio 
     + Reposicion 2 lanzas de 1 3/4
 
-*  (2022) Carpinterías 
-    + Colocacion  alambre concertina en reja.
+*  (2022) Otros Servicios 
+    + READECUACION CASA CASERO
 
-*  (2022) Carpinterías 
-    + Brazo hidraulico en puerta de acceso
+*  (2021) Albañileria / Pintura 
+    + Se solicita pintura en pasillo de aulas
+
+*  (2021) Otros Servicios 
+    + 4 AULAS SE SECUNDARIA DEL FUTURO
+
+*  (2021) Sanitarias 
+    + Tapas laterales del tanque elevado
 
 
 

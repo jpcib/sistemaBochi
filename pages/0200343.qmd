@@ -6,43 +6,33 @@ subtitle: 'JIC Nº12 DE 06 - EPC N° 08 ALMAFUERTE'
 #
 
 
-## Mantenimiento
-
-*  (2022) Medios de elevación 
-    + reparacion ascensor
-
-
 ## Mobiliario
 
-*  (2022) : escritorio 8 
-
-*  (2022) : mesa inicial 9 
-
-*  (2022) : silla escolar 54 
+*  (2022) : escritorio 8, mesa inicial 9, silla escolar 54 
 
 
 
 
-*  (2022) Otros Servicios 
-    + Adecuacion Inst. Electrica
+
+## Mantenimiento
 
 *  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilizacion en cubierta jardin
-
-*  (2022) Otros Servicios 
-    + Provision temporal de grupo electrogeno
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Reparacion de dos terrazas transitables
+    + Impermeabilizacion en cubierta jardin, Reparacion de dos terrazas transitables
 
 *  (2022) Electricidad 
-    + Provision e iinstalacion luces de emerg.
+    + Provision e iinstalacion luces de emerg., Proveer e instalar dos ventiladores
 
 *  (2022) Incendio 
     + Reemplazo de dos matafuegos jardin
 
-*  (2022) Electricidad 
-    + Proveer e instalar dos ventiladores
+*  (2022) Medios de elevación 
+    + reparacion ascensor
+
+*  (2022) Otros Servicios 
+    + Adecuacion Inst. Electrica, Provision temporal de grupo electrogeno
+
+*  (2021) Otros Servicios 
+    + Reparacion y reinstalacion de bombas, Readecuacion instalacion de gas, Puesta en marcha Central de incendio, Instalacion de 6 ventiladores en comedor
 
 
 

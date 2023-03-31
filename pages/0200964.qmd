@@ -10,62 +10,40 @@ subtitle: 'ESEA DANZA RAMICONE  FOLK.N° 20 - ESEA ARTES VISUALES LOLA MORA'
     + Licitación - SDF 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2022) : escritorio 4, locker 90, mesa pupitre doble 62, pizarrón 3, silla escolar 124 
+
+*  (2021) : armario 16, banco largo comedor 25, escritorio 6, mesa 6 alumnos 15, mesa pupitre doble 90, pizarrón 4, silla escolar 186, varios 6 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Carpinterías 
-    + Instalar rejas-Modificar puertas
-
-
-## Mobiliario
-
-*  (2021) : armario 16 
-
-*  (2021) : banco largo comedor 25 
-
-*  (2021) : escritorio 6 
-
-*  (2021) : mesa 6 alumnos 15 
-
-*  (2021) : mesa pupitre doble 90 
-
-*  (2021) : pizarrón 4 
-
-*  (2021) : silla escolar 186 
-
-*  (2021) : varios 6 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : locker 90 
-
-*  (2022) : mesa pupitre doble 62 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 124 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
-
-*  (2022) Gas 
-    + Refacción de protecciones de estufas
+    + Instalar rejas-Modificar puertas, Cambio de 2 vidrios de puerta exterior v
 
 *  (2022) Electricidad 
     + Cambio de portero y arreglos por vandali
 
+*  (2022) Gas 
+    + Refacción de protecciones de estufas
+
 *  (2022) Medios de elevación 
     + Puesta en Normativa de Ascensor
 
-*  (2022) Carpinterías 
-    + Cambio de 2 vidrios de puerta exterior v
+*  (2021) Carpinterías 
+    + Reponer cerraduras x vandalismo.
+
+*  (2021) Gas 
+    + Readecuacion de gas, cambio de calefon
+
+*  (2021) Sanitarias 
+    + Reparaciones en vestuario por vandalismo, Cambio de inodoro fisurado x vandalismo
 
 
 

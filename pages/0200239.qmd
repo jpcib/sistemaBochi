@@ -6,39 +6,39 @@ subtitle: 'EPC N° 17 PEDRO MELITON LEDESMA - EPA N° 17 PEDRO MELITON LEDESMA'
 #
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Reemplazo Piletones baños niñas y niños
-
-
 ## Mobiliario
 
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : pizarrón 9 
-
-*  (2022) : silla escolar 62 
+*  (2022) : escritorio 2, mesa pupitre doble 30, pizarrón 9, silla escolar 62 
 
 
 
 
-*  (2022) Electricidad 
-    + Reparación Tableros Básquet
+
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + "Reemplazo de Carpinterías Baños Niñas y
 
-*  (2022) Sanitarias 
-    + Reemplazo bomba elevadora
-
 *  (2022) Electricidad 
-    + Tomas eléctricos para Rack computadoras
+    + Reparación Tableros Básquet, Tomas eléctricos para Rack computadoras
 
 *  (2022) Gas 
     + Extractor y Válvula solenoide
+
+*  (2022) Sanitarias 
+    + Reemplazo Piletones baños niñas y niños, Reemplazo bomba elevadora
+
+*  (2021) Albañileria / Pintura 
+    + Adecuación de aulas
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Impermeabilización y cambio de vidrios
+
+*  (2021) Electricidad 
+    + Instalaciòn de 8 purificadores
+
+*  (2021) Gas 
+    + Reparación e instalación de gas
 
 
 

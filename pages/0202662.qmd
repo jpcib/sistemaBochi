@@ -10,57 +10,40 @@ subtitle: 'ESC. SUPERIOR DE EDUCACIÓN ARTÍSTICA EN ARTES VISUALES ROGELIO YRUR
     + En Obra - SDF 
 
 
-## Mantenimiento
-
-*  (2023) Sanitarias 
-    + Reemplazo de Griferias vandalizadas
-
-
 ## Mobiliario
-
-*  (2021) : banco largo comedor 40 
-
-*  (2021) : mesa 6 alumnos 30 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 15 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 140 
 
 *  (2023) : locker 15 
 
+*  (2022) : escritorio 4, mesa pupitre doble 15, pizarrón 4, silla escolar 140 
+
+*  (2021) : banco largo comedor 40, mesa 6 alumnos 30 
 
 
+
+
+
+## Mantenimiento
 
 *  (2023) Sanitarias 
-    + Reemplazar 2 bombas cloacales
+    + Reemplazo de Griferias vandalizadas, Reemplazar 2 bombas cloacales
 
-*  (2022) Sanitarias 
-    + Camara cloacal complementaria
+*  (2022) Carpinterías 
+    + Reponer 4 cerraduras rotas, Ejecutar e instalar puerta reja, Proveer y colocar rejas de seguridad. Mo, Protecciones 24 ventanas de gimnasio
 
 *  (2022) Medios de elevación 
-    + Reparar ascensor 1 vandalizado
+    + Reparar ascensor 1 vandalizado, Colocacion de cerraduras en ascensores
 
 *  (2022) Sanitarias 
-    + Modificación  de los desagües
+    + Camara cloacal complementaria, Modificación  de los desagües
 
-*  (2022) Carpinterías 
-    + Reponer 4 cerraduras rotas
+*  (2021) Carpinterías 
+    + Reparar 15 cerraduras de aulas Se solici
 
-*  (2022) Carpinterías 
-    + Ejecutar e instalar puerta reja
+*  (2021) Electricidad 
+    + reempl artefactos led quemados pasillo
 
-*  (2022) Carpinterías 
-    + Proveer y colocar rejas de seguridad. Mo
-
-*  (2022) Medios de elevación 
-    + Colocacion de cerraduras en ascensores
-
-*  (2022) Carpinterías 
-    + Protecciones 24 ventanas de gimnasio
+*  (2021) Sanitarias 
+    + reponer tapa de tanque de reserva, Adecuar decantadores metálicos móviles
 
 
 

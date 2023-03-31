@@ -6,36 +6,32 @@ subtitle: 'ENS N° 10 JUAN BAUTISTA ALBERDI (SEDE)'
 #
 
 
+## Mobiliario
+
+*  (2022) : escritorio 7, mesa pupitre doble 105, pizarrón 7, silla escolar 217 
+
+*  (2021) : armario 10, escritorio 7, mesa pupitre doble 105, pizarrón 11, silla escolar 217, varios 10 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + Adecuación elétrica para pantallas HDMI
 
+*  (2021) Albañileria / Pintura 
+    + Aulas del futuro
 
-## Mobiliario
+*  (2021) Carpinterías 
+    + Prov y coloc. red de proteccion en galer
 
-*  (2021) : armario 10 
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Impermeabilización de terraza
 
-*  (2021) : escritorio 7 
-
-*  (2021) : mesa pupitre doble 105 
-
-*  (2021) : pizarrón 11 
-
-*  (2021) : silla escolar 217 
-
-*  (2021) : varios 10 
-
-*  (2022) : escritorio 7 
-
-*  (2022) : mesa pupitre doble 105 
-
-*  (2022) : pizarrón 7 
-
-*  (2022) : silla escolar 217 
-
-
-
+*  (2021) Electricidad 
+    + Adecuación sdf de 6 aulas
 
 
 

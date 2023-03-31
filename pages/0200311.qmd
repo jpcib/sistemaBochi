@@ -10,32 +10,29 @@ subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
     + Finalizado - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Gas 
-    + Acond. de instalación de GAS
-
-
 ## Mobiliario
+
+*  (2022) : armario 2, mesa pupitre doble 60, pizarrón 1, silla escolar 120 
 
 *  (2021) : armario 6 
 
-*  (2022) : armario 2 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : pizarrón 1 
-
-*  (2022) : silla escolar 120 
 
 
 
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Limpieza y reparacion de aberturas
 
+*  (2022) Gas 
+    + Acond. de instalación de GAS
+
 *  (2022) Otros Servicios 
     + Rejas de proteccion para estufas
+
+*  (2021) Otros Servicios 
+    + Reposicion de termotanque
 
 
 

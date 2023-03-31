@@ -6,37 +6,29 @@ subtitle: 'Sup Inicial I B - JII N° 08/06° M.A.SCHIAVONI DE LOPEZ'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 2, escritorio 1, juego de patio 1, mesa inicial 10, piso antigolpe para juegos 36, pizarrón 2, silla escolar 63 
+
+*  (2021) : mesa inicial 5, silla escolar 20 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilizacion patio/terraza
+    + Impermeabilizacion patio/terraza, Pintado impermeabilizante terraza patio
 
+*  (2021) Albañileria / Pintura 
+    + Reparar desprendimientos pared terraza
 
-## Mobiliario
+*  (2021) Electricidad 
+    + Instalacion de 3 purificadores de aire
 
-*  (2021) : mesa inicial 5 
-
-*  (2021) : silla escolar 20 
-
-*  (2022) : armario 2 
-
-*  (2022) : escritorio 1 
-
-*  (2022) : juego de patio 1 
-
-*  (2022) : mesa inicial 10 
-
-*  (2022) : piso antigolpe para juegos 36 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 63 
-
-
-
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Pintado impermeabilizante terraza patio
+*  (2021) Medios de elevación 
+    + Puesta en normativa sistema elevaplatos
 
 
 

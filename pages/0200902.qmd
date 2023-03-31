@@ -4,22 +4,18 @@ subtitle: 'EPC N° 05 VICENTE LOPEZ Y PLANES - CENS N° 02'
 ---
 
 #
-
-
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
-
-
-
 ## Infraestructura
 
 * Accesibilidad, ascensor. 
     + Finalizado - Mejora Edilicia 
+
+
+## Mobiliario
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, silla escolar 62 
+
+
+
 
 
 

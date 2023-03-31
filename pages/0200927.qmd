@@ -6,52 +6,43 @@ subtitle: 'EEM N° 02/20° - JM N° 05/20° (A) - CAIYJ CLUB MATADEROS - IFTS N�
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+*  (2022) : escritorio 2, mesa inicial 22, mesa integradora con escotadura 7, mesa pupitre doble 30, pizarrón 24, silla escolar 62 
+
+*  (2021) : escritorio 3, mesa 6 alumnos 22, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Colocación de luces de emergencia
 
-
-## Mobiliario
-
-*  (2021) : escritorio 3 
-
-*  (2021) : mesa 6 alumnos 22 
-
-*  (2021) : mesa pupitre doble 45 
-
-*  (2021) : pizarrón 3 
-
-*  (2021) : silla escolar 93 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa inicial 22 
-
-*  (2022) : mesa integradora con escotadura 7 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : pizarrón 24 
-
-*  (2022) : silla escolar 62 
-
-*  (2023) : escritorio 2 
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 2 
-
-*  (2023) : silla escolar 62 
-
-
-
+*  (2022) Albañileria / Pintura 
+    + Ejecución de dos aula futuro para 5to
 
 *  (2022) Gas 
     + Readecuar instalación de gas
 
-*  (2022) Albañileria / Pintura 
-    + Ejecución de dos aula futuro para 5to
+*  (2021) Albañileria / Pintura 
+    + Secundarias Futuro 2020, Cotizacion de dos aulas SDF 4to Año Se d
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + IMPERMEABILIZACION DE TERRAZA
+
+*  (2021) Electricidad 
+    + Colocar 3 ventiladores de pared, Tendido electrico alimentacion de Horno, Inst. Horno electrico en cocina
+
+*  (2021) Gas 
+    + Puesta en condiciones instalacion de gas, Provision y colocacion de termotanque, Prov y coloc  termotanque en cocina.
+
+*  (2021) Sanitarias 
+    + Ejecucion de descarga mingitorio
 
 
 

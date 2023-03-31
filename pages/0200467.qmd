@@ -6,58 +6,46 @@ subtitle: 'CENS N° 38 - IFTS N° 22 - ESC. TEC. N° 02 OSVALDO MAGNASCO'
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2022) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
+
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Otros Servicios 
     + Cerramiento medianera
 
-
-## Mobiliario
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 4 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 124 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
-
-*  (2022) Otros Servicios 
-    + Refaccion sala de informatica PB
+*  (2022) Gas 
+    + Cambio de llaves de paso de estufas, Prov. coloc. 4 estufasde Tiro Balanceado
 
 *  (2022) Incendio 
     + Provision y colocacion de matafuegos
 
 *  (2022) Otros Servicios 
-    + Provision y colocacion de AA
+    + Refaccion sala de informatica PB, Provision y colocacion de AA, Secundaria del Futuro etapa 5
 
-*  (2022) Gas 
-    + Cambio de llaves de paso de estufas
+*  (2021) Albañileria / Pintura 
+    + Protecciones en ventanas y escaleras
 
-*  (2022) Gas 
-    + Prov. coloc. 4 estufasde Tiro Balanceado
+*  (2021) Electricidad 
+    + Colocar panel calefaccion elec., Luces de emergencia en ET Magnasco
 
-*  (2022) Otros Servicios 
-    + Secundaria del Futuro etapa 5
+*  (2021) Gas 
+    + Protecciones mecanicas de estufas de gas, Colocar 4 estufas
+
+*  (2021) Incendio 
+    + Prov y colocacion detectores de humo
+
+*  (2021) Medios de elevación 
+    + Puesta en normativa ascensor
 
 
 

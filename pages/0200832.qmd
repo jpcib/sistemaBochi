@@ -10,46 +10,40 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
     + Licitación - SDF 
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Destapación de piletas decantacion
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 4 
+*  (2023) : escritorio 7, locker 20, mesa pupitre doble 105, pizarrón 7, silla escolar 217 
 
-*  (2021) : mesa pupitre doble 50 
+*  (2022) : escritorio 7, mesa pupitre doble 105, pizarrón 7, silla escolar 93 
 
-*  (2021) : silla escolar 104 
-
-*  (2022) : escritorio 7 
-
-*  (2022) : mesa pupitre doble 105 
-
-*  (2022) : pizarrón 7 
-
-*  (2022) : silla escolar 93 
-
-*  (2023) : escritorio 7 
-
-*  (2023) : locker 20 
-
-*  (2023) : mesa pupitre doble 105 
-
-*  (2023) : pizarrón 7 
-
-*  (2023) : silla escolar 217 
+*  (2021) : escritorio 4, mesa pupitre doble 50, silla escolar 104 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Electricidad 
     + Adecuacion biblioteca
 
 *  (2022) Sanitarias 
-    + Destapación de piletas de decantación
+    + Destapación de piletas decantacion, Destapación de piletas de decantación
+
+*  (2021) Albañileria / Pintura 
+    + TERMINACIONES SALONES DE DANZAS Y HERRER
+
+*  (2021) Carpinterías 
+    + Baranda protectora, Cerramiento de seguridad en anexo Muratu
+
+*  (2021) Electricidad 
+    + Instalacion de 16 equipos purificadores
+
+*  (2021) Gas 
+    + Adecuaciones gas, extracción y ventilaci
+
+*  (2021) Sanitarias 
+    + Destapacion de piletas de decantacion
 
 
 

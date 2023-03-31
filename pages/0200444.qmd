@@ -10,26 +10,38 @@ subtitle: 'JII N° 05/09° - EPC N° 05 HON. CONGRESO DE LA NACION - CECEP N° 0
     + Licitación - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2022) : banco largo comedor 20, mesa 6 alumnos 10 
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Cambio de quemador en caldera
 
+*  (2021) Calefaccion y Refrigeracion 
+    + Reparacion de Caldera y puesta en marcha
 
-## Mobiliario
+*  (2021) Electricidad 
+    + Colocacion llaver general Edenor, Fallas en iluminación de Emergencia
 
-*  (2021) : escritorio 2 
+*  (2021) Gas 
+    + Reparación cocina y termotanque
 
-*  (2021) : mesa pupitre doble 30 
+*  (2021) Incendio 
+    + reacondicionamiento de tablero para bomb
 
-*  (2021) : silla escolar 62 
+*  (2021) Medios de elevación 
+    + Puesta en normativa ascensor
 
-*  (2022) : banco largo comedor 20 
-
-*  (2022) : mesa 6 alumnos 10 
-
-
-
+*  (2021) Sanitarias 
+    + Construcción de pozo para desagüe
 
 
 

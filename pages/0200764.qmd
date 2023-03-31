@@ -12,10 +12,10 @@ subtitle: 'CENS Nº 66 - ESC. BILINGÜE PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS 
     + Reja y malla de proteccion para patio
 
 *  (2022) Electricidad 
-    + Ejecucion de instalacion para AA en S.S.
+    + Ejecucion de instalacion para AA en S.S., Solicitud de c y p IE y tomacorrientes
 
-*  (2022) Electricidad 
-    + Solicitud de c y p IE y tomacorrientes
+*  (2021) Electricidad 
+    + Cambio de central telefónica
 
 
 

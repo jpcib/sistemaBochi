@@ -6,26 +6,33 @@ subtitle: 'EPC N° 03 PROF. CARLOS JUSTO FLORIT - CENS N° 84'
 #
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalar Split Sala Computación
-
-
 ## Mobiliario
 
-*  (2021) : banco largo comedor 14 
-
-*  (2021) : mesa 6 alumnos 7 
+*  (2021) : banco largo comedor 14, mesa 6 alumnos 7 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Rep. grietas en cielorraso de material
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Instalar Split Sala Computación
+
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Filtraciones cubierta comedor
+
+*  (2021) Electricidad 
+    + Instalación de 2 purificadores
+
+*  (2021) Gas 
+    + Adecuación x Inspección Metrogas
+
+*  (2021) Sanitarias 
+    + Cambio de tapa de tanque de reserva
 
 
 

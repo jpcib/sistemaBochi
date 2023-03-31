@@ -6,22 +6,18 @@ subtitle: 'EPC N° 08 DR. ARTURO MATEO BAS - JIN B (EPCJS 08/02°) JARDIN DEL AB
 #
 
 
+## Mobiliario
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + REPARACION DE CALDERA
-
-
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
-
-
-
 
 *  (2022) Electricidad 
     + Instalación de un proyector

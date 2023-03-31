@@ -6,25 +6,33 @@ subtitle: 'Sup Inicial IV B - EPC N° 24 DR. PEDRO AVELINO TORRES - JII N° 03/1
 #
 
 
+## Mobiliario
+
+*  (2022) : banco largo comedor 20, mesa 6 alumnos 10, silla escolar 48 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Gas 
+    + Prov.  instalación de válvula
 
 *  (2022) Incendio 
     + Reposición de mangueras en hidrantes
 
+*  (2021) Electricidad 
+    + Reparación de red telefónica interna
 
-## Mobiliario
+*  (2021) Gas 
+    + Instalacion de horno en cocina, instalación de electroválvula en cocina
 
-*  (2022) : banco largo comedor 20 
+*  (2021) Medios de elevación 
+    + puesta en norma del ascensor
 
-*  (2022) : mesa 6 alumnos 10 
-
-*  (2022) : silla escolar 48 
-
-
-
-
-*  (2022) Gas 
-    + Prov.  instalación de válvula
+*  (2021) Sanitarias 
+    + REEMPLAZO TERMOTANQUE CASA CASERA, desvío de ramal pluvial en patio jardin
 
 
 

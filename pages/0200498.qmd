@@ -4,30 +4,20 @@ subtitle: 'EPC N° 04 CNEL. C. F. BRANDSEN - JIN C (EPCJS 04/10°)'
 ---
 
 #
-
-
-## Mobiliario
-
-*  (2021) : banco largo comedor 30 
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa 6 alumnos 15 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : silla escolar 184 
-
-*  (2022) : mesa inicial 3 
-
-*  (2022) : silla escolar 18 
-
-
-
 ## Infraestructura
 
 * Acond de sanitarios, prov de agua , carpinteria y pintura en areas sgnificativas 
     + Licitación - Mejora Edilicia 
+
+
+## Mobiliario
+
+*  (2022) : mesa inicial 3, silla escolar 18 
+
+*  (2021) : banco largo comedor 30, escritorio 4, mesa 6 alumnos 15, mesa pupitre doble 60, silla escolar 184 
+
+
+
 
 
 

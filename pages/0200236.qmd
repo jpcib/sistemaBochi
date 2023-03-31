@@ -6,62 +6,43 @@ subtitle: 'JIC N° 04/05° SEDE - EPC N° 14 PROVINCIA DE SAN LUIS'
 #
 
 
+## Mobiliario
+
+*  (2023) : armario 2, silla escolar 60 
+
+*  (2022) : mesa inicial 10, pizarrón 4, silla escolar 60 
+
+*  (2021) : armario 28, mesa pupitre doble 90, silla escolar 180 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Gestión y Alquiler de GEM
 
-
-## Mobiliario
-
-*  (2021) : armario 28 
-
-*  (2021) : mesa pupitre doble 90 
-
-*  (2021) : silla escolar 180 
-
-*  (2022) : mesa inicial 10 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 60 
-
-*  (2023) : armario 2 
-
-*  (2023) : silla escolar 60 
-
-
-
-
-*  (2022) Carpinterías 
-    + Canilla Servicio Patio Huerta jardín
-
-*  (2022) Electricidad 
-    + Adecuación Tablero Eléctrico
-
-*  (2022) Electricidad 
-    + "Reposición ventiladores de techo
-
-*  (2022) Carpinterías 
-    + Concertina, Rejas y Generador
-
 *  (2022) Calefaccion y Refrigeracion 
     + Reemplazo Estufas Cachi 77 (Primaria)
 
-*  (2022) Sanitarias 
-    + Adecuación Desengrasadora Primaria
-
-*  (2022) Sanitarias 
-    + Reponer tapa de tanque de agua
-
-*  (2022) Sanitarias 
-    + Reparación de cámaras cloacales
-
 *  (2022) Carpinterías 
-    + "Reemplazo Vidrios en Escalera
+    + Canilla Servicio Patio Huerta jardín, Concertina, Rejas y Generador, "Reemplazo Vidrios en Escalera
+
+*  (2022) Electricidad 
+    + Adecuación Tablero Eléctrico, "Reposición ventiladores de techo
 
 *  (2022) Sanitarias 
-    + Reemplazo Inodoro
+    + Adecuación Desengrasadora Primaria, Reponer tapa de tanque de agua, Reparación de cámaras cloacales, Reemplazo Inodoro
+
+*  (2021) Carpinterías 
+    + cambio de cerraduras
+
+*  (2021) Electricidad 
+    + Cambio de bombas de achiques
+
+*  (2021) Incendio 
+    + 2 EXTINTORES ABC X 5 KG
 
 
 

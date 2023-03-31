@@ -20,5 +20,8 @@ subtitle: 'ENS N° 05 GRAL. M. M. DE GÜEMES ([A])'
 *  (2022) Incendio 
     + Cambio de central de incendio
 
+*  (2021) Sanitarias 
+    + Reparacion de Bomba de Agua
+
 
 

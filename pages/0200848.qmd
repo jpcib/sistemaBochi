@@ -6,12 +6,6 @@ subtitle: 'EPC N° 05 PROVINCIA DE CORRIENTES - CECEP N° 19'
 #
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Camara septica y desagües cloacales
-
-
 ## Mobiliario
 
 *  (2022) : pizarrón 14 
@@ -19,11 +13,14 @@ subtitle: 'EPC N° 05 PROVINCIA DE CORRIENTES - CECEP N° 19'
 
 
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalacion de purificadores de aire
+
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Reemplazar estufas de tiro balanceado.
+    + Instalacion de purificadores de aire, Reemplazar estufas de tiro balanceado.
+
+*  (2022) Sanitarias 
+    + Camara septica y desagües cloacales
 
 
 

@@ -6,33 +6,23 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 12'
 #
 
 
-## Mantenimiento
-
-*  (2022) Gas 
-    + Cambio de TT en casa habitación
-
-
 ## Mobiliario
 
-*  (2021) : armario 5 
+*  (2022) : banco largo comedor 12, mesa 6 alumnos 6 
 
-*  (2021) : mesa 6 alumnos 3 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 10 
-
-*  (2021) : silla escolar 60 
-
-*  (2022) : banco largo comedor 12 
-
-*  (2022) : mesa 6 alumnos 6 
+*  (2021) : armario 5, mesa 6 alumnos 3, mesa pupitre doble 30, pizarrón 10, silla escolar 60 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Refacción de SUM
+
+*  (2022) Gas 
+    + Cambio de TT en casa habitación
 
 
 

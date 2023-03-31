@@ -6,29 +6,24 @@ subtitle: 'ESCUELA INF. N° 05/13° - ESCUELA INF. N° 04/13°'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 3, juego de patio 1, mesa inicial 10, piso antigolpe para juegos 60, silla escolar 60 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Reemp piso vinilico-Pintura de patio
+    + Reemp piso vinilico-Pintura de patio, EJECUCION DE PLATEA
 
+*  (2021) Gas 
+    + Prov, coloc calefon
 
-## Mobiliario
-
-*  (2022) : armario 3 
-
-*  (2022) : juego de patio 1 
-
-*  (2022) : mesa inicial 10 
-
-*  (2022) : piso antigolpe para juegos 60 
-
-*  (2022) : silla escolar 60 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + EJECUCION DE PLATEA
+*  (2021) Sanitarias 
+    + Reemplazo griferia, la griferia a coloca
 
 
 

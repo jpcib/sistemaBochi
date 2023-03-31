@@ -6,50 +6,38 @@ subtitle: 'EPA N° 04 PRES. DR. ARTURO UMBERTO ILLIA - EPC N° 04 PRES. DR. ARTU
 #
 
 
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Cambio ubicación toma primaria Edesur
-
-
 ## Mobiliario
 
-*  (2021) : banco largo comedor 40 
+*  (2022) : armario 4, mesa pupitre doble 40, pizarrón 7, silla escolar 80 
 
-*  (2021) : mesa 6 alumnos 20 
-
-*  (2021) : mesa pupitre doble 35 
-
-*  (2021) : silla escolar 70 
-
-*  (2022) : armario 4 
-
-*  (2022) : mesa pupitre doble 40 
-
-*  (2022) : pizarrón 7 
-
-*  (2022) : silla escolar 80 
+*  (2021) : banco largo comedor 40, mesa 6 alumnos 20, mesa pupitre doble 35, silla escolar 70 
 
 
 
 
-*  (2022) Electricidad 
-    + Recambio de artefactos de luz
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Impermeabilización azotea tanque
 
-*  (2022) Sanitarias 
-    + Prov. coloc. termotanque electrico
+*  (2022) Calefaccion y Refrigeracion 
+    + Colocar AºAº sala de plastica 3er piso
 
 *  (2022) Carpinterías 
     + Prov. coloc. pasamanos
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Colocar AºAº sala de plastica 3er piso
+*  (2022) Electricidad 
+    + Cambio ubicación toma primaria Edesur, Recambio de artefactos de luz
 
 *  (2022) Sanitarias 
-    + Cambio de tanque de expansión
+    + Prov. coloc. termotanque electrico, Cambio de tanque de expansión
+
+*  (2021) Albañileria / Pintura 
+    + Reacondicionamiento por filtraciones, Pintura pared medianera patio
+
+*  (2021) Electricidad 
+    + Colocar aires acondicionados, Reandicionamiento electrico de tablero -, Reacondicionamiento tableros - ETAPA 2, Recambio de termotanque en sala de máqui
 
 
 

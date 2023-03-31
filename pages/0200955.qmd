@@ -6,12 +6,6 @@ subtitle: 'EPC N° 13 DR. ALFREDO LANARI - JIN C (EPCJS 13/21°) - EPA N° 13 DR
 #
 
 
-## Mantenimiento
-
-*  (2023) Electricidad 
-    + Recambio motor ventana corrediza
-
-
 ## Mobiliario
 
 *  (2021) : pizarrón 3 
@@ -19,26 +13,29 @@ subtitle: 'EPC N° 13 DR. ALFREDO LANARI - JIN C (EPCJS 13/21°) - EPA N° 13 DR
 
 
 
-*  (2023) Sanitarias 
-    + Reposición  válvula de descarga inodoro
+
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Retiro de revestimiento
+
+*  (2023) Electricidad 
+    + Recambio motor ventana corrediza
+
+*  (2023) Sanitarias 
+    + Reposición  válvula de descarga inodoro
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Impermeabilización de varios sectores
 
 *  (2022) Electricidad 
-    + Reposición de 5 ventiladores quemados
+    + Reposición de 5 ventiladores quemados, Recambio reflectores-Patio y hall
 
 *  (2022) Sanitarias 
-    + Recambio de dos piletas en pasillo
+    + Recambio de dos piletas en pasillo, Reposición de inodoro por vandalismo
 
-*  (2022) Electricidad 
-    + Recambio reflectores-Patio y hall
-
-*  (2022) Sanitarias 
-    + Reposición de inodoro por vandalismo
+*  (2021) Electricidad 
+    + colocación de 1 purificador en 6to grado, Colocar 1 purificador de aire en aula, Colocar purificador en aula informática
 
 
 

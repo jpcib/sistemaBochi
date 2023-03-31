@@ -12,20 +12,20 @@ subtitle: 'EPC N° 12 HERMINIA BRUMANA'
 
 ## Mantenimiento
 
-*  (2022) Sanitarias 
-    + Revestimiento en Baño casa casera
-
-*  (2022) Electricidad 
-    + Tomacorrientes en SUM
-
-*  (2022) Electricidad 
-    + Instalacion de purificadores
+*  (2022) Albañileria / Pintura 
+    + Pintura de SUM
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Colocacion de sobretecho de chapa
 
-*  (2022) Albañileria / Pintura 
-    + Pintura de SUM
+*  (2022) Electricidad 
+    + Tomacorrientes en SUM, Instalacion de purificadores
+
+*  (2022) Sanitarias 
+    + Revestimiento en Baño casa casera
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Cambio de termotanque y estufa
 
 
 

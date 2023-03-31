@@ -6,32 +6,21 @@ subtitle: 'EPA N° 13 REPUBLICA ISLAMICA DE IRAN - EPC N° 13 REPUBLICA ISLAMICA
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 4, escritorio 4, mesa pupitre doble 60, pizarrón 2, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Incendio 
-    + Provision y colocación de un matafuego
+    + Provision y colocación de un matafuego, Readecuacion sistema contra incendio, Normalizacion Sistema contra Incendio
 
-
-## Mobiliario
-
-*  (2021) : armario 4 
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 2 
-
-*  (2021) : silla escolar 124 
-
-
-
-
-*  (2022) Incendio 
-    + Readecuacion sistema contra incendio
-
-*  (2022) Incendio 
-    + Normalizacion Sistema contra Incendio
+*  (2021) Incendio 
+    + Proveer Extintores 5 Kg ABC, Prov y coloc matafuego ABC 5kg
 
 
 

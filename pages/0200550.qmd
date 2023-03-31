@@ -6,25 +6,26 @@ subtitle: 'JIN B (EPCJC 02/11°) - EPC N° 02 MAXIMIO S. VICTORIA'
 #
 
 
+## Mobiliario
+
+*  (2023) : mesa pupitre doble 48, silla escolar 96 
+
+*  (2022) : escritorio 4 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Electricidad 
+    + Instalación de purificadores
 
 *  (2022) Gas 
     + Reemplazo de anafe en sala auxiliares
 
-
-## Mobiliario
-
-*  (2022) : escritorio 4 
-
-*  (2023) : mesa pupitre doble 48 
-
-*  (2023) : silla escolar 96 
-
-
-
-
-*  (2022) Electricidad 
-    + Instalación de purificadores
+*  (2021) Gas 
+    + Reparaciones en instalacion de gas
 
 
 

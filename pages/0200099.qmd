@@ -4,40 +4,37 @@ subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI L
 ---
 
 #
-
-
-## Mobiliario
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 4 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 124 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
 ## Infraestructura
 
 * 3er año 
     + En Obra - SDF 
+
+
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2022) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
+
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
+
+
+
+
+
+## Mantenimiento
+
+*  (2021) Calefaccion y Refrigeracion 
+    + REPARACION DE CALDERA
+
+*  (2021) Electricidad 
+    + Luces de emergencia, Colocación de purificadores
+
+*  (2021) Sanitarias 
+    + Conexión de agua en bacha-Sala Jardín
+
+
+
 
 
 

@@ -6,27 +6,29 @@ subtitle: 'EPC N° 17 FRANCISCO DE VITORIA - CENS N° 33 LEOPOLDO MARECHAL - JIN
 #
 
 
+## Mobiliario
+
+*  (2022) : banco largo comedor 6, mesa 6 alumnos 3 
+
+*  (2021) : banco largo comedor 12, mesa 6 alumnos 6 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Electricidad 
+    + Adecuación eléctrica en casa casera
 
 *  (2022) Sanitarias 
     + Colocación de grasera en cocina
 
+*  (2021) Carpinterías 
+    + Rejas en escalera y en 2 ventanas fachad
 
-## Mobiliario
-
-*  (2021) : banco largo comedor 12 
-
-*  (2021) : mesa 6 alumnos 6 
-
-*  (2022) : banco largo comedor 6 
-
-*  (2022) : mesa 6 alumnos 3 
-
-
-
-
-*  (2022) Electricidad 
-    + Adecuación eléctrica en casa casera
+*  (2021) Electricidad 
+    + Colocación de luces de emergencia
 
 
 

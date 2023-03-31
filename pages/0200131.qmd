@@ -6,20 +6,24 @@ subtitle: 'EPC N° 15 FRANCISCO NARCISO DE LAPRIDA - JIN B (EPCJS 15/03°) - CEN
 #
 
 
+## Mobiliario
+
+*  (2022) : mesa pupitre doble 45, silla escolar 90 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Gas 
     + Adecuación de inst de gas a normativa
 
+*  (2021) Calefaccion y Refrigeracion 
+    + Reemplazo de estufa, Reparacion  motor 7 ventiladores
 
-## Mobiliario
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : silla escolar 90 
-
-
-
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Adecuación sala de máquinas
 
 
 

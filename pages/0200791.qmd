@@ -6,44 +6,26 @@ subtitle: 'ESC. DE COM. N° 11 DR. JOSE PERALTA'
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 65, pizarrón 3, silla escolar 133 
+
+*  (2021) : armario 1, escritorio 2, mesa pupitre doble 30, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Reacondicionamiento de 3 aulas para SDF
-
-
-## Mobiliario
-
-*  (2021) : armario 1 
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 65 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 133 
-
-
-
-
-*  (2023) Albañileria / Pintura 
-    + Pintura en laboratorio, baños y aulas
-
-*  (2022) Electricidad 
-    + Solicitud de c y p IE y tomacorrientes
-
-*  (2022) Electricidad 
-    + Solicitud de c y p cambio c. telefonica
+    + Reacondicionamiento de 3 aulas para SDF, Pintura en laboratorio, baños y aulas
 
 *  (2022) Albañileria / Pintura 
     + Pinturas en dos aulas de 5to año
+
+*  (2022) Electricidad 
+    + Solicitud de c y p IE y tomacorrientes, Solicitud de c y p cambio c. telefonica
 
 
 

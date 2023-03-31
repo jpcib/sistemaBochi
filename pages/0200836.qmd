@@ -11,5 +11,8 @@ subtitle: 'CENS N° 73 - CENS N° 88'
 *  (2022) Electricidad 
     + Prov. Coloc 3 ventiladores
 
+*  (2021) Gas 
+    + Revision y reintegro del servicio de gas
+
 
 

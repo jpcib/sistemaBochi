@@ -10,31 +10,30 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
     + En Proyecto - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Tendido Prov Agua Baño 1er piso
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 58 
+*  (2021) : escritorio 2, mesa pupitre doble 30, silla escolar 58 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Gas 
     + Reparación Solenoide Cocina
 
-*  (2022) Sanitarias 
-    + Conectar sector gastronomia red cloacal
-
 *  (2022) Incendio 
     + Reponer 2 matafuegos co2 fin vida util
+
+*  (2022) Sanitarias 
+    + Tendido Prov Agua Baño 1er piso, Conectar sector gastronomia red cloacal
+
+*  (2021) Electricidad 
+    + Instalación 6 equipos purificadores aire
+
+*  (2021) Gas 
+    + Proteccion de estufa Aula 2A
 
 
 

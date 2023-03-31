@@ -8,15 +8,18 @@ subtitle: 'JIN A (EPCJS 09/10°) [S] - EPC N° 09 EVARISTO JULIO BADIA'
 
 ## Mobiliario
 
+*  (2023) : banco largo comedor 50, mesa 6 alumnos 25, mesa pupitre doble 105, silla escolar 210 
+
 *  (2021) : silla escolar 25 
 
-*  (2023) : banco largo comedor 50 
 
-*  (2023) : mesa 6 alumnos 25 
 
-*  (2023) : mesa pupitre doble 105 
 
-*  (2023) : silla escolar 210 
+
+## Mantenimiento
+
+*  (2021) Electricidad 
+    + Nueva inst eléct- SUM y S Música
 
 
 

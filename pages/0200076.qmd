@@ -6,36 +6,35 @@ subtitle: 'EPC N° 02 JUAN LARREA - ESC. DE MUSICA N° 10'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 6 
+
+*  (2021) : armario 3, banco largo comedor 64, escritorio 4, mesa 6 alumnos 27, mesa pupitre doble 60, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Pintura de Hall de ingreso
-
-
-## Mobiliario
-
-*  (2021) : armario 3 
-
-*  (2021) : banco largo comedor 64 
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa 6 alumnos 27 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : armario 6 
-
-
-
 
 *  (2022) Gas 
     + Reemplazo de 3 calefactores
 
 *  (2022) Otros Servicios 
     + Poda de enredaderas en patios
+
+*  (2021) Albañileria / Pintura 
+    + reparación de fisuras en fachada y pintu
+
+*  (2021) Carpinterías 
+    + Prov. Coloc. rejas protección escalera
+
+*  (2021) Gas 
+    + Adecuación de instalación de gas
 
 
 

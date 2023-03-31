@@ -6,26 +6,32 @@ subtitle: 'EPC N° 07 REPUBLICA DE MEXICO - EPA N° 07 REPUBLICA DE MEXICO - JIN
 #
 
 
+## Mobiliario
+
+*  (2022) : mesa inicial 5, silla escolar 30 
+
+*  (2021) : escritorio 3, mesa pupitre doble 45, silla escolar 93 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Incendio 
     + Puesta en valor de IFCI
 
+*  (2021) Calefaccion y Refrigeracion 
+    + Reparación de caldera
 
-## Mobiliario
+*  (2021) Carpinterías 
+    + Redes y pintura en gimnasio
 
-*  (2021) : escritorio 3 
+*  (2021) Gas 
+    + Adecuación de instalaciónes de gas
 
-*  (2021) : mesa pupitre doble 45 
-
-*  (2021) : silla escolar 93 
-
-*  (2022) : mesa inicial 5 
-
-*  (2022) : silla escolar 30 
-
-
-
+*  (2021) Incendio 
+    + Recambio de matafuegos
 
 
 

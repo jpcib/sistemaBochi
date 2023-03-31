@@ -8,11 +8,19 @@ subtitle: 'EPC N° 13 GRAL. SAN MARTIN - CENS N° 46'
 
 ## Mobiliario
 
-*  (2021) : escritorio 2 
+*  (2021) : escritorio 2, mesa pupitre doble 30, silla escolar 62 
 
-*  (2021) : mesa pupitre doble 30 
 
-*  (2021) : silla escolar 62 
+
+
+
+## Mantenimiento
+
+*  (2021) Gas 
+    + Remplazar cañerias por perdida de gas, Habilitación de artefactos de caldera
+
+*  (2021) Sanitarias 
+    + Adecuacion sistema bombeo cloacal
 
 
 

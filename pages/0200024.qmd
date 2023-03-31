@@ -6,46 +6,25 @@ subtitle: 'ESC. TEC.  N° 12 LIB. GRAL. JOSE DE SAN MARTIN'
 #
 
 
-## Mantenimiento
-
-*  (2022) Otros Servicios 
-    + OBRA CIVIL SDF
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 4 
+*  (2023) : escritorio 5, mesa pupitre doble 75, pizarrón 5, silla escolar 155 
 
-*  (2021) : mesa pupitre doble 60 
+*  (2022) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
 
-*  (2021) : pizarrón 4 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 124 
-
-*  (2023) : escritorio 5 
-
-*  (2023) : mesa pupitre doble 75 
-
-*  (2023) : pizarrón 5 
-
-*  (2023) : silla escolar 155 
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + PROVISION Y COLOCACION DE CARP. EN AULAS
 
 *  (2022) Otros Servicios 
-    + Demolición de muros en aulas
+    + OBRA CIVIL SDF, Demolición de muros en aulas
 
 
 

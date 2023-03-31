@@ -8,11 +8,11 @@ subtitle: 'EPC N° 07 ARISTOBULO DEL VALLE - JIN C (EPCJS 07/20°)'
 
 ## Mantenimiento
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Proveer y coloc 5 estufas de 5000 calorí
-
 *  (2022) Albañileria / Pintura 
     + Colocar redes plásticas y bandejas
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Proveer y coloc 5 estufas de 5000 calorí
 
 
 

@@ -6,28 +6,32 @@ subtitle: 'ESCUELA INF. N° 05/19° SAN LORENZO DE ALMAGRO'
 #
 
 
+## Mobiliario
+
+*  (2022) : silla escolar 48 
+
+*  (2021) : armario 5, mesa inicial 8 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Reemplazo de siete ventiladores.
 
 *  (2022) Carpinterías 
     + Reja perimetral con refuerzo
 
-
-## Mobiliario
-
-*  (2021) : armario 5 
-
-*  (2021) : mesa inicial 8 
-
-*  (2022) : silla escolar 48 
-
-
-
-
 *  (2022) Gas 
     + Cambio de puerta en Nichos de gas.
 
-*  (2022) Albañileria / Pintura 
-    + Reemplazo de siete ventiladores.
+*  (2021) Calefaccion y Refrigeracion 
+    + Coloc. AºAº direccion
+
+*  (2021) Gas 
+    + Adecuar a norma vigente-Inst de gas
 
 
 

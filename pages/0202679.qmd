@@ -6,35 +6,36 @@ subtitle: 'EPC N° 25 BANDERA ARGENTINA'
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 1, banco largo comedor 50, mesa 6 alumnos 25, mesa pupitre doble 60, silla escolar 64 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Carpinterías 
+    + Provision y Colocacion de Black out-ofic, Provision y colocacion de Black out-espa
 
 *  (2022) Incendio 
     + Rep. de Extintores y Acc. de la IFCI
 
-
-## Mobiliario
-
-*  (2021) : armario 1 
-
-*  (2021) : banco largo comedor 50 
-
-*  (2021) : mesa 6 alumnos 25 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : silla escolar 64 
-
-
-
-
-*  (2022) Carpinterías 
-    + Provision y Colocacion de Black out-ofic
-
 *  (2022) Sanitarias 
     + Reposicion de inodoros vandalizados
 
-*  (2022) Carpinterías 
-    + Provision y colocacion de Black out-espa
+*  (2021) Calefaccion y Refrigeracion 
+    + ADECUACION SIST CALEFACCION
+
+*  (2021) Incendio 
+    + PROVISION Y COLOCACION DE BLACKOUT
+
+*  (2021) Medios de elevación 
+    + Reparacion y puesta en marcha ascensores
+
+*  (2021) Sanitarias 
+    + Conexion de agua a cisternas, Proveer camion cisterna de agua potable
 
 
 

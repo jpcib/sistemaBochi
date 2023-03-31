@@ -10,47 +10,35 @@ subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
     + Finalizado - SDF 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2022) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Reparacion de Fan Coil
+
+*  (2022) Carpinterías 
+    + Reparar paño de carpintería de aluminio
 
 *  (2022) Electricidad 
     + 3 aulas para SDF
-
-
-## Mobiliario
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 93 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
 
 *  (2022) Gas 
     + Modificacion de instalacion de gas
 
 *  (2022) Incendio 
-    + Acondicionar la IFCI
+    + Acondicionar la IFCI, Provisión de 2 matafuegos
 
-*  (2022) Carpinterías 
-    + Reparar paño de carpintería de aluminio
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Reparacion de Fan Coil
-
-*  (2022) Incendio 
-    + Provisión de 2 matafuegos
+*  (2021) Carpinterías 
+    + Pintura aulas y provisión de puerta
 
 
 

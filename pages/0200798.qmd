@@ -10,29 +10,30 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
     + En Obra - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Cambio de Caldera
-
-
 ## Mobiliario
 
-*  (2022) : mesa inicial 5 
-
-*  (2022) : silla escolar 15 
+*  (2022) : mesa inicial 5, silla escolar 15 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Pisos de pinoteas-Administración PB
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Cambio de Caldera
 
 *  (2022) Electricidad 
     + Prov. y coloc. de luces de emergencia
 
 *  (2022) Gas 
     + Cambio de termotanque cocina
+
+*  (2021) Carpinterías 
+    + Ejecucion de rejas de seguridad
 
 
 

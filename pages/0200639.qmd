@@ -6,37 +6,29 @@ subtitle: 'EPA N°22 SANTA MARIA DE LOS BUENOS AIRES - EPC N°22 SANTA MARIA DE 
 #
 
 
+## Mobiliario
+
+*  (2022) : mesa integradora con escotadura 1, mesa pupitre doble 44, silla escolar 88 
+
+*  (2021) : armario 13, escritorio 5, mesa integradora con escotadura 3, mesa pupitre doble 65, silla escolar 135, varios 1 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + Provision y colocacion de luces de emer
 
-
-## Mobiliario
-
-*  (2021) : armario 13 
-
-*  (2021) : escritorio 5 
-
-*  (2021) : mesa integradora con escotadura 3 
-
-*  (2021) : mesa pupitre doble 65 
-
-*  (2021) : silla escolar 135 
-
-*  (2021) : varios 1 
-
-*  (2022) : mesa integradora con escotadura 1 
-
-*  (2022) : mesa pupitre doble 44 
-
-*  (2022) : silla escolar 88 
-
-
-
-
 *  (2022) Incendio 
     + Colocación lanzas faltantes polipropilen
+
+*  (2021) Electricidad 
+    + Coloc 2 tomas para purificadores, cambia
+
+*  (2021) Gas 
+    + Adecuar a normativa Inst de Gas
 
 
 

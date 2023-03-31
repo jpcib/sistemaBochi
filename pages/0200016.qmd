@@ -10,48 +10,41 @@ subtitle: 'JIN C (EPCJC 21/01°) - EPC N° 21 ANGEL GALLARDO'
     + Licitación - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Canalizacion de desague de mingitorios
-
-
 ## Mobiliario
 
-*  (2021) : armario 4 
+*  (2022) : armario 2, banco largo comedor 112, mesa 6 alumnos 56, mesa inicial 5, pizarrón 7, silla escolar 30 
 
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : armario 2 
-
-*  (2022) : banco largo comedor 112 
-
-*  (2022) : mesa 6 alumnos 56 
-
-*  (2022) : mesa inicial 5 
-
-*  (2022) : pizarrón 7 
-
-*  (2022) : silla escolar 30 
+*  (2021) : armario 4, escritorio 4, mesa pupitre doble 60, silla escolar 124 
 
 
 
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Cambio de 3 estufas
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Pintura de Paredes y retiro de placas.
 
-*  (2022) Gas 
-    + Cambio de termotanque de casera. La supe
+*  (2022) Calefaccion y Refrigeracion 
+    + Cambio de 3 estufas
 
 *  (2022) Carpinterías 
     + Colocacion de Films Polarizados
+
+*  (2022) Gas 
+    + Cambio de termotanque de casera. La supe
+
+*  (2022) Sanitarias 
+    + Canalizacion de desague de mingitorios
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Reparación de estufas
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + cambio de chapas en techo de comedor
+
+*  (2021) Medios de elevación 
+    + Adecuacion de ascensor
 
 
 

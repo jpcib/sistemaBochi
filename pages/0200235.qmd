@@ -6,22 +6,21 @@ subtitle: 'EPC N° 13 FRAY MAMERTO ESQUIU'
 #
 
 
+## Mobiliario
+
+*  (2021) : mesa pupitre doble 30, pizarrón 7, silla escolar 30 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Gas 
     + Prov. Inst. artefacto cocina
 
-
-## Mobiliario
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 7 
-
-*  (2021) : silla escolar 30 
-
-
-
+*  (2021) Electricidad 
+    + Prov. y Coloc. tomas corriente
 
 
 

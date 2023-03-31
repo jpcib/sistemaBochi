@@ -6,27 +6,21 @@ subtitle: 'ESCUELA INF. N° 11/05° (A) - EPC N° 28 Argentino China'
 #
 
 
+## Mobiliario
+
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 2, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
-    + Proveer 11 ventiladores de pared de 20"
+    + Proveer 11 ventiladores de pared de 20", Reparación de timbre de recreos
 
-
-## Mobiliario
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 2 
-
-*  (2021) : silla escolar 124 
-
-
-
-
-*  (2022) Electricidad 
-    + Reparación de timbre de recreos
+*  (2021) Incendio 
+    + Cambiar caño de incendio con perdidas
 
 
 

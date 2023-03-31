@@ -6,30 +6,29 @@ subtitle: 'EPC N° 11 MANUELA PEDRAZA'
 #
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Adecuación de sala de plástica
-
-
 ## Mobiliario
-
-*  (2022) : mesa pupitre doble 50 
-
-*  (2022) : pizarrón 7 
-
-*  (2022) : silla escolar 100 
 
 *  (2023) : armario 2 
 
+*  (2022) : mesa pupitre doble 50, pizarrón 7, silla escolar 100 
 
 
+
+
+
+## Mantenimiento
+
+*  (2022) Carpinterías 
+    + Colocación de protección barandas
 
 *  (2022) Incendio 
     + Reemplazo de 1 matafuego
 
-*  (2022) Carpinterías 
-    + Colocación de protección barandas
+*  (2022) Sanitarias 
+    + Adecuación de sala de plástica
+
+*  (2021) Electricidad 
+    + Instalación de luces de emergencia
 
 
 

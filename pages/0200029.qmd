@@ -10,74 +10,28 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
     + En Obra - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2023) Sanitarias 
-    + Cambio de 3 inodoros
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 5 
+*  (2023) : escritorio 6, mesa pupitre doble 90, pizarrón 6, silla escolar 186 
 
-*  (2021) : mesa pupitre doble 75 
+*  (2022) : armario 1, banco largo comedor 2, escritorio 6, mesa pupitre doble 90, pizarrón 6, silla escolar 186 
 
-*  (2021) : pizarrón 5 
-
-*  (2021) : silla escolar 155 
-
-*  (2022) : armario 1 
-
-*  (2022) : banco largo comedor 2 
-
-*  (2022) : escritorio 6 
-
-*  (2022) : mesa pupitre doble 90 
-
-*  (2022) : pizarrón 6 
-
-*  (2022) : silla escolar 186 
-
-*  (2023) : escritorio 6 
-
-*  (2023) : mesa pupitre doble 90 
-
-*  (2023) : pizarrón 6 
-
-*  (2023) : silla escolar 186 
+*  (2021) : escritorio 5, mesa pupitre doble 75, pizarrón 5, silla escolar 155 
 
 
 
+
+
+## Mantenimiento
 
 *  (2023) Carpinterías 
     + Prov,coloc 3 puertas reja acceso aulas
 
-*  (2022) Albañileria / Pintura 
-    + Secundaria del futuro
+*  (2023) Sanitarias 
+    + Cambio de 3 inodoros
 
 *  (2022) Albañileria / Pintura 
-    + Reparacion de cielorrasos sobre caja esc
-
-*  (2022) Albañileria / Pintura 
-    + Cambio de tanques de reserva
-
-*  (2022) Incendio 
-    + Cambio de lanzas
-
-*  (2022) Electricidad 
-    + Cambio de cableado telefonico
-
-*  (2022) Albañileria / Pintura 
-    + Presupuesto aulas SDF
-
-*  (2022) Otros Servicios 
-    + Volquete para retiro de materiales
-
-*  (2022) Incendio 
-    + Rep. y coloc señaleticas
-
-*  (2022) Sanitarias 
-    + Cambio de bomba de achique
+    + Secundaria del futuro, Reparacion de cielorrasos sobre caja esc, Cambio de tanques de reserva, Presupuesto aulas SDF
 
 *  (2022) Calefaccion y Refrigeracion 
     + Cambio de 3 estufas
@@ -85,11 +39,32 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 *  (2022) Carpinterías 
     + Provisión e instalación de rejas en dife
 
+*  (2022) Electricidad 
+    + Cambio de cableado telefonico, Retiro artef iluminacion y colocac LED
+
+*  (2022) Incendio 
+    + Cambio de lanzas, Rep. y coloc señaleticas
+
 *  (2022) Medios de elevación 
     + Reparacion variador de control  maniobra
 
-*  (2022) Electricidad 
-    + Retiro artef iluminacion y colocac LED
+*  (2022) Otros Servicios 
+    + Volquete para retiro de materiales
+
+*  (2022) Sanitarias 
+    + Cambio de bomba de achique
+
+*  (2021) Albañileria / Pintura 
+    + demolicion y reconstruccion de cielorras
+
+*  (2021) Gas 
+    + Puesta a normativa instalacion de gas, Cambio de 7 estufas en aulas, Cambio de termotanque normativa Metrogas
+
+*  (2021) Incendio 
+    + Reemplazo de 3 extintores ABC x 5 kg
+
+*  (2021) Sanitarias 
+    + Impermeabilizacion de canaletas
 
 
 

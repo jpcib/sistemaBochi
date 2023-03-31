@@ -6,33 +6,26 @@ subtitle: 'EPC N° 08 LUIS FEDERICO LELOIR - JIN A (EPCJC 08/19°)'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 5, mesa inicial 4, pizarrón 4, silla escolar 24 
+
+*  (2021) : escritorio 1, mesa pupitre doble 60, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Gas 
     + Cambio de reguladores.
 
-
-## Mobiliario
-
-*  (2021) : escritorio 1 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : armario 5 
-
-*  (2022) : mesa inicial 4 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 24 
-
-
-
-
 *  (2022) Medios de elevación 
     + decuación del ascensor
+
+*  (2021) Medios de elevación 
+    + Habilitacion del ascensor
 
 
 

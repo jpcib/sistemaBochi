@@ -6,62 +6,43 @@ subtitle: 'IFTS Nº 11 DE 05 - ESC. TEC. N° 07 DOLORES LAVALLE DE LAVALLE - CAI
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+*  (2022) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, mesa trabajo estante 4, pizarrón 2, silla escolar 62, varios 8 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Carpinterías 
     + Secundarias del futuro 2022 - 2 aulas
 
-
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : mesa trabajo estante 4 
-
-*  (2021) : pizarrón 2 
-
-*  (2021) : silla escolar 62 
-
-*  (2021) : varios 8 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 62 
-
-*  (2023) : escritorio 2 
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 2 
-
-*  (2023) : silla escolar 62 
-
-
-
-
 *  (2022) Electricidad 
-    + Conexión Aula Computación con tecnología
-
-*  (2022) Medios de elevación 
-    + Cambio control de maniobras ascensor
+    + Conexión Aula Computación con tecnología, Colocación  toma en aula nueva PB, Colocación de 30 tomas en aula nueva
 
 *  (2022) Gas 
     + Cambio TT sala auxiliares
 
+*  (2022) Medios de elevación 
+    + Cambio control de maniobras ascensor
+
 *  (2022) Sanitarias 
     + Reemplazo 14 depósitos de inodoro
 
-*  (2022) Electricidad 
-    + Colocación  toma en aula nueva PB
+*  (2021) Electricidad 
+    + Adecuar 2 aulas del futuro, Agregar dos circuitos de tomas
 
-*  (2022) Electricidad 
-    + Colocación de 30 tomas en aula nueva
+*  (2021) Gas 
+    + Reponer calefon, Adecuación Gas por Inspección Metrogas, Adecuación por inspección de gas
+
+*  (2021) Medios de elevación 
+    + Adecuacion ascensor
 
 
 

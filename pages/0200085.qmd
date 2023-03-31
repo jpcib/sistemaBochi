@@ -10,12 +10,6 @@ subtitle: 'Sup Inicial III B - JII N° 04/02º'
     + En Obra - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Gas 
-    + Reemplazo de estufa TB de comedor
-
-
 ## Mobiliario
 
 *  (2021) : piso antigolpe para juegos 12 
@@ -23,8 +17,26 @@ subtitle: 'Sup Inicial III B - JII N° 04/02º'
 
 
 
+
+## Mantenimiento
+
+*  (2022) Gas 
+    + Reemplazo de estufa TB de comedor
+
 *  (2022) Incendio 
     + Prov. Coloc. 4 extintores tipo ABC.
+
+*  (2021) Albañileria / Pintura 
+    + Reparación y pintura de fachada, Puesta en valor de cuatro aulas, Puesta en valor de sala auxiliar y docen
+
+*  (2021) Carpinterías 
+    + Prov. coloc  puerta en supervisión
+
+*  (2021) Electricidad 
+    + Ventilador de 20" para Dirección
+
+*  (2021) Gas 
+    + Adecuación de instalación de gas
 
 
 

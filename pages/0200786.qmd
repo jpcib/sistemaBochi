@@ -6,30 +6,27 @@ subtitle: 'EPC N° 21 ROMPEHIELOS GRAL. SAN MARTIN - JINA(EPCJS 21/17°)ALICIA M
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 3, banco largo comedor 26, escritorio 1, mesa 6 alumnos 13, mesa inicial 8, mesa pupitre doble 30, silla escolar 145 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Pintura de  4 Aulas
 
+*  (2021) Electricidad 
+    + Instalación 6 equipos purificadores aire
 
-## Mobiliario
+*  (2021) Gas 
+    + Reempl 2 tb y 4 griferías economiz. agua
 
-*  (2022) : armario 3 
-
-*  (2022) : banco largo comedor 26 
-
-*  (2022) : escritorio 1 
-
-*  (2022) : mesa 6 alumnos 13 
-
-*  (2022) : mesa inicial 8 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : silla escolar 145 
-
-
-
+*  (2021) Medios de elevación 
+    + Funcionamiento ascensor
 
 
 

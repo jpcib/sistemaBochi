@@ -6,36 +6,26 @@ subtitle: 'EPA N° 11 REPUBLICA DEL PERU - EPC N° 11 REPUBLICA DEL PERU - JIN C
 #
 
 
+## Mobiliario
+
+*  (2022) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 78 
+
+*  (2021) : armario 3, banco largo comedor 26, escritorio 2, mesa pupitre doble 30, pizarrón 7, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Pintura en cielorrasos y cubierta
 
+*  (2021) Albañileria / Pintura 
+    + Reparación en caja de escalera, Ejecución de cielorraso e iluminación
 
-## Mobiliario
-
-*  (2021) : armario 3 
-
-*  (2021) : banco largo comedor 26 
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 7 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 78 
-
-
-
+*  (2021) Incendio 
+    + Reemplazo de Central IFCI
 
 
 

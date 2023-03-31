@@ -6,28 +6,24 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 04'
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 11, biblioteca 2, escritorio 1, mesa pupitre doble 18, pizarrón 6, silla escolar 37 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + Reparación de red telefónica interna
 
+*  (2021) Electricidad 
+    + Prov inst 7 artefactos iluminacion
 
-## Mobiliario
-
-*  (2021) : armario 11 
-
-*  (2021) : biblioteca 2 
-
-*  (2021) : escritorio 1 
-
-*  (2021) : mesa pupitre doble 18 
-
-*  (2021) : pizarrón 6 
-
-*  (2021) : silla escolar 37 
-
-
-
+*  (2021) Gas 
+    + Red de gas
 
 
 

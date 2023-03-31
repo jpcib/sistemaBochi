@@ -11,5 +11,8 @@ subtitle: 'EPC N° 04 PROVINCIA DE BUENOS AIRES'
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Reemplazo de chapas-Aulas de patio
 
+*  (2021) Electricidad 
+    + Instalacion de 4 purificadores de aire
+
 
 

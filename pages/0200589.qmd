@@ -4,26 +4,35 @@ subtitle: 'EPC N° 06 DR. ALFREDO L. PALACIOS'
 ---
 
 #
-
-
-## Mobiliario
-
-*  (2021) : pizarrón 5 
-
-*  (2022) : escritorio 5 
-
-*  (2022) : mesa pupitre doble 75 
-
-*  (2022) : pizarrón 5 
-
-*  (2022) : silla escolar 155 
-
-
-
 ## Infraestructura
 
 * NA 
     + Planificado - Mejora Edilicia 
+
+
+## Mobiliario
+
+*  (2022) : escritorio 5, mesa pupitre doble 75, pizarrón 5, silla escolar 155 
+
+*  (2021) : pizarrón 5 
+
+
+
+
+
+## Mantenimiento
+
+*  (2021) Albañileria / Pintura 
+    + Acond Sala Informática c/Radio y Multim, Rep adicional revoques de S Informática
+
+*  (2021) Electricidad 
+    + Instalación 7 equipos purificadores aire
+
+*  (2021) Gas 
+    + Cambio TB aula 2, 3 y Sala Maestros, Ejecutar Recomendac. Form. Metrogas
+
+
+
 
 
 

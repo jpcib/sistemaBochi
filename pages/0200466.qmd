@@ -6,49 +6,37 @@ subtitle: 'ESC. DE COM. N° 31 NACIONES UNIDAS - IFTS N° 03 - ESEA EN DANZA MAS
 #
 
 
-## Mantenimiento
-
-*  (2022) Incendio 
-    + 4 extintores ABC de 5 kg secretaria
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 3 
+*  (2023) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
 
-*  (2021) : mesa pupitre doble 45 
+*  (2022) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
 
-*  (2021) : pizarrón 3 
-
-*  (2021) : silla escolar 93 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 62 
-
-*  (2023) : escritorio 2 
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 2 
-
-*  (2023) : silla escolar 62 
+*  (2021) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Pintura patio y pasillo rampa exterior
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Insatalación de equio A.A. secretaria
+
 *  (2022) Electricidad 
     + Aulas del futuro
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Insatalación de equio A.A. secretaria
+*  (2022) Incendio 
+    + 4 extintores ABC de 5 kg secretaria
+
+*  (2021) Carpinterías 
+    + instalar rejas en ventanas del 1er piso, Cambio de vidrios aberturas 1º piso
+
+*  (2021) Incendio 
+    + cambio de cetral de incendio
 
 
 

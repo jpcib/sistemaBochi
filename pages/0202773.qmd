@@ -8,19 +8,7 @@ subtitle: 'JII N° 05/03°'
 
 ## Mobiliario
 
-*  (2022) : armario 18 
-
-*  (2022) : biblioteca 9 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa inicial 45 
-
-*  (2022) : pizarrón 15 
-
-*  (2022) : silla escolar 428 
-
-*  (2022) : varios 14 
+*  (2022) : armario 18, biblioteca 9, escritorio 4, mesa inicial 45, pizarrón 15, silla escolar 428, varios 14 
 
 
 

@@ -10,26 +10,29 @@ subtitle: 'EPC N° 07 OLEGARIO VICTOR ANDRADE - CECIE N° 06'
     + En Obra - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2023) : pizarrón 1 
+
+*  (2022) : banco largo comedor 10, escritorio 5, mesa pupitre doble 90, silla escolar 183 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Gas 
     + Adecuación de inst de gas a normativa
 
+*  (2021) Carpinterías 
+    + Rejas de Seguridad Viv. Casera
 
-## Mobiliario
+*  (2021) Gas 
+    + Adecuación Inst de gas cocina auxiliares
 
-*  (2022) : banco largo comedor 10 
-
-*  (2022) : escritorio 5 
-
-*  (2022) : mesa pupitre doble 90 
-
-*  (2022) : silla escolar 183 
-
-*  (2023) : pizarrón 1 
-
-
-
+*  (2021) Incendio 
+    + Reposición de extintores
 
 
 

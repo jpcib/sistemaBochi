@@ -6,37 +6,37 @@ subtitle: 'ENS N° 08 PRESIDENTE J.A. ROCA (SEDE)'
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2022) : escritorio 4, mesa pupitre doble 51, pizarrón 8, silla escolar 123 
+
+*  (2021) : armario 3 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Carpinterías 
+    + Adecuaciones varias en Biblioteca
 
 *  (2022) Gas 
     + Adecuación de inst de gas a normativa
 
+*  (2021) Albañileria / Pintura 
+    + Cornisas y molduras-Patio lateral izq En, Reparacion cielorrasos y paredes fisura
 
-## Mobiliario
+*  (2021) Carpinterías 
+    + Colocar Concertina simple galvanizada  S
 
-*  (2021) : armario 3 
+*  (2021) Electricidad 
+    + colocar 2 ventiladores de pared
 
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 51 
-
-*  (2022) : pizarrón 8 
-
-*  (2022) : silla escolar 123 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
-
-*  (2022) Carpinterías 
-    + Adecuaciones varias en Biblioteca
+*  (2021) Incendio 
+    + Completar Inst. fija contra incendio
 
 
 

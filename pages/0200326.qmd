@@ -4,28 +4,30 @@ subtitle: 'ENS N° 08 PRESIDENTE J.A. ROCA ([A])'
 ---
 
 #
-
-
-## Mobiliario
-
-*  (2022) : armario 4 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa inicial 5 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : pizarrón 5 
-
-*  (2022) : silla escolar 150 
-
-
-
 ## Infraestructura
 
 * 2 aulas de jardín. Accesibilidad plena adecuacion pintura acceso y circulaciones. Casa casero 
     + Licitación - Mejora Edilicia 
+
+
+## Mobiliario
+
+*  (2022) : armario 4, escritorio 4, mesa inicial 5, mesa pupitre doble 60, pizarrón 5, silla escolar 150 
+
+
+
+
+
+## Mantenimiento
+
+*  (2021) Albañileria / Pintura 
+    + Reparacion de fachadas
+
+*  (2021) Carpinterías 
+    + Colocacion de concertina
+
+
+
 
 
 

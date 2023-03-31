@@ -10,41 +10,35 @@ subtitle: 'COLEGIO N° 07 JUAN MARTIN DE PUEYRREDON'
     + Licitación - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2022) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2021) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Incendio 
     + Reemplazo de extintores
 
-
-## Mobiliario
-
-*  (2021) : escritorio 3 
-
-*  (2021) : mesa pupitre doble 45 
-
-*  (2021) : pizarrón 3 
-
-*  (2021) : silla escolar 93 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 93 
-
-
-
-
 *  (2022) Carpinterías 
     + Carpinterias Aulas del Futuro
+
+*  (2022) Electricidad 
+    + Provision y Colocacion de Ventiladores
 
 *  (2022) Gas 
     + Reposicion termotanque casa casero
 
-*  (2022) Electricidad 
-    + Provision y Colocacion de Ventiladores
+*  (2021) Albañileria / Pintura 
+    + Secundarias del Futuro
+
+*  (2021) Electricidad 
+    + Aulas del futuro
 
 
 

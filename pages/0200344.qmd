@@ -6,26 +6,30 @@ subtitle: 'EPC N° 23 PROVINCIA DE ENTRE RIOS'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 3, pizarrón 6 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Reemplazo de chapas en cubierta en patio
 
-
-## Mobiliario
-
-*  (2022) : armario 3 
-
-*  (2022) : pizarrón 6 
-
-
-
+*  (2022) Electricidad 
+    + Proveer e instalar dos ventiladores
 
 *  (2022) Otros Servicios 
     + Reemplazo de termotanque casera
 
-*  (2022) Electricidad 
-    + Proveer e instalar dos ventiladores
+*  (2021) Gas 
+    + Modificaciones instalacion de gas
+
+*  (2021) Incendio 
+    + Provision de matafuegos faltante
 
 
 

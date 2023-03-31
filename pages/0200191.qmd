@@ -8,17 +8,23 @@ subtitle: 'CENS N° 45 - EPA N° 29 MANUEL BELGRANO'
 
 ## Mantenimiento
 
-*  (2022) Gas 
-    + Modificacion solicitud MetroGas
+*  (2022) Carpinterías 
+    + Cerramiento sobre portón nuevo
 
 *  (2022) Electricidad 
     + Mover portero electrico
 
 *  (2022) Gas 
-    + Cambio de cocina y nueva mesada
+    + Modificacion solicitud MetroGas, Cambio de cocina y nueva mesada
 
-*  (2022) Carpinterías 
-    + Cerramiento sobre portón nuevo
+*  (2021) Calefaccion y Refrigeracion 
+    + Instalar equipos purificadores en 2 aula
+
+*  (2021) Electricidad 
+    + Tendido para timbre acceso
+
+*  (2021) Gas 
+    + Adecuacion del sistema de gas
 
 
 

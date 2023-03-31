@@ -10,72 +10,61 @@ subtitle: 'Museo Bernasconi - ESC. PRIMARIA COMÚN N° 91 DR. CARLOS SAAVEDRA LA
     + Licitación - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2023) : juego de patio 1, piso antigolpe para juegos 60 
+
+*  (2022) : armario 2, mesa inicial 10, mesa pupitre doble 48, pizarrón 5, silla escolar 156 
+
+*  (2021) : banco largo comedor 140, escritorio 2, mesa 6 alumnos 70, mesa pupitre doble 30, pizarrón 5, silla escolar 155 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Realizar plataforma, coloc piso goma
 
-
-## Mobiliario
-
-*  (2021) : banco largo comedor 140 
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa 6 alumnos 70 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 5 
-
-*  (2021) : silla escolar 155 
-
-*  (2022) : armario 2 
-
-*  (2022) : mesa inicial 10 
-
-*  (2022) : mesa pupitre doble 48 
-
-*  (2022) : pizarrón 5 
-
-*  (2022) : silla escolar 156 
-
-*  (2023) : juego de patio 1 
-
-*  (2023) : piso antigolpe para juegos 60 
-
-
-
-
 *  (2023) Cubiertas / Impermeabilizaciones 
     + Impermeabilizacion cubierta cocina comed
-
-*  (2022) Sanitarias 
-    + Reemplazo cañería de desagüe mingitorios
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Reemplazo cañería vapor torre 2 pb
-
-*  (2022) Sanitarias 
-    + Reemplazo cañería desague sala maestros
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Reemplazo tramo cañería vapor averiada
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalacion estufa electrica 2do grado
-
-*  (2022) Electricidad 
-    + Reemplazar 5 telefonos salas jardin 10
-
-*  (2022) Carpinterías 
-    + Pulido y plastificado de piso sala Jardi
 
 *  (2022) Albañileria / Pintura 
     + Tratamiento antideslizante en solado
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Reemplazo alimentacion y retirno cañeria
+    + Reemplazo cañería vapor torre 2 pb, Reemplazo tramo cañería vapor averiada, Instalacion estufa electrica 2do grado, Reemplazo alimentacion y retirno cañeria
+
+*  (2022) Carpinterías 
+    + Pulido y plastificado de piso sala Jardi
+
+*  (2022) Electricidad 
+    + Reemplazar 5 telefonos salas jardin 10
+
+*  (2022) Sanitarias 
+    + Reemplazo cañería de desagüe mingitorios, Reemplazo cañería desague sala maestros
+
+*  (2021) Albañileria / Pintura 
+    + Instalac cercos y cubiertas de proteccio, Pintura friso sala museo
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Adecuación 4 calderas a normativa
+
+*  (2021) Carpinterías 
+    + Vallado perimetral patios
+
+*  (2021) Electricidad 
+    + Iluminación sala 7,8, vitrinas Cs Natura
+
+*  (2021) Gas 
+    + Adecuacion instalacion de gas
+
+*  (2021) Incendio 
+    + Reponer 2 mangueras de incendio, Cambio  de extintores
+
+*  (2021) Sanitarias 
+    + Reemp. bomba desagüe pluvial S.Calderas
 
 
 

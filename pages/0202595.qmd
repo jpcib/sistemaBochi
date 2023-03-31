@@ -6,50 +6,48 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
 #
 
 
+## Mobiliario
+
+*  (2021) : banco largo comedor 14, mesa 6 alumnos 7 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Carpinterías 
     + reparación de carpinterias de aluminio
 
-
-## Mobiliario
-
-*  (2021) : banco largo comedor 14 
-
-*  (2021) : mesa 6 alumnos 7 
-
-
-
-
 *  (2022) Albañileria / Pintura 
-    + Ejecución de tabique antihumedad SUM
-
-*  (2022) Albañileria / Pintura 
-    + Acondicionamiento de medianera patio
-
-*  (2022) Sanitarias 
-    + Mantenimiento del predio S. XXI
-
-*  (2022) Incendio 
-    + Prov. matafuegos y reparación IFCI
+    + Ejecución de tabique antihumedad SUM, Acondicionamiento de medianera patio
 
 *  (2022) Calefaccion y Refrigeracion 
-    + instalación de un equipo de A°A°
+    + instalación de un equipo de A°A°, Reparación de equipo vrv
 
 *  (2022) Electricidad 
     + Reparación de grupo electrógeno
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Reparación de equipo vrv
+*  (2022) Incendio 
+    + Prov. matafuegos y reparación IFCI
 
 *  (2022) Sanitarias 
-    + Modificación de colector tanques agua
+    + Mantenimiento del predio S. XXI, Modificación de colector tanques agua, Reparación de termotanques solares, Limpieza de tanques adicional
 
-*  (2022) Sanitarias 
-    + Reparación de termotanques solares
+*  (2021) Albañileria / Pintura 
+    + Acond acustico taller de radio
 
-*  (2022) Sanitarias 
-    + Limpieza de tanques adicional
+*  (2021) Calefaccion y Refrigeracion 
+    + Reparación de sistema VRV
+
+*  (2021) Carpinterías 
+    + Prov,coloc puerta reja en cocina, Reparar reja plegable acceso, Extension reja exterior PB a gimnasio, Provisión de mosquiteros cocina
+
+*  (2021) Otros Servicios 
+    + Sist riego balcón 3er piso frente, Sist riego canteros azotea, Acond. y nivelacion cantero PB
+
+*  (2021) Sanitarias 
+    + Reemplazo equipos de colectores solares, Colectores solares-Sist agua caliente
 
 
 

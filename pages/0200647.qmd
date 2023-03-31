@@ -10,61 +10,43 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
     + Licitación - SDF 
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Puesta en marcha de 2 baños PB y 2 en PA
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 4 
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
 
-*  (2021) : mesa pupitre doble 60 
+*  (2022) : escritorio 4, mesa pupitre doble 76, pizarrón 4, silla escolar 306 
 
-*  (2021) : pizarrón 4 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 76 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 306 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
 
 
 
 
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + IMPERMEABILIZACION DE AZOTEA
+
+## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Prov. coloc. 11 placas Eco sol 900watt
 
 *  (2022) Carpinterías 
     + Remplazo de 4 puertas y arreglo de las d
 
 *  (2022) Cubiertas / Impermeabilizaciones 
-    + Remplazo de chapas en hall de entrada
+    + IMPERMEABILIZACION DE AZOTEA, Remplazo de chapas en hall de entrada
 
 *  (2022) Gas 
     + Reemplazo del tanque de expansión
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Prov. coloc. 11 placas Eco sol 900watt
-
-*  (2022) Sanitarias 
-    + Remplazar inodoro corto capea por vandal
-
 *  (2022) Medios de elevación 
     + Adecuacion de ascensor
+
+*  (2022) Sanitarias 
+    + Puesta en marcha de 2 baños PB y 2 en PA, Remplazar inodoro corto capea por vandal
+
+*  (2021) Gas 
+    + Readecuacion instalacion completa de gas
+
+*  (2021) Incendio 
+    + Reponer hidrante por vandalismo
 
 
 

@@ -6,34 +6,25 @@ subtitle: 'JIN A (EPCJS 20/10°) - EPC N° 20 VICEALM. VICENTE E. MONTES - ESEA 
 #
 
 
+## Mobiliario
+
+*  (2023) : mesa 6 alumnos 2, pizarrón 3 
+
+*  (2022) : mesa inicial 4, silla escolar 24 
+
+*  (2021) : banco largo comedor 40, escritorio 2, mesa 6 alumnos 20, mesa pupitre doble 30, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Carpinterías 
     + Prolongacion rejas de proteccion.
 
-
-## Mobiliario
-
-*  (2021) : banco largo comedor 40 
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa 6 alumnos 20 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : mesa inicial 4 
-
-*  (2022) : silla escolar 24 
-
-*  (2023) : mesa 6 alumnos 2 
-
-*  (2023) : pizarrón 3 
-
-
-
+*  (2021) Otros Servicios 
+    + Arenero, Piso antigolpe, pintura protecc
 
 
 

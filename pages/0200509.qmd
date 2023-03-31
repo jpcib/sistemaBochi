@@ -6,37 +6,32 @@ subtitle: 'JIC N° 05/10° PABLO PICASSO - EPA N° 15 PROVINCIA DE SANTA FE - EP
 #
 
 
-## Mantenimiento
-
-*  (2022) Carpinterías 
-    + Provision reja jardín y columnas gim
-
-
 ## Mobiliario
 
-*  (2021) : mesa inicial 5 
+*  (2022) : escritorio 6, mesa pupitre doble 90, pizarrón 14, silla escolar 186 
 
-*  (2021) : silla escolar 30 
-
-*  (2022) : escritorio 6 
-
-*  (2022) : mesa pupitre doble 90 
-
-*  (2022) : pizarrón 14 
-
-*  (2022) : silla escolar 186 
+*  (2021) : mesa inicial 5, silla escolar 30 
 
 
 
+
+
+## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + PROVEER CALEFACCIÓN A 2 AULAS
+
+*  (2022) Carpinterías 
+    + Provision reja jardín y columnas gim, CAMBIO DE CERRADURAS ACCESO
 
 *  (2022) Medios de elevación 
     + Actualización control ascensor
 
-*  (2022) Carpinterías 
-    + CAMBIO DE CERRADURAS ACCESO
+*  (2021) Calefaccion y Refrigeracion 
+    + Reparación en calefaccion y tablero
 
-*  (2022) Calefaccion y Refrigeracion 
-    + PROVEER CALEFACCIÓN A 2 AULAS
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + cambio parcial de membrana
 
 
 

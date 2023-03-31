@@ -6,41 +6,32 @@ subtitle: 'EPC N° 14 CORNELIO SAAVEDRA - JIN B (EPCJC 14/01°) [S] - CENOF CENT
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 2, mesa inicial 10, mesa pupitre doble 45, pizarrón 15, silla escolar 160 
+
+*  (2021) : armario 3, mesa inicial 5, silla escolar 30 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Trabajos en medianera
+    + Trabajos en medianera, Pintura del patio de la escuela y reja
 
-
-## Mobiliario
-
-*  (2021) : armario 3 
-
-*  (2021) : mesa inicial 5 
-
-*  (2021) : silla escolar 30 
-
-*  (2022) : armario 2 
-
-*  (2022) : mesa inicial 10 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 15 
-
-*  (2022) : silla escolar 160 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + Pintura del patio de la escuela y reja
+*  (2022) Calefaccion y Refrigeracion 
+    + REPARACION DE CALDERA
 
 *  (2022) Carpinterías 
     + Protección para sala de de 4 y 5 años
 
-*  (2022) Calefaccion y Refrigeracion 
-    + REPARACION DE CALDERA
+*  (2021) Carpinterías 
+    + Reemplazo de vidrio en comedor
+
+*  (2021) Medios de elevación 
+    + habitación plataforma de acceso
 
 
 

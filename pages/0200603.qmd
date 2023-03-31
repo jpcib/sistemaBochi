@@ -11,11 +11,14 @@ subtitle: 'JIC N° 06 DE 12'
 *  (2023) Electricidad 
     + Insonorización extracción cocina
 
+*  (2022) Electricidad 
+    + Insonorización extracción cocina
+
 *  (2022) Incendio 
     + Provisión 2 Matafuegos no prov x Obra
 
-*  (2022) Electricidad 
-    + Insonorización extracción cocina
+*  (2021) Carpinterías 
+    + Prov. Coloc.mosquitero ventana cocina
 
 
 

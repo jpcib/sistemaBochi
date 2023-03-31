@@ -6,35 +6,29 @@ subtitle: 'EPC N° 21 CNEL. CORNELIO SAAVEDRA - JIN E (EPCJC 21/10°) [S]'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 4, escritorio 2, mesa pupitre doble 30, silla escolar 30, varios 4 
+
+*  (2021) : banco largo comedor 20, mesa 6 alumnos 10, varios 4 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Adecuación de sector depósitos
 
-
-## Mobiliario
-
-*  (2021) : banco largo comedor 20 
-
-*  (2021) : mesa 6 alumnos 10 
-
-*  (2021) : varios 4 
-
-*  (2022) : armario 4 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : silla escolar 30 
-
-*  (2022) : varios 4 
-
-
-
-
 *  (2022) Albañileria / Pintura 
     + Pintar puertas de baños
+
+*  (2021) Albañileria / Pintura 
+    + Pintura de Paredes del comedor
+
+*  (2021) Carpinterías 
+    + Inst cortina enrollable galeria
 
 
 

@@ -6,29 +6,24 @@ subtitle: 'EPC N° 16 WENCESLAO POSSE - JIC N° 03/01° - CENOF CENTRO JUNCAL - 
 #
 
 
+## Mobiliario
+
+*  (2022) : mesa inicial 10, silla escolar 85 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Reparar instalación de calefacción
-
-
-## Mobiliario
-
-*  (2022) : mesa inicial 10 
-
-*  (2022) : silla escolar 85 
-
-
-
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Etapa 2 de reparación de calefacción
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Cambio de quemador caldera
+    + Reparar instalación de calefacción, Etapa 2 de reparación de calefacción, Cambio de quemador caldera
 
 *  (2022) Carpinterías 
     + Cambio de 3 cerraduras
+
+*  (2021) Carpinterías 
+    + Rep muro y reja en sector patio
 
 
 

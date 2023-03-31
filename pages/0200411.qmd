@@ -6,26 +6,21 @@ subtitle: 'JIC N° 03/08° - EPC N° 15 PROVINCIA DE SALTA'
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 6, banco largo comedor 62, mesa 6 alumnos 31, mesa inicial 10, silla escolar 60 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Instalación de purificadores en el EE
 
-
-## Mobiliario
-
-*  (2021) : armario 6 
-
-*  (2021) : banco largo comedor 62 
-
-*  (2021) : mesa 6 alumnos 31 
-
-*  (2021) : mesa inicial 10 
-
-*  (2021) : silla escolar 60 
-
-
-
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Tabique para elevar dos bombas
 
 
 

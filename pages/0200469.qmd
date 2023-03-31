@@ -6,56 +6,34 @@ subtitle: 'Sup Media Region VIII A Sup Media Tecnica Region VIII - ESC. TEC. N°
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2022) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 145 
+
+*  (2021) : escritorio 4, mesa pupitre doble 60, mesa trabajo estante 4, pizarrón 4, silla escolar 124, varios 8 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Pintura general de aula 23
+    + Pintura general de aula 23, CONEXIÓN CON MIRADOR COMASTRI, Pañol en taller audiovisual
 
-
-## Mobiliario
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : mesa trabajo estante 4 
-
-*  (2021) : pizarrón 4 
-
-*  (2021) : silla escolar 124 
-
-*  (2021) : varios 8 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 145 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + CONEXIÓN CON MIRADOR COMASTRI
-
-*  (2022) Albañileria / Pintura 
-    + Pañol en taller audiovisual
+*  (2022) Electricidad 
+    + Canalizar alimentación eléctrica
 
 *  (2022) Sanitarias 
     + Cambio 3 tanques de agua
 
-*  (2022) Electricidad 
-    + Canalizar alimentación eléctrica
+*  (2021) Electricidad 
+    + Alimentación electrica A°A° y telefonia, Adecuación instalación  eléctrica, Instalación eléctrica aula computacion
+
+*  (2021) Gas 
+    + Adecuacion instalacion de gas-Herreria
 
 
 

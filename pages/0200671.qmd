@@ -6,20 +6,24 @@ subtitle: 'EPC N° 18 CABILDO DE BUENOS AIRES - EPA N° 18 CABILDO DE BUENOS AIR
 #
 
 
+## Mobiliario
+
+*  (2021) : banco largo comedor 18, mesa 6 alumnos 5 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Pintura aulas PA,hall acceso,fachada,pat
 
+*  (2021) Albañileria / Pintura 
+    + Pintura sala de maestros y reparacion ba
 
-## Mobiliario
-
-*  (2021) : banco largo comedor 18 
-
-*  (2021) : mesa 6 alumnos 5 
-
-
-
+*  (2021) Electricidad 
+    + Colocacion de purificadores
 
 
 

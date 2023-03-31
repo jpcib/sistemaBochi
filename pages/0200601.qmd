@@ -10,38 +10,26 @@ subtitle: 'JIN D (EPCJC 24/12°) - EPC N° 24 PADRE CASTAÑEDA'
     + Licitación - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2022) : mesa 6 alumnos 12, mesa pupitre doble 24, pizarrón 18, silla escolar 148 
+
+*  (2021) : banco largo comedor 4, escritorio 2, mesa 6 alumnos 7, mesa inicial 10, mesa pupitre doble 15, pizarrón 5, silla escolar 94 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Gas 
     + Adecuación instalación de gas
 
+*  (2021) Electricidad 
+    + Colocación de luces de emergencia
 
-## Mobiliario
-
-*  (2021) : banco largo comedor 4 
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa 6 alumnos 7 
-
-*  (2021) : mesa inicial 10 
-
-*  (2021) : mesa pupitre doble 15 
-
-*  (2021) : pizarrón 5 
-
-*  (2021) : silla escolar 94 
-
-*  (2022) : mesa 6 alumnos 12 
-
-*  (2022) : mesa pupitre doble 24 
-
-*  (2022) : pizarrón 18 
-
-*  (2022) : silla escolar 148 
-
-
-
+*  (2021) Sanitarias 
+    + Reparaciones de albañilería y sanitarias
 
 
 

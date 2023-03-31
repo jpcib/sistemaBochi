@@ -6,12 +6,6 @@ subtitle: 'Sup Inicial IV A - JII N° 02/08° JORGE EDUARDO COLL'
 #
 
 
-## Mantenimiento
-
-*  (2022) Otros Servicios 
-    + Puesta a punto en tablero electrico
-
-
 ## Mobiliario
 
 *  (2023) : silla escolar 279 
@@ -19,11 +13,20 @@ subtitle: 'Sup Inicial IV A - JII N° 02/08° JORGE EDUARDO COLL'
 
 
 
-*  (2022) Otros Servicios 
-    + Puesta en normativa inst. gas
+
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + REPARACION DE CALDERA
+
+*  (2022) Otros Servicios 
+    + Puesta a punto en tablero electrico, Puesta en normativa inst. gas
+
+*  (2021) Albañileria / Pintura 
+    + Tareas de albañileria varias
+
+*  (2021) Incendio 
+    + Provision de matafuego
 
 
 

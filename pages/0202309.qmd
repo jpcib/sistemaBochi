@@ -6,22 +6,21 @@ subtitle: 'ENS N° 03 BERNARDINO RIVADAVIA ([A])'
 #
 
 
+## Mobiliario
+
+*  (2022) : mesa pupitre doble 7, pizarrón 1, silla escolar 15 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + Agregar tomas-Ajuste carpinteria y cerco
 
-
-## Mobiliario
-
-*  (2022) : mesa pupitre doble 7 
-
-*  (2022) : pizarrón 1 
-
-*  (2022) : silla escolar 15 
-
-
-
+*  (2021) Gas 
+    + Adecuar inst de gas
 
 
 

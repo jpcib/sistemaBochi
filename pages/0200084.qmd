@@ -6,31 +6,35 @@ subtitle: 'EPC N° 11 PROVINCIA DE JUJUY - JIN C (EPCJC 11/02°) - CENS N° 29'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 4 
+
+*  (2021) : armario 6, banco largo comedor 32, biblioteca 5, mesa 6 alumnos 9, pizarrón 1 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Cambio de membrana en azotea
 
-
-## Mobiliario
-
-*  (2021) : armario 6 
-
-*  (2021) : banco largo comedor 32 
-
-*  (2021) : biblioteca 5 
-
-*  (2021) : mesa 6 alumnos 9 
-
-*  (2021) : pizarrón 1 
-
-*  (2022) : armario 4 
-
-
-
-
 *  (2022) Incendio 
     + Reposición de 1 Matafuegos ABC 5kg
+
+*  (2021) Carpinterías 
+    + Confección de rampa de madera
+
+*  (2021) Gas 
+    + Cotizar y reemplazar estufa de aula y co, Rreemplazo valvula solenoide
+
+*  (2021) Medios de elevación 
+    + Puesta en normativa de sistema elevaplat
+
+*  (2021) Sanitarias 
+    + Cambiar 2 tanques de agua
 
 
 

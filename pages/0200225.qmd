@@ -6,12 +6,6 @@ subtitle: 'EPC N° 02 PATRICIOS - JII N° 08/05°'
 #
 
 
-## Mantenimiento
-
-*  (2022) Saneamiento 
-    + Protecciones pluviales por Alacranes
-
-
 ## Mobiliario
 
 *  (2022) : escritorio 3 
@@ -19,17 +13,38 @@ subtitle: 'EPC N° 02 PATRICIOS - JII N° 08/05°'
 
 
 
-*  (2022) Gas 
-    + Válvula solenoide en cocina
 
-*  (2022) Electricidad 
-    + Tomas en Dirección: 6 tomas en 3 cajas
+## Mantenimiento
 
 *  (2022) Carpinterías 
     + Colocacion y pintura Rejas
 
+*  (2022) Electricidad 
+    + Tomas en Dirección: 6 tomas en 3 cajas
+
+*  (2022) Gas 
+    + Válvula solenoide en cocina
+
+*  (2022) Saneamiento 
+    + Protecciones pluviales por Alacranes
+
 *  (2022) Sanitarias 
     + Reemplazo Bombas y Adecuación Tableros
+
+*  (2021) Albañileria / Pintura 
+    + Reparación Portón Estacionamiento
+
+*  (2021) Carpinterías 
+    + Prov colocacion de cerradura
+
+*  (2021) Electricidad 
+    + Adecuación y reparación Filtración
+
+*  (2021) Gas 
+    + Adecuación instalación de gas, Adecuación por Inspección de Metrogas
+
+*  (2021) Sanitarias 
+    + Cambio tapas Tanques oxidadas
 
 
 

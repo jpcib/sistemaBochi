@@ -6,41 +6,30 @@ subtitle: 'JIN B (EPCJS 09/03°) - EPC N° 09 MARIANO MORENO - EPA N° 09 MARIAN
 #
 
 
+## Mobiliario
+
+*  (2021) : escritorio 2, mesa inicial 2, mesa pupitre doble 30, pizarrón 2, silla escolar 72 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Carpinterías 
     + Colocación de puerta de rejas
 
-
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa inicial 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 2 
-
-*  (2021) : silla escolar 72 
-
-
-
-
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Reparacion  de filtracion en techo
 
-*  (2022) Sanitarias 
-    + Reponer tapa de tanque de agua
-
-*  (2022) Gas 
-    + Reemplazar cocina de casa de casera
-
-*  (2022) Gas 
-    + Reposición de calefon
-
 *  (2022) Electricidad 
     + Colocar iluminación de emergencia
+
+*  (2022) Gas 
+    + Reemplazar cocina de casa de casera, Reposición de calefon
+
+*  (2022) Sanitarias 
+    + Reponer tapa de tanque de agua
 
 
 

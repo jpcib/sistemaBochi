@@ -6,37 +6,30 @@ subtitle: 'JIN B (EPCJS 04/05°) - EPC N° 04 CNEL. DE MARINA TOMAS ESPORA'
 #
 
 
+## Mobiliario
+
+*  (2022) : escritorio 1, mesa inicial 9, mesa integradora con escotadura 1, mesa pupitre doble 11, pizarrón 6, silla escolar 98 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Puesta en valor aula 2do
-
-
-## Mobiliario
-
-*  (2022) : escritorio 1 
-
-*  (2022) : mesa inicial 9 
-
-*  (2022) : mesa integradora con escotadura 1 
-
-*  (2022) : mesa pupitre doble 11 
-
-*  (2022) : pizarrón 6 
-
-*  (2022) : silla escolar 98 
-
-
-
-
-*  (2023) Albañileria / Pintura 
-    + Puesta en valor aula 1ero
+    + Puesta en valor aula 2do, Puesta en valor aula 1ero
 
 *  (2022) Albañileria / Pintura 
     + Puesta en Valor de Aula y Biblioteca
 
 *  (2022) Electricidad 
     + Reemplazo de Ventiladores
+
+*  (2021) Albañileria / Pintura 
+    + Reparación muros Casa de Casera y Tareas
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Impermeabilización de cubierta
 
 
 

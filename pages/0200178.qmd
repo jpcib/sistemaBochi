@@ -10,65 +10,41 @@ subtitle: 'Museo de Bellas Artes de Artistas Argentinos Benito Quinquela Martin 
     + En Proyecto - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Reemplazo de compresor en corto
-
-
 ## Mobiliario
 
-*  (2021) : armario 5 
+*  (2022) : armario 24, biblioteca 12, escritorio 8, juego de patio 1, mesa inicial 30, piso antigolpe para juegos 60, pizarrón 16, silla escolar 410, varios 8 
 
-*  (2021) : mesa 6 alumnos 10 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : pizarrón 2 
-
-*  (2021) : silla escolar 150 
-
-*  (2022) : armario 24 
-
-*  (2022) : biblioteca 12 
-
-*  (2022) : escritorio 8 
-
-*  (2022) : juego de patio 1 
-
-*  (2022) : mesa inicial 30 
-
-*  (2022) : piso antigolpe para juegos 60 
-
-*  (2022) : pizarrón 16 
-
-*  (2022) : silla escolar 410 
-
-*  (2022) : varios 8 
+*  (2021) : armario 5, mesa 6 alumnos 10, mesa pupitre doble 30, pizarrón 2, silla escolar 150 
 
 
 
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Abono mensual mantenimiento AA
 
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Correr la descarga pluvial
-
-*  (2022) Otros Servicios 
-    + Prov. coloc. red anti palomas
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Pintura de cielorrasos/techos
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Reemplazo de compresor en corto, Abono mensual mantenimiento AA, Instalación de humectadores
+
 *  (2022) Carpinterías 
     + Proveer y colocar dos escaleras
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalación de humectadores
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Correr la descarga pluvial
 
 *  (2022) Electricidad 
     + Colocación de luces en hall
+
+*  (2022) Otros Servicios 
+    + Prov. coloc. red anti palomas
+
+*  (2021) Albañileria / Pintura 
+    + Pintura de rejas 2da etapa, Pintura rejas 3era etapa, Reparacion de paredes, pintura de muros
+
+*  (2021) Calefaccion y Refrigeracion 
+    + reposicion bombas calderas
 
 
 

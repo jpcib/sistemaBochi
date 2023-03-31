@@ -10,37 +10,33 @@ subtitle: 'EPC N° 07 DEL CENTENARIO - JIN C (EPCJC 07/02°)'
     + En Proyecto - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2023) : armario 3, escritorio 3, silla escolar 9 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Pintura piso de la cancha, Pintura adicional de la cancha de futbol
 
 *  (2022) Calefaccion y Refrigeracion 
     + Solicitud soldar caldera
 
-
-## Mobiliario
-
-*  (2023) : armario 3 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : silla escolar 9 
-
-
-
+*  (2022) Carpinterías 
+    + Inst.  reja divisoria entre  patios
 
 *  (2022) Incendio 
     + Reposición de 6 nuevos  matafuegos
 
-*  (2022) Carpinterías 
-    + Inst.  reja divisoria entre  patios
-
-*  (2022) Albañileria / Pintura 
-    + Pintura piso de la cancha
-
 *  (2022) Medios de elevación 
     + Cambio cargador bateria montasilla
 
-*  (2022) Albañileria / Pintura 
-    + Pintura adicional de la cancha de futbol
+*  (2021) Sanitarias 
+    + Nueva cañería desde grasera a cámara, Adecuación descarga de la grasera
 
 
 

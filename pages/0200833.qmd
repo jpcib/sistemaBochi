@@ -6,32 +6,27 @@ subtitle: 'ESC. BILINGÜE PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACID
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 30, escritorio 2, mesa inicial 5, mesa pupitre doble 30, silla escolar 98 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Reparaciones en estructura de HA
-
-
-## Mobiliario
-
-*  (2021) : armario 30 
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa inicial 5 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 98 
-
-
-
-
-*  (2023) Albañileria / Pintura 
-    + Reparaciones en estructura de HA E 2
+    + Reparaciones en estructura de HA, Reparaciones en estructura de HA E 2
 
 *  (2022) Sanitarias 
     + Refuncionalización de baño inicial
+
+*  (2021) Electricidad 
+    + Reposición artefactos iluminación patio
+
+*  (2021) Sanitarias 
+    + Recambio de conjuntos de bombas
 
 
 

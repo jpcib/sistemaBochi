@@ -6,20 +6,27 @@ subtitle: 'EPC N° 14 AGUSTIN RAFAEL CAFFARENA'
 #
 
 
+## Mobiliario
+
+*  (2021) : banco largo comedor 10, mesa 6 alumnos 4 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Carpinterías 
     + Pintura de puerta de entrada
 
+*  (2021) Carpinterías 
+    + Colocacion alambre en medianera
 
-## Mobiliario
+*  (2021) Electricidad 
+    + Colocación  de purificador
 
-*  (2021) : banco largo comedor 10 
-
-*  (2021) : mesa 6 alumnos 4 
-
-
-
+*  (2021) Gas 
+    + adecuación gas a norma vigente
 
 
 

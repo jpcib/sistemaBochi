@@ -6,36 +6,24 @@ subtitle: 'CENTRO EDUCATIVO PARA NIÑOS EN TIEMPOS Y ESPACIOS SINGULARES N° 01 
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 2, escritorio 2, mesa 6 alumnos 2, mesa inicial 1, mesa pupitre doble 30, silla escolar 68, varios 4 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Puesta en valor de aula de marroquineria
+    + Puesta en valor de aula de marroquineria, Ttramitación de la ocupación  de vereda, Construcción de reja
 
+*  (2021) Carpinterías 
+    + Prov y coloc. 2 rajas en en SUM
 
-## Mobiliario
-
-*  (2021) : armario 2 
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa 6 alumnos 2 
-
-*  (2021) : mesa inicial 1 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 68 
-
-*  (2021) : varios 4 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + Ttramitación de la ocupación  de vereda
-
-*  (2022) Albañileria / Pintura 
-    + Construcción de reja
+*  (2021) Gas 
+    + regularizar instalacion de gas
 
 
 

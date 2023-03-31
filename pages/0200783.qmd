@@ -6,31 +6,33 @@ subtitle: 'EPC N° 18 PROV. DE TIERRA DEL FUEGO, ANTARTIDA E IS. DEL ATLANT. SUR
 #
 
 
+## Mobiliario
+
+*  (2022) : escritorio 2, mesa pupitre doble 25, silla escolar 60 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Cielorraso desmontable en comedor
 
-
-## Mobiliario
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 25 
-
-*  (2022) : silla escolar 60 
-
-
-
-
-*  (2022) Sanitarias 
-    + Refuncionalización de sanitario C-H
+*  (2022) Calefaccion y Refrigeracion 
+    + Instalación AA
 
 *  (2022) Medios de elevación 
     + reacondicionamiento de ascensor
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalación AA
+*  (2022) Sanitarias 
+    + Refuncionalización de sanitario C-H
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Colocación de purificadores
+
+*  (2021) Gas 
+    + Adecuaciones de instalaciones e cocina, Recambio de Termotanque
 
 
 

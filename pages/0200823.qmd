@@ -6,20 +6,24 @@ subtitle: 'EPC N° 24 MAIPU - JIN B (EPCJS 24/18°)'
 #
 
 
+## Mobiliario
+
+*  (2022) : mesa pupitre doble 30, silla escolar 60 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Reemplazo de vidrios de ventanas
 
+*  (2021) Carpinterías 
+    + Prov, coloc escalera p/acceso azotea
 
-## Mobiliario
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : silla escolar 60 
-
-
-
+*  (2021) Electricidad 
+    + Instalar 5 purificadores
 
 
 

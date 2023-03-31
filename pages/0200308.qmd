@@ -6,20 +6,33 @@ subtitle: 'CENS N° 15 - EPC N° 18 DR. ANTONIO BERMEJO'
 #
 
 
+## Mobiliario
+
+*  (2022) : banco largo comedor 12, mesa 6 alumnos 6 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Incendio 
     + Provisión de 1 matafuego ABC 5 kg
 
+*  (2021) Albañileria / Pintura 
+    + Pintura-Luminaria-Coloc motor y durlock
 
-## Mobiliario
+*  (2021) Carpinterías 
+    + Colocar protecciones en barandas
 
-*  (2022) : banco largo comedor 12 
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Menmbranas en sector de aulas
 
-*  (2022) : mesa 6 alumnos 6 
+*  (2021) Electricidad 
+    + Colocar luces de emergencia y señaletica
 
-
-
+*  (2021) Medios de elevación 
+    + Prov montaje y conexion sist de limites
 
 
 

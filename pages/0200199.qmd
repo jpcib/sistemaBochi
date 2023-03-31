@@ -6,59 +6,49 @@ subtitle: 'ENS N° 03 BERNARDINO RIVADAVIA (SEDE) - ENS N° 03 BERNARDINO RIVADA
 #
 
 
+## Mobiliario
+
+*  (2023) : armario 4, escritorio 10, mesa pupitre doble 70, pizarrón 16, silla escolar 170 
+
+*  (2022) : escritorio 4, mesa pupitre doble 67, piso antigolpe para juegos 100, pizarrón 4, silla escolar 8 
+
+*  (2021) : escritorio 8, mesa pupitre doble 120, pizarrón 6, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Adecuación de SDF 2023
 
-
-## Mobiliario
-
-*  (2021) : escritorio 8 
-
-*  (2021) : mesa pupitre doble 120 
-
-*  (2021) : pizarrón 6 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 67 
-
-*  (2022) : piso antigolpe para juegos 100 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 8 
-
-*  (2023) : armario 4 
-
-*  (2023) : escritorio 10 
-
-*  (2023) : mesa pupitre doble 70 
-
-*  (2023) : pizarrón 16 
-
-*  (2023) : silla escolar 170 
-
-
-
-
 *  (2023) Otros Servicios 
     + Prov y colocacion de ventanas en aulas
 
-*  (2022) Sanitarias 
-    + Cambio de bajadas pluviales en fachada
-
-*  (2022) Medios de elevación 
-    + Reparacion de ascensor y reemplazo tapas
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Cambio de cubierta de chapa y cielorraso
 
 *  (2022) Gas 
     + Adecuacion de instal de gas a normativa
 
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Cambio de cubierta de chapa y cielorraso
+*  (2022) Medios de elevación 
+    + Reparacion de ascensor y reemplazo tapas
+
+*  (2022) Sanitarias 
+    + Cambio de bajadas pluviales en fachada
+
+*  (2021) Albañileria / Pintura 
+    + Demolicion tabique aula y adec IFCI, Adecuacion de 4 aulas para SDF
+
+*  (2021) Carpinterías 
+    + Provision y colocacion de ventana en com, Puerta de seguridad en calle Bolivar
+
+*  (2021) Medios de elevación 
+    + Adecuacion y puesta norm ascensor
+
+*  (2021) Otros Servicios 
+    + Colocacion de purificadores
 
 
 

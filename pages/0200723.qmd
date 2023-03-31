@@ -6,36 +6,23 @@ subtitle: 'EPC N° 27 PETRONILA RODRIGUEZ'
 #
 
 
+## Mobiliario
+
+*  (2023) : banco largo comedor 44, mesa 6 alumnos 22 
+
+*  (2022) : banco largo comedor 12, escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Cambio solado aula y pintura
+    + Cambio solado aula y pintura, Adicional cambio aula, Pulir piso aula
 
-
-## Mobiliario
-
-*  (2022) : banco largo comedor 12 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 62 
-
-*  (2023) : banco largo comedor 44 
-
-*  (2023) : mesa 6 alumnos 22 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + Adicional cambio aula
-
-*  (2022) Albañileria / Pintura 
-    + Pulir piso aula
+*  (2021) Calefaccion y Refrigeracion 
+    + instalcion equipos de aire acondicionado
 
 
 

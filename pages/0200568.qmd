@@ -10,28 +10,27 @@ subtitle: 'EPC N° 22 HIPOLITO BOUCHARD'
     + Planificado - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalación de A°A° de tipo split
-
-
 ## Mobiliario
 
-*  (2022) : escritorio 1 
-
-*  (2022) : mesa pupitre doble 12 
-
-*  (2022) : silla escolar 25 
+*  (2022) : escritorio 1, mesa pupitre doble 12, silla escolar 25 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Adecuación de Escalera contrafrente
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Instalación de A°A° de tipo split
+
 *  (2022) Electricidad 
     + Instalación de purificadores
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Cambio de chapas del techo del patio
 
 
 

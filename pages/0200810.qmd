@@ -8,13 +8,21 @@ subtitle: 'EPC N° 08 BASE AEREA VICEC.MARAMBIO - JIN D (EPCJC 08/18°) [S]'
 
 ## Mobiliario
 
-*  (2021) : armario 3 
-
-*  (2021) : banco largo comedor 42 
-
-*  (2021) : mesa 6 alumnos 21 
-
 *  (2022) : silla escolar 10 
+
+*  (2021) : armario 3, banco largo comedor 42, mesa 6 alumnos 21 
+
+
+
+
+
+## Mantenimiento
+
+*  (2021) Electricidad 
+    + Colocar ventilador sala naranja, reponer 2 ventiladores rotos
+
+*  (2021) Gas 
+    + Poner en norma instalacion de gas renglo
 
 
 

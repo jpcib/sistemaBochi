@@ -6,32 +6,33 @@ subtitle: 'JIN C (EPCJC 28/04°) [S] - EPC N° 28 FRANCISCO PASCASIO MORENO - CA
 #
 
 
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Luces de emergencia
-
-
 ## Mobiliario
 
-*  (2021) : armario 35 
-
-*  (2021) : banco largo comedor 16 
-
-*  (2021) : mesa 6 alumnos 8 
-
-*  (2021) : mesa pupitre doble 20 
-
-*  (2021) : silla escolar 40 
+*  (2021) : armario 35, banco largo comedor 16, mesa 6 alumnos 8, mesa pupitre doble 20, silla escolar 40 
 
 
 
+
+
+## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Nuevas placas san francisco en S. Jardín
 
 *  (2022) Carpinterías 
     + RED ANTI PALOMAS
 
-*  (2022) Albañileria / Pintura 
-    + Nuevas placas san francisco en S. Jardín
+*  (2022) Electricidad 
+    + Luces de emergencia
+
+*  (2021) Albañileria / Pintura 
+    + Cambiar pisos de madera por graniticos
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Instalar equipos purificadores
+
+*  (2021) Carpinterías 
+    + Nueva cerradura ascenso
 
 
 

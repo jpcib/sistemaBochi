@@ -10,44 +10,40 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 19 - ESC. DE COM. N° 19 JU
     + Finalizado - SDF 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 5, mesa pupitre doble 75, pizarrón 5, silla escolar 155 
+
+*  (2022) : escritorio 6, mesa pupitre doble 90, pizarrón 6, silla escolar 186 
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Gas 
     + Reacondicionamiento de gas en buffet
-
-
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : escritorio 6 
-
-*  (2022) : mesa pupitre doble 90 
-
-*  (2022) : pizarrón 6 
-
-*  (2022) : silla escolar 186 
-
-*  (2023) : escritorio 5 
-
-*  (2023) : mesa pupitre doble 75 
-
-*  (2023) : pizarrón 5 
-
-*  (2023) : silla escolar 155 
-
-
-
 
 *  (2022) Incendio 
     + Recarga de matafuegos descargado
 
 *  (2022) Sanitarias 
     + Cambiar termotanque de laboratorio
+
+*  (2021) Albañileria / Pintura 
+    + Adecuar desniveles en ingresos
+
+*  (2021) Carpinterías 
+    + Adecuar nucleo sanitario Bº PB
+
+*  (2021) Electricidad 
+    + Coloc purificador en aula PB
+
+*  (2021) Gas 
+    + Readecuacion instalacion de gas}
 
 
 

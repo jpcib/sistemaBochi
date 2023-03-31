@@ -6,28 +6,30 @@ subtitle: 'EPC N° 06 REPUBLICA DE LA INDIA - JII N° 02/21°'
 #
 
 
+## Mobiliario
+
+*  (2023) : mesa pupitre doble 30, pizarrón 4, silla escolar 66 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Prov. Inst.  de piso antigolpe
 
 *  (2022) Calefaccion y Refrigeracion 
     + Reparación de bombas de recirculación
 
-
-## Mobiliario
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 4 
-
-*  (2023) : silla escolar 66 
-
-
-
-
 *  (2022) Incendio 
     + Reposición de mangueras en hidrantes
 
-*  (2022) Albañileria / Pintura 
-    + Prov. Inst.  de piso antigolpe
+*  (2021) Albañileria / Pintura 
+    + Reparar solado patio posterior
+
+*  (2021) Medios de elevación 
+    + puesta en norma del ascensor
 
 
 

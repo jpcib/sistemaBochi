@@ -6,29 +6,26 @@ subtitle: 'JIN B (EPCJC 10/19°) - EPC N° 10 JUAN ANDRES DE LA PEÑA - INST. DE
 #
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalacion de 4 AA
-
-
 ## Mobiliario
-
-*  (2021) : pizarrón 10 
 
 *  (2022) : armario 4 
 
+*  (2021) : pizarrón 10 
 
 
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Reemplazar estufas por tiro balanceado.
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Remplazo de Panel de Madera
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Reparar equipo de aire acondicionado
+    + Instalacion de 4 AA, Reemplazar estufas por tiro balanceado., Reparar equipo de aire acondicionado
+
+*  (2021) Incendio 
+    + 1 EXTINTOR ABC X 5 KG
 
 
 

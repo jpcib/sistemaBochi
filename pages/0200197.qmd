@@ -10,52 +10,31 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
     + En Obra - SDF 
 
 
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Trabajos instalacion electrica y pintura
-
-
 ## Mobiliario
 
-*  (2021) : armario 7 
+*  (2023) : escritorio 3, locker 100, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
 
-*  (2021) : escritorio 3 
+*  (2022) : armario 12, escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
 
-*  (2021) : mesa pupitre doble 45 
-
-*  (2021) : pizarrón 3 
-
-*  (2021) : silla escolar 93 
-
-*  (2022) : armario 12 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 93 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : locker 100 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
+*  (2021) : armario 7, escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Adicional pintura cieloraso
 
+*  (2022) Electricidad 
+    + Trabajos instalacion electrica y pintura
+
 *  (2022) Incendio 
     + Reparación de cañeria  IFCI
+
+*  (2021) Gas 
+    + Modificaciones informe matriculado, Cambio de artefacto cocina casero
 
 
 

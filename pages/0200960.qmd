@@ -6,35 +6,30 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 21'
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 15, escritorio 9, pizarrón 6, silla escolar 3, varios 10 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Gas 
     + Instalación de gas
 
-
-## Mobiliario
-
-*  (2021) : armario 15 
-
-*  (2021) : escritorio 9 
-
-*  (2021) : pizarrón 6 
-
-*  (2021) : silla escolar 3 
-
-*  (2021) : varios 10 
-
-
-
-
-*  (2022) Sanitarias 
-    + Nuevo tramo de cañeria tanque de reserva
-
 *  (2022) Carpinterías 
     + Reposición de 2 cerraduras
 
 *  (2022) Sanitarias 
-    + Prov. Coloc  termotanque a gas
+    + Nuevo tramo de cañeria tanque de reserva, Prov. Coloc  termotanque a gas
+
+*  (2021) Carpinterías 
+    + Reponer cerradura del patio x vandalismo, Reposicion de cerradura-Reja fondo x van
+
+*  (2021) Sanitarias 
+    + Coloca bomba robadora de agua
 
 
 

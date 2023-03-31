@@ -6,37 +6,30 @@ subtitle: 'CENS N° 24 - EPC N° 23 BERNARDINO RIVADAVIA'
 #
 
 
+## Mobiliario
+
+*  (2022) : banco largo comedor 8, escritorio 3, mesa 6 alumnos 4, mesa pupitre doble 47, pizarrón 4, silla escolar 93 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Electricidad 
+    + Reemplazo de ventiladores de techo
+
+*  (2022) Gas 
+    + Reemplazo de 2 calefactores, Adecuar instalación de gas
 
 *  (2022) Sanitarias 
     + Prov. coloc canillas ducha y lavatorio
 
+*  (2021) Electricidad 
+    + Colocación e instalación luces emergenci
 
-## Mobiliario
-
-*  (2022) : banco largo comedor 8 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa 6 alumnos 4 
-
-*  (2022) : mesa pupitre doble 47 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 93 
-
-
-
-
-*  (2022) Gas 
-    + Reemplazo de 2 calefactores
-
-*  (2022) Gas 
-    + Adecuar instalación de gas
-
-*  (2022) Electricidad 
-    + Reemplazo de ventiladores de techo
+*  (2021) Gas 
+    + Adecuación de instalación de gas
 
 
 

@@ -6,20 +6,24 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 18'
 #
 
 
+## Mobiliario
+
+*  (2021) : pizarrón 2, silla escolar 20 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + Colocar 2 ventiladores
 
+*  (2021) Gas 
+    + Revision y restitución del gas en la ESC
 
-## Mobiliario
-
-*  (2021) : pizarrón 2 
-
-*  (2021) : silla escolar 20 
-
-
-
+*  (2021) Incendio 
+    + Reponer 9 matafuegos
 
 
 

@@ -6,32 +6,21 @@ subtitle: 'EPC N° 24 DE 20'
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 12, banco largo comedor 35, biblioteca 10, escritorio 9, mesa 6 alumnos 6, mesa pupitre doble 115, pizarrón 18, silla escolar 198 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + Proveer y colocar ventilador de pared
 
-
-## Mobiliario
-
-*  (2021) : armario 12 
-
-*  (2021) : banco largo comedor 35 
-
-*  (2021) : biblioteca 10 
-
-*  (2021) : escritorio 9 
-
-*  (2021) : mesa 6 alumnos 6 
-
-*  (2021) : mesa pupitre doble 115 
-
-*  (2021) : pizarrón 18 
-
-*  (2021) : silla escolar 198 
-
-
-
+*  (2021) Sanitarias 
+    + Desagote de camaras cloacales
 
 
 

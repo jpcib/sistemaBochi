@@ -6,20 +6,27 @@ subtitle: 'EPC N° 19 REPUBLICA ITALIANA - JIN C (EPCJC 19/04°)'
 #
 
 
+## Mobiliario
+
+*  (2022) : mesa pupitre doble 13, silla escolar 26 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Electricidad 
     + Cambio de ventilador de techo
 
+*  (2021) Carpinterías 
+    + Cerradura reja corrediza en acceso
 
-## Mobiliario
+*  (2021) Electricidad 
+    + Instalación de tres cajas de tomas elec.
 
-*  (2022) : mesa pupitre doble 13 
-
-*  (2022) : silla escolar 26 
-
-
-
+*  (2021) Gas 
+    + Arreglos requeridos por Metrogas, normalizar la red de gas
 
 
 

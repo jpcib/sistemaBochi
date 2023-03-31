@@ -10,26 +10,27 @@ subtitle: 'EPC N° 23 SATURNINO SEGUROLA'
     + En Obra - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + reponer tanque roto con urgencia
-
-
 ## Mobiliario
 
-*  (2021) : banco largo comedor 20 
-
-*  (2021) : mesa 6 alumnos 10 
+*  (2021) : banco largo comedor 20, mesa 6 alumnos 10 
 
 
 
 
-*  (2022) Sanitarias 
-    + Red cloacal de vivienda casera
+
+## Mantenimiento
 
 *  (2022) Gas 
     + Cambio de estufa en 7 grado
+
+*  (2022) Sanitarias 
+    + reponer tanque roto con urgencia, Red cloacal de vivienda casera
+
+*  (2021) Electricidad 
+    + Instalación eléctrica. No se deben ejecu
+
+*  (2021) Gas 
+    + Puesta en norma de inst de gas. Las prue, provision y colocación de cocina casera
 
 
 

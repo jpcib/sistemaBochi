@@ -6,29 +6,30 @@ subtitle: 'JIN D (EPCJC 14/09°) [S] - EPC N° 14 PROVINCIA DE RIO NEGRO - CENOF
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 3, banco largo comedor 20, mesa inicial 15, silla escolar 90, varios 60 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Instalacion segun normativa AA
 
 *  (2022) Electricidad 
     + Instalación electrica en sala musica
 
+*  (2021) Carpinterías 
+    + Provision de jaula metalica/seguridad, Protección caja escalera y vacio PB
 
-## Mobiliario
+*  (2021) Electricidad 
+    + Obra Civil Construccion Pilar Tarifa, Adicional alimentador pilar a tablero
 
-*  (2021) : armario 3 
-
-*  (2021) : banco largo comedor 20 
-
-*  (2021) : mesa inicial 15 
-
-*  (2021) : silla escolar 90 
-
-*  (2021) : varios 60 
-
-
-
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalacion segun normativa AA
+*  (2021) Incendio 
+    + Proveer Extintores 5 Kg ABC
 
 
 

@@ -10,59 +10,44 @@ subtitle: 'ESC. TEC. N° 09 ING. LUIS A. HUERGO - CAIYJ CLUB HUERGO'
     + En Obra - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 5, mesa pupitre doble 75, pizarrón 5, silla escolar 155 
+
+*  (2022) : escritorio 7, mesa pupitre doble 90, pizarrón 6, silla escolar 216 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Carpinterías 
     + Prov y coloc cortinas rollers blackouts
 
-
-## Mobiliario
-
-*  (2022) : escritorio 7 
-
-*  (2022) : mesa pupitre doble 90 
-
-*  (2022) : pizarrón 6 
-
-*  (2022) : silla escolar 216 
-
-*  (2023) : escritorio 5 
-
-*  (2023) : mesa pupitre doble 75 
-
-*  (2023) : pizarrón 5 
-
-*  (2023) : silla escolar 155 
-
-
-
-
-*  (2022) Electricidad 
-    + Cambio paneles LED, tableros
-
-*  (2022) Gas 
-    + Reacondicionamiento reguladores gas
-
-*  (2022) Sanitarias 
-    + Cambio del termotanque de la cocina
-
-*  (2022) Electricidad 
-    + Arreglos en placas de LED-Aulas
-
-*  (2022) Gas 
-    + Readecuar instalación de gas-Laboratorio
-
-*  (2022) Electricidad 
-    + Adecuar inst eléctrica-Laboratorio
+*  (2022) Albañileria / Pintura 
+    + Instalacion de agua en laboratorio, Aulas del futuro aula 2,7,12,22
 
 *  (2022) Carpinterías 
     + Reparación de las ventanas de las aulas
 
-*  (2022) Albañileria / Pintura 
-    + Instalacion de agua en laboratorio
+*  (2022) Electricidad 
+    + Cambio paneles LED, tableros, Arreglos en placas de LED-Aulas, Adecuar inst eléctrica-Laboratorio
 
-*  (2022) Albañileria / Pintura 
-    + Aulas del futuro aula 2,7,12,22
+*  (2022) Gas 
+    + Reacondicionamiento reguladores gas, Readecuar instalación de gas-Laboratorio
+
+*  (2022) Sanitarias 
+    + Cambio del termotanque de la cocina
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Adicional-Puesta en marcha-Calefactores
+
+*  (2021) Electricidad 
+    + Instalación de 2 nuevos motores
+
+*  (2021) Gas 
+    + Adecuacion inst de gas, Adecuación de los equipos de calefacción
 
 
 

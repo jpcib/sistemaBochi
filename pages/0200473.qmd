@@ -6,22 +6,21 @@ subtitle: 'CENTRO EDUCATIVO PARA NIÑOS EN TIEMPOS Y ESPACIOS SINGULARES N° 02'
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 6, mesa inicial 2, silla escolar 12 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Incendio 
     + Reemplazo de 1 matafuego
 
-
-## Mobiliario
-
-*  (2021) : armario 6 
-
-*  (2021) : mesa inicial 2 
-
-*  (2021) : silla escolar 12 
-
-
-
+*  (2021) Carpinterías 
+    + Cambio puerta bº discapacitado
 
 
 

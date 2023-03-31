@@ -6,33 +6,33 @@ subtitle: 'EPC N° 30 GRANADEROS DE SAN MARTIN - JIC N° 02/09° GRANADEROS DE S
 #
 
 
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Instalación eléctrica sector hidroponia.
-
-
 ## Mobiliario
 
-*  (2023) : escritorio 7 
-
-*  (2023) : mesa pupitre doble 65 
-
-*  (2023) : pizarrón 1 
-
-*  (2023) : silla escolar 137 
+*  (2023) : escritorio 7, mesa pupitre doble 65, pizarrón 1, silla escolar 137 
 
 
 
+
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + pintura de friso y entrepiso del gimnasi
-
-*  (2022) Albañileria / Pintura 
-    + Pintura de cielorrasos/techos
+    + pintura de friso y entrepiso del gimnasi, Pintura de cielorrasos/techos
 
 *  (2022) Electricidad 
-    + Instalar 17 tomas para TV en aulas
+    + Instalación eléctrica sector hidroponia., Instalar 17 tomas para TV en aulas
+
+*  (2021) Carpinterías 
+    + Protección de hierro de todas las estufa
+
+*  (2021) Electricidad 
+    + Instalacion de 2 ventiladores
+
+*  (2021) Medios de elevación 
+    + Puesta en normativa ascensor
+
+*  (2021) Sanitarias 
+    + Cambio termotanque vivienda casera
 
 
 

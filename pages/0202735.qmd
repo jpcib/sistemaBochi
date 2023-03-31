@@ -11,5 +11,8 @@ subtitle: 'Polideportivo de establecimientos DE 16'
 *  (2022) Albañileria / Pintura 
     + Elevación de muro medianero
 
+*  (2021) Incendio 
+    + Proveer y colocar 6 Extintores
+
 
 

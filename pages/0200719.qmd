@@ -6,25 +6,30 @@ subtitle: 'EPC N° 21 LIC. JUSTO JOSE NUÑEZ'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 8, banco largo comedor 18, mesa 6 alumnos 9 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Pintura gral en salón de actos PA
 
 *  (2022) Gas 
     + Proveer y colocar cocina-Casa Habitación
 
+*  (2021) Carpinterías 
+    + Colocacion ventana de aluminio
 
-## Mobiliario
+*  (2021) Electricidad 
+    + Obra eléctrica integral  casa habitacion
 
-*  (2022) : armario 8 
-
-*  (2022) : banco largo comedor 18 
-
-*  (2022) : mesa 6 alumnos 9 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + Pintura gral en salón de actos PA
+*  (2021) Saneamiento 
+    + Proveer y colocar 4 purificadores
 
 
 

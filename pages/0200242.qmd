@@ -8,19 +8,19 @@ subtitle: 'EPC N° 20 NIEVES ESCALADA DE OROMI'
 
 ## Mobiliario
 
-*  (2022) : armario 1 
+*  (2022) : armario 1, banco largo comedor 4, biblioteca 6, escritorio 3, mesa 6 alumnos 7, pizarrón 20, silla escolar 33 
 
-*  (2022) : banco largo comedor 4 
 
-*  (2022) : biblioteca 6 
 
-*  (2022) : escritorio 3 
 
-*  (2022) : mesa 6 alumnos 7 
 
-*  (2022) : pizarrón 20 
+## Mantenimiento
 
-*  (2022) : silla escolar 33 
+*  (2021) Electricidad 
+    + Instalacion de purificadores
+
+*  (2021) Gas 
+    + Adecuacion de instalacion de gas
 
 
 

@@ -10,40 +10,28 @@ subtitle: 'EEM N° 01/07 JULIETA LANTERI'
     + En Proyecto - CORP SUR 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 1, mesa pupitre doble 15, pizarrón 1, silla escolar 31 
+
+*  (2022) : escritorio 1, mesa pupitre doble 15, pizarrón 1, silla escolar 31 
+
+*  (2021) : escritorio 1, mesa pupitre doble 15, pizarrón 3, silla escolar 31 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Readecuar SdF 5to Año
 
+*  (2021) Albañileria / Pintura 
+    + Aula del futuro. 4to Año
 
-## Mobiliario
-
-*  (2021) : escritorio 1 
-
-*  (2021) : mesa pupitre doble 15 
-
-*  (2021) : pizarrón 3 
-
-*  (2021) : silla escolar 31 
-
-*  (2022) : escritorio 1 
-
-*  (2022) : mesa pupitre doble 15 
-
-*  (2022) : pizarrón 1 
-
-*  (2022) : silla escolar 31 
-
-*  (2023) : escritorio 1 
-
-*  (2023) : mesa pupitre doble 15 
-
-*  (2023) : pizarrón 1 
-
-*  (2023) : silla escolar 31 
-
-
-
+*  (2021) Gas 
+    + Adecuación instalacion de gas
 
 
 

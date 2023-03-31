@@ -6,28 +6,27 @@ subtitle: 'EPC N° 17 LUIS JOSE CHORROARIN'
 #
 
 
+## Mobiliario
+
+*  (2021) : escritorio 2, mesa pupitre doble 30, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Gas 
+    + Reemplazo termotanque, Adecuación de inst de gas a normativa
 
 *  (2022) Sanitarias 
     + Adecuacion sanitarios 1°piso Sanitario d
 
+*  (2021) Incendio 
+    + Proveer y colocar matafuego de 5Kg
 
-## Mobiliario
-
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
-
-
-
-
-*  (2022) Gas 
-    + Reemplazo termotanque
-
-*  (2022) Gas 
-    + Adecuación de inst de gas a normativa
+*  (2021) Sanitarias 
+    + Cambio tapa de inspeccion en tanque PB, Reacondicionamiento de sanitarios PB
 
 
 

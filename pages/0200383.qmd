@@ -6,18 +6,18 @@ subtitle: 'CENS N° 57 - ESC. SUPERIOR DE ENFERMERÍA DRA. CECILIA GRIERSON SEDE
 #
 
 
-## Mantenimiento
-
-*  (2022) Incendio 
-    + Cambio de manguera en el 2do piso
-
-
 ## Mobiliario
 
 *  (2022) : armario 3 
 
 
 
+
+
+## Mantenimiento
+
+*  (2022) Incendio 
+    + Cambio de manguera en el 2do piso
 
 
 

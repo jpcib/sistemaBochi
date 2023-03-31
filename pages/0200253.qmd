@@ -10,48 +10,40 @@ subtitle: 'PI ESPACIO HUELLITAS - ESC. DE COM. N° 18 REINO DE SUECIA - EEM N° 
     + En Obra - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+*  (2022) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 98 
+
+*  (2021) : banco largo comedor 50, mesa 6 alumnos 25 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Aulas del Futuro aulas de 1er año Revisa
 
-
-## Mobiliario
-
-*  (2021) : banco largo comedor 50 
-
-*  (2021) : mesa 6 alumnos 25 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 98 
-
-*  (2023) : escritorio 2 
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 2 
-
-*  (2023) : silla escolar 62 
-
-
-
-
-*  (2022) Sanitarias 
-    + Realizar guardaganado en salida
-
-*  (2022) Sanitarias 
-    + Cambio Tapas de tanque. No coincide el p
-
-*  (2022) Sanitarias 
-    + Prov. coloc. inodoro y tapa Falta adjunt
-
 *  (2022) Electricidad 
     + Adecuar inst eléctrica- Oficinas
+
+*  (2022) Sanitarias 
+    + Realizar guardaganado en salida, Cambio Tapas de tanque. No coincide el p, Prov. coloc. inodoro y tapa Falta adjunt
+
+*  (2021) Albañileria / Pintura 
+    + Reparacion de piso Oficina Rectoria PB., Pintura oficina rectoría.
+
+*  (2021) Electricidad 
+    + Prov. Inst. central telefonica, Nueva Linea electrica
+
+*  (2021) Gas 
+    + Restablecimiento de Gas
+
+*  (2021) Incendio 
+    + Reponer 2 matafuegos ABC de 5Kgs
 
 
 

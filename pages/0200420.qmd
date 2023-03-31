@@ -10,50 +10,34 @@ subtitle: 'BOA N° 01 ANTONIO BERNI - COLEGIO N° 10 JOSE DE SAN MARTIN'
     + En Obra - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2023) Otros Servicios 
-    + Aulas secundarias del futuro
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 2 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
 
 *  (2022) : armario 6 
 
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
+*  (2021) : escritorio 2, mesa pupitre doble 30, silla escolar 62 
 
 
 
+
+
+## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Adicional por placa san francisco
 
-*  (2022) Otros Servicios 
-    + Reemplazo bomba
+*  (2023) Otros Servicios 
+    + Aulas secundarias del futuro
 
 *  (2022) Otros Servicios 
-    + Adecuaciones en instalacion de gas
-
-*  (2022) Otros Servicios 
-    + Adecuacion inst. elect. zona caldera
+    + Reemplazo bomba, Adecuaciones en instalacion de gas, Adecuacion inst. elect. zona caldera, Provision e instalacion de rejas
 
 *  (2022) Sanitarias 
     + Reemplazo de inodoro por vandalismo
 
-*  (2022) Otros Servicios 
-    + Provision e instalacion de rejas
+*  (2021) Otros Servicios 
+    + Colocacion de red anti palomas
 
 
 

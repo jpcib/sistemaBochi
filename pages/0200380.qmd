@@ -10,32 +10,29 @@ subtitle: 'ESC. DE COM. N° 23 DR. LUIS AGOTE - EC N° 29 MARINA MERCANTE ARGENT
     + En Obra - SDF 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 5, mesa pupitre doble 75, pizarrón 5, silla escolar 155 
+
+*  (2022) : escritorio 6, mesa pupitre doble 90, pizarrón 6, silla escolar 186 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Incendio 
     + Reacondicionamiento incendio
 
+*  (2021) Electricidad 
+    + Reacond tablero de caldera y cisterna, Recambio termotanque eléctrico en cocina
 
-## Mobiliario
+*  (2021) Incendio 
+    + Cambio hidrante en 3° piso por vandalism
 
-*  (2022) : escritorio 6 
-
-*  (2022) : mesa pupitre doble 90 
-
-*  (2022) : pizarrón 6 
-
-*  (2022) : silla escolar 186 
-
-*  (2023) : escritorio 5 
-
-*  (2023) : mesa pupitre doble 75 
-
-*  (2023) : pizarrón 5 
-
-*  (2023) : silla escolar 155 
-
-
-
+*  (2021) Sanitarias 
+    + Recambio de termotanque en casa casero
 
 
 

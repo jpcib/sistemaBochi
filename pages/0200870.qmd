@@ -6,55 +6,43 @@ subtitle: 'ESC. TEC.  N° 33 F. MAESTRANZA DEL PLUMERILLO - CAIYJ CLUB POMPEYA'
 #
 
 
-## Mantenimiento
-
-*  (2022) Incendio 
-    + Cambio de Mangueras
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 9 
+*  (2023) : escritorio 1, mesa pupitre doble 15, pizarrón 1, silla escolar 31 
 
-*  (2021) : mesa pupitre doble 75 
+*  (2022) : escritorio 4, mesa pupitre doble 66, pizarrón 4, silla escolar 136 
 
-*  (2021) : pizarrón 5 
-
-*  (2021) : silla escolar 207 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 66 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 136 
-
-*  (2023) : escritorio 1 
-
-*  (2023) : mesa pupitre doble 15 
-
-*  (2023) : pizarrón 1 
-
-*  (2023) : silla escolar 31 
+*  (2021) : escritorio 9, mesa pupitre doble 75, pizarrón 5, silla escolar 207 
 
 
 
 
-*  (2022) Electricidad 
-    + Adecuación Tablero Buffet
+
+## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Reemplazo Estufas Rabanal 1549 (Técnica)
 
-*  (2022) Sanitarias 
-    + Rep. /Inst. de Automatico de Bomba
+*  (2022) Electricidad 
+    + Adecuación Tablero Buffet
+
+*  (2022) Incendio 
+    + Cambio de Mangueras
 
 *  (2022) Sanitarias 
-    + Rotura inodoro por vandalismo
+    + Rep. /Inst. de Automatico de Bomba, Rotura inodoro por vandalismo, Desvío salida cloacal provisoria
 
-*  (2022) Sanitarias 
-    + Desvío salida cloacal provisoria
+*  (2021) Albañileria / Pintura 
+    + Reparacion de estructuras y otros, Adicionales Reparación cubierta, Fijacion de placas de cielorraso
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Reponer cañeria split por vandalismo, Instalar 10 splits
+
+*  (2021) Carpinterías 
+    + Guardaganado,pileta,conexion pluvial, Elevación rejas y colocación cocertina
+
+*  (2021) Incendio 
+    + Reposición de 2 lanzas por Vandalismo, Reemplazo de 7 extintores
 
 
 

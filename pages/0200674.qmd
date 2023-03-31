@@ -6,23 +6,27 @@ subtitle: 'EPC N° 22 AGRONOMIA - JII N° 04/14'
 #
 
 
+## Mobiliario
+
+*  (2022) : escritorio 4, silla escolar 34 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Ejecución de vallado perimetral  quincho
 
 *  (2022) Sanitarias 
     + Cambio tanque de agua casera
 
+*  (2021) Gas 
+    + Adecuacion instalacion de gas
 
-## Mobiliario
-
-*  (2022) : escritorio 4 
-
-*  (2022) : silla escolar 34 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + Ejecución de vallado perimetral  quincho
+*  (2021) Incendio 
+    + Instalación Fija Contra Incendi
 
 
 

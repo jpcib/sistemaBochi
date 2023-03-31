@@ -6,12 +6,6 @@ subtitle: 'EPC Nº 12 DE 21'
 #
 
 
-## Mantenimiento
-
-*  (2023) Carpinterías 
-    + Reposicion vidrio vandalizados
-
-
 ## Mobiliario
 
 *  (2022) : armario 92 
@@ -19,11 +13,14 @@ subtitle: 'EPC Nº 12 DE 21'
 
 
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Puesta en marcha de Sist de calefacción
+
+## Mantenimiento
+
+*  (2023) Carpinterías 
+    + Reposicion vidrio vandalizados
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Cambio de 2 placas de equipos por golpe
+    + Puesta en marcha de Sist de calefacción, Cambio de 2 placas de equipos por golpe
 
 
 

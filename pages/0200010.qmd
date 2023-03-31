@@ -12,34 +12,30 @@ Mejoramiento integral de los patios descubiertos del edificio. Instalación elé
     + En Obra - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Reemplazo de caño pluvial
-
-
 ## Mobiliario
 
-*  (2022) : armario 9 
-
-*  (2022) : escritorio 7 
-
-*  (2022) : mesa inicial 8 
-
-*  (2022) : mesa pupitre doble 78 
-
-*  (2022) : pizarrón 20 
-
-*  (2022) : silla escolar 221 
+*  (2022) : armario 9, escritorio 7, mesa inicial 8, mesa pupitre doble 78, pizarrón 20, silla escolar 221 
 
 
 
+
+
+## Mantenimiento
+
+*  (2022) Electricidad 
+    + Iluminacion de  Emergencia
 
 *  (2022) Medios de elevación 
     + Reparar montacargas
 
-*  (2022) Electricidad 
-    + Iluminacion de  Emergencia
+*  (2022) Sanitarias 
+    + Reemplazo de caño pluvial
+
+*  (2021) Electricidad 
+    + Colocación de purificadores
+
+*  (2021) Medios de elevación 
+    + Reparar plataformas elevadoras
 
 
 

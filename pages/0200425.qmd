@@ -10,47 +10,28 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
     + Finalizado - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
+
+*  (2022) : escritorio 4, mesa pupitre doble 60, pizarrón 4 
+
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 4, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Gas 
-    + Reacondicionamiento de gas
-
-
-## Mobiliario
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 4 
-
-*  (2021) : silla escolar 124 
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 60 
-
-*  (2022) : pizarrón 4 
-
-*  (2023) : escritorio 4 
-
-*  (2023) : mesa pupitre doble 60 
-
-*  (2023) : pizarrón 4 
-
-*  (2023) : silla escolar 124 
-
-
-
+    + Reacondicionamiento de gas, Adicional de gas
 
 *  (2022) Incendio 
-    + Reacondicionamiento incendio
+    + Reacondicionamiento incendio, Adicional incendio - Cambio de llave de
 
-*  (2022) Incendio 
-    + Adicional incendio - Cambio de llave de
-
-*  (2022) Gas 
-    + Adicional de gas
+*  (2021) Carpinterías 
+    + Prov, coloc aberturas aluminio circul PA
 
 
 

@@ -10,49 +10,32 @@ subtitle: 'EEM N° 03/07°'
     + En Obra - SDF 
 
 
+## Mobiliario
+
+*  (2023) : escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+*  (2022) : banco largo comedor 20, escritorio 2, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Incendio 
     + Reposicion de faltantes  hidrantes
 
-
-## Mobiliario
-
-*  (2022) : banco largo comedor 20 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 62 
-
-*  (2023) : escritorio 2 
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 2 
-
-*  (2023) : silla escolar 62 
-
-
-
-
 *  (2022) Albañileria / Pintura 
     + Secundarias del futuro 2022- 2 aulas
 
-*  (2022) Sanitarias 
-    + Cambio de termotanque-Vivienda Casero
-
-*  (2022) Sanitarias 
-    + Prov. coloc. volantes griferías
-
 *  (2022) Carpinterías 
-    + Red antipalomas en patio
+    + Red antipalomas en patio, Retiro de Palomas y colocar mosquiteros
 
-*  (2022) Carpinterías 
-    + Retiro de Palomas y colocar mosquiteros
+*  (2022) Sanitarias 
+    + Cambio de termotanque-Vivienda Casero, Prov. coloc. volantes griferías
+
+*  (2021) Medios de elevación 
+    + Habilitación de platafoma de PB
 
 
 

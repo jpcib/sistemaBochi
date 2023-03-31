@@ -6,26 +6,32 @@ subtitle: 'EPC N° 09 BENITO JUAREZ - JIN D (EPCJS 09/17°) VICTORIA OCAMPO'
 #
 
 
+## Mobiliario
+
+*  (2022) : escritorio 2, mesa pupitre doble 30, silla escolar 62 
+
+*  (2021) : mesa inicial 5, silla escolar 30 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Pintura de completa patio cubierto
 
+*  (2021) Albañileria / Pintura 
+    + Pintura de Paredes aula plastica - Coefi
 
-## Mobiliario
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Reemplazo de molinillos para apertura cu
 
-*  (2021) : mesa inicial 5 
+*  (2021) Electricidad 
+    + Instalar 6 purificadores de aire
 
-*  (2021) : silla escolar 30 
-
-*  (2022) : escritorio 2 
-
-*  (2022) : mesa pupitre doble 30 
-
-*  (2022) : silla escolar 62 
-
-
-
+*  (2021) Gas 
+    + Sist. extraccion cocina y protec estufas
 
 
 

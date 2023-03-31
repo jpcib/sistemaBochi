@@ -6,20 +6,21 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
 #
 
 
+## Mobiliario
+
+*  (2021) : armario 4, silla escolar 6 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Colocacion de dos ventiladores de 19´
 
-
-## Mobiliario
-
-*  (2021) : armario 4 
-
-*  (2021) : silla escolar 6 
-
-
-
+*  (2022) Albañileria / Pintura 
+    + Piso de goma patio exterior, Demolicion y colocacion solados 2 aulas
 
 *  (2022) Carpinterías 
     + Cierre de juntas semicubierto zinguería
@@ -30,11 +31,17 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
 *  (2022) Sanitarias 
     + Receptaculo ducha casera
 
-*  (2022) Albañileria / Pintura 
-    + Piso de goma patio exterior
+*  (2021) Albañileria / Pintura 
+    + Reparar y pintar frisos en patio
 
-*  (2022) Albañileria / Pintura 
-    + Demolicion y colocacion solados 2 aulas
+*  (2021) Carpinterías 
+    + Protecciones estufas tiro balanceado/Tbu
+
+*  (2021) Electricidad 
+    + Instalacion Purificadores
+
+*  (2021) Gas 
+    + Termotanque gas 80Lts
 
 
 

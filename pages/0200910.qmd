@@ -8,19 +8,7 @@ subtitle: 'EPC N° 13 REPUBLICA DE FILIPINAS - JIN C (EPCJS 13/20°)'
 
 ## Mobiliario
 
-*  (2022) : armario 2 
-
-*  (2022) : escritorio 8 
-
-*  (2022) : mesa 6 alumnos 1 
-
-*  (2022) : mesa inicial 4 
-
-*  (2022) : mesa pupitre doble 69 
-
-*  (2022) : pizarrón 4 
-
-*  (2022) : silla escolar 178 
+*  (2022) : armario 2, escritorio 8, mesa 6 alumnos 1, mesa inicial 4, mesa pupitre doble 69, pizarrón 4, silla escolar 178 
 
 
 

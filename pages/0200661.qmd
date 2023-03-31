@@ -6,24 +6,21 @@ subtitle: 'EPC N° 05 ENRIQUE DE VEDIA - JIN C (EPCJS 05/14°) - CECIE N° 24'
 #
 
 
+## Mobiliario
+
+*  (2022) : armario 1, mesa inicial 5, pizarrón 2, silla escolar 30 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Sanitarias 
     + Cambio 2 tanques de agua
 
-
-## Mobiliario
-
-*  (2022) : armario 1 
-
-*  (2022) : mesa inicial 5 
-
-*  (2022) : pizarrón 2 
-
-*  (2022) : silla escolar 30 
-
-
-
+*  (2021) Electricidad 
+    + Instalacion de 7 purificadores de aire
 
 
 

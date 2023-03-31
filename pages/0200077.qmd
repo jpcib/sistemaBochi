@@ -6,22 +6,24 @@ subtitle: 'EPC N° 03 MANUEL SOLA - JIN C (EPCJS 03/02°) - CENOF CENTRO LAMBARE
 #
 
 
+## Mobiliario
+
+*  (2022) : escritorio 4, mesa pupitre doble 45, silla escolar 93 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Cambio membrana techo de patio cubierto
 
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Cambio de membrana en losas
 
-## Mobiliario
-
-*  (2022) : escritorio 4 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : silla escolar 93 
-
-
-
+*  (2021) Gas 
+    + cambio de campana de cocina
 
 
 

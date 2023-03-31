@@ -10,47 +10,35 @@ subtitle: 'CENS N° 59 - EPC N° 25 GERVASIO POSADAS - EPA N° 25 GERVASIO POSAD
     + Planificado - Mejora Edilicia 
 
 
-## Mantenimiento
-
-*  (2022) Sanitarias 
-    + Perdida en Cañeria Baños en comedor
-
-
 ## Mobiliario
 
-*  (2021) : escritorio 2 
+*  (2022) : armario 7, banco largo comedor 20, mesa inicial 10, silla escolar 60 
 
-*  (2021) : mesa 6 alumnos 1 
-
-*  (2021) : mesa pupitre doble 30 
-
-*  (2021) : silla escolar 62 
-
-*  (2022) : armario 7 
-
-*  (2022) : banco largo comedor 20 
-
-*  (2022) : mesa inicial 10 
-
-*  (2022) : silla escolar 60 
+*  (2021) : escritorio 2, mesa 6 alumnos 1, mesa pupitre doble 30, silla escolar 62 
 
 
 
 
-*  (2022) Electricidad 
-    + Colocacion de 5 ventiladores
+
+## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Acondicionamiento de muro medianero
 
+*  (2022) Electricidad 
+    + Colocacion de 5 ventiladores
+
+*  (2022) Gas 
+    + Reemplazo General de Estufas pb, Adecuación de inst de gas a normativa
+
 *  (2022) Sanitarias 
-    + Reponer inodoro en baño de niñas
+    + Perdida en Cañeria Baños en comedor, Reponer inodoro en baño de niñas
 
-*  (2022) Gas 
-    + Reemplazo General de Estufas pb
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Reparación de filtraciónes, revoques
 
-*  (2022) Gas 
-    + Adecuación de inst de gas a normativa
+*  (2021) Gas 
+    + Verificar instalacion de gas
 
 
 

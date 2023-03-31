@@ -6,12 +6,6 @@ subtitle: 'EPA N° 01 ESTEBAN DE LUCA - EPC N° 01 ESTEBAN DE LUCA - JIN A (EPCJ
 #
 
 
-## Mantenimiento
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Cambiar dos tanques de agua
-
-
 ## Mobiliario
 
 *  (2023) : mesa integradora con escotadura 3 
@@ -19,11 +13,23 @@ subtitle: 'EPA N° 01 ESTEBAN DE LUCA - EPC N° 01 ESTEBAN DE LUCA - JIN A (EPCJ
 
 
 
+
+## Mantenimiento
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Cambiar dos tanques de agua
+
 *  (2022) Gas 
     + Trabajos en instalación de gas
 
 *  (2022) Sanitarias 
     + Reponer tapa de tanque de agua
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Reemplazo De 2 estufas: 7mo B y Secretar
+
+*  (2021) Incendio 
+    + Reposición de picos en hidratantes
 
 
 

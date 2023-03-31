@@ -10,29 +10,30 @@ subtitle: 'JINA(EPCJS 17/18°)LA CALESITA DON JOSE - EPC N° 17 TTE. GRAL. LUIS 
     + Planificado - Mejora Edilicia 
 
 
+## Mobiliario
+
+*  (2021) : banco largo comedor 4, mesa 6 alumnos 2 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
-    + Colocacion timbre para jardin
-
-
-## Mobiliario
-
-*  (2021) : banco largo comedor 4 
-
-*  (2021) : mesa 6 alumnos 2 
-
-
-
-
-*  (2022) Albañileria / Pintura 
-    + Colocar soporte para proyector en aula
+    + Colocacion timbre para jardin, Colocar soporte para proyector en aula
 
 *  (2022) Electricidad 
-    + Reemplazo de 3 ventiladores
+    + Reemplazo de 3 ventiladores, Tendido eléctrico para AA-Aulas Jardín
 
-*  (2022) Electricidad 
-    + Tendido eléctrico para AA-Aulas Jardín
+*  (2021) Albañileria / Pintura 
+    + Reparar revoques y pintura aulas fachada
+
+*  (2021) Carpinterías 
+    + Protecciones para carpinterias, Coloc malla,barral ventanas puerta acces
+
+*  (2021) Incendio 
+    + Provision de extintor para cocina
 
 
 

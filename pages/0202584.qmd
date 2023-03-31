@@ -10,46 +10,25 @@ subtitle: 'EEM N° 01/20° BIB.CONGRESO DE LA NACION - ESCUELA INF. N° 08/20° 
     + En Obra - SDF 
 
 
+## Mobiliario
+
+*  (2023) : banco largo comedor 38, escritorio 2, mesa 6 alumnos 19, mesa pupitre doble 30, pizarrón 2, silla escolar 62 
+
+*  (2022) : escritorio 3, mesa 6 alumnos 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2021) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Prov, coloc 4 reflectores LED 100 watt
 
-
-## Mobiliario
-
-*  (2021) : escritorio 3 
-
-*  (2021) : mesa pupitre doble 45 
-
-*  (2021) : pizarrón 3 
-
-*  (2021) : silla escolar 93 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa 6 alumnos 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 93 
-
-*  (2023) : banco largo comedor 38 
-
-*  (2023) : escritorio 2 
-
-*  (2023) : mesa 6 alumnos 19 
-
-*  (2023) : mesa pupitre doble 30 
-
-*  (2023) : pizarrón 2 
-
-*  (2023) : silla escolar 62 
-
-
-
+*  (2022) Calefaccion y Refrigeracion 
+    + Conexión de 6 estufas ecosol en aulas
 
 *  (2022) Carpinterías 
     + Cambio de vidrio ventana por vandalismo
@@ -57,8 +36,14 @@ subtitle: 'EEM N° 01/20° BIB.CONGRESO DE LA NACION - ESCUELA INF. N° 08/20° 
 *  (2022) Sanitarias 
     + Cambio bacha cocina
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Conexión de 6 estufas ecosol en aulas
+*  (2021) Carpinterías 
+    + Guias nuevas de persianas metalicas x va, Cambio de cerradura puerta entrada x van, Cambio de 2 vidrios en sum, Rejas para patio-sector puertas, Colocacion de parante metalico
+
+*  (2021) Electricidad 
+    + Colocacion de tomas corriente lactario
+
+*  (2021) Sanitarias 
+    + Coloc bomba con tablero c/automatico
 
 
 

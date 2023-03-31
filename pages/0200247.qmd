@@ -6,24 +6,24 @@ subtitle: 'EPC N° 27 MANUEL DE SARRATEA - EPA N° 27 MANUEL DE SARRATEA'
 #
 
 
+## Mobiliario
+
+*  (2021) : escritorio 4, mesa pupitre doble 60, pizarrón 9, silla escolar 124 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Picado de revoques fachada.
 
+*  (2021) Gas 
+    + Adecuacion instalacion de gas.
 
-## Mobiliario
-
-*  (2021) : escritorio 4 
-
-*  (2021) : mesa pupitre doble 60 
-
-*  (2021) : pizarrón 9 
-
-*  (2021) : silla escolar 124 
-
-
-
+*  (2021) Incendio 
+    + Trabajos a realizar Cambio de extintores
 
 
 

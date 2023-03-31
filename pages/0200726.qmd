@@ -6,40 +6,31 @@ subtitle: 'COLEGIO N° 16 GUILLERMO RAWSON - COLEGIO N° 12 RECONQUISTA - LICEO 
 #
 
 
+## Mobiliario
+
+*  (2023) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2022) : escritorio 3, mesa pupitre doble 45, pizarrón 3, silla escolar 93 
+
+*  (2021) : escritorio 6, mesa pupitre doble 90, pizarrón 6, silla escolar 186 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
     + Adecuación de tres aulas PA- SDF
 
+*  (2021) Albañileria / Pintura 
+    + Aulas del futuro PB y PA
 
-## Mobiliario
+*  (2021) Gas 
+    + Cambio de picos de gas en laboratorios
 
-*  (2021) : escritorio 6 
-
-*  (2021) : mesa pupitre doble 90 
-
-*  (2021) : pizarrón 6 
-
-*  (2021) : silla escolar 186 
-
-*  (2022) : escritorio 3 
-
-*  (2022) : mesa pupitre doble 45 
-
-*  (2022) : pizarrón 3 
-
-*  (2022) : silla escolar 93 
-
-*  (2023) : escritorio 3 
-
-*  (2023) : mesa pupitre doble 45 
-
-*  (2023) : pizarrón 3 
-
-*  (2023) : silla escolar 93 
-
-
-
+*  (2021) Medios de elevación 
+    + Reparar ascensor
 
 
 
