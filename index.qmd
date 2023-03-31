@@ -22,7 +22,7 @@ invisible(lapply(packages, library, character.only = TRUE))
 ```
 
 ```{r read, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-raw <- read_csv("data/base_completa_link_v4.csv") %>% 
+raw <- read_csv("data/base_completa_link_v5.csv") %>% 
   select(Domicilio, Establecimiento, Nº, DE)
 
 tabla <- DT::datatable(raw, 
