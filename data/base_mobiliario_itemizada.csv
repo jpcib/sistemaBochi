@@ -1,0 +1,3357 @@
+cui,entrega,item,n,texto
+0200001,2021,armario,4,armario 4
+0200001,2021,escritorio,6,escritorio 6
+0200001,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200001,2021,silla escolar,124,silla escolar 124
+0200001,2022,armario,4,armario 4
+0200001,2022,banco largo comedor,60,banco largo comedor 60
+0200002,2021,banco largo comedor,36,banco largo comedor 36
+0200002,2021,escritorio,4,escritorio 4
+0200002,2021,juego de patio,1,juego de patio 1
+0200002,2021,mesa 6 alumnos,18,mesa 6 alumnos 18
+0200002,2021,piso antigolpe para juegos,60,piso antigolpe para juegos 60
+0200002,2021,silla escolar,124,silla escolar 124
+0200002,2021,varios,10,varios 10
+0200002,2022,armario,2,armario 2
+0200002,2022,mesa inicial,5,mesa inicial 5
+0200002,2022,pizarrón,7,pizarrón 7
+0200002,2022,silla escolar,30,silla escolar 30
+0200002,2022,varios,1,varios 1
+0200003,2021,banco largo comedor,50,banco largo comedor 50
+0200003,2021,escritorio,6,escritorio 6
+0200003,2021,mesa 6 alumnos,25,mesa 6 alumnos 25
+0200003,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200003,2021,pizarrón,2,pizarrón 2
+0200003,2021,silla escolar,176,silla escolar 176
+0200004,2021,banco largo comedor,50,banco largo comedor 50
+0200004,2021,mesa 6 alumnos,25,mesa 6 alumnos 25
+0200005,2021,mesa inicial,10,mesa inicial 10
+0200005,2021,silla escolar,60,silla escolar 60
+0200005,2022,armario,4,armario 4
+0200005,2022,mesa inicial,10,mesa inicial 10
+0200005,2022,mesa pupitre doble,22,mesa pupitre doble 22
+0200005,2022,silla escolar,134,silla escolar 134
+0200006,2021,armario,4,armario 4
+0200006,2021,banco largo comedor,96,banco largo comedor 96
+0200006,2021,escritorio,2,escritorio 2
+0200006,2021,mesa 6 alumnos,48,mesa 6 alumnos 48
+0200006,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200006,2021,silla escolar,152,silla escolar 152
+0200006,2022,armario,2,armario 2
+0200007,2021,armario,4,armario 4
+0200007,2021,mesa inicial,6,mesa inicial 6
+0200007,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200007,2021,silla escolar,60,silla escolar 60
+0200007,2022,armario,2,armario 2
+0200007,2022,mesa pupitre doble,52,mesa pupitre doble 52
+0200007,2022,pizarrón,14,pizarrón 14
+0200007,2022,silla escolar,106,silla escolar 106
+0200007,2023,armario,1,armario 1
+0200007,2023,pizarrón,14,pizarrón 14
+0200008,2021,pizarrón,2,pizarrón 2
+0200008,2022,armario,4,armario 4
+0200008,2022,mesa inicial,4,mesa inicial 4
+0200008,2022,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200008,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200008,2022,pizarrón,11,pizarrón 11
+0200008,2022,silla escolar,83,silla escolar 83
+0200009,2021,escritorio,2,escritorio 2
+0200009,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200009,2021,pizarrón,12,pizarrón 12
+0200009,2021,silla escolar,62,silla escolar 62
+0200009,2022,mesa inicial,5,mesa inicial 5
+0200009,2022,silla escolar,30,silla escolar 30
+0200010,2022,armario,9,armario 9
+0200010,2022,escritorio,7,escritorio 7
+0200010,2022,mesa inicial,8,mesa inicial 8
+0200010,2022,mesa pupitre doble,78,mesa pupitre doble 78
+0200010,2022,pizarrón,20,pizarrón 20
+0200010,2022,silla escolar,221,silla escolar 221
+0200011,2021,mesa inicial,10,mesa inicial 10
+0200011,2021,mesa pupitre doble,12,mesa pupitre doble 12
+0200011,2021,silla escolar,84,silla escolar 84
+0200011,2022,armario,2,armario 2
+0200011,2022,escritorio,2,escritorio 2
+0200011,2022,varios,3,varios 3
+0200012,2021,escritorio,2,escritorio 2
+0200012,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200012,2021,silla escolar,62,silla escolar 62
+0200013,2021,armario,3,armario 3
+0200013,2021,mesa inicial,5,mesa inicial 5
+0200013,2021,silla escolar,30,silla escolar 30
+0200013,2022,armario,2,armario 2
+0200013,2022,mesa inicial,10,mesa inicial 10
+0200013,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200013,2022,pizarrón,15,pizarrón 15
+0200013,2022,silla escolar,160,silla escolar 160
+0200014,2022,mesa inicial,10,mesa inicial 10
+0200014,2022,silla escolar,85,silla escolar 85
+0200015,2021,armario,8,armario 8
+0200015,2021,escritorio,4,escritorio 4
+0200015,2021,mesa inicial,5,mesa inicial 5
+0200015,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200015,2021,pizarrón,3,pizarrón 3
+0200015,2021,silla escolar,124,silla escolar 124
+0200015,2022,armario,8,armario 8
+0200015,2022,mesa inicial,5,mesa inicial 5
+0200015,2022,silla escolar,60,silla escolar 60
+0200015,2023,armario,3,armario 3
+0200016,2021,armario,4,armario 4
+0200016,2021,escritorio,4,escritorio 4
+0200016,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200016,2021,silla escolar,124,silla escolar 124
+0200016,2022,armario,2,armario 2
+0200016,2022,banco largo comedor,112,banco largo comedor 112
+0200016,2022,mesa 6 alumnos,56,mesa 6 alumnos 56
+0200016,2022,mesa inicial,5,mesa inicial 5
+0200016,2022,pizarrón,7,pizarrón 7
+0200016,2022,silla escolar,30,silla escolar 30
+0200017,2022,banco largo comedor,8,banco largo comedor 8
+0200017,2022,escritorio,3,escritorio 3
+0200017,2022,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200017,2022,mesa pupitre doble,47,mesa pupitre doble 47
+0200017,2022,pizarrón,4,pizarrón 4
+0200017,2022,silla escolar,93,silla escolar 93
+0200018,2021,escritorio,7,escritorio 7
+0200018,2021,mesa pupitre doble,89,mesa pupitre doble 89
+0200018,2021,pizarrón,14,pizarrón 14
+0200018,2021,silla escolar,185,silla escolar 185
+0200020,2023,varios,1,varios 1
+0200022,2022,escritorio,5,escritorio 5
+0200022,2022,mesa pupitre doble,75,mesa pupitre doble 75
+0200022,2022,pizarrón,5,pizarrón 5
+0200022,2022,silla escolar,155,silla escolar 155
+0200022,2023,escritorio,5,escritorio 5
+0200022,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200022,2023,pizarrón,5,pizarrón 5
+0200022,2023,silla escolar,155,silla escolar 155
+0200023,2021,escritorio,4,escritorio 4
+0200023,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200023,2021,pizarrón,4,pizarrón 4
+0200023,2021,silla escolar,124,silla escolar 124
+0200023,2022,escritorio,4,escritorio 4
+0200023,2022,mesa pupitre doble,64,mesa pupitre doble 64
+0200023,2022,pizarrón,4,pizarrón 4
+0200023,2022,silla escolar,132,silla escolar 132
+0200023,2023,escritorio,4,escritorio 4
+0200023,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200023,2023,pizarrón,4,pizarrón 4
+0200023,2023,silla escolar,124,silla escolar 124
+0200024,2021,escritorio,4,escritorio 4
+0200024,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200024,2021,pizarrón,4,pizarrón 4
+0200024,2021,silla escolar,124,silla escolar 124
+0200024,2022,escritorio,4,escritorio 4
+0200024,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200024,2022,pizarrón,4,pizarrón 4
+0200024,2022,silla escolar,124,silla escolar 124
+0200024,2023,escritorio,5,escritorio 5
+0200024,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200024,2023,pizarrón,5,pizarrón 5
+0200024,2023,silla escolar,155,silla escolar 155
+0200025,2021,escritorio,3,escritorio 3
+0200025,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200025,2021,pizarrón,3,pizarrón 3
+0200025,2021,silla escolar,93,silla escolar 93
+0200025,2022,escritorio,3,escritorio 3
+0200025,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200025,2022,pizarrón,3,pizarrón 3
+0200025,2022,silla escolar,93,silla escolar 93
+0200025,2023,escritorio,2,escritorio 2
+0200025,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200025,2023,pizarrón,2,pizarrón 2
+0200025,2023,silla escolar,62,silla escolar 62
+0200026,2021,escritorio,2,escritorio 2
+0200026,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200026,2021,pizarrón,2,pizarrón 2
+0200026,2021,silla escolar,62,silla escolar 62
+0200026,2022,escritorio,2,escritorio 2
+0200026,2022,mesa pupitre doble,32,mesa pupitre doble 32
+0200026,2022,pizarrón,2,pizarrón 2
+0200026,2022,silla escolar,64,silla escolar 64
+0200026,2022,varios,2,varios 2
+0200026,2023,escritorio,2,escritorio 2
+0200026,2023,locker,15,locker 15
+0200026,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200026,2023,pizarrón,2,pizarrón 2
+0200026,2023,silla escolar,62,silla escolar 62
+0200028,2021,escritorio,4,escritorio 4
+0200028,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200028,2021,pizarrón,4,pizarrón 4
+0200028,2022,escritorio,4,escritorio 4
+0200028,2022,mesa inicial,6,mesa inicial 6
+0200028,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200028,2022,pizarrón,5,pizarrón 5
+0200028,2022,silla escolar,154,silla escolar 154
+0200029,2021,escritorio,5,escritorio 5
+0200029,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200029,2021,pizarrón,5,pizarrón 5
+0200029,2021,silla escolar,155,silla escolar 155
+0200029,2022,armario,1,armario 1
+0200029,2022,banco largo comedor,2,banco largo comedor 2
+0200029,2022,escritorio,6,escritorio 6
+0200029,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200029,2022,pizarrón,6,pizarrón 6
+0200029,2022,silla escolar,186,silla escolar 186
+0200029,2023,escritorio,6,escritorio 6
+0200029,2023,mesa pupitre doble,90,mesa pupitre doble 90
+0200029,2023,pizarrón,6,pizarrón 6
+0200029,2023,silla escolar,186,silla escolar 186
+0200030,2021,armario,4,armario 4
+0200030,2021,escritorio,4,escritorio 4
+0200030,2021,mesa pupitre doble,90,mesa pupitre doble 90
+0200030,2021,pizarrón,4,pizarrón 4
+0200030,2021,silla escolar,60,silla escolar 60
+0200030,2022,armario,20,armario 20
+0200030,2022,escritorio,8,escritorio 8
+0200030,2022,mesa pupitre doble,120,mesa pupitre doble 120
+0200030,2022,pizarrón,10,pizarrón 10
+0200030,2022,silla escolar,248,silla escolar 248
+0200030,2023,escritorio,1,escritorio 1
+0200030,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0200030,2023,pizarrón,1,pizarrón 1
+0200030,2023,silla escolar,31,silla escolar 31
+0200031,2022,armario,3,armario 3
+0200031,2022,pizarrón,6,pizarrón 6
+0200032,2021,escritorio,4,escritorio 4
+0200032,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200032,2021,pizarrón,4,pizarrón 4
+0200032,2021,silla escolar,124,silla escolar 124
+0200032,2022,escritorio,4,escritorio 4
+0200032,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200032,2022,pizarrón,4,pizarrón 4
+0200032,2022,silla escolar,124,silla escolar 124
+0200033,2021,armario,5,armario 5
+0200033,2021,mesa inicial,1,mesa inicial 1
+0200033,2022,silla escolar,6,silla escolar 6
+0200041,2021,mesa trabajo estante,4,mesa trabajo estante 4
+0200041,2021,varios,8,varios 8
+0200057,2023,armario,1,armario 1
+0200057,2023,silla escolar,7,silla escolar 7
+0200063,2021,armario,6,armario 6
+0200063,2021,escritorio,3,escritorio 3
+0200063,2021,mesa inicial,6,mesa inicial 6
+0200063,2021,pizarrón,3,pizarrón 3
+0200063,2021,silla escolar,48,silla escolar 48
+0200063,2021,varios,43,varios 43
+0200063,2022,armario,8,armario 8
+0200063,2022,varios,32,varios 32
+0200076,2021,armario,3,armario 3
+0200076,2021,banco largo comedor,64,banco largo comedor 64
+0200076,2021,escritorio,4,escritorio 4
+0200076,2021,mesa 6 alumnos,27,mesa 6 alumnos 27
+0200076,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200076,2021,silla escolar,124,silla escolar 124
+0200076,2022,armario,6,armario 6
+0200077,2022,escritorio,4,escritorio 4
+0200077,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200077,2022,silla escolar,93,silla escolar 93
+0200080,2023,armario,3,armario 3
+0200080,2023,escritorio,3,escritorio 3
+0200080,2023,silla escolar,9,silla escolar 9
+0200081,2021,escritorio,2,escritorio 2
+0200081,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200081,2021,silla escolar,62,silla escolar 62
+0200082,2021,armario,6,armario 6
+0200082,2021,mesa inicial,6,mesa inicial 6
+0200082,2021,pizarrón,2,pizarrón 2
+0200082,2021,silla escolar,25,silla escolar 25
+0200083,2021,banco largo comedor,52,banco largo comedor 52
+0200083,2021,mesa 6 alumnos,26,mesa 6 alumnos 26
+0200083,2021,mesa inicial,5,mesa inicial 5
+0200083,2021,silla escolar,30,silla escolar 30
+0200083,2022,armario,2,armario 2
+0200084,2021,armario,6,armario 6
+0200084,2021,banco largo comedor,32,banco largo comedor 32
+0200084,2021,biblioteca,5,biblioteca 5
+0200084,2021,mesa 6 alumnos,9,mesa 6 alumnos 9
+0200084,2021,pizarrón,1,pizarrón 1
+0200084,2022,armario,4,armario 4
+0200085,2021,piso antigolpe para juegos,12,piso antigolpe para juegos 12
+0200086,2021,escritorio,2,escritorio 2
+0200086,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200086,2021,pizarrón,6,pizarrón 6
+0200086,2021,silla escolar,62,silla escolar 62
+0200086,2022,armario,14,armario 14
+0200086,2022,banco largo comedor,64,banco largo comedor 64
+0200086,2022,escritorio,7,escritorio 7
+0200086,2022,mesa 6 alumnos,32,mesa 6 alumnos 32
+0200086,2022,mesa pupitre doble,26,mesa pupitre doble 26
+0200086,2022,pizarrón,8,pizarrón 8
+0200086,2022,silla escolar,61,silla escolar 61
+0200087,2022,armario,2,armario 2
+0200088,2021,armario,4,armario 4
+0200088,2021,banco largo comedor,4,banco largo comedor 4
+0200088,2021,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200088,2021,mesa inicial,5,mesa inicial 5
+0200088,2021,silla escolar,30,silla escolar 30
+0200088,2021,varios,30,varios 30
+0200089,2021,mesa 6 alumnos,1,mesa 6 alumnos 1
+0200090,2023,armario,3,armario 3
+0200090,2023,escritorio,3,escritorio 3
+0200090,2023,silla escolar,9,silla escolar 9
+0200092,2022,armario,5,armario 5
+0200093,2022,armario,22,armario 22
+0200093,2022,escritorio,11,escritorio 11
+0200093,2022,mesa pupitre doble,52,mesa pupitre doble 52
+0200093,2022,pizarrón,11,pizarrón 11
+0200093,2022,silla escolar,125,silla escolar 125
+0200095,2021,armario,4,armario 4
+0200095,2021,escritorio,4,escritorio 4
+0200095,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200095,2021,pizarrón,2,pizarrón 2
+0200095,2021,silla escolar,124,silla escolar 124
+0200096,2021,escritorio,4,escritorio 4
+0200096,2021,mesa pupitre doble,108,mesa pupitre doble 108
+0200096,2021,pizarrón,6,pizarrón 6
+0200096,2021,silla escolar,124,silla escolar 124
+0200096,2022,escritorio,4,escritorio 4
+0200096,2022,mesa pupitre doble,68,mesa pupitre doble 68
+0200096,2022,pizarrón,4,pizarrón 4
+0200096,2022,silla escolar,136,silla escolar 136
+0200097,2023,escritorio,5,escritorio 5
+0200097,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200097,2023,pizarrón,5,pizarrón 5
+0200097,2023,silla escolar,155,silla escolar 155
+0200098,2021,escritorio,6,escritorio 6
+0200098,2021,mesa pupitre doble,95,mesa pupitre doble 95
+0200098,2021,pizarrón,6,pizarrón 6
+0200098,2021,silla escolar,186,silla escolar 186
+0200098,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200098,2023,escritorio,4,escritorio 4
+0200098,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200098,2023,pizarrón,4,pizarrón 4
+0200098,2023,silla escolar,124,silla escolar 124
+0200099,2021,escritorio,4,escritorio 4
+0200099,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200099,2021,pizarrón,4,pizarrón 4
+0200099,2021,silla escolar,124,silla escolar 124
+0200099,2022,escritorio,4,escritorio 4
+0200099,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200099,2022,pizarrón,4,pizarrón 4
+0200099,2022,silla escolar,124,silla escolar 124
+0200099,2023,escritorio,3,escritorio 3
+0200099,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200099,2023,pizarrón,3,pizarrón 3
+0200099,2023,silla escolar,93,silla escolar 93
+0200100,2021,escritorio,5,escritorio 5
+0200100,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200100,2021,pizarrón,5,pizarrón 5
+0200100,2021,silla escolar,155,silla escolar 155
+0200100,2022,escritorio,3,escritorio 3
+0200100,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200100,2022,pizarrón,8,pizarrón 8
+0200100,2022,silla escolar,123,silla escolar 123
+0200100,2023,escritorio,6,escritorio 6
+0200100,2023,mesa pupitre doble,90,mesa pupitre doble 90
+0200100,2023,pizarrón,6,pizarrón 6
+0200100,2023,silla escolar,186,silla escolar 186
+0200101,2021,armario,3,armario 3
+0200101,2021,escritorio,4,escritorio 4
+0200101,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200101,2021,pizarrón,5,pizarrón 5
+0200101,2022,armario,6,armario 6
+0200101,2022,escritorio,4,escritorio 4
+0200101,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200101,2022,pizarrón,4,pizarrón 4
+0200101,2022,silla escolar,124,silla escolar 124
+0200101,2023,armario,2,armario 2
+0200102,2021,armario,4,armario 4
+0200102,2021,banco largo comedor,20,banco largo comedor 20
+0200102,2021,escritorio,5,escritorio 5
+0200102,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200102,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200102,2021,pizarrón,7,pizarrón 7
+0200102,2021,silla escolar,155,silla escolar 155
+0200102,2022,armario,8,armario 8
+0200102,2022,escritorio,4,escritorio 4
+0200102,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200102,2022,pizarrón,4,pizarrón 4
+0200102,2022,varios,3,varios 3
+0200102,2023,escritorio,4,escritorio 4
+0200102,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200102,2023,pizarrón,4,pizarrón 4
+0200102,2023,silla escolar,124,silla escolar 124
+0200103,2021,armario,6,armario 6
+0200104,2022,mesa inicial,10,mesa inicial 10
+0200104,2022,silla escolar,75,silla escolar 75
+0200106,2021,silla escolar,62,silla escolar 62
+0200106,2023,locker,40,locker 40
+0200123,2021,mesa inicial,20,mesa inicial 20
+0200123,2021,silla escolar,120,silla escolar 120
+0200123,2022,piso antigolpe para juegos,50,piso antigolpe para juegos 50
+0200123,2022,varios,27,varios 27
+0200123,2023,armario,4,armario 4
+0200123,2023,escritorio,3,escritorio 3
+0200123,2023,juego de patio,1,juego de patio 1
+0200123,2023,piso antigolpe para juegos,7,piso antigolpe para juegos 7
+0200123,2023,pizarrón,1,pizarrón 1
+0200123,2023,silla escolar,10,silla escolar 10
+0200124,2022,mesa pupitre doble,31,mesa pupitre doble 31
+0200124,2022,silla escolar,100,silla escolar 100
+0200124,2023,armario,1,armario 1
+0200124,2023,pizarrón,2,pizarrón 2
+0200125,2021,escritorio,2,escritorio 2
+0200125,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200125,2021,silla escolar,62,silla escolar 62
+0200126,2021,armario,4,armario 4
+0200126,2021,banco largo comedor,96,banco largo comedor 96
+0200126,2021,escritorio,4,escritorio 4
+0200126,2021,mesa 6 alumnos,48,mesa 6 alumnos 48
+0200126,2021,mesa inicial,6,mesa inicial 6
+0200126,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200126,2021,silla escolar,36,silla escolar 36
+0200126,2022,mesa pupitre doble,41,mesa pupitre doble 41
+0200126,2022,silla escolar,82,silla escolar 82
+0200126,2023,armario,2,armario 2
+0200126,2023,varios,1,varios 1
+0200128,2021,escritorio,2,escritorio 2
+0200128,2021,mesa inicial,2,mesa inicial 2
+0200128,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200128,2021,pizarrón,2,pizarrón 2
+0200128,2021,silla escolar,72,silla escolar 72
+0200129,2021,banco largo comedor,8,banco largo comedor 8
+0200129,2021,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200129,2022,banco largo comedor,6,banco largo comedor 6
+0200129,2022,escritorio,1,escritorio 1
+0200129,2022,mesa 6 alumnos,3,mesa 6 alumnos 3
+0200129,2022,mesa pupitre doble,12,mesa pupitre doble 12
+0200129,2022,pizarrón,10,pizarrón 10
+0200129,2022,silla escolar,24,silla escolar 24
+0200130,2021,banco largo comedor,44,banco largo comedor 44
+0200130,2021,pizarrón,1,pizarrón 1
+0200130,2022,armario,2,armario 2
+0200130,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200130,2022,silla escolar,62,silla escolar 62
+0200131,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200131,2022,silla escolar,90,silla escolar 90
+0200132,2023,banco largo comedor,8,banco largo comedor 8
+0200132,2023,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200132,2023,mesa pupitre doble,5,mesa pupitre doble 5
+0200132,2023,pizarrón,3,pizarrón 3
+0200132,2023,silla escolar,10,silla escolar 10
+0200133,2021,banco largo comedor,10,banco largo comedor 10
+0200133,2021,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200133,2021,varios,2,varios 2
+0200133,2022,armario,2,armario 2
+0200133,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200133,2022,silla escolar,70,silla escolar 70
+0200135,2021,banco largo comedor,10,banco largo comedor 10
+0200135,2021,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200135,2022,armario,6,armario 6
+0200135,2022,escritorio,4,escritorio 4
+0200135,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200135,2022,pizarrón,14,pizarrón 14
+0200135,2022,silla escolar,64,silla escolar 64
+0200135,2022,varios,1,varios 1
+0200136,2021,escritorio,2,escritorio 2
+0200136,2021,mesa 6 alumnos,1,mesa 6 alumnos 1
+0200136,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200136,2021,silla escolar,62,silla escolar 62
+0200136,2022,armario,7,armario 7
+0200136,2022,banco largo comedor,20,banco largo comedor 20
+0200136,2022,mesa inicial,10,mesa inicial 10
+0200136,2022,silla escolar,60,silla escolar 60
+0200137,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200137,2022,escritorio,4,escritorio 4
+0200137,2022,mesa pupitre doble,66,mesa pupitre doble 66
+0200137,2022,silla escolar,136,silla escolar 136
+0200137,2023,escritorio,4,escritorio 4
+0200137,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200137,2023,pizarrón,4,pizarrón 4
+0200137,2023,silla escolar,124,silla escolar 124
+0200138,2021,escritorio,3,escritorio 3
+0200138,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200138,2021,pizarrón,3,pizarrón 3
+0200138,2021,silla escolar,93,silla escolar 93
+0200138,2022,escritorio,3,escritorio 3
+0200138,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200138,2022,pizarrón,3,pizarrón 3
+0200138,2022,silla escolar,93,silla escolar 93
+0200139,2022,pizarrón,21,pizarrón 21
+0200139,2023,escritorio,9,escritorio 9
+0200139,2023,mesa pupitre doble,135,mesa pupitre doble 135
+0200139,2023,pizarrón,9,pizarrón 9
+0200139,2023,silla escolar,279,silla escolar 279
+0200140,2021,escritorio,2,escritorio 2
+0200140,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200140,2021,pizarrón,2,pizarrón 2
+0200140,2021,silla escolar,62,silla escolar 62
+0200140,2022,escritorio,2,escritorio 2
+0200140,2022,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200140,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200140,2022,pizarrón,2,pizarrón 2
+0200140,2022,silla escolar,62,silla escolar 62
+0200141,2021,mesa 6 alumnos,12,mesa 6 alumnos 12
+0200141,2021,silla escolar,72,silla escolar 72
+0200141,2022,mesa 6 alumnos,3,mesa 6 alumnos 3
+0200141,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200141,2022,silla escolar,108,silla escolar 108
+0200144,2021,armario,4,armario 4
+0200144,2021,banco largo comedor,24,banco largo comedor 24
+0200144,2021,escritorio,1,escritorio 1
+0200144,2021,mesa 6 alumnos,12,mesa 6 alumnos 12
+0200144,2021,mesa pupitre doble,15,mesa pupitre doble 15
+0200144,2021,silla escolar,31,silla escolar 31
+0200145,2021,armario,6,armario 6
+0200145,2021,escritorio,4,escritorio 4
+0200145,2021,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200145,2021,mesa pupitre doble,99,mesa pupitre doble 99
+0200145,2021,pizarrón,3,pizarrón 3
+0200145,2021,silla escolar,202,silla escolar 202
+0200146,2021,mesa inicial,10,mesa inicial 10
+0200146,2021,silla escolar,60,silla escolar 60
+0200147,2021,pizarrón,21,pizarrón 21
+0200148,2022,mesa inicial,7,mesa inicial 7
+0200148,2022,silla escolar,50,silla escolar 50
+0200150,2021,mesa trabajo estante,4,mesa trabajo estante 4
+0200150,2021,varios,8,varios 8
+0200153,2021,mesa trabajo estante,6,mesa trabajo estante 6
+0200153,2021,varios,12,varios 12
+0200168,2021,banco largo comedor,32,banco largo comedor 32
+0200168,2021,escritorio,4,escritorio 4
+0200168,2021,mesa 6 alumnos,16,mesa 6 alumnos 16
+0200168,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200168,2021,silla escolar,124,silla escolar 124
+0200173,2021,silla escolar,30,silla escolar 30
+0200174,2021,escritorio,2,escritorio 2
+0200174,2021,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200174,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200174,2021,silla escolar,62,silla escolar 62
+0200174,2022,armario,3,armario 3
+0200174,2022,varios,4,varios 4
+0200175,2021,banco largo comedor,48,banco largo comedor 48
+0200175,2021,mesa 6 alumnos,24,mesa 6 alumnos 24
+0200175,2022,pizarrón,12,pizarrón 12
+0200175,2022,varios,3,varios 3
+0200176,2021,escritorio,3,escritorio 3
+0200176,2021,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200176,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200176,2021,pizarrón,28,pizarrón 28
+0200176,2021,silla escolar,94,silla escolar 94
+0200177,2022,escritorio,3,escritorio 3
+0200177,2022,mesa inicial,10,mesa inicial 10
+0200177,2022,mesa pupitre doble,48,mesa pupitre doble 48
+0200177,2022,pizarrón,15,pizarrón 15
+0200177,2022,silla escolar,156,silla escolar 156
+0200178,2021,armario,5,armario 5
+0200178,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200178,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200178,2021,pizarrón,2,pizarrón 2
+0200178,2021,silla escolar,150,silla escolar 150
+0200178,2022,armario,24,armario 24
+0200178,2022,biblioteca,12,biblioteca 12
+0200178,2022,escritorio,8,escritorio 8
+0200178,2022,juego de patio,1,juego de patio 1
+0200178,2022,mesa inicial,30,mesa inicial 30
+0200178,2022,piso antigolpe para juegos,60,piso antigolpe para juegos 60
+0200178,2022,pizarrón,16,pizarrón 16
+0200178,2022,silla escolar,410,silla escolar 410
+0200178,2022,varios,8,varios 8
+0200179,2022,armario,6,armario 6
+0200179,2022,banco largo comedor,16,banco largo comedor 16
+0200179,2022,escritorio,1,escritorio 1
+0200179,2022,mesa 6 alumnos,8,mesa 6 alumnos 8
+0200179,2022,mesa pupitre doble,15,mesa pupitre doble 15
+0200179,2022,pizarrón,28,pizarrón 28
+0200179,2022,silla escolar,30,silla escolar 30
+0200180,2021,armario,4,armario 4
+0200180,2021,banco largo comedor,4,banco largo comedor 4
+0200180,2021,escritorio,11,escritorio 11
+0200180,2021,mesa 6 alumnos,15,mesa 6 alumnos 15
+0200180,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200180,2021,silla escolar,155,silla escolar 155
+0200181,2021,escritorio,2,escritorio 2
+0200181,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200181,2021,silla escolar,62,silla escolar 62
+0200181,2022,banco largo comedor,8,banco largo comedor 8
+0200181,2022,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200182,2021,banco largo comedor,10,banco largo comedor 10
+0200182,2021,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200183,2021,banco largo comedor,4,banco largo comedor 4
+0200183,2021,mesa 6 alumnos,3,mesa 6 alumnos 3
+0200184,2022,mesa pupitre doble,13,mesa pupitre doble 13
+0200184,2022,silla escolar,26,silla escolar 26
+0200186,2021,armario,5,armario 5
+0200186,2021,banco largo comedor,24,banco largo comedor 24
+0200186,2021,escritorio,4,escritorio 4
+0200186,2021,mesa 6 alumnos,12,mesa 6 alumnos 12
+0200186,2021,pizarrón,2,pizarrón 2
+0200186,2021,silla escolar,28,silla escolar 28
+0200188,2021,escritorio,4,escritorio 4
+0200188,2021,juego de patio,1,juego de patio 1
+0200188,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200188,2021,silla escolar,124,silla escolar 124
+0200189,2021,banco largo comedor,12,banco largo comedor 12
+0200189,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200190,2021,armario,35,armario 35
+0200190,2021,banco largo comedor,16,banco largo comedor 16
+0200190,2021,mesa 6 alumnos,8,mesa 6 alumnos 8
+0200190,2021,mesa pupitre doble,20,mesa pupitre doble 20
+0200190,2021,silla escolar,40,silla escolar 40
+0200193,2022,escritorio,9,escritorio 9
+0200193,2022,mesa pupitre doble,135,mesa pupitre doble 135
+0200193,2022,pizarrón,9,pizarrón 9
+0200193,2022,silla escolar,279,silla escolar 279
+0200193,2023,escritorio,7,escritorio 7
+0200193,2023,mesa pupitre doble,105,mesa pupitre doble 105
+0200193,2023,pizarrón,7,pizarrón 7
+0200193,2023,silla escolar,217,silla escolar 217
+0200194,2021,escritorio,1,escritorio 1
+0200194,2021,mesa pupitre doble,15,mesa pupitre doble 15
+0200194,2021,pizarrón,1,pizarrón 1
+0200194,2021,silla escolar,31,silla escolar 31
+0200195,2022,escritorio,9,escritorio 9
+0200195,2022,mesa pupitre doble,120,mesa pupitre doble 120
+0200195,2022,pizarrón,8,pizarrón 8
+0200195,2022,silla escolar,278,silla escolar 278
+0200195,2023,escritorio,6,escritorio 6
+0200195,2023,mesa pupitre doble,90,mesa pupitre doble 90
+0200195,2023,pizarrón,6,pizarrón 6
+0200195,2023,silla escolar,186,silla escolar 186
+0200196,2021,escritorio,2,escritorio 2
+0200196,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200196,2021,pizarrón,2,pizarrón 2
+0200196,2021,silla escolar,62,silla escolar 62
+0200196,2022,escritorio,1,escritorio 1
+0200196,2022,mesa pupitre doble,23,mesa pupitre doble 23
+0200196,2022,pizarrón,1,pizarrón 1
+0200196,2022,silla escolar,46,silla escolar 46
+0200196,2023,escritorio,1,escritorio 1
+0200196,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0200196,2023,pizarrón,1,pizarrón 1
+0200196,2023,silla escolar,31,silla escolar 31
+0200197,2021,armario,7,armario 7
+0200197,2021,escritorio,3,escritorio 3
+0200197,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200197,2021,pizarrón,3,pizarrón 3
+0200197,2021,silla escolar,93,silla escolar 93
+0200197,2022,armario,12,armario 12
+0200197,2022,escritorio,3,escritorio 3
+0200197,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200197,2022,pizarrón,3,pizarrón 3
+0200197,2022,silla escolar,93,silla escolar 93
+0200197,2023,escritorio,3,escritorio 3
+0200197,2023,locker,100,locker 100
+0200197,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200197,2023,pizarrón,3,pizarrón 3
+0200197,2023,silla escolar,93,silla escolar 93
+0200198,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200198,2021,mesa trabajo estante,48,mesa trabajo estante 48
+0200198,2021,silla escolar,60,silla escolar 60
+0200198,2021,varios,88,varios 88
+0200199,2021,escritorio,8,escritorio 8
+0200199,2021,mesa pupitre doble,120,mesa pupitre doble 120
+0200199,2021,pizarrón,6,pizarrón 6
+0200199,2021,silla escolar,124,silla escolar 124
+0200199,2022,escritorio,4,escritorio 4
+0200199,2022,mesa pupitre doble,67,mesa pupitre doble 67
+0200199,2022,piso antigolpe para juegos,100,piso antigolpe para juegos 100
+0200199,2022,pizarrón,4,pizarrón 4
+0200199,2022,silla escolar,8,silla escolar 8
+0200199,2023,armario,4,armario 4
+0200199,2023,escritorio,10,escritorio 10
+0200199,2023,mesa pupitre doble,70,mesa pupitre doble 70
+0200199,2023,pizarrón,16,pizarrón 16
+0200199,2023,silla escolar,170,silla escolar 170
+0200202,2021,armario,11,armario 11
+0200202,2021,biblioteca,2,biblioteca 2
+0200202,2021,escritorio,1,escritorio 1
+0200202,2021,mesa pupitre doble,18,mesa pupitre doble 18
+0200202,2021,pizarrón,6,pizarrón 6
+0200202,2021,silla escolar,37,silla escolar 37
+0200224,2021,escritorio,2,escritorio 2
+0200224,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200224,2021,silla escolar,62,silla escolar 62
+0200224,2023,armario,4,armario 4
+0200224,2023,escritorio,4,escritorio 4
+0200224,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200224,2023,silla escolar,60,silla escolar 60
+0200225,2022,escritorio,3,escritorio 3
+0200226,2021,armario,8,armario 8
+0200226,2021,escritorio,4,escritorio 4
+0200226,2021,mesa integradora con escotadura,2,mesa integradora con escotadura 2
+0200226,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200226,2021,pizarrón,4,pizarrón 4
+0200226,2021,silla escolar,125,silla escolar 125
+0200226,2022,escritorio,1,escritorio 1
+0200227,2022,escritorio,1,escritorio 1
+0200227,2022,mesa inicial,9,mesa inicial 9
+0200227,2022,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200227,2022,mesa pupitre doble,11,mesa pupitre doble 11
+0200227,2022,pizarrón,6,pizarrón 6
+0200227,2022,silla escolar,98,silla escolar 98
+0200228,2021,escritorio,3,escritorio 3
+0200228,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200228,2021,pizarrón,18,pizarrón 18
+0200228,2021,silla escolar,93,silla escolar 93
+0200228,2022,armario,2,armario 2
+0200228,2022,escritorio,3,escritorio 3
+0200228,2022,pizarrón,2,pizarrón 2
+0200229,2021,escritorio,4,escritorio 4
+0200229,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200229,2021,pizarrón,10,pizarrón 10
+0200229,2021,silla escolar,124,silla escolar 124
+0200230,2022,escritorio,5,escritorio 5
+0200230,2022,mesa pupitre doble,105,mesa pupitre doble 105
+0200230,2022,pizarrón,25,pizarrón 25
+0200230,2022,silla escolar,263,silla escolar 263
+0200231,2021,escritorio,2,escritorio 2
+0200231,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200231,2021,pizarrón,7,pizarrón 7
+0200231,2021,silla escolar,92,silla escolar 92
+0200231,2022,silla escolar,37,silla escolar 37
+0200232,2021,banco largo comedor,8,banco largo comedor 8
+0200232,2021,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200232,2022,escritorio,2,escritorio 2
+0200232,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200232,2022,silla escolar,62,silla escolar 62
+0200233,2021,pizarrón,15,pizarrón 15
+0200233,2022,escritorio,4,escritorio 4
+0200233,2022,mesa pupitre doble,75,mesa pupitre doble 75
+0200233,2022,pizarrón,1,pizarrón 1
+0200233,2022,silla escolar,154,silla escolar 154
+0200235,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200235,2021,pizarrón,7,pizarrón 7
+0200235,2021,silla escolar,30,silla escolar 30
+0200236,2021,armario,28,armario 28
+0200236,2021,mesa pupitre doble,90,mesa pupitre doble 90
+0200236,2021,silla escolar,180,silla escolar 180
+0200236,2022,mesa inicial,10,mesa inicial 10
+0200236,2022,pizarrón,4,pizarrón 4
+0200236,2022,silla escolar,60,silla escolar 60
+0200236,2023,armario,2,armario 2
+0200236,2023,silla escolar,60,silla escolar 60
+0200237,2022,escritorio,5,escritorio 5
+0200237,2022,mesa pupitre doble,48,mesa pupitre doble 48
+0200237,2022,silla escolar,48,silla escolar 48
+0200237,2023,pizarrón,6,pizarrón 6
+0200238,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200238,2022,silla escolar,90,silla escolar 90
+0200239,2022,escritorio,2,escritorio 2
+0200239,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200239,2022,pizarrón,9,pizarrón 9
+0200239,2022,silla escolar,62,silla escolar 62
+0200240,2022,mesa inicial,5,mesa inicial 5
+0200240,2022,silla escolar,30,silla escolar 30
+0200241,2022,armario,5,armario 5
+0200241,2022,escritorio,4,escritorio 4
+0200241,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200241,2022,pizarrón,2,pizarrón 2
+0200241,2022,silla escolar,50,silla escolar 50
+0200242,2022,armario,1,armario 1
+0200242,2022,banco largo comedor,4,banco largo comedor 4
+0200242,2022,biblioteca,6,biblioteca 6
+0200242,2022,escritorio,3,escritorio 3
+0200242,2022,mesa 6 alumnos,7,mesa 6 alumnos 7
+0200242,2022,pizarrón,20,pizarrón 20
+0200242,2022,silla escolar,33,silla escolar 33
+0200243,2021,escritorio,7,escritorio 7
+0200243,2021,mesa pupitre doble,107,mesa pupitre doble 107
+0200243,2021,pizarrón,21,pizarrón 21
+0200243,2021,silla escolar,149,silla escolar 149
+0200243,2022,armario,4,armario 4
+0200243,2022,banco largo comedor,32,banco largo comedor 32
+0200243,2022,mesa 6 alumnos,16,mesa 6 alumnos 16
+0200243,2022,pizarrón,3,pizarrón 3
+0200244,2021,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200244,2022,armario,4,armario 4
+0200244,2022,escritorio,3,escritorio 3
+0200244,2022,mesa pupitre doble,39,mesa pupitre doble 39
+0200244,2022,pizarrón,7,pizarrón 7
+0200244,2022,silla escolar,88,silla escolar 88
+0200245,2021,pizarrón,2,pizarrón 2
+0200245,2023,pizarrón,15,pizarrón 15
+0200246,2022,armario,6,armario 6
+0200246,2022,banco largo comedor,14,banco largo comedor 14
+0200246,2022,escritorio,3,escritorio 3
+0200246,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200246,2022,pizarrón,6,pizarrón 6
+0200246,2022,silla escolar,45,silla escolar 45
+0200246,2023,banco largo comedor,6,banco largo comedor 6
+0200247,2021,escritorio,4,escritorio 4
+0200247,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200247,2021,pizarrón,9,pizarrón 9
+0200247,2021,silla escolar,124,silla escolar 124
+0200248,2021,mesa inicial,44,mesa inicial 44
+0200248,2021,silla escolar,264,silla escolar 264
+0200250,2021,armario,8,armario 8
+0200251,2022,mesa inicial,15,mesa inicial 15
+0200251,2022,silla escolar,89,silla escolar 89
+0200252,2021,mesa inicial,24,mesa inicial 24
+0200252,2021,silla escolar,144,silla escolar 144
+0200253,2021,banco largo comedor,50,banco largo comedor 50
+0200253,2021,mesa 6 alumnos,25,mesa 6 alumnos 25
+0200253,2022,escritorio,3,escritorio 3
+0200253,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200253,2022,pizarrón,3,pizarrón 3
+0200253,2022,silla escolar,98,silla escolar 98
+0200253,2023,escritorio,2,escritorio 2
+0200253,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200253,2023,pizarrón,2,pizarrón 2
+0200253,2023,silla escolar,62,silla escolar 62
+0200254,2021,escritorio,4,escritorio 4
+0200254,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200254,2021,pizarrón,4,pizarrón 4
+0200254,2021,silla escolar,124,silla escolar 124
+0200254,2022,escritorio,3,escritorio 3
+0200254,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200254,2022,pizarrón,3,pizarrón 3
+0200254,2022,silla escolar,93,silla escolar 93
+0200254,2023,escritorio,2,escritorio 2
+0200254,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200254,2023,pizarrón,2,pizarrón 2
+0200254,2023,silla escolar,62,silla escolar 62
+0200255,2021,armario,14,armario 14
+0200255,2021,mesa inicial,1,mesa inicial 1
+0200255,2021,mesa pupitre doble,3,mesa pupitre doble 3
+0200255,2021,pizarrón,8,pizarrón 8
+0200255,2021,silla escolar,13,silla escolar 13
+0200255,2023,mesa inicial,3,mesa inicial 3
+0200255,2023,silla escolar,18,silla escolar 18
+0200256,2021,escritorio,2,escritorio 2
+0200256,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200256,2021,pizarrón,2,pizarrón 2
+0200256,2021,silla escolar,62,silla escolar 62
+0200256,2022,banco largo comedor,30,banco largo comedor 30
+0200256,2022,escritorio,2,escritorio 2
+0200256,2022,mesa 6 alumnos,15,mesa 6 alumnos 15
+0200256,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200256,2022,pizarrón,2,pizarrón 2
+0200256,2022,silla escolar,62,silla escolar 62
+0200256,2023,escritorio,2,escritorio 2
+0200256,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200256,2023,pizarrón,2,pizarrón 2
+0200256,2023,silla escolar,62,silla escolar 62
+0200257,2021,escritorio,4,escritorio 4
+0200257,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200257,2021,pizarrón,4,pizarrón 4
+0200257,2021,silla escolar,124,silla escolar 124
+0200257,2022,armario,2,armario 2
+0200257,2022,escritorio,1,escritorio 1
+0200257,2022,mesa pupitre doble,40,mesa pupitre doble 40
+0200257,2023,escritorio,4,escritorio 4
+0200257,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200257,2023,pizarrón,4,pizarrón 4
+0200257,2023,silla escolar,124,silla escolar 124
+0200258,2021,escritorio,2,escritorio 2
+0200258,2021,pizarrón,10,pizarrón 10
+0200258,2023,armario,93,armario 93
+0200258,2023,banco largo comedor,40,banco largo comedor 40
+0200258,2023,biblioteca,8,biblioteca 8
+0200258,2023,escritorio,54,escritorio 54
+0200258,2023,mesa 6 alumnos,109,mesa 6 alumnos 109
+0200258,2023,mesa pupitre doble,384,mesa pupitre doble 384
+0200258,2023,pizarrón,52,pizarrón 52
+0200258,2023,silla escolar,987,silla escolar 987
+0200258,2023,varios,6,varios 6
+0200259,2021,escritorio,6,escritorio 6
+0200259,2021,mesa pupitre doble,90,mesa pupitre doble 90
+0200259,2021,pizarrón,6,pizarrón 6
+0200259,2021,silla escolar,186,silla escolar 186
+0200259,2022,escritorio,5,escritorio 5
+0200259,2022,mesa pupitre doble,75,mesa pupitre doble 75
+0200259,2022,pizarrón,5,pizarrón 5
+0200259,2022,silla escolar,155,silla escolar 155
+0200259,2023,escritorio,5,escritorio 5
+0200259,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200259,2023,pizarrón,5,pizarrón 5
+0200259,2023,silla escolar,155,silla escolar 155
+0200261,2022,armario,6,armario 6
+0200261,2022,mesa inicial,10,mesa inicial 10
+0200261,2022,silla escolar,60,silla escolar 60
+0200262,2021,escritorio,2,escritorio 2
+0200262,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200262,2021,mesa trabajo estante,4,mesa trabajo estante 4
+0200262,2021,pizarrón,2,pizarrón 2
+0200262,2021,silla escolar,62,silla escolar 62
+0200262,2021,varios,8,varios 8
+0200262,2022,escritorio,2,escritorio 2
+0200262,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200262,2022,pizarrón,2,pizarrón 2
+0200262,2022,silla escolar,62,silla escolar 62
+0200262,2023,escritorio,2,escritorio 2
+0200262,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200262,2023,pizarrón,2,pizarrón 2
+0200262,2023,silla escolar,62,silla escolar 62
+0200266,2021,armario,2,armario 2
+0200266,2021,escritorio,2,escritorio 2
+0200266,2021,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200266,2021,mesa inicial,1,mesa inicial 1
+0200266,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200266,2021,silla escolar,68,silla escolar 68
+0200266,2021,varios,4,varios 4
+0200275,2021,mesa trabajo estante,3,mesa trabajo estante 3
+0200275,2021,varios,6,varios 6
+0200278,2021,mesa trabajo estante,3,mesa trabajo estante 3
+0200278,2021,varios,6,varios 6
+0200280,2021,varios,2,varios 2
+0200281,2021,escritorio,2,escritorio 2
+0200281,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200281,2021,mesa trabajo estante,9,mesa trabajo estante 9
+0200281,2021,silla escolar,60,silla escolar 60
+0200281,2021,varios,18,varios 18
+0200281,2023,escritorio,3,escritorio 3
+0200281,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200281,2023,pizarrón,3,pizarrón 3
+0200281,2023,silla escolar,93,silla escolar 93
+0200290,2021,armario,6,armario 6
+0200294,2023,mesa integradora con escotadura,3,mesa integradora con escotadura 3
+0200295,2022,silla escolar,12,silla escolar 12
+0200298,2021,mesa 6 alumnos,7,mesa 6 alumnos 7
+0200298,2022,pizarrón,6,pizarrón 6
+0200300,2022,banco largo comedor,10,banco largo comedor 10
+0200300,2022,escritorio,5,escritorio 5
+0200300,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200300,2022,silla escolar,183,silla escolar 183
+0200300,2023,pizarrón,1,pizarrón 1
+0200301,2021,armario,14,armario 14
+0200301,2021,escritorio,4,escritorio 4
+0200301,2021,mesa pupitre doble,26,mesa pupitre doble 26
+0200301,2021,pizarrón,7,pizarrón 7
+0200301,2021,silla escolar,108,silla escolar 108
+0200302,2021,escritorio,2,escritorio 2
+0200302,2021,mesa inicial,10,mesa inicial 10
+0200302,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200302,2021,silla escolar,122,silla escolar 122
+0200303,2021,banco largo comedor,8,banco largo comedor 8
+0200303,2021,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200303,2022,pizarrón,5,pizarrón 5
+0200304,2021,banco largo comedor,16,banco largo comedor 16
+0200304,2021,mesa 6 alumnos,8,mesa 6 alumnos 8
+0200304,2023,pizarrón,7,pizarrón 7
+0200305,2021,escritorio,2,escritorio 2
+0200305,2021,mesa integradora con escotadura,2,mesa integradora con escotadura 2
+0200305,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200305,2021,silla escolar,62,silla escolar 62
+0200305,2022,pizarrón,3,pizarrón 3
+0200307,2021,escritorio,2,escritorio 2
+0200307,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200307,2021,silla escolar,62,silla escolar 62
+0200308,2022,banco largo comedor,12,banco largo comedor 12
+0200308,2022,mesa 6 alumnos,6,mesa 6 alumnos 6
+0200309,2021,escritorio,2,escritorio 2
+0200309,2021,mesa integradora con escotadura,2,mesa integradora con escotadura 2
+0200309,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200309,2021,silla escolar,62,silla escolar 62
+0200309,2022,banco largo comedor,10,banco largo comedor 10
+0200309,2022,escritorio,3,escritorio 3
+0200309,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200309,2022,silla escolar,62,silla escolar 62
+0200310,2021,banco largo comedor,20,banco largo comedor 20
+0200310,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200310,2021,pizarrón,7,pizarrón 7
+0200310,2022,armario,10,armario 10
+0200311,2021,armario,6,armario 6
+0200311,2022,armario,2,armario 2
+0200311,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200311,2022,pizarrón,1,pizarrón 1
+0200311,2022,silla escolar,120,silla escolar 120
+0200312,2021,banco largo comedor,140,banco largo comedor 140
+0200312,2021,escritorio,2,escritorio 2
+0200312,2021,mesa 6 alumnos,70,mesa 6 alumnos 70
+0200312,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200312,2021,pizarrón,5,pizarrón 5
+0200312,2021,silla escolar,155,silla escolar 155
+0200312,2022,armario,2,armario 2
+0200312,2022,mesa inicial,10,mesa inicial 10
+0200312,2022,mesa pupitre doble,48,mesa pupitre doble 48
+0200312,2022,pizarrón,5,pizarrón 5
+0200312,2022,silla escolar,156,silla escolar 156
+0200312,2023,juego de patio,1,juego de patio 1
+0200312,2023,piso antigolpe para juegos,60,piso antigolpe para juegos 60
+0200313,2021,escritorio,2,escritorio 2
+0200313,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200313,2021,pizarrón,2,pizarrón 2
+0200313,2021,silla escolar,62,silla escolar 62
+0200313,2022,escritorio,2,escritorio 2
+0200313,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200313,2022,pizarrón,2,pizarrón 2
+0200313,2022,silla escolar,62,silla escolar 62
+0200316,2022,armario,10,armario 10
+0200316,2022,biblioteca,5,biblioteca 5
+0200316,2022,mesa inicial,30,mesa inicial 30
+0200316,2022,pizarrón,6,pizarrón 6
+0200316,2022,silla escolar,180,silla escolar 180
+0200317,2021,mesa inicial,5,mesa inicial 5
+0200317,2021,silla escolar,20,silla escolar 20
+0200317,2022,armario,2,armario 2
+0200317,2022,escritorio,1,escritorio 1
+0200317,2022,juego de patio,1,juego de patio 1
+0200317,2022,mesa inicial,10,mesa inicial 10
+0200317,2022,piso antigolpe para juegos,36,piso antigolpe para juegos 36
+0200317,2022,pizarrón,2,pizarrón 2
+0200317,2022,silla escolar,63,silla escolar 63
+0200318,2022,escritorio,4,escritorio 4
+0200318,2022,mesa 6 alumnos,65,mesa 6 alumnos 65
+0200318,2022,mesa pupitre doble,75,mesa pupitre doble 75
+0200318,2022,pizarrón,3,pizarrón 3
+0200318,2022,silla escolar,183,silla escolar 183
+0200318,2023,armario,5,armario 5
+0200318,2023,escritorio,2,escritorio 2
+0200318,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200318,2023,pizarrón,17,pizarrón 17
+0200318,2023,silla escolar,62,silla escolar 62
+0200319,2022,escritorio,6,escritorio 6
+0200319,2022,mesa pupitre doble,75,mesa pupitre doble 75
+0200319,2022,pizarrón,5,pizarrón 5
+0200319,2022,silla escolar,150,silla escolar 150
+0200319,2023,escritorio,4,escritorio 4
+0200319,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200319,2023,pizarrón,4,pizarrón 4
+0200319,2023,silla escolar,124,silla escolar 124
+0200320,2021,escritorio,3,escritorio 3
+0200320,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200320,2021,pizarrón,3,pizarrón 3
+0200320,2021,silla escolar,93,silla escolar 93
+0200322,2021,escritorio,3,escritorio 3
+0200322,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200322,2021,pizarrón,3,pizarrón 3
+0200322,2021,silla escolar,93,silla escolar 93
+0200322,2022,escritorio,3,escritorio 3
+0200322,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200322,2022,pizarrón,3,pizarrón 3
+0200322,2022,silla escolar,93,silla escolar 93
+0200322,2023,escritorio,3,escritorio 3
+0200322,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200322,2023,pizarrón,3,pizarrón 3
+0200322,2023,silla escolar,93,silla escolar 93
+0200323,2021,escritorio,4,escritorio 4
+0200323,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200323,2021,pizarrón,4,pizarrón 4
+0200323,2021,silla escolar,124,silla escolar 124
+0200323,2022,escritorio,3,escritorio 3
+0200323,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200323,2022,pizarrón,4,pizarrón 4
+0200323,2022,silla escolar,93,silla escolar 93
+0200323,2023,escritorio,3,escritorio 3
+0200323,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200323,2023,pizarrón,6,pizarrón 6
+0200323,2023,silla escolar,93,silla escolar 93
+0200324,2021,armario,4,armario 4
+0200324,2021,escritorio,4,escritorio 4
+0200324,2021,mesa pupitre doble,40,mesa pupitre doble 40
+0200324,2021,silla escolar,84,silla escolar 84
+0200324,2022,armario,4,armario 4
+0200324,2022,escritorio,6,escritorio 6
+0200324,2022,mesa 6 alumnos,1,mesa 6 alumnos 1
+0200324,2023,escritorio,3,escritorio 3
+0200324,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200324,2023,pizarrón,3,pizarrón 3
+0200324,2023,silla escolar,93,silla escolar 93
+0200325,2021,armario,3,armario 3
+0200325,2022,escritorio,4,escritorio 4
+0200325,2022,mesa pupitre doble,51,mesa pupitre doble 51
+0200325,2022,pizarrón,8,pizarrón 8
+0200325,2022,silla escolar,123,silla escolar 123
+0200325,2023,escritorio,3,escritorio 3
+0200325,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200325,2023,pizarrón,3,pizarrón 3
+0200325,2023,silla escolar,93,silla escolar 93
+0200326,2022,armario,4,armario 4
+0200326,2022,escritorio,4,escritorio 4
+0200326,2022,mesa inicial,5,mesa inicial 5
+0200326,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200326,2022,pizarrón,5,pizarrón 5
+0200326,2022,silla escolar,150,silla escolar 150
+0200327,2021,armario,4,armario 4
+0200327,2021,escritorio,2,escritorio 2
+0200327,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200327,2021,pizarrón,4,pizarrón 4
+0200327,2021,silla escolar,62,silla escolar 62
+0200327,2022,escritorio,4,escritorio 4
+0200327,2022,mesa inicial,3,mesa inicial 3
+0200327,2022,mesa pupitre doble,64,mesa pupitre doble 64
+0200327,2022,pizarrón,3,pizarrón 3
+0200327,2022,silla escolar,156,silla escolar 156
+0200327,2022,varios,3,varios 3
+0200327,2023,escritorio,2,escritorio 2
+0200327,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200327,2023,pizarrón,2,pizarrón 2
+0200327,2023,silla escolar,62,silla escolar 62
+0200328,2021,armario,7,armario 7
+0200328,2021,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200328,2021,mesa inicial,5,mesa inicial 5
+0200328,2021,silla escolar,30,silla escolar 30
+0200330,2021,armario,5,armario 5
+0200330,2021,biblioteca,3,biblioteca 3
+0200330,2021,escritorio,3,escritorio 3
+0200330,2021,mesa 6 alumnos,6,mesa 6 alumnos 6
+0200330,2021,mesa pupitre doble,20,mesa pupitre doble 20
+0200330,2021,silla escolar,70,silla escolar 70
+0200330,2022,escritorio,1,escritorio 1
+0200330,2022,mesa inicial,2,mesa inicial 2
+0200330,2022,silla escolar,8,silla escolar 8
+0200343,2022,escritorio,8,escritorio 8
+0200343,2022,mesa inicial,9,mesa inicial 9
+0200343,2022,silla escolar,54,silla escolar 54
+0200344,2022,armario,3,armario 3
+0200344,2022,pizarrón,6,pizarrón 6
+0200356,2021,banco largo comedor,40,banco largo comedor 40
+0200356,2021,mesa 6 alumnos,20,mesa 6 alumnos 20
+0200356,2021,mesa pupitre doble,35,mesa pupitre doble 35
+0200356,2021,silla escolar,70,silla escolar 70
+0200356,2022,armario,4,armario 4
+0200356,2022,mesa pupitre doble,40,mesa pupitre doble 40
+0200356,2022,pizarrón,7,pizarrón 7
+0200356,2022,silla escolar,80,silla escolar 80
+0200357,2021,mesa 6 alumnos,7,mesa 6 alumnos 7
+0200357,2023,mesa pupitre doble,3,mesa pupitre doble 3
+0200357,2023,pizarrón,6,pizarrón 6
+0200357,2023,silla escolar,6,silla escolar 6
+0200358,2022,banco largo comedor,36,banco largo comedor 36
+0200358,2022,mesa 6 alumnos,18,mesa 6 alumnos 18
+0200358,2022,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200358,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200358,2022,silla escolar,60,silla escolar 60
+0200358,2023,banco largo comedor,36,banco largo comedor 36
+0200359,2021,escritorio,2,escritorio 2
+0200359,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200359,2021,silla escolar,62,silla escolar 62
+0200359,2022,escritorio,1,escritorio 1
+0200359,2022,juego de patio,1,juego de patio 1
+0200359,2022,mesa inicial,10,mesa inicial 10
+0200359,2022,piso antigolpe para juegos,36,piso antigolpe para juegos 36
+0200359,2022,silla escolar,60,silla escolar 60
+0200362,2021,armario,4,armario 4
+0200362,2021,mesa inicial,5,mesa inicial 5
+0200362,2022,armario,2,armario 2
+0200362,2022,mesa pupitre doble,56,mesa pupitre doble 56
+0200362,2022,pizarrón,8,pizarrón 8
+0200362,2022,silla escolar,142,silla escolar 142
+0200363,2022,mesa pupitre doble,15,mesa pupitre doble 15
+0200363,2022,silla escolar,30,silla escolar 30
+0200364,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200364,2023,banco largo comedor,22,banco largo comedor 22
+0200364,2023,escritorio,7,escritorio 7
+0200364,2023,mesa 6 alumnos,11,mesa 6 alumnos 11
+0200364,2023,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200364,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200364,2023,pizarrón,14,pizarrón 14
+0200364,2023,silla escolar,157,silla escolar 157
+0200365,2022,mesa pupitre doble,13,mesa pupitre doble 13
+0200365,2022,pizarrón,2,pizarrón 2
+0200365,2022,silla escolar,26,silla escolar 26
+0200366,2021,mesa 6 alumnos,9,mesa 6 alumnos 9
+0200366,2022,armario,1,armario 1
+0200366,2022,escritorio,3,escritorio 3
+0200366,2022,mesa inicial,10,mesa inicial 10
+0200366,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200366,2022,silla escolar,185,silla escolar 185
+0200367,2021,banco largo comedor,12,banco largo comedor 12
+0200367,2021,mesa 6 alumnos,6,mesa 6 alumnos 6
+0200367,2022,banco largo comedor,6,banco largo comedor 6
+0200367,2022,mesa 6 alumnos,3,mesa 6 alumnos 3
+0200368,2022,banco largo comedor,40,banco largo comedor 40
+0200368,2022,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200368,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200368,2022,silla escolar,90,silla escolar 90
+0200369,2021,banco largo comedor,24,banco largo comedor 24
+0200369,2021,mesa 6 alumnos,12,mesa 6 alumnos 12
+0200370,2021,armario,4,armario 4
+0200370,2021,mesa inicial,5,mesa inicial 5
+0200370,2021,silla escolar,30,silla escolar 30
+0200370,2022,armario,2,armario 2
+0200370,2022,mesa pupitre doble,15,mesa pupitre doble 15
+0200370,2022,pizarrón,5,pizarrón 5
+0200370,2022,silla escolar,40,silla escolar 40
+0200372,2021,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200373,2021,armario,4,armario 4
+0200373,2021,banco largo comedor,60,banco largo comedor 60
+0200373,2021,mesa 6 alumnos,20,mesa 6 alumnos 20
+0200373,2021,mesa inicial,5,mesa inicial 5
+0200373,2022,armario,10,armario 10
+0200373,2022,pizarrón,2,pizarrón 2
+0200373,2022,silla escolar,30,silla escolar 30
+0200376,2023,escritorio,4,escritorio 4
+0200376,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200376,2023,pizarrón,4,pizarrón 4
+0200376,2023,silla escolar,124,silla escolar 124
+0200379,2022,escritorio,1,escritorio 1
+0200379,2022,mesa inicial,15,mesa inicial 15
+0200379,2022,pizarrón,5,pizarrón 5
+0200379,2022,silla escolar,90,silla escolar 90
+0200380,2022,escritorio,6,escritorio 6
+0200380,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200380,2022,pizarrón,6,pizarrón 6
+0200380,2022,silla escolar,186,silla escolar 186
+0200380,2023,escritorio,5,escritorio 5
+0200380,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200380,2023,pizarrón,5,pizarrón 5
+0200380,2023,silla escolar,155,silla escolar 155
+0200381,2022,escritorio,7,escritorio 7
+0200381,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200381,2022,pizarrón,6,pizarrón 6
+0200381,2022,silla escolar,216,silla escolar 216
+0200381,2023,escritorio,5,escritorio 5
+0200381,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200381,2023,pizarrón,5,pizarrón 5
+0200381,2023,silla escolar,155,silla escolar 155
+0200382,2021,armario,1,armario 1
+0200382,2022,escritorio,12,escritorio 12
+0200382,2022,mesa pupitre doble,180,mesa pupitre doble 180
+0200382,2022,pizarrón,12,pizarrón 12
+0200382,2022,silla escolar,372,silla escolar 372
+0200382,2023,escritorio,11,escritorio 11
+0200382,2023,mesa pupitre doble,165,mesa pupitre doble 165
+0200382,2023,pizarrón,11,pizarrón 11
+0200382,2023,silla escolar,341,silla escolar 341
+0200383,2022,armario,3,armario 3
+0200385,2022,banco largo comedor,20,banco largo comedor 20
+0200385,2022,escritorio,2,escritorio 2
+0200385,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200385,2022,pizarrón,2,pizarrón 2
+0200385,2022,silla escolar,62,silla escolar 62
+0200385,2023,escritorio,2,escritorio 2
+0200385,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200385,2023,pizarrón,2,pizarrón 2
+0200385,2023,silla escolar,62,silla escolar 62
+0200388,2021,mesa trabajo estante,4,mesa trabajo estante 4
+0200388,2021,varios,8,varios 8
+0200396,2021,escritorio,1,escritorio 1
+0200396,2021,mesa pupitre doble,15,mesa pupitre doble 15
+0200396,2021,pizarrón,3,pizarrón 3
+0200396,2021,silla escolar,31,silla escolar 31
+0200396,2022,escritorio,1,escritorio 1
+0200396,2022,mesa pupitre doble,15,mesa pupitre doble 15
+0200396,2022,pizarrón,1,pizarrón 1
+0200396,2022,silla escolar,31,silla escolar 31
+0200396,2023,escritorio,1,escritorio 1
+0200396,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0200396,2023,pizarrón,1,pizarrón 1
+0200396,2023,silla escolar,31,silla escolar 31
+0200400,2022,armario,7,armario 7
+0200400,2022,banco largo comedor,44,banco largo comedor 44
+0200400,2022,escritorio,3,escritorio 3
+0200400,2022,juego de patio,1,juego de patio 1
+0200400,2022,mesa 6 alumnos,22,mesa 6 alumnos 22
+0200400,2022,mesa inicial,10,mesa inicial 10
+0200400,2022,mesa pupitre doble,78,mesa pupitre doble 78
+0200400,2022,silla escolar,60,silla escolar 60
+0200401,2021,banco largo comedor,16,banco largo comedor 16
+0200401,2021,mesa 6 alumnos,8,mesa 6 alumnos 8
+0200402,2021,escritorio,9,escritorio 9
+0200402,2021,silla escolar,9,silla escolar 9
+0200403,2021,banco largo comedor,16,banco largo comedor 16
+0200403,2021,mesa 6 alumnos,8,mesa 6 alumnos 8
+0200404,2021,mesa inicial,5,mesa inicial 5
+0200404,2021,silla escolar,30,silla escolar 30
+0200405,2021,armario,4,armario 4
+0200405,2021,juego de patio,1,juego de patio 1
+0200405,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200405,2021,piso antigolpe para juegos,60,piso antigolpe para juegos 60
+0200405,2021,pizarrón,6,pizarrón 6
+0200405,2021,silla escolar,120,silla escolar 120
+0200406,2021,escritorio,3,escritorio 3
+0200406,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200406,2021,pizarrón,3,pizarrón 3
+0200406,2021,silla escolar,93,silla escolar 93
+0200407,2021,pizarrón,10,pizarrón 10
+0200407,2022,escritorio,4,escritorio 4
+0200407,2022,mesa inicial,5,mesa inicial 5
+0200407,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200407,2022,pizarrón,11,pizarrón 11
+0200407,2022,silla escolar,161,silla escolar 161
+0200408,2021,escritorio,2,escritorio 2
+0200408,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200408,2021,silla escolar,62,silla escolar 62
+0200409,2021,escritorio,2,escritorio 2
+0200409,2021,mesa inicial,5,mesa inicial 5
+0200409,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200409,2021,silla escolar,62,silla escolar 62
+0200409,2022,banco largo comedor,10,banco largo comedor 10
+0200409,2022,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200409,2022,mesa inicial,5,mesa inicial 5
+0200409,2022,silla escolar,82,silla escolar 82
+0200411,2021,armario,6,armario 6
+0200411,2021,banco largo comedor,62,banco largo comedor 62
+0200411,2021,mesa 6 alumnos,31,mesa 6 alumnos 31
+0200411,2021,mesa inicial,10,mesa inicial 10
+0200411,2021,silla escolar,60,silla escolar 60
+0200412,2022,mesa inicial,5,mesa inicial 5
+0200412,2022,pizarrón,2,pizarrón 2
+0200412,2022,silla escolar,30,silla escolar 30
+0200414,2022,escritorio,3,escritorio 3
+0200414,2022,mesa pupitre doble,37,mesa pupitre doble 37
+0200414,2022,pizarrón,2,pizarrón 2
+0200414,2022,silla escolar,77,silla escolar 77
+0200416,2021,banco largo comedor,20,banco largo comedor 20
+0200416,2021,escritorio,2,escritorio 2
+0200416,2021,silla escolar,62,silla escolar 62
+0200417,2022,escritorio,8,escritorio 8
+0200417,2022,mesa pupitre doble,105,mesa pupitre doble 105
+0200417,2022,pizarrón,6,pizarrón 6
+0200417,2022,silla escolar,186,silla escolar 186
+0200418,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200418,2022,mesa inicial,5,mesa inicial 5
+0200418,2022,mesa pupitre doble,15,mesa pupitre doble 15
+0200418,2022,silla escolar,55,silla escolar 55
+0200418,2023,armario,7,armario 7
+0200419,2022,escritorio,1,escritorio 1
+0200419,2022,mesa inicial,15,mesa inicial 15
+0200419,2022,pizarrón,7,pizarrón 7
+0200419,2022,silla escolar,112,silla escolar 112
+0200420,2021,escritorio,2,escritorio 2
+0200420,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200420,2021,silla escolar,62,silla escolar 62
+0200420,2022,armario,6,armario 6
+0200420,2023,escritorio,3,escritorio 3
+0200420,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200420,2023,pizarrón,3,pizarrón 3
+0200420,2023,silla escolar,93,silla escolar 93
+0200421,2021,mesa trabajo estante,5,mesa trabajo estante 5
+0200421,2021,varios,10,varios 10
+0200421,2023,mesa pupitre doble,12,mesa pupitre doble 12
+0200421,2023,silla escolar,141,silla escolar 141
+0200422,2023,silla escolar,279,silla escolar 279
+0200423,2021,armario,4,armario 4
+0200423,2021,escritorio,2,escritorio 2
+0200423,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200423,2021,silla escolar,62,silla escolar 62
+0200425,2021,escritorio,4,escritorio 4
+0200425,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200425,2021,pizarrón,4,pizarrón 4
+0200425,2021,silla escolar,124,silla escolar 124
+0200425,2022,escritorio,4,escritorio 4
+0200425,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200425,2022,pizarrón,4,pizarrón 4
+0200425,2023,escritorio,4,escritorio 4
+0200425,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200425,2023,pizarrón,4,pizarrón 4
+0200425,2023,silla escolar,124,silla escolar 124
+0200426,2021,escritorio,2,escritorio 2
+0200426,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200426,2021,silla escolar,62,silla escolar 62
+0200426,2022,escritorio,6,escritorio 6
+0200426,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200426,2022,pizarrón,6,pizarrón 6
+0200426,2022,silla escolar,186,silla escolar 186
+0200426,2023,escritorio,5,escritorio 5
+0200426,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200426,2023,pizarrón,5,pizarrón 5
+0200426,2023,silla escolar,155,silla escolar 155
+0200427,2021,escritorio,8,escritorio 8
+0200427,2021,mesa inicial,4,mesa inicial 4
+0200427,2021,mesa pupitre doble,120,mesa pupitre doble 120
+0200427,2021,pizarrón,8,pizarrón 8
+0200427,2021,silla escolar,268,silla escolar 268
+0200427,2022,escritorio,11,escritorio 11
+0200427,2022,mesa pupitre doble,208,mesa pupitre doble 208
+0200427,2022,pizarrón,11,pizarrón 11
+0200427,2022,silla escolar,467,silla escolar 467
+0200427,2023,escritorio,7,escritorio 7
+0200427,2023,mesa 6 alumnos,1,mesa 6 alumnos 1
+0200427,2023,mesa pupitre doble,105,mesa pupitre doble 105
+0200427,2023,pizarrón,7,pizarrón 7
+0200427,2023,silla escolar,217,silla escolar 217
+0200428,2022,escritorio,5,escritorio 5
+0200428,2022,mesa pupitre doble,40,mesa pupitre doble 40
+0200428,2022,silla escolar,85,silla escolar 85
+0200428,2023,mesa pupitre doble,35,mesa pupitre doble 35
+0200428,2023,silla escolar,140,silla escolar 140
+0200429,2021,armario,8,armario 8
+0200429,2021,banco largo comedor,8,banco largo comedor 8
+0200429,2021,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200429,2021,varios,4,varios 4
+0200431,2022,armario,3,armario 3
+0200431,2022,escritorio,1,escritorio 1
+0200431,2022,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200431,2022,mesa pupitre doble,6,mesa pupitre doble 6
+0200431,2022,pizarrón,5,pizarrón 5
+0200431,2022,silla escolar,12,silla escolar 12
+0200431,2023,mesa 6 alumnos,8,mesa 6 alumnos 8
+0200432,2021,mesa trabajo estante,8,mesa trabajo estante 8
+0200432,2021,varios,16,varios 16
+0200440,2021,banco largo comedor,30,banco largo comedor 30
+0200440,2021,mesa 6 alumnos,15,mesa 6 alumnos 15
+0200441,2021,mesa inicial,23,mesa inicial 23
+0200441,2021,silla escolar,120,silla escolar 120
+0200441,2022,armario,2,armario 2
+0200441,2022,pizarrón,14,pizarrón 14
+0200442,2021,armario,6,armario 6
+0200442,2021,escritorio,2,escritorio 2
+0200442,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200442,2021,silla escolar,62,silla escolar 62
+0200442,2022,juego de patio,1,juego de patio 1
+0200442,2022,piso antigolpe para juegos,36,piso antigolpe para juegos 36
+0200443,2021,armario,28,armario 28
+0200443,2021,banco largo comedor,44,banco largo comedor 44
+0200443,2021,escritorio,11,escritorio 11
+0200443,2021,mesa 6 alumnos,22,mesa 6 alumnos 22
+0200443,2021,mesa pupitre doble,85,mesa pupitre doble 85
+0200443,2021,pizarrón,25,pizarrón 25
+0200443,2021,silla escolar,191,silla escolar 191
+0200443,2022,pizarrón,1,pizarrón 1
+0200443,2022,silla escolar,7,silla escolar 7
+0200444,2021,escritorio,2,escritorio 2
+0200444,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200444,2021,silla escolar,62,silla escolar 62
+0200444,2022,banco largo comedor,20,banco largo comedor 20
+0200444,2022,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200445,2022,armario,4,armario 4
+0200445,2022,mesa inicial,10,mesa inicial 10
+0200445,2022,silla escolar,60,silla escolar 60
+0200446,2021,armario,6,armario 6
+0200446,2022,silla escolar,30,silla escolar 30
+0200447,2021,escritorio,4,escritorio 4
+0200447,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200447,2021,silla escolar,124,silla escolar 124
+0200447,2022,mesa inicial,6,mesa inicial 6
+0200447,2022,silla escolar,36,silla escolar 36
+0200447,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200447,2023,silla escolar,120,silla escolar 120
+0200448,2021,armario,5,armario 5
+0200448,2021,escritorio,4,escritorio 4
+0200448,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200448,2021,piso antigolpe para juegos,100,piso antigolpe para juegos 100
+0200448,2021,pizarrón,2,pizarrón 2
+0200448,2021,silla escolar,16,silla escolar 16
+0200448,2022,armario,2,armario 2
+0200448,2022,escritorio,2,escritorio 2
+0200448,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200448,2022,pizarrón,2,pizarrón 2
+0200448,2022,silla escolar,62,silla escolar 62
+0200448,2023,armario,4,armario 4
+0200449,2021,escritorio,2,escritorio 2
+0200449,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200449,2021,silla escolar,62,silla escolar 62
+0200449,2022,escritorio,7,escritorio 7
+0200449,2022,mesa inicial,4,mesa inicial 4
+0200449,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200449,2022,silla escolar,94,silla escolar 94
+0200450,2022,mesa pupitre doble,50,mesa pupitre doble 50
+0200450,2022,pizarrón,7,pizarrón 7
+0200450,2022,silla escolar,100,silla escolar 100
+0200450,2023,armario,2,armario 2
+0200452,2021,armario,4,armario 4
+0200452,2021,escritorio,4,escritorio 4
+0200452,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200452,2022,armario,4,armario 4
+0200452,2022,escritorio,1,escritorio 1
+0200452,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200452,2022,pizarrón,3,pizarrón 3
+0200452,2022,silla escolar,90,silla escolar 90
+0200453,2021,armario,3,armario 3
+0200453,2021,banco largo comedor,20,banco largo comedor 20
+0200453,2021,mesa inicial,15,mesa inicial 15
+0200453,2021,silla escolar,90,silla escolar 90
+0200453,2021,varios,60,varios 60
+0200454,2022,escritorio,2,escritorio 2
+0200454,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200454,2022,silla escolar,60,silla escolar 60
+0200455,2021,escritorio,4,escritorio 4
+0200455,2021,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200455,2021,mesa pupitre doble,40,mesa pupitre doble 40
+0200455,2021,silla escolar,84,silla escolar 84
+0200455,2022,banco largo comedor,20,banco largo comedor 20
+0200455,2022,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200455,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200455,2022,silla escolar,90,silla escolar 90
+0200455,2023,banco largo comedor,20,banco largo comedor 20
+0200455,2023,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200457,2021,escritorio,2,escritorio 2
+0200457,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200457,2021,silla escolar,92,silla escolar 92
+0200458,2023,armario,6,armario 6
+0200458,2023,banco largo comedor,32,banco largo comedor 32
+0200458,2023,escritorio,7,escritorio 7
+0200458,2023,mesa 6 alumnos,16,mesa 6 alumnos 16
+0200458,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200458,2023,silla escolar,123,silla escolar 123
+0200459,2021,escritorio,2,escritorio 2
+0200459,2021,mesa inicial,10,mesa inicial 10
+0200459,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200459,2021,silla escolar,122,silla escolar 122
+0200459,2021,varios,40,varios 40
+0200459,2022,banco largo comedor,16,banco largo comedor 16
+0200459,2022,escritorio,2,escritorio 2
+0200459,2022,mesa 6 alumnos,8,mesa 6 alumnos 8
+0200459,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200459,2022,silla escolar,62,silla escolar 62
+0200460,2021,mesa inicial,4,mesa inicial 4
+0200460,2021,silla escolar,24,silla escolar 24
+0200460,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200460,2022,silla escolar,60,silla escolar 60
+0200461,2023,escritorio,7,escritorio 7
+0200461,2023,mesa pupitre doble,65,mesa pupitre doble 65
+0200461,2023,pizarrón,1,pizarrón 1
+0200461,2023,silla escolar,137,silla escolar 137
+0200462,2022,mesa inicial,9,mesa inicial 9
+0200462,2022,pizarrón,8,pizarrón 8
+0200462,2022,silla escolar,58,silla escolar 58
+0200464,2022,mesa inicial,10,mesa inicial 10
+0200464,2022,silla escolar,60,silla escolar 60
+0200465,2023,escritorio,5,escritorio 5
+0200465,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200465,2023,pizarrón,5,pizarrón 5
+0200465,2023,silla escolar,155,silla escolar 155
+0200466,2021,escritorio,3,escritorio 3
+0200466,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200466,2021,pizarrón,3,pizarrón 3
+0200466,2021,silla escolar,93,silla escolar 93
+0200466,2022,escritorio,2,escritorio 2
+0200466,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200466,2022,pizarrón,2,pizarrón 2
+0200466,2022,silla escolar,62,silla escolar 62
+0200466,2023,escritorio,2,escritorio 2
+0200466,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200466,2023,pizarrón,2,pizarrón 2
+0200466,2023,silla escolar,62,silla escolar 62
+0200467,2021,escritorio,4,escritorio 4
+0200467,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200467,2021,pizarrón,4,pizarrón 4
+0200467,2021,silla escolar,124,silla escolar 124
+0200467,2022,escritorio,4,escritorio 4
+0200467,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200467,2022,pizarrón,4,pizarrón 4
+0200467,2022,silla escolar,124,silla escolar 124
+0200467,2023,escritorio,3,escritorio 3
+0200467,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200467,2023,pizarrón,3,pizarrón 3
+0200467,2023,silla escolar,93,silla escolar 93
+0200468,2021,escritorio,2,escritorio 2
+0200468,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200468,2021,pizarrón,2,pizarrón 2
+0200468,2021,silla escolar,62,silla escolar 62
+0200468,2022,escritorio,2,escritorio 2
+0200468,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200468,2022,pizarrón,2,pizarrón 2
+0200468,2022,silla escolar,62,silla escolar 62
+0200468,2023,escritorio,2,escritorio 2
+0200468,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200468,2023,pizarrón,2,pizarrón 2
+0200468,2023,silla escolar,62,silla escolar 62
+0200469,2021,escritorio,4,escritorio 4
+0200469,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200469,2021,mesa trabajo estante,4,mesa trabajo estante 4
+0200469,2021,pizarrón,4,pizarrón 4
+0200469,2021,silla escolar,124,silla escolar 124
+0200469,2021,varios,8,varios 8
+0200469,2022,escritorio,3,escritorio 3
+0200469,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200469,2022,pizarrón,3,pizarrón 3
+0200469,2022,silla escolar,145,silla escolar 145
+0200469,2023,escritorio,3,escritorio 3
+0200469,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200469,2023,pizarrón,3,pizarrón 3
+0200469,2023,silla escolar,93,silla escolar 93
+0200470,2022,escritorio,2,escritorio 2
+0200470,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200470,2022,pizarrón,2,pizarrón 2
+0200470,2022,silla escolar,62,silla escolar 62
+0200470,2023,escritorio,2,escritorio 2
+0200470,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200470,2023,pizarrón,2,pizarrón 2
+0200470,2023,silla escolar,62,silla escolar 62
+0200471,2021,escritorio,2,escritorio 2
+0200471,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200471,2021,pizarrón,2,pizarrón 2
+0200471,2021,silla escolar,62,silla escolar 62
+0200471,2022,escritorio,2,escritorio 2
+0200471,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200471,2022,pizarrón,2,pizarrón 2
+0200471,2022,silla escolar,62,silla escolar 62
+0200472,2021,mesa inicial,4,mesa inicial 4
+0200472,2021,silla escolar,46,silla escolar 46
+0200473,2021,armario,6,armario 6
+0200473,2021,mesa inicial,2,mesa inicial 2
+0200473,2021,silla escolar,12,silla escolar 12
+0200474,2022,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200474,2022,silla escolar,20,silla escolar 20
+0200475,2021,armario,4,armario 4
+0200475,2021,mesa 6 alumnos,3,mesa 6 alumnos 3
+0200475,2021,pizarrón,10,pizarrón 10
+0200475,2022,armario,10,armario 10
+0200476,2022,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200476,2022,pizarrón,8,pizarrón 8
+0200477,2021,armario,19,armario 19
+0200477,2021,escritorio,2,escritorio 2
+0200477,2021,mesa inicial,2,mesa inicial 2
+0200477,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200477,2021,pizarrón,2,pizarrón 2
+0200477,2021,silla escolar,76,silla escolar 76
+0200477,2021,varios,10,varios 10
+0200477,2022,pizarrón,7,pizarrón 7
+0200479,2021,armario,2,armario 2
+0200479,2021,escritorio,2,escritorio 2
+0200479,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200479,2021,silla escolar,62,silla escolar 62
+0200481,2022,armario,2,armario 2
+0200481,2023,armario,2,armario 2
+0200496,2021,escritorio,3,escritorio 3
+0200496,2021,mesa pupitre doble,39,mesa pupitre doble 39
+0200496,2021,silla escolar,75,silla escolar 75
+0200497,2022,armario,6,armario 6
+0200497,2022,escritorio,8,escritorio 8
+0200497,2022,mesa pupitre doble,50,mesa pupitre doble 50
+0200497,2022,pizarrón,8,pizarrón 8
+0200497,2022,silla escolar,108,silla escolar 108
+0200498,2021,banco largo comedor,30,banco largo comedor 30
+0200498,2021,escritorio,4,escritorio 4
+0200498,2021,mesa 6 alumnos,15,mesa 6 alumnos 15
+0200498,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200498,2021,silla escolar,184,silla escolar 184
+0200498,2022,mesa inicial,3,mesa inicial 3
+0200498,2022,silla escolar,18,silla escolar 18
+0200502,2021,escritorio,3,escritorio 3
+0200502,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200502,2021,silla escolar,93,silla escolar 93
+0200503,2021,silla escolar,25,silla escolar 25
+0200503,2023,banco largo comedor,50,banco largo comedor 50
+0200503,2023,mesa 6 alumnos,25,mesa 6 alumnos 25
+0200503,2023,mesa pupitre doble,105,mesa pupitre doble 105
+0200503,2023,silla escolar,210,silla escolar 210
+0200504,2021,mesa inicial,6,mesa inicial 6
+0200504,2021,silla escolar,36,silla escolar 36
+0200505,2021,mesa inicial,10,mesa inicial 10
+0200505,2021,silla escolar,30,silla escolar 30
+0200505,2021,varios,12,varios 12
+0200505,2023,armario,70,armario 70
+0200505,2023,banco largo comedor,70,banco largo comedor 70
+0200505,2023,biblioteca,16,biblioteca 16
+0200505,2023,escritorio,21,escritorio 21
+0200505,2023,juego de patio,2,juego de patio 2
+0200505,2023,mesa 6 alumnos,49,mesa 6 alumnos 49
+0200505,2023,mesa inicial,70,mesa inicial 70
+0200505,2023,mesa pupitre doble,129,mesa pupitre doble 129
+0200505,2023,piso antigolpe para juegos,120,piso antigolpe para juegos 120
+0200505,2023,pizarrón,45,pizarrón 45
+0200505,2023,silla escolar,795,silla escolar 795
+0200505,2023,varios,232,varios 232
+0200506,2021,banco largo comedor,20,banco largo comedor 20
+0200506,2021,escritorio,2,escritorio 2
+0200506,2021,mesa 6 alumnos,30,mesa 6 alumnos 30
+0200506,2021,mesa pupitre doble,35,mesa pupitre doble 35
+0200506,2021,silla escolar,62,silla escolar 62
+0200506,2022,armario,2,armario 2
+0200506,2022,silla escolar,25,silla escolar 25
+0200507,2021,mesa inicial,5,mesa inicial 5
+0200507,2021,silla escolar,30,silla escolar 30
+0200507,2021,varios,4,varios 4
+0200507,2022,banco largo comedor,10,banco largo comedor 10
+0200507,2022,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200507,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200507,2022,silla escolar,60,silla escolar 60
+0200508,2021,escritorio,2,escritorio 2
+0200508,2021,mesa inicial,5,mesa inicial 5
+0200508,2021,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200508,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200508,2021,silla escolar,92,silla escolar 92
+0200508,2021,varios,6,varios 6
+0200508,2022,mesa pupitre doble,20,mesa pupitre doble 20
+0200508,2022,silla escolar,40,silla escolar 40
+0200509,2021,mesa inicial,5,mesa inicial 5
+0200509,2021,silla escolar,30,silla escolar 30
+0200509,2022,escritorio,6,escritorio 6
+0200509,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200509,2022,pizarrón,14,pizarrón 14
+0200509,2022,silla escolar,186,silla escolar 186
+0200510,2022,escritorio,7,escritorio 7
+0200510,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200510,2022,pizarrón,10,pizarrón 10
+0200510,2022,silla escolar,90,silla escolar 90
+0200513,2021,escritorio,3,escritorio 3
+0200513,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200513,2021,silla escolar,93,silla escolar 93
+0200513,2022,escritorio,1,escritorio 1
+0200513,2022,varios,1,varios 1
+0200513,2023,armario,6,armario 6
+0200513,2023,banco largo comedor,40,banco largo comedor 40
+0200513,2023,mesa 6 alumnos,20,mesa 6 alumnos 20
+0200513,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200513,2023,silla escolar,60,silla escolar 60
+0200514,2021,banco largo comedor,40,banco largo comedor 40
+0200514,2021,escritorio,2,escritorio 2
+0200514,2021,mesa 6 alumnos,20,mesa 6 alumnos 20
+0200514,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200514,2021,silla escolar,62,silla escolar 62
+0200514,2022,mesa inicial,4,mesa inicial 4
+0200514,2022,silla escolar,24,silla escolar 24
+0200514,2023,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200514,2023,pizarrón,3,pizarrón 3
+0200515,2021,banco largo comedor,20,banco largo comedor 20
+0200515,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200515,2021,varios,4,varios 4
+0200515,2022,armario,4,armario 4
+0200515,2022,escritorio,2,escritorio 2
+0200515,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200515,2022,silla escolar,30,silla escolar 30
+0200515,2022,varios,4,varios 4
+0200516,2021,banco largo comedor,40,banco largo comedor 40
+0200516,2021,escritorio,2,escritorio 2
+0200516,2021,mesa 6 alumnos,20,mesa 6 alumnos 20
+0200516,2021,mesa inicial,5,mesa inicial 5
+0200516,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200516,2021,silla escolar,92,silla escolar 92
+0200516,2021,varios,20,varios 20
+0200516,2022,escritorio,2,escritorio 2
+0200516,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200516,2022,pizarrón,2,pizarrón 2
+0200516,2022,silla escolar,62,silla escolar 62
+0200517,2021,mesa inicial,5,mesa inicial 5
+0200517,2021,silla escolar,30,silla escolar 30
+0200517,2021,varios,20,varios 20
+0200518,2021,armario,4,armario 4
+0200518,2021,escritorio,1,escritorio 1
+0200518,2021,mesa inicial,9,mesa inicial 9
+0200518,2021,mesa pupitre doble,15,mesa pupitre doble 15
+0200518,2021,pizarrón,7,pizarrón 7
+0200518,2021,silla escolar,31,silla escolar 31
+0200519,2021,mesa trabajo estante,12,mesa trabajo estante 12
+0200519,2021,varios,24,varios 24
+0200521,2021,escritorio,3,escritorio 3
+0200521,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200521,2021,pizarrón,3,pizarrón 3
+0200521,2021,silla escolar,106,silla escolar 106
+0200521,2022,escritorio,3,escritorio 3
+0200521,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200521,2022,pizarrón,3,pizarrón 3
+0200521,2022,silla escolar,93,silla escolar 93
+0200523,2023,escritorio,1,escritorio 1
+0200523,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0200523,2023,pizarrón,1,pizarrón 1
+0200523,2023,silla escolar,31,silla escolar 31
+0200524,2021,armario,18,armario 18
+0200524,2021,mesa pupitre doble,15,mesa pupitre doble 15
+0200524,2021,pizarrón,8,pizarrón 8
+0200524,2021,silla escolar,50,silla escolar 50
+0200525,2021,escritorio,4,escritorio 4
+0200525,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200525,2021,pizarrón,4,pizarrón 4
+0200525,2022,escritorio,5,escritorio 5
+0200525,2022,mesa pupitre doble,75,mesa pupitre doble 75
+0200525,2022,pizarrón,5,pizarrón 5
+0200525,2022,silla escolar,155,silla escolar 155
+0200525,2023,escritorio,5,escritorio 5
+0200525,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200525,2023,pizarrón,5,pizarrón 5
+0200525,2023,silla escolar,155,silla escolar 155
+0200526,2021,escritorio,4,escritorio 4
+0200526,2021,mesa pupitre doble,44,mesa pupitre doble 44
+0200526,2021,silla escolar,92,silla escolar 92
+0200526,2021,varios,3,varios 3
+0200526,2023,escritorio,5,escritorio 5
+0200526,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200526,2023,pizarrón,5,pizarrón 5
+0200526,2023,silla escolar,155,silla escolar 155
+0200527,2022,escritorio,2,escritorio 2
+0200527,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200527,2022,pizarrón,2,pizarrón 2
+0200527,2022,silla escolar,62,silla escolar 62
+0200527,2023,escritorio,2,escritorio 2
+0200527,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200527,2023,pizarrón,2,pizarrón 2
+0200527,2023,silla escolar,62,silla escolar 62
+0200528,2023,escritorio,20,escritorio 20
+0200528,2023,mesa pupitre doble,300,mesa pupitre doble 300
+0200528,2023,pizarrón,20,pizarrón 20
+0200528,2023,silla escolar,620,silla escolar 620
+0200529,2021,escritorio,2,escritorio 2
+0200529,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200529,2021,pizarrón,2,pizarrón 2
+0200529,2021,silla escolar,62,silla escolar 62
+0200529,2022,escritorio,2,escritorio 2
+0200529,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200529,2022,pizarrón,2,pizarrón 2
+0200529,2022,silla escolar,62,silla escolar 62
+0200529,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200529,2023,pizarrón,3,pizarrón 3
+0200529,2023,silla escolar,93,silla escolar 93
+0200530,2021,escritorio,4,escritorio 4
+0200530,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200530,2021,pizarrón,4,pizarrón 4
+0200530,2022,escritorio,3,escritorio 3
+0200530,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200530,2022,pizarrón,3,pizarrón 3
+0200530,2022,silla escolar,93,silla escolar 93
+0200530,2023,escritorio,3,escritorio 3
+0200530,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200530,2023,pizarrón,3,pizarrón 3
+0200530,2023,silla escolar,93,silla escolar 93
+0200531,2021,escritorio,2,escritorio 2
+0200531,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200531,2021,silla escolar,62,silla escolar 62
+0200531,2022,armario,8,armario 8
+0200532,2021,armario,10,armario 10
+0200532,2021,escritorio,7,escritorio 7
+0200532,2021,mesa pupitre doble,105,mesa pupitre doble 105
+0200532,2021,pizarrón,11,pizarrón 11
+0200532,2021,silla escolar,217,silla escolar 217
+0200532,2021,varios,10,varios 10
+0200532,2022,escritorio,7,escritorio 7
+0200532,2022,mesa pupitre doble,105,mesa pupitre doble 105
+0200532,2022,pizarrón,7,pizarrón 7
+0200532,2022,silla escolar,217,silla escolar 217
+0200533,2021,armario,7,armario 7
+0200533,2021,mesa inicial,11,mesa inicial 11
+0200533,2021,silla escolar,66,silla escolar 66
+0200533,2023,escritorio,2,escritorio 2
+0200549,2022,banco largo comedor,4,banco largo comedor 4
+0200549,2022,escritorio,4,escritorio 4
+0200549,2022,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200549,2022,mesa pupitre doble,40,mesa pupitre doble 40
+0200549,2022,silla escolar,80,silla escolar 80
+0200549,2023,mesa pupitre doble,20,mesa pupitre doble 20
+0200549,2023,silla escolar,40,silla escolar 40
+0200550,2022,escritorio,4,escritorio 4
+0200550,2023,mesa pupitre doble,48,mesa pupitre doble 48
+0200550,2023,silla escolar,96,silla escolar 96
+0200555,2021,pizarrón,3,pizarrón 3
+0200555,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200555,2022,silla escolar,90,silla escolar 90
+0200558,2021,armario,4,armario 4
+0200558,2021,mesa inicial,5,mesa inicial 5
+0200558,2021,silla escolar,30,silla escolar 30
+0200561,2021,mesa inicial,4,mesa inicial 4
+0200561,2021,pizarrón,2,pizarrón 2
+0200561,2022,silla escolar,24,silla escolar 24
+0200562,2021,escritorio,4,escritorio 4
+0200562,2021,mesa pupitre doble,80,mesa pupitre doble 80
+0200562,2021,mesa trabajo estante,6,mesa trabajo estante 6
+0200562,2021,pizarrón,2,pizarrón 2
+0200562,2021,silla escolar,144,silla escolar 144
+0200562,2021,varios,12,varios 12
+0200562,2022,escritorio,3,escritorio 3
+0200562,2022,mesa pupitre doble,68,mesa pupitre doble 68
+0200562,2022,pizarrón,2,pizarrón 2
+0200562,2022,silla escolar,134,silla escolar 134
+0200562,2023,escritorio,2,escritorio 2
+0200562,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200562,2023,pizarrón,2,pizarrón 2
+0200562,2023,silla escolar,62,silla escolar 62
+0200563,2021,armario,3,armario 3
+0200563,2021,escritorio,4,escritorio 4
+0200563,2021,mesa pupitre doble,90,mesa pupitre doble 90
+0200563,2021,pizarrón,2,pizarrón 2
+0200563,2022,pizarrón,11,pizarrón 11
+0200565,2023,armario,9,armario 9
+0200565,2023,escritorio,4,escritorio 4
+0200565,2023,mesa inicial,15,mesa inicial 15
+0200565,2023,silla escolar,87,silla escolar 87
+0200567,2022,banco largo comedor,30,banco largo comedor 30
+0200568,2022,escritorio,1,escritorio 1
+0200568,2022,mesa pupitre doble,12,mesa pupitre doble 12
+0200568,2022,silla escolar,25,silla escolar 25
+0200570,2022,banco largo comedor,20,banco largo comedor 20
+0200570,2022,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200570,2022,silla escolar,48,silla escolar 48
+0200571,2022,escritorio,3,escritorio 3
+0200571,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200571,2022,pizarrón,3,pizarrón 3
+0200571,2022,silla escolar,93,silla escolar 93
+0200571,2023,escritorio,4,escritorio 4
+0200571,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200571,2023,pizarrón,4,pizarrón 4
+0200571,2023,silla escolar,124,silla escolar 124
+0200572,2021,escritorio,6,escritorio 6
+0200572,2021,mesa pupitre doble,90,mesa pupitre doble 90
+0200572,2021,pizarrón,6,pizarrón 6
+0200572,2021,silla escolar,186,silla escolar 186
+0200572,2022,escritorio,4,escritorio 4
+0200572,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200572,2022,pizarrón,4,pizarrón 4
+0200572,2023,escritorio,5,escritorio 5
+0200572,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200572,2023,pizarrón,5,pizarrón 5
+0200572,2023,silla escolar,155,silla escolar 155
+0200574,2021,escritorio,5,escritorio 5
+0200574,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200574,2021,pizarrón,5,pizarrón 5
+0200574,2021,silla escolar,155,silla escolar 155
+0200574,2022,escritorio,1,escritorio 1
+0200574,2022,mesa pupitre doble,15,mesa pupitre doble 15
+0200574,2022,pizarrón,1,pizarrón 1
+0200574,2022,silla escolar,31,silla escolar 31
+0200575,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200575,2022,escritorio,4,escritorio 4
+0200575,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200575,2022,pizarrón,4,pizarrón 4
+0200575,2022,silla escolar,124,silla escolar 124
+0200575,2023,escritorio,3,escritorio 3
+0200575,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200575,2023,pizarrón,3,pizarrón 3
+0200575,2023,silla escolar,93,silla escolar 93
+0200576,2021,mesa inicial,7,mesa inicial 7
+0200576,2021,silla escolar,42,silla escolar 42
+0200582,2021,escritorio,2,escritorio 2
+0200582,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200582,2021,silla escolar,62,silla escolar 62
+0200584,2022,banco largo comedor,30,banco largo comedor 30
+0200584,2022,escritorio,2,escritorio 2
+0200584,2022,mesa 6 alumnos,15,mesa 6 alumnos 15
+0200584,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200584,2022,pizarrón,9,pizarrón 9
+0200584,2022,silla escolar,60,silla escolar 60
+0200585,2021,mesa pupitre doble,44,mesa pupitre doble 44
+0200585,2021,silla escolar,88,silla escolar 88
+0200586,2021,mesa inicial,12,mesa inicial 12
+0200586,2022,silla escolar,40,silla escolar 40
+0200587,2021,armario,4,armario 4
+0200587,2021,mesa inicial,5,mesa inicial 5
+0200587,2021,silla escolar,30,silla escolar 30
+0200587,2023,banco largo comedor,16,banco largo comedor 16
+0200587,2023,mesa 6 alumnos,8,mesa 6 alumnos 8
+0200587,2023,mesa pupitre doble,90,mesa pupitre doble 90
+0200587,2023,silla escolar,180,silla escolar 180
+0200588,2023,armario,3,armario 3
+0200588,2023,escritorio,3,escritorio 3
+0200588,2023,silla escolar,9,silla escolar 9
+0200589,2021,pizarrón,5,pizarrón 5
+0200589,2022,escritorio,5,escritorio 5
+0200589,2022,mesa pupitre doble,75,mesa pupitre doble 75
+0200589,2022,pizarrón,5,pizarrón 5
+0200589,2022,silla escolar,155,silla escolar 155
+0200590,2021,armario,8,armario 8
+0200590,2022,banco largo comedor,20,banco largo comedor 20
+0200590,2022,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200590,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200590,2022,silla escolar,90,silla escolar 90
+0200590,2023,banco largo comedor,8,banco largo comedor 8
+0200591,2021,varios,30,varios 30
+0200591,2022,escritorio,9,escritorio 9
+0200591,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200591,2022,silla escolar,70,silla escolar 70
+0200591,2022,varios,3,varios 3
+0200593,2022,armario,6,armario 6
+0200593,2022,escritorio,3,escritorio 3
+0200593,2022,mesa inicial,5,mesa inicial 5
+0200593,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200593,2022,silla escolar,120,silla escolar 120
+0200596,2022,mesa pupitre doble,20,mesa pupitre doble 20
+0200596,2022,pizarrón,4,pizarrón 4
+0200597,2021,banco largo comedor,25,banco largo comedor 25
+0200597,2022,banco largo comedor,4,banco largo comedor 4
+0200597,2022,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200597,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200597,2022,silla escolar,90,silla escolar 90
+0200599,2022,escritorio,2,escritorio 2
+0200599,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200599,2022,pizarrón,7,pizarrón 7
+0200599,2022,silla escolar,62,silla escolar 62
+0200600,2021,banco largo comedor,20,banco largo comedor 20
+0200600,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200601,2021,banco largo comedor,4,banco largo comedor 4
+0200601,2021,escritorio,2,escritorio 2
+0200601,2021,mesa 6 alumnos,7,mesa 6 alumnos 7
+0200601,2021,mesa inicial,10,mesa inicial 10
+0200601,2021,mesa pupitre doble,15,mesa pupitre doble 15
+0200601,2021,pizarrón,5,pizarrón 5
+0200601,2021,silla escolar,94,silla escolar 94
+0200601,2022,mesa 6 alumnos,12,mesa 6 alumnos 12
+0200601,2022,mesa pupitre doble,24,mesa pupitre doble 24
+0200601,2022,pizarrón,18,pizarrón 18
+0200601,2022,silla escolar,148,silla escolar 148
+0200602,2021,mesa inicial,4,mesa inicial 4
+0200604,2022,juego de patio,2,juego de patio 2
+0200604,2022,mesa inicial,30,mesa inicial 30
+0200604,2022,pizarrón,16,pizarrón 16
+0200604,2022,silla escolar,180,silla escolar 180
+0200605,2022,armario,2,armario 2
+0200605,2022,mesa inicial,4,mesa inicial 4
+0200605,2022,silla escolar,6,silla escolar 6
+0200606,2023,escritorio,5,escritorio 5
+0200606,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200606,2023,pizarrón,5,pizarrón 5
+0200606,2023,silla escolar,155,silla escolar 155
+0200607,2023,escritorio,3,escritorio 3
+0200607,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200607,2023,pizarrón,3,pizarrón 3
+0200607,2023,silla escolar,93,silla escolar 93
+0200608,2021,pizarrón,2,pizarrón 2
+0200608,2022,armario,4,armario 4
+0200608,2022,pizarrón,10,pizarrón 10
+0200608,2022,silla escolar,5,silla escolar 5
+0200608,2023,escritorio,2,escritorio 2
+0200608,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200608,2023,pizarrón,2,pizarrón 2
+0200608,2023,silla escolar,62,silla escolar 62
+0200611,2021,armario,5,armario 5
+0200611,2021,mesa 6 alumnos,3,mesa 6 alumnos 3
+0200611,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200611,2021,pizarrón,10,pizarrón 10
+0200611,2021,silla escolar,60,silla escolar 60
+0200611,2022,banco largo comedor,12,banco largo comedor 12
+0200611,2022,mesa 6 alumnos,6,mesa 6 alumnos 6
+0200618,2021,escritorio,5,escritorio 5
+0200618,2021,mesa pupitre doble,69,mesa pupitre doble 69
+0200618,2021,silla escolar,141,silla escolar 141
+0200618,2022,banco largo comedor,160,banco largo comedor 160
+0200618,2022,mesa 6 alumnos,40,mesa 6 alumnos 40
+0200618,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200618,2022,silla escolar,120,silla escolar 120
+0200619,2023,armario,7,armario 7
+0200621,2022,banco largo comedor,40,banco largo comedor 40
+0200621,2022,mesa 6 alumnos,20,mesa 6 alumnos 20
+0200621,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200621,2022,silla escolar,60,silla escolar 60
+0200622,2022,armario,3,armario 3
+0200622,2022,escritorio,3,escritorio 3
+0200622,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200622,2022,pizarrón,14,pizarrón 14
+0200622,2022,silla escolar,120,silla escolar 120
+0200625,2021,escritorio,3,escritorio 3
+0200625,2021,mesa pupitre doble,95,mesa pupitre doble 95
+0200625,2021,silla escolar,75,silla escolar 75
+0200625,2022,armario,5,armario 5
+0200626,2021,banco largo comedor,20,banco largo comedor 20
+0200626,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200626,2021,mesa inicial,3,mesa inicial 3
+0200626,2021,silla escolar,10,silla escolar 10
+0200626,2023,armario,2,armario 2
+0200626,2023,silla escolar,27,silla escolar 27
+0200627,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200627,2021,pizarrón,13,pizarrón 13
+0200627,2022,armario,4,armario 4
+0200627,2022,escritorio,8,escritorio 8
+0200627,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200627,2022,silla escolar,60,silla escolar 60
+0200628,2022,juego de patio,1,juego de patio 1
+0200628,2022,piso antigolpe para juegos,60,piso antigolpe para juegos 60
+0200628,2023,mesa 6 alumnos,12,mesa 6 alumnos 12
+0200628,2023,silla escolar,56,silla escolar 56
+0200629,2021,mesa inicial,6,mesa inicial 6
+0200629,2022,armario,6,armario 6
+0200629,2022,mesa inicial,12,mesa inicial 12
+0200629,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200629,2022,silla escolar,155,silla escolar 155
+0200629,2023,armario,6,armario 6
+0200629,2023,escritorio,4,escritorio 4
+0200629,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0200629,2023,silla escolar,60,silla escolar 60
+0200630,2021,mesa inicial,8,mesa inicial 8
+0200630,2021,pizarrón,2,pizarrón 2
+0200630,2021,silla escolar,48,silla escolar 48
+0200630,2022,escritorio,4,escritorio 4
+0200630,2022,mesa pupitre doble,26,mesa pupitre doble 26
+0200630,2022,pizarrón,10,pizarrón 10
+0200630,2022,silla escolar,108,silla escolar 108
+0200631,2021,pizarrón,2,pizarrón 2
+0200632,2021,escritorio,3,escritorio 3
+0200632,2021,mesa inicial,10,mesa inicial 10
+0200632,2021,mesa pupitre doble,36,mesa pupitre doble 36
+0200632,2021,pizarrón,2,pizarrón 2
+0200632,2021,silla escolar,136,silla escolar 136
+0200633,2021,armario,4,armario 4
+0200633,2022,armario,4,armario 4
+0200633,2022,banco largo comedor,6,banco largo comedor 6
+0200633,2022,escritorio,3,escritorio 3
+0200633,2022,juego de patio,1,juego de patio 1
+0200633,2022,mesa 6 alumnos,3,mesa 6 alumnos 3
+0200633,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200633,2022,piso antigolpe para juegos,60,piso antigolpe para juegos 60
+0200633,2022,pizarrón,12,pizarrón 12
+0200633,2022,silla escolar,93,silla escolar 93
+0200634,2022,armario,4,armario 4
+0200634,2022,mesa pupitre doble,44,mesa pupitre doble 44
+0200634,2022,pizarrón,4,pizarrón 4
+0200634,2022,silla escolar,90,silla escolar 90
+0200635,2022,banco largo comedor,8,banco largo comedor 8
+0200635,2022,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200636,2021,mesa inicial,10,mesa inicial 10
+0200636,2021,pizarrón,2,pizarrón 2
+0200636,2021,silla escolar,50,silla escolar 50
+0200636,2022,armario,6,armario 6
+0200636,2022,escritorio,2,escritorio 2
+0200636,2022,mesa pupitre doble,24,mesa pupitre doble 24
+0200636,2022,pizarrón,7,pizarrón 7
+0200636,2022,silla escolar,48,silla escolar 48
+0200637,2021,armario,6,armario 6
+0200639,2021,armario,13,armario 13
+0200639,2021,escritorio,5,escritorio 5
+0200639,2021,mesa integradora con escotadura,3,mesa integradora con escotadura 3
+0200639,2021,mesa pupitre doble,65,mesa pupitre doble 65
+0200639,2021,silla escolar,135,silla escolar 135
+0200639,2021,varios,1,varios 1
+0200639,2022,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200639,2022,mesa pupitre doble,44,mesa pupitre doble 44
+0200639,2022,silla escolar,88,silla escolar 88
+0200640,2021,armario,4,armario 4
+0200640,2021,escritorio,4,escritorio 4
+0200640,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200640,2021,pizarrón,2,pizarrón 2
+0200640,2021,silla escolar,124,silla escolar 124
+0200641,2022,escritorio,3,escritorio 3
+0200641,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200641,2022,pizarrón,3,pizarrón 3
+0200641,2022,silla escolar,93,silla escolar 93
+0200641,2023,escritorio,3,escritorio 3
+0200641,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200641,2023,pizarrón,3,pizarrón 3
+0200641,2023,silla escolar,93,silla escolar 93
+0200642,2021,escritorio,2,escritorio 2
+0200642,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200642,2021,pizarrón,2,pizarrón 2
+0200642,2021,silla escolar,62,silla escolar 62
+0200642,2022,escritorio,2,escritorio 2
+0200642,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200642,2022,pizarrón,2,pizarrón 2
+0200642,2022,silla escolar,62,silla escolar 62
+0200642,2023,escritorio,2,escritorio 2
+0200642,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200642,2023,pizarrón,2,pizarrón 2
+0200642,2023,silla escolar,62,silla escolar 62
+0200643,2021,escritorio,2,escritorio 2
+0200643,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200643,2021,silla escolar,62,silla escolar 62
+0200643,2021,varios,12,varios 12
+0200643,2022,armario,9,armario 9
+0200643,2022,escritorio,2,escritorio 2
+0200643,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200643,2022,silla escolar,62,silla escolar 62
+0200643,2023,escritorio,7,escritorio 7
+0200643,2023,mesa pupitre doble,105,mesa pupitre doble 105
+0200643,2023,pizarrón,7,pizarrón 7
+0200643,2023,silla escolar,217,silla escolar 217
+0200644,2022,mesa pupitre doble,105,mesa pupitre doble 105
+0200644,2022,pizarrón,7,pizarrón 7
+0200644,2022,silla escolar,247,silla escolar 247
+0200644,2023,escritorio,5,escritorio 5
+0200644,2023,mesa pupitre doble,75,mesa pupitre doble 75
+0200644,2023,pizarrón,5,pizarrón 5
+0200644,2023,silla escolar,155,silla escolar 155
+0200645,2021,escritorio,3,escritorio 3
+0200645,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200645,2021,pizarrón,3,pizarrón 3
+0200645,2021,silla escolar,93,silla escolar 93
+0200645,2022,escritorio,3,escritorio 3
+0200645,2022,mesa pupitre doble,51,mesa pupitre doble 51
+0200645,2022,pizarrón,3,pizarrón 3
+0200645,2022,silla escolar,105,silla escolar 105
+0200645,2023,escritorio,3,escritorio 3
+0200645,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200645,2023,pizarrón,3,pizarrón 3
+0200645,2023,silla escolar,93,silla escolar 93
+0200647,2021,escritorio,4,escritorio 4
+0200647,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200647,2021,pizarrón,4,pizarrón 4
+0200647,2021,silla escolar,124,silla escolar 124
+0200647,2022,escritorio,4,escritorio 4
+0200647,2022,mesa pupitre doble,76,mesa pupitre doble 76
+0200647,2022,pizarrón,4,pizarrón 4
+0200647,2022,silla escolar,306,silla escolar 306
+0200647,2023,escritorio,3,escritorio 3
+0200647,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200647,2023,pizarrón,3,pizarrón 3
+0200647,2023,silla escolar,93,silla escolar 93
+0200648,2022,armario,3,armario 3
+0200648,2022,juego de patio,1,juego de patio 1
+0200648,2022,mesa inicial,10,mesa inicial 10
+0200648,2022,piso antigolpe para juegos,60,piso antigolpe para juegos 60
+0200648,2022,silla escolar,60,silla escolar 60
+0200650,2021,pizarrón,4,pizarrón 4
+0200650,2022,escritorio,2,escritorio 2
+0200650,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200650,2022,pizarrón,2,pizarrón 2
+0200650,2022,silla escolar,178,silla escolar 178
+0200650,2023,escritorio,2,escritorio 2
+0200650,2023,locker,20,locker 20
+0200650,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200650,2023,pizarrón,2,pizarrón 2
+0200650,2023,silla escolar,62,silla escolar 62
+0200657,2021,banco largo comedor,8,banco largo comedor 8
+0200657,2021,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200658,2022,banco largo comedor,10,banco largo comedor 10
+0200658,2022,escritorio,2,escritorio 2
+0200658,2022,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200658,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200658,2022,pizarrón,2,pizarrón 2
+0200658,2022,silla escolar,62,silla escolar 62
+0200659,2021,armario,4,armario 4
+0200659,2021,banco largo comedor,32,banco largo comedor 32
+0200659,2021,mesa 6 alumnos,16,mesa 6 alumnos 16
+0200659,2021,mesa inicial,5,mesa inicial 5
+0200659,2022,armario,1,armario 1
+0200659,2022,mesa inicial,5,mesa inicial 5
+0200659,2022,pizarrón,2,pizarrón 2
+0200659,2022,silla escolar,60,silla escolar 60
+0200659,2023,escritorio,7,escritorio 7
+0200659,2023,mesa pupitre doble,67,mesa pupitre doble 67
+0200659,2023,silla escolar,141,silla escolar 141
+0200661,2022,armario,1,armario 1
+0200661,2022,mesa inicial,5,mesa inicial 5
+0200661,2022,pizarrón,2,pizarrón 2
+0200661,2022,silla escolar,30,silla escolar 30
+0200662,2023,mesa 6 alumnos,7,mesa 6 alumnos 7
+0200663,2021,banco largo comedor,40,banco largo comedor 40
+0200663,2021,mesa 6 alumnos,20,mesa 6 alumnos 20
+0200666,2021,mesa inicial,17,mesa inicial 17
+0200666,2021,silla escolar,102,silla escolar 102
+0200666,2022,escritorio,3,escritorio 3
+0200666,2022,mesa pupitre doble,31,mesa pupitre doble 31
+0200666,2022,silla escolar,65,silla escolar 65
+0200669,2021,armario,4,armario 4
+0200669,2021,escritorio,2,escritorio 2
+0200669,2021,mesa inicial,10,mesa inicial 10
+0200669,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200669,2021,pizarrón,3,pizarrón 3
+0200669,2021,silla escolar,122,silla escolar 122
+0200669,2022,armario,2,armario 2
+0200670,2021,banco largo comedor,44,banco largo comedor 44
+0200670,2021,escritorio,2,escritorio 2
+0200670,2021,mesa pupitre doble,24,mesa pupitre doble 24
+0200670,2021,silla escolar,50,silla escolar 50
+0200670,2022,pizarrón,1,pizarrón 1
+0200671,2021,banco largo comedor,18,banco largo comedor 18
+0200671,2021,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200672,2022,armario,1,armario 1
+0200672,2022,mesa inicial,5,mesa inicial 5
+0200672,2022,pizarrón,2,pizarrón 2
+0200672,2022,silla escolar,30,silla escolar 30
+0200673,2022,banco largo comedor,16,banco largo comedor 16
+0200673,2022,mesa 6 alumnos,8,mesa 6 alumnos 8
+0200673,2022,mesa inicial,7,mesa inicial 7
+0200673,2022,silla escolar,42,silla escolar 42
+0200674,2022,escritorio,4,escritorio 4
+0200674,2022,silla escolar,34,silla escolar 34
+0200675,2023,banco largo comedor,20,banco largo comedor 20
+0200675,2023,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200676,2021,mesa inicial,15,mesa inicial 15
+0200676,2021,pizarrón,4,pizarrón 4
+0200676,2021,silla escolar,90,silla escolar 90
+0200678,2021,mesa inicial,5,mesa inicial 5
+0200678,2021,silla escolar,30,silla escolar 30
+0200679,2021,escritorio,4,escritorio 4
+0200679,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200679,2021,pizarrón,2,pizarrón 2
+0200679,2021,silla escolar,124,silla escolar 124
+0200679,2022,escritorio,2,escritorio 2
+0200679,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200679,2022,pizarrón,2,pizarrón 2
+0200679,2022,silla escolar,62,silla escolar 62
+0200679,2023,escritorio,2,escritorio 2
+0200679,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200679,2023,pizarrón,2,pizarrón 2
+0200679,2023,silla escolar,62,silla escolar 62
+0200681,2022,mesa inicial,12,mesa inicial 12
+0200681,2022,pizarrón,16,pizarrón 16
+0200681,2022,silla escolar,72,silla escolar 72
+0200683,2021,escritorio,2,escritorio 2
+0200683,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200683,2021,silla escolar,62,silla escolar 62
+0200683,2022,escritorio,3,escritorio 3
+0200683,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200683,2022,pizarrón,3,pizarrón 3
+0200683,2022,silla escolar,93,silla escolar 93
+0200683,2023,escritorio,2,escritorio 2
+0200683,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200683,2023,pizarrón,2,pizarrón 2
+0200683,2023,silla escolar,62,silla escolar 62
+0200684,2021,armario,2,armario 2
+0200684,2021,escritorio,2,escritorio 2
+0200684,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200684,2021,pizarrón,2,pizarrón 2
+0200684,2021,silla escolar,62,silla escolar 62
+0200684,2022,escritorio,3,escritorio 3
+0200684,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200684,2022,pizarrón,3,pizarrón 3
+0200684,2022,silla escolar,93,silla escolar 93
+0200684,2023,escritorio,2,escritorio 2
+0200684,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200684,2023,pizarrón,2,pizarrón 2
+0200684,2023,silla escolar,62,silla escolar 62
+0200687,2023,escritorio,2,escritorio 2
+0200687,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200687,2023,pizarrón,2,pizarrón 2
+0200687,2023,silla escolar,62,silla escolar 62
+0200689,2021,armario,4,armario 4
+0200689,2021,escritorio,2,escritorio 2
+0200689,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200689,2021,silla escolar,62,silla escolar 62
+0200689,2023,escritorio,1,escritorio 1
+0200689,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0200689,2023,pizarrón,1,pizarrón 1
+0200689,2023,silla escolar,31,silla escolar 31
+0200691,2021,mesa trabajo estante,0,mesa trabajo estante 0
+0200691,2021,varios,8,varios 8
+0200703,2021,banco largo comedor,10,banco largo comedor 10
+0200703,2021,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200704,2021,banco largo comedor,20,banco largo comedor 20
+0200704,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200707,2021,banco largo comedor,42,banco largo comedor 42
+0200707,2021,mesa 6 alumnos,25,mesa 6 alumnos 25
+0200708,2021,armario,4,armario 4
+0200708,2021,escritorio,4,escritorio 4
+0200708,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200708,2021,silla escolar,123,silla escolar 123
+0200711,2021,armario,8,armario 8
+0200711,2021,escritorio,3,escritorio 3
+0200711,2021,mesa inicial,10,mesa inicial 10
+0200711,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200711,2021,piso antigolpe para juegos,64,piso antigolpe para juegos 64
+0200711,2021,pizarrón,7,pizarrón 7
+0200711,2021,silla escolar,153,silla escolar 153
+0200711,2021,varios,40,varios 40
+0200711,2022,banco largo comedor,85,banco largo comedor 85
+0200711,2022,mesa 6 alumnos,25,mesa 6 alumnos 25
+0200712,2022,mesa pupitre doble,61,mesa pupitre doble 61
+0200712,2022,silla escolar,122,silla escolar 122
+0200714,2021,banco largo comedor,8,banco largo comedor 8
+0200714,2021,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200714,2021,pizarrón,4,pizarrón 4
+0200714,2022,armario,2,armario 2
+0200714,2022,escritorio,3,escritorio 3
+0200714,2022,mesa inicial,10,mesa inicial 10
+0200714,2022,silla escolar,63,silla escolar 63
+0200716,2021,armario,4,armario 4
+0200716,2021,silla escolar,124,silla escolar 124
+0200718,2022,armario,2,armario 2
+0200718,2022,escritorio,2,escritorio 2
+0200718,2022,mesa pupitre doble,52,mesa pupitre doble 52
+0200718,2022,silla escolar,104,silla escolar 104
+0200719,2022,armario,8,armario 8
+0200719,2022,banco largo comedor,18,banco largo comedor 18
+0200719,2022,mesa 6 alumnos,9,mesa 6 alumnos 9
+0200720,2021,banco largo comedor,8,banco largo comedor 8
+0200720,2021,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200723,2022,banco largo comedor,12,banco largo comedor 12
+0200723,2022,escritorio,2,escritorio 2
+0200723,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200723,2022,pizarrón,2,pizarrón 2
+0200723,2022,silla escolar,62,silla escolar 62
+0200723,2023,banco largo comedor,44,banco largo comedor 44
+0200723,2023,mesa 6 alumnos,22,mesa 6 alumnos 22
+0200724,2021,armario,10,armario 10
+0200724,2021,escritorio,10,escritorio 10
+0200724,2021,mesa pupitre doble,5,mesa pupitre doble 5
+0200724,2021,pizarrón,4,pizarrón 4
+0200724,2021,silla escolar,110,silla escolar 110
+0200726,2021,escritorio,6,escritorio 6
+0200726,2021,mesa pupitre doble,90,mesa pupitre doble 90
+0200726,2021,pizarrón,6,pizarrón 6
+0200726,2021,silla escolar,186,silla escolar 186
+0200726,2022,escritorio,3,escritorio 3
+0200726,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200726,2022,pizarrón,3,pizarrón 3
+0200726,2022,silla escolar,93,silla escolar 93
+0200726,2023,escritorio,3,escritorio 3
+0200726,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200726,2023,pizarrón,3,pizarrón 3
+0200726,2023,silla escolar,93,silla escolar 93
+0200727,2021,escritorio,3,escritorio 3
+0200727,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200727,2021,pizarrón,3,pizarrón 3
+0200727,2021,silla escolar,93,silla escolar 93
+0200727,2022,escritorio,3,escritorio 3
+0200727,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200727,2022,pizarrón,3,pizarrón 3
+0200727,2022,silla escolar,93,silla escolar 93
+0200727,2023,escritorio,2,escritorio 2
+0200727,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200727,2023,pizarrón,2,pizarrón 2
+0200727,2023,silla escolar,62,silla escolar 62
+0200728,2021,escritorio,1,escritorio 1
+0200728,2021,mesa pupitre doble,15,mesa pupitre doble 15
+0200728,2021,pizarrón,1,pizarrón 1
+0200728,2021,silla escolar,31,silla escolar 31
+0200728,2022,escritorio,1,escritorio 1
+0200728,2022,mesa pupitre doble,15,mesa pupitre doble 15
+0200728,2022,pizarrón,1,pizarrón 1
+0200728,2022,silla escolar,31,silla escolar 31
+0200728,2023,escritorio,1,escritorio 1
+0200728,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0200728,2023,pizarrón,1,pizarrón 1
+0200728,2023,silla escolar,31,silla escolar 31
+0200729,2021,armario,14,armario 14
+0200729,2021,banco largo comedor,4,banco largo comedor 4
+0200729,2021,escritorio,2,escritorio 2
+0200729,2021,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200729,2021,mesa inicial,2,mesa inicial 2
+0200729,2021,mesa pupitre doble,2,mesa pupitre doble 2
+0200729,2021,pizarrón,2,pizarrón 2
+0200729,2021,silla escolar,20,silla escolar 20
+0200729,2021,varios,5,varios 5
+0200736,2021,mesa inicial,2,mesa inicial 2
+0200736,2021,silla escolar,8,silla escolar 8
+0200740,2022,armario,4,armario 4
+0200740,2022,escritorio,4,escritorio 4
+0200740,2022,mesa inicial,3,mesa inicial 3
+0200740,2022,mesa pupitre doble,12,mesa pupitre doble 12
+0200740,2022,pizarrón,16,pizarrón 16
+0200740,2022,silla escolar,76,silla escolar 76
+0200741,2021,pizarrón,15,pizarrón 15
+0200741,2023,mesa pupitre doble,24,mesa pupitre doble 24
+0200741,2023,silla escolar,48,silla escolar 48
+0200742,2021,banco largo comedor,54,banco largo comedor 54
+0200743,2021,banco largo comedor,90,banco largo comedor 90
+0200743,2021,mesa 6 alumnos,45,mesa 6 alumnos 45
+0200744,2021,banco largo comedor,10,banco largo comedor 10
+0200744,2021,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200744,2021,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200748,2021,mesa 6 alumnos,3,mesa 6 alumnos 3
+0200748,2023,mesa pupitre doble,36,mesa pupitre doble 36
+0200748,2023,silla escolar,72,silla escolar 72
+0200749,2022,escritorio,4,escritorio 4
+0200749,2022,mesa pupitre doble,52,mesa pupitre doble 52
+0200749,2022,silla escolar,108,silla escolar 108
+0200749,2022,varios,2,varios 2
+0200750,2021,banco largo comedor,24,banco largo comedor 24
+0200750,2021,mesa 6 alumnos,12,mesa 6 alumnos 12
+0200752,2022,armario,2,armario 2
+0200752,2022,mesa inicial,8,mesa inicial 8
+0200752,2022,silla escolar,48,silla escolar 48
+0200752,2023,armario,4,armario 4
+0200752,2023,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200752,2023,mesa pupitre doble,52,mesa pupitre doble 52
+0200752,2023,silla escolar,104,silla escolar 104
+0200753,2022,armario,4,armario 4
+0200753,2022,escritorio,3,escritorio 3
+0200753,2022,mesa inicial,4,mesa inicial 4
+0200753,2022,pizarrón,3,pizarrón 3
+0200753,2022,silla escolar,27,silla escolar 27
+0200756,2021,banco largo comedor,10,banco largo comedor 10
+0200756,2021,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200757,2021,banco largo comedor,30,banco largo comedor 30
+0200757,2021,mesa 6 alumnos,15,mesa 6 alumnos 15
+0200757,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200757,2021,silla escolar,62,silla escolar 62
+0200759,2021,banco largo comedor,114,banco largo comedor 114
+0200759,2021,mesa 6 alumnos,50,mesa 6 alumnos 50
+0200759,2023,armario,4,armario 4
+0200759,2023,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200759,2023,pizarrón,12,pizarrón 12
+0200759,2023,silla escolar,25,silla escolar 25
+0200760,2021,banco largo comedor,48,banco largo comedor 48
+0200760,2021,mesa 6 alumnos,24,mesa 6 alumnos 24
+0200760,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200760,2022,silla escolar,120,silla escolar 120
+0200762,2021,pizarrón,1,pizarrón 1
+0200762,2021,silla escolar,248,silla escolar 248
+0200762,2022,escritorio,3,escritorio 3
+0200762,2022,mesa pupitre doble,15,mesa pupitre doble 15
+0200762,2022,pizarrón,6,pizarrón 6
+0200762,2022,silla escolar,60,silla escolar 60
+0200762,2023,escritorio,2,escritorio 2
+0200762,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200762,2023,pizarrón,2,pizarrón 2
+0200762,2023,silla escolar,62,silla escolar 62
+0200763,2021,armario,30,armario 30
+0200763,2021,escritorio,2,escritorio 2
+0200763,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200763,2021,pizarrón,5,pizarrón 5
+0200763,2021,silla escolar,62,silla escolar 62
+0200765,2021,armario,10,armario 10
+0200765,2021,escritorio,7,escritorio 7
+0200765,2021,mesa inicial,2,mesa inicial 2
+0200765,2021,mesa pupitre doble,18,mesa pupitre doble 18
+0200765,2021,pizarrón,9,pizarrón 9
+0200765,2021,silla escolar,37,silla escolar 37
+0200765,2022,silla escolar,12,silla escolar 12
+0200766,2023,escritorio,2,escritorio 2
+0200766,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200766,2023,pizarrón,2,pizarrón 2
+0200766,2023,silla escolar,62,silla escolar 62
+0200768,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0200768,2022,mesa inicial,5,mesa inicial 5
+0200768,2022,silla escolar,30,silla escolar 30
+0200768,2023,armario,2,armario 2
+0200769,2022,armario,2,armario 2
+0200769,2022,escritorio,4,escritorio 4
+0200769,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200769,2022,silla escolar,64,silla escolar 64
+0200770,2022,mesa inicial,5,mesa inicial 5
+0200770,2022,silla escolar,30,silla escolar 30
+0200771,2021,mesa inicial,10,mesa inicial 10
+0200771,2021,silla escolar,60,silla escolar 60
+0200771,2022,banco largo comedor,6,banco largo comedor 6
+0200771,2022,mesa 6 alumnos,9,mesa 6 alumnos 9
+0200774,2021,escritorio,3,escritorio 3
+0200774,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200774,2021,silla escolar,93,silla escolar 93
+0200774,2022,mesa inicial,5,mesa inicial 5
+0200774,2022,silla escolar,30,silla escolar 30
+0200776,2021,mesa inicial,5,mesa inicial 5
+0200776,2021,silla escolar,30,silla escolar 30
+0200776,2022,escritorio,2,escritorio 2
+0200776,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200776,2022,silla escolar,62,silla escolar 62
+0200777,2022,mesa inicial,8,mesa inicial 8
+0200777,2022,silla escolar,48,silla escolar 48
+0200779,2021,mesa inicial,5,mesa inicial 5
+0200779,2021,silla escolar,30,silla escolar 30
+0200779,2022,armario,17,armario 17
+0200779,2022,mesa inicial,5,mesa inicial 5
+0200779,2022,silla escolar,19,silla escolar 19
+0200780,2021,escritorio,2,escritorio 2
+0200780,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200780,2021,silla escolar,62,silla escolar 62
+0200783,2022,escritorio,2,escritorio 2
+0200783,2022,mesa pupitre doble,25,mesa pupitre doble 25
+0200783,2022,silla escolar,60,silla escolar 60
+0200784,2021,armario,6,armario 6
+0200784,2021,mesa inicial,5,mesa inicial 5
+0200784,2021,pizarrón,1,pizarrón 1
+0200784,2021,silla escolar,30,silla escolar 30
+0200784,2022,banco largo comedor,40,banco largo comedor 40
+0200784,2022,mesa 6 alumnos,20,mesa 6 alumnos 20
+0200785,2023,banco largo comedor,36,banco largo comedor 36
+0200785,2023,mesa 6 alumnos,18,mesa 6 alumnos 18
+0200786,2022,armario,3,armario 3
+0200786,2022,banco largo comedor,26,banco largo comedor 26
+0200786,2022,escritorio,1,escritorio 1
+0200786,2022,mesa 6 alumnos,13,mesa 6 alumnos 13
+0200786,2022,mesa inicial,8,mesa inicial 8
+0200786,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200786,2022,silla escolar,145,silla escolar 145
+0200787,2021,mesa inicial,5,mesa inicial 5
+0200787,2021,silla escolar,30,silla escolar 30
+0200788,2022,armario,4,armario 4
+0200788,2022,escritorio,3,escritorio 3
+0200788,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200788,2022,pizarrón,6,pizarrón 6
+0200788,2022,silla escolar,60,silla escolar 60
+0200789,2021,mesa inicial,5,mesa inicial 5
+0200789,2021,silla escolar,30,silla escolar 30
+0200789,2023,armario,6,armario 6
+0200789,2023,banco largo comedor,30,banco largo comedor 30
+0200789,2023,escritorio,5,escritorio 5
+0200789,2023,mesa 6 alumnos,15,mesa 6 alumnos 15
+0200789,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200789,2023,silla escolar,65,silla escolar 65
+0200790,2021,escritorio,3,escritorio 3
+0200790,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200790,2021,pizarrón,3,pizarrón 3
+0200790,2021,silla escolar,93,silla escolar 93
+0200790,2022,escritorio,3,escritorio 3
+0200790,2022,pizarrón,3,pizarrón 3
+0200790,2022,silla escolar,93,silla escolar 93
+0200790,2023,escritorio,3,escritorio 3
+0200790,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200790,2023,pizarrón,3,pizarrón 3
+0200790,2023,silla escolar,93,silla escolar 93
+0200791,2021,armario,1,armario 1
+0200791,2021,escritorio,2,escritorio 2
+0200791,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200791,2021,silla escolar,62,silla escolar 62
+0200791,2023,escritorio,3,escritorio 3
+0200791,2023,mesa pupitre doble,65,mesa pupitre doble 65
+0200791,2023,pizarrón,3,pizarrón 3
+0200791,2023,silla escolar,133,silla escolar 133
+0200792,2021,escritorio,2,escritorio 2
+0200792,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200792,2021,mesa trabajo estante,4,mesa trabajo estante 4
+0200792,2021,pizarrón,2,pizarrón 2
+0200792,2021,silla escolar,62,silla escolar 62
+0200792,2021,varios,8,varios 8
+0200792,2022,escritorio,1,escritorio 1
+0200792,2022,mesa pupitre doble,15,mesa pupitre doble 15
+0200792,2022,pizarrón,1,pizarrón 1
+0200792,2022,silla escolar,31,silla escolar 31
+0200792,2023,escritorio,1,escritorio 1
+0200792,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0200792,2023,pizarrón,1,pizarrón 1
+0200792,2023,silla escolar,31,silla escolar 31
+0200793,2021,escritorio,5,escritorio 5
+0200793,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200793,2021,pizarrón,5,pizarrón 5
+0200793,2021,silla escolar,155,silla escolar 155
+0200793,2021,varios,12,varios 12
+0200793,2022,escritorio,6,escritorio 6
+0200793,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200793,2022,silla escolar,186,silla escolar 186
+0200793,2023,escritorio,6,escritorio 6
+0200793,2023,mesa pupitre doble,90,mesa pupitre doble 90
+0200793,2023,pizarrón,6,pizarrón 6
+0200793,2023,silla escolar,186,silla escolar 186
+0200794,2021,escritorio,2,escritorio 2
+0200794,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200794,2021,silla escolar,62,silla escolar 62
+0200794,2023,escritorio,2,escritorio 2
+0200794,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200794,2023,pizarrón,2,pizarrón 2
+0200794,2023,silla escolar,62,silla escolar 62
+0200795,2021,escritorio,5,escritorio 5
+0200795,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200795,2021,pizarrón,3,pizarrón 3
+0200795,2021,silla escolar,155,silla escolar 155
+0200795,2022,banco largo comedor,8,banco largo comedor 8
+0200795,2022,escritorio,3,escritorio 3
+0200795,2022,mesa 6 alumnos,4,mesa 6 alumnos 4
+0200795,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200795,2022,pizarrón,3,pizarrón 3
+0200795,2022,silla escolar,93,silla escolar 93
+0200795,2023,escritorio,3,escritorio 3
+0200795,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200795,2023,pizarrón,3,pizarrón 3
+0200795,2023,silla escolar,93,silla escolar 93
+0200796,2021,armario,30,armario 30
+0200796,2021,banco largo comedor,40,banco largo comedor 40
+0200796,2021,biblioteca,4,biblioteca 4
+0200796,2021,escritorio,25,escritorio 25
+0200796,2021,mesa 6 alumnos,28,mesa 6 alumnos 28
+0200796,2021,mesa pupitre doble,168,mesa pupitre doble 168
+0200796,2021,mesa trabajo estante,6,mesa trabajo estante 6
+0200796,2021,pizarrón,25,pizarrón 25
+0200796,2021,silla escolar,1592,silla escolar 1592
+0200796,2021,varios,7,varios 7
+0200796,2022,armario,6,armario 6
+0200796,2022,escritorio,2,escritorio 2
+0200796,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200796,2022,silla escolar,806,silla escolar 806
+0200796,2023,escritorio,1,escritorio 1
+0200796,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0200796,2023,pizarrón,1,pizarrón 1
+0200796,2023,silla escolar,31,silla escolar 31
+0200797,2021,escritorio,2,escritorio 2
+0200797,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200797,2021,silla escolar,58,silla escolar 58
+0200798,2022,mesa inicial,5,mesa inicial 5
+0200798,2022,silla escolar,15,silla escolar 15
+0200800,2021,escritorio,1,escritorio 1
+0200800,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200800,2021,silla escolar,61,silla escolar 61
+0200805,2022,banco largo comedor,100,banco largo comedor 100
+0200805,2022,mesa 6 alumnos,25,mesa 6 alumnos 25
+0200805,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200805,2022,pizarrón,7,pizarrón 7
+0200805,2022,silla escolar,186,silla escolar 186
+0200806,2021,armario,10,armario 10
+0200806,2021,pizarrón,4,pizarrón 4
+0200807,2022,banco largo comedor,22,banco largo comedor 22
+0200807,2022,mesa 6 alumnos,17,mesa 6 alumnos 17
+0200807,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200807,2022,silla escolar,60,silla escolar 60
+0200808,2021,escritorio,3,escritorio 3
+0200808,2021,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200808,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200808,2021,pizarrón,3,pizarrón 3
+0200808,2021,silla escolar,63,silla escolar 63
+0200808,2022,banco largo comedor,48,banco largo comedor 48
+0200808,2022,mesa 6 alumnos,24,mesa 6 alumnos 24
+0200808,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200808,2022,silla escolar,60,silla escolar 60
+0200808,2023,banco largo comedor,48,banco largo comedor 48
+0200809,2021,armario,4,armario 4
+0200809,2021,escritorio,4,escritorio 4
+0200809,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200809,2021,pizarrón,10,pizarrón 10
+0200809,2021,silla escolar,124,silla escolar 124
+0200810,2021,armario,3,armario 3
+0200810,2021,banco largo comedor,42,banco largo comedor 42
+0200810,2021,mesa 6 alumnos,21,mesa 6 alumnos 21
+0200810,2022,silla escolar,10,silla escolar 10
+0200811,2021,banco largo comedor,6,banco largo comedor 6
+0200811,2021,mesa 6 alumnos,3,mesa 6 alumnos 3
+0200812,2021,banco largo comedor,16,banco largo comedor 16
+0200812,2021,mesa 6 alumnos,8,mesa 6 alumnos 8
+0200812,2022,armario,3,armario 3
+0200812,2022,escritorio,5,escritorio 5
+0200812,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200812,2022,silla escolar,65,silla escolar 65
+0200813,2021,armario,3,armario 3
+0200813,2021,banco largo comedor,26,banco largo comedor 26
+0200813,2021,escritorio,2,escritorio 2
+0200813,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200813,2021,pizarrón,7,pizarrón 7
+0200813,2021,silla escolar,62,silla escolar 62
+0200813,2022,escritorio,3,escritorio 3
+0200813,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200813,2022,pizarrón,3,pizarrón 3
+0200813,2022,silla escolar,78,silla escolar 78
+0200815,2022,banco largo comedor,100,banco largo comedor 100
+0200815,2022,mesa 6 alumnos,25,mesa 6 alumnos 25
+0200815,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200815,2022,silla escolar,120,silla escolar 120
+0200816,2021,mesa inicial,4,mesa inicial 4
+0200816,2022,mesa inicial,8,mesa inicial 8
+0200816,2022,silla escolar,60,silla escolar 60
+0200817,2021,armario,8,armario 8
+0200817,2021,escritorio,6,escritorio 6
+0200817,2021,mesa pupitre doble,90,mesa pupitre doble 90
+0200817,2021,silla escolar,186,silla escolar 186
+0200817,2022,armario,4,armario 4
+0200817,2022,banco largo comedor,174,banco largo comedor 174
+0200817,2022,mesa 6 alumnos,44,mesa 6 alumnos 44
+0200817,2022,mesa inicial,10,mesa inicial 10
+0200817,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200817,2022,silla escolar,150,silla escolar 150
+0200818,2021,banco largo comedor,4,banco largo comedor 4
+0200818,2021,mesa 6 alumnos,2,mesa 6 alumnos 2
+0200819,2022,mesa pupitre doble,36,mesa pupitre doble 36
+0200819,2022,pizarrón,18,pizarrón 18
+0200819,2022,silla escolar,73,silla escolar 73
+0200819,2023,escritorio,5,escritorio 5
+0200819,2023,mesa pupitre doble,25,mesa pupitre doble 25
+0200819,2023,silla escolar,55,silla escolar 55
+0200821,2022,banco largo comedor,52,banco largo comedor 52
+0200821,2022,escritorio,3,escritorio 3
+0200821,2022,mesa 6 alumnos,25,mesa 6 alumnos 25
+0200821,2022,mesa pupitre doble,53,mesa pupitre doble 53
+0200821,2022,silla escolar,114,silla escolar 114
+0200822,2022,armario,2,armario 2
+0200823,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200823,2022,silla escolar,60,silla escolar 60
+0200825,2021,armario,4,armario 4
+0200825,2021,silla escolar,6,silla escolar 6
+0200827,2022,escritorio,4,escritorio 4
+0200827,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200827,2022,pizarrón,4,pizarrón 4
+0200827,2023,escritorio,4,escritorio 4
+0200827,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200827,2023,pizarrón,4,pizarrón 4
+0200827,2023,silla escolar,124,silla escolar 124
+0200828,2021,escritorio,2,escritorio 2
+0200828,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200828,2021,silla escolar,62,silla escolar 62
+0200828,2023,escritorio,3,escritorio 3
+0200828,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200828,2023,pizarrón,3,pizarrón 3
+0200828,2023,silla escolar,93,silla escolar 93
+0200829,2021,banco largo comedor,84,banco largo comedor 84
+0200829,2021,escritorio,7,escritorio 7
+0200829,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200829,2021,pizarrón,3,pizarrón 3
+0200829,2021,silla escolar,154,silla escolar 154
+0200829,2022,escritorio,2,escritorio 2
+0200829,2022,mesa pupitre doble,52,mesa pupitre doble 52
+0200829,2022,pizarrón,2,pizarrón 2
+0200829,2022,silla escolar,107,silla escolar 107
+0200829,2023,escritorio,2,escritorio 2
+0200829,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200829,2023,pizarrón,2,pizarrón 2
+0200829,2023,silla escolar,62,silla escolar 62
+0200830,2021,armario,6,armario 6
+0200830,2021,escritorio,4,escritorio 4
+0200830,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200830,2021,pizarrón,9,pizarrón 9
+0200830,2021,silla escolar,124,silla escolar 124
+0200830,2022,escritorio,4,escritorio 4
+0200830,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200830,2022,pizarrón,3,pizarrón 3
+0200830,2022,silla escolar,123,silla escolar 123
+0200830,2023,escritorio,3,escritorio 3
+0200830,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200830,2023,pizarrón,3,pizarrón 3
+0200830,2023,silla escolar,93,silla escolar 93
+0200831,2021,escritorio,5,escritorio 5
+0200831,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200831,2021,pizarrón,5,pizarrón 5
+0200831,2021,silla escolar,155,silla escolar 155
+0200831,2022,escritorio,3,escritorio 3
+0200831,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200831,2022,pizarrón,3,pizarrón 3
+0200831,2022,silla escolar,93,silla escolar 93
+0200831,2023,escritorio,2,escritorio 2
+0200831,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200831,2023,pizarrón,2,pizarrón 2
+0200831,2023,silla escolar,62,silla escolar 62
+0200832,2021,escritorio,4,escritorio 4
+0200832,2021,mesa pupitre doble,50,mesa pupitre doble 50
+0200832,2021,silla escolar,104,silla escolar 104
+0200832,2022,escritorio,7,escritorio 7
+0200832,2022,mesa pupitre doble,105,mesa pupitre doble 105
+0200832,2022,pizarrón,7,pizarrón 7
+0200832,2022,silla escolar,93,silla escolar 93
+0200832,2023,escritorio,7,escritorio 7
+0200832,2023,locker,20,locker 20
+0200832,2023,mesa pupitre doble,105,mesa pupitre doble 105
+0200832,2023,pizarrón,7,pizarrón 7
+0200832,2023,silla escolar,217,silla escolar 217
+0200833,2021,armario,30,armario 30
+0200833,2021,escritorio,2,escritorio 2
+0200833,2021,mesa inicial,5,mesa inicial 5
+0200833,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200833,2021,silla escolar,98,silla escolar 98
+0200834,2021,pizarrón,2,pizarrón 2
+0200834,2021,silla escolar,20,silla escolar 20
+0200839,2022,escritorio,3,escritorio 3
+0200839,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200839,2022,pizarrón,3,pizarrón 3
+0200839,2022,silla escolar,93,silla escolar 93
+0200839,2023,escritorio,3,escritorio 3
+0200839,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200839,2023,pizarrón,3,pizarrón 3
+0200839,2023,silla escolar,93,silla escolar 93
+0200846,2021,banco largo comedor,14,banco largo comedor 14
+0200846,2021,mesa 6 alumnos,7,mesa 6 alumnos 7
+0200847,2021,banco largo comedor,10,banco largo comedor 10
+0200847,2021,mesa 6 alumnos,5,mesa 6 alumnos 5
+0200848,2022,pizarrón,14,pizarrón 14
+0200849,2021,armario,7,armario 7
+0200849,2021,escritorio,2,escritorio 2
+0200849,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200849,2021,silla escolar,62,silla escolar 62
+0200850,2022,armario,6,armario 6
+0200850,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200850,2022,pizarrón,9,pizarrón 9
+0200850,2022,silla escolar,129,silla escolar 129
+0200851,2021,escritorio,1,escritorio 1
+0200851,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200851,2021,silla escolar,62,silla escolar 62
+0200851,2022,armario,5,armario 5
+0200851,2022,mesa inicial,4,mesa inicial 4
+0200851,2022,pizarrón,4,pizarrón 4
+0200851,2022,silla escolar,24,silla escolar 24
+0200853,2021,pizarrón,10,pizarrón 10
+0200853,2022,armario,4,armario 4
+0200854,2021,escritorio,2,escritorio 2
+0200854,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200854,2021,silla escolar,62,silla escolar 62
+0200855,2021,escritorio,3,escritorio 3
+0200855,2021,mesa inicial,5,mesa inicial 5
+0200855,2021,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200855,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200855,2021,pizarrón,20,pizarrón 20
+0200855,2021,silla escolar,123,silla escolar 123
+0200855,2022,armario,2,armario 2
+0200856,2021,mesa inicial,28,mesa inicial 28
+0200856,2021,silla escolar,168,silla escolar 168
+0200857,2022,escritorio,3,escritorio 3
+0200857,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200857,2022,silla escolar,93,silla escolar 93
+0200860,2021,banco largo comedor,140,banco largo comedor 140
+0200860,2021,mesa 6 alumnos,70,mesa 6 alumnos 70
+0200860,2021,mesa inicial,10,mesa inicial 10
+0200860,2021,mesa pupitre doble,50,mesa pupitre doble 50
+0200860,2021,pizarrón,5,pizarrón 5
+0200860,2021,silla escolar,160,silla escolar 160
+0200860,2022,armario,4,armario 4
+0200860,2022,escritorio,2,escritorio 2
+0200860,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200860,2022,pizarrón,11,pizarrón 11
+0200860,2022,silla escolar,90,silla escolar 90
+0200862,2021,armario,14,armario 14
+0200862,2021,escritorio,2,escritorio 2
+0200862,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200862,2021,pizarrón,26,pizarrón 26
+0200862,2021,silla escolar,62,silla escolar 62
+0200863,2021,escritorio,3,escritorio 3
+0200863,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200863,2021,pizarrón,3,pizarrón 3
+0200863,2021,silla escolar,93,silla escolar 93
+0200863,2022,escritorio,3,escritorio 3
+0200863,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200863,2022,pizarrón,3,pizarrón 3
+0200863,2022,silla escolar,93,silla escolar 93
+0200863,2023,escritorio,2,escritorio 2
+0200863,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200863,2023,pizarrón,2,pizarrón 2
+0200863,2023,silla escolar,62,silla escolar 62
+0200864,2021,banco largo comedor,70,banco largo comedor 70
+0200864,2021,mesa 6 alumnos,35,mesa 6 alumnos 35
+0200864,2021,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200864,2021,pizarrón,3,pizarrón 3
+0200864,2022,pizarrón,15,pizarrón 15
+0200864,2023,armario,4,armario 4
+0200865,2021,armario,4,armario 4
+0200865,2021,mesa inicial,5,mesa inicial 5
+0200865,2022,silla escolar,30,silla escolar 30
+0200868,2021,armario,5,armario 5
+0200868,2021,mesa inicial,8,mesa inicial 8
+0200868,2022,silla escolar,48,silla escolar 48
+0200870,2021,escritorio,9,escritorio 9
+0200870,2021,mesa pupitre doble,75,mesa pupitre doble 75
+0200870,2021,pizarrón,5,pizarrón 5
+0200870,2021,silla escolar,207,silla escolar 207
+0200870,2022,escritorio,4,escritorio 4
+0200870,2022,mesa pupitre doble,66,mesa pupitre doble 66
+0200870,2022,pizarrón,4,pizarrón 4
+0200870,2022,silla escolar,136,silla escolar 136
+0200870,2023,escritorio,1,escritorio 1
+0200870,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0200870,2023,pizarrón,1,pizarrón 1
+0200870,2023,silla escolar,31,silla escolar 31
+0200871,2021,escritorio,3,escritorio 3
+0200871,2021,mesa inicial,14,mesa inicial 14
+0200871,2021,mesa pupitre doble,52,mesa pupitre doble 52
+0200871,2021,silla escolar,177,silla escolar 177
+0200871,2022,escritorio,3,escritorio 3
+0200871,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200871,2022,pizarrón,3,pizarrón 3
+0200871,2022,silla escolar,93,silla escolar 93
+0200871,2023,escritorio,2,escritorio 2
+0200871,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200871,2023,pizarrón,2,pizarrón 2
+0200871,2023,silla escolar,62,silla escolar 62
+0200872,2021,silla escolar,40,silla escolar 40
+0200874,2021,escritorio,2,escritorio 2
+0200874,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200874,2021,pizarrón,2,pizarrón 2
+0200874,2021,silla escolar,62,silla escolar 62
+0200874,2022,escritorio,2,escritorio 2
+0200874,2022,mesa pupitre doble,33,mesa pupitre doble 33
+0200874,2022,pizarrón,2,pizarrón 2
+0200874,2022,silla escolar,68,silla escolar 68
+0200874,2023,escritorio,2,escritorio 2
+0200874,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200874,2023,pizarrón,2,pizarrón 2
+0200874,2023,silla escolar,62,silla escolar 62
+0200885,2021,mesa trabajo estante,8,mesa trabajo estante 8
+0200885,2021,varios,16,varios 16
+0200886,2021,escritorio,4,escritorio 4
+0200886,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200886,2021,pizarrón,4,pizarrón 4
+0200886,2021,silla escolar,124,silla escolar 124
+0200886,2022,escritorio,4,escritorio 4
+0200886,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0200886,2022,pizarrón,4,pizarrón 4
+0200886,2022,silla escolar,124,silla escolar 124
+0200886,2023,escritorio,3,escritorio 3
+0200886,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200886,2023,pizarrón,3,pizarrón 3
+0200886,2023,silla escolar,93,silla escolar 93
+0200887,2021,armario,20,armario 20
+0200887,2021,escritorio,2,escritorio 2
+0200887,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200887,2021,pizarrón,2,pizarrón 2
+0200887,2021,silla escolar,62,silla escolar 62
+0200887,2022,escritorio,2,escritorio 2
+0200887,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200887,2022,pizarrón,2,pizarrón 2
+0200887,2022,silla escolar,62,silla escolar 62
+0200887,2023,escritorio,2,escritorio 2
+0200887,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200887,2023,pizarrón,2,pizarrón 2
+0200887,2023,silla escolar,62,silla escolar 62
+0200898,2021,armario,5,armario 5
+0200898,2021,escritorio,2,escritorio 2
+0200898,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200898,2021,pizarrón,2,pizarrón 2
+0200898,2021,silla escolar,62,silla escolar 62
+0200899,2021,armario,8,armario 8
+0200899,2021,escritorio,7,escritorio 7
+0200899,2021,mesa pupitre doble,186,mesa pupitre doble 186
+0200899,2021,silla escolar,287,silla escolar 287
+0200900,2021,pizarrón,2,pizarrón 2
+0200902,2021,escritorio,2,escritorio 2
+0200902,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200902,2021,silla escolar,62,silla escolar 62
+0200903,2021,banco largo comedor,60,banco largo comedor 60
+0200903,2021,mesa 6 alumnos,30,mesa 6 alumnos 30
+0200903,2021,mesa pupitre doble,36,mesa pupitre doble 36
+0200903,2021,pizarrón,12,pizarrón 12
+0200903,2022,armario,44,armario 44
+0200903,2022,banco largo comedor,17,banco largo comedor 17
+0200903,2022,biblioteca,16,biblioteca 16
+0200903,2022,escritorio,24,escritorio 24
+0200903,2022,mesa 6 alumnos,14,mesa 6 alumnos 14
+0200903,2022,mesa integradora con escotadura,4,mesa integradora con escotadura 4
+0200903,2022,mesa pupitre doble,192,mesa pupitre doble 192
+0200903,2022,pizarrón,43,pizarrón 43
+0200903,2022,silla escolar,582,silla escolar 582
+0200903,2022,varios,8,varios 8
+0200905,2021,armario,4,armario 4
+0200905,2021,escritorio,2,escritorio 2
+0200905,2021,mesa inicial,9,mesa inicial 9
+0200905,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200905,2021,pizarrón,10,pizarrón 10
+0200905,2021,silla escolar,62,silla escolar 62
+0200905,2022,silla escolar,54,silla escolar 54
+0200907,2022,mesa inicial,6,mesa inicial 6
+0200907,2022,silla escolar,24,silla escolar 24
+0200908,2021,armario,9,armario 9
+0200908,2021,escritorio,4,escritorio 4
+0200908,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200908,2021,silla escolar,124,silla escolar 124
+0200910,2022,armario,2,armario 2
+0200910,2022,escritorio,8,escritorio 8
+0200910,2022,mesa 6 alumnos,1,mesa 6 alumnos 1
+0200910,2022,mesa inicial,4,mesa inicial 4
+0200910,2022,mesa pupitre doble,69,mesa pupitre doble 69
+0200910,2022,pizarrón,4,pizarrón 4
+0200910,2022,silla escolar,178,silla escolar 178
+0200913,2022,mesa inicial,10,mesa inicial 10
+0200913,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200913,2022,pizarrón,14,pizarrón 14
+0200913,2022,silla escolar,120,silla escolar 120
+0200914,2021,armario,2,armario 2
+0200914,2021,escritorio,7,escritorio 7
+0200914,2021,mesa pupitre doble,87,mesa pupitre doble 87
+0200914,2021,silla escolar,289,silla escolar 289
+0200916,2021,armario,4,armario 4
+0200916,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200916,2021,silla escolar,73,silla escolar 73
+0200917,2022,pizarrón,14,pizarrón 14
+0200918,2021,escritorio,4,escritorio 4
+0200918,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0200918,2021,silla escolar,124,silla escolar 124
+0200919,2023,banco largo comedor,20,banco largo comedor 20
+0200919,2023,juego de patio,1,juego de patio 1
+0200919,2023,piso antigolpe para juegos,60,piso antigolpe para juegos 60
+0200920,2022,armario,5,armario 5
+0200926,2023,varios,1,varios 1
+0200927,2021,escritorio,3,escritorio 3
+0200927,2021,mesa 6 alumnos,22,mesa 6 alumnos 22
+0200927,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0200927,2021,pizarrón,3,pizarrón 3
+0200927,2021,silla escolar,93,silla escolar 93
+0200927,2022,escritorio,2,escritorio 2
+0200927,2022,mesa inicial,22,mesa inicial 22
+0200927,2022,mesa integradora con escotadura,7,mesa integradora con escotadura 7
+0200927,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0200927,2022,pizarrón,24,pizarrón 24
+0200927,2022,silla escolar,62,silla escolar 62
+0200927,2023,escritorio,2,escritorio 2
+0200927,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200927,2023,pizarrón,2,pizarrón 2
+0200927,2023,silla escolar,62,silla escolar 62
+0200946,2021,banco largo comedor,116,banco largo comedor 116
+0200946,2021,mesa 6 alumnos,58,mesa 6 alumnos 58
+0200946,2021,mesa inicial,20,mesa inicial 20
+0200946,2021,pizarrón,10,pizarrón 10
+0200946,2021,silla escolar,120,silla escolar 120
+0200949,2021,armario,4,armario 4
+0200949,2021,escritorio,6,escritorio 6
+0200949,2021,mesa inicial,4,mesa inicial 4
+0200949,2021,mesa pupitre doble,95,mesa pupitre doble 95
+0200949,2021,pizarrón,3,pizarrón 3
+0200949,2021,silla escolar,216,silla escolar 216
+0200949,2022,armario,2,armario 2
+0200949,2022,escritorio,3,escritorio 3
+0200949,2022,mesa pupitre doble,48,mesa pupitre doble 48
+0200949,2022,pizarrón,3,pizarrón 3
+0200949,2022,silla escolar,99,silla escolar 99
+0200949,2023,escritorio,3,escritorio 3
+0200949,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200949,2023,pizarrón,3,pizarrón 3
+0200949,2023,silla escolar,93,silla escolar 93
+0200950,2021,armario,10,armario 10
+0200951,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0200951,2023,pizarrón,4,pizarrón 4
+0200951,2023,silla escolar,66,silla escolar 66
+0200953,2022,armario,6,armario 6
+0200953,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200953,2022,silla escolar,181,silla escolar 181
+0200954,2021,mesa pupitre doble,20,mesa pupitre doble 20
+0200954,2021,silla escolar,40,silla escolar 40
+0200954,2022,armario,8,armario 8
+0200954,2022,escritorio,2,escritorio 2
+0200954,2022,mesa inicial,2,mesa inicial 2
+0200954,2022,mesa integradora con escotadura,1,mesa integradora con escotadura 1
+0200954,2022,mesa pupitre doble,16,mesa pupitre doble 16
+0200954,2022,pizarrón,2,pizarrón 2
+0200954,2022,silla escolar,46,silla escolar 46
+0200955,2021,pizarrón,3,pizarrón 3
+0200956,2021,armario,7,armario 7
+0200956,2021,mesa inicial,6,mesa inicial 6
+0200956,2021,mesa pupitre doble,10,mesa pupitre doble 10
+0200956,2021,pizarrón,16,pizarrón 16
+0200956,2021,silla escolar,40,silla escolar 40
+0200956,2022,armario,2,armario 2
+0200957,2021,mesa inicial,20,mesa inicial 20
+0200957,2021,pizarrón,3,pizarrón 3
+0200957,2021,silla escolar,60,silla escolar 60
+0200957,2022,mesa pupitre doble,94,mesa pupitre doble 94
+0200957,2022,silla escolar,188,silla escolar 188
+0200958,2021,escritorio,2,escritorio 2
+0200958,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0200958,2021,pizarrón,2,pizarrón 2
+0200958,2021,silla escolar,62,silla escolar 62
+0200958,2022,escritorio,2,escritorio 2
+0200958,2022,mesa pupitre doble,18,mesa pupitre doble 18
+0200958,2022,pizarrón,2,pizarrón 2
+0200958,2022,silla escolar,38,silla escolar 38
+0200960,2021,armario,15,armario 15
+0200960,2021,escritorio,9,escritorio 9
+0200960,2021,pizarrón,6,pizarrón 6
+0200960,2021,silla escolar,3,silla escolar 3
+0200960,2021,varios,10,varios 10
+0200962,2022,escritorio,6,escritorio 6
+0200962,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200962,2022,pizarrón,6,pizarrón 6
+0200962,2022,silla escolar,186,silla escolar 186
+0200962,2023,escritorio,4,escritorio 4
+0200962,2023,mesa pupitre doble,60,mesa pupitre doble 60
+0200962,2023,pizarrón,4,pizarrón 4
+0200962,2023,silla escolar,124,silla escolar 124
+0200963,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0200963,2023,escritorio,6,escritorio 6
+0200963,2023,mesa pupitre doble,90,mesa pupitre doble 90
+0200963,2023,pizarrón,6,pizarrón 6
+0200963,2023,silla escolar,186,silla escolar 186
+0200964,2021,armario,16,armario 16
+0200964,2021,banco largo comedor,25,banco largo comedor 25
+0200964,2021,escritorio,6,escritorio 6
+0200964,2021,mesa 6 alumnos,15,mesa 6 alumnos 15
+0200964,2021,mesa pupitre doble,90,mesa pupitre doble 90
+0200964,2021,pizarrón,4,pizarrón 4
+0200964,2021,silla escolar,186,silla escolar 186
+0200964,2021,varios,6,varios 6
+0200964,2022,escritorio,4,escritorio 4
+0200964,2022,locker,90,locker 90
+0200964,2022,mesa pupitre doble,62,mesa pupitre doble 62
+0200964,2022,pizarrón,3,pizarrón 3
+0200964,2022,silla escolar,124,silla escolar 124
+0200964,2023,escritorio,3,escritorio 3
+0200964,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200964,2023,pizarrón,3,pizarrón 3
+0200964,2023,silla escolar,93,silla escolar 93
+0200965,2022,escritorio,3,escritorio 3
+0200965,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0200965,2022,pizarrón,3,pizarrón 3
+0200965,2022,silla escolar,93,silla escolar 93
+0200965,2023,escritorio,3,escritorio 3
+0200965,2023,mesa pupitre doble,45,mesa pupitre doble 45
+0200965,2023,pizarrón,3,pizarrón 3
+0200965,2023,silla escolar,93,silla escolar 93
+0200966,2021,mesa trabajo estante,6,mesa trabajo estante 6
+0200966,2021,varios,12,varios 12
+0200966,2022,armario,1,armario 1
+0200984,2021,mesa trabajo estante,2,mesa trabajo estante 2
+0200984,2021,varios,4,varios 4
+0200984,2022,banco largo comedor,12,banco largo comedor 12
+0201163,2021,mesa trabajo estante,8,mesa trabajo estante 8
+0201163,2021,varios,16,varios 16
+0201244,2021,mesa trabajo estante,6,mesa trabajo estante 6
+0201244,2021,varios,12,varios 12
+0201616,2021,mesa trabajo estante,4,mesa trabajo estante 4
+0201616,2021,varios,8,varios 8
+0201825,2022,armario,4,armario 4
+0201825,2022,biblioteca,2,biblioteca 2
+0201825,2022,mesa inicial,6,mesa inicial 6
+0201825,2022,pizarrón,1,pizarrón 1
+0201825,2022,silla escolar,25,silla escolar 25
+0201864,2022,escritorio,2,escritorio 2
+0201864,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0201864,2022,pizarrón,2,pizarrón 2
+0201864,2022,silla escolar,62,silla escolar 62
+0201864,2023,escritorio,2,escritorio 2
+0201864,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0201864,2023,pizarrón,2,pizarrón 2
+0201864,2023,silla escolar,62,silla escolar 62
+0201865,2021,escritorio,3,escritorio 3
+0201865,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0201865,2021,pizarrón,3,pizarrón 3
+0201865,2021,silla escolar,93,silla escolar 93
+0201865,2022,escritorio,3,escritorio 3
+0201865,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0201865,2022,pizarrón,3,pizarrón 3
+0201865,2022,silla escolar,93,silla escolar 93
+0201865,2023,escritorio,2,escritorio 2
+0201865,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0201865,2023,pizarrón,2,pizarrón 2
+0201865,2023,silla escolar,62,silla escolar 62
+0202144,2022,armario,3,armario 3
+0202145,2021,armario,5,armario 5
+0202145,2021,mesa inicial,3,mesa inicial 3
+0202145,2021,silla escolar,18,silla escolar 18
+0202145,2022,mesa inicial,5,mesa inicial 5
+0202145,2022,silla escolar,25,silla escolar 25
+0202146,2022,mesa inicial,1,mesa inicial 1
+0202146,2022,pizarrón,2,pizarrón 2
+0202146,2022,silla escolar,16,silla escolar 16
+0202167,2021,mesa 6 alumnos,6,mesa 6 alumnos 6
+0202167,2021,mesa inicial,2,mesa inicial 2
+0202167,2021,mesa trabajo estante,6,mesa trabajo estante 6
+0202167,2021,varios,4,varios 4
+0202167,2022,armario,11,armario 11
+0202167,2022,mesa 6 alumnos,6,mesa 6 alumnos 6
+0202167,2022,pizarrón,6,pizarrón 6
+0202167,2022,silla escolar,12,silla escolar 12
+0202178,2021,armario,4,armario 4
+0202178,2021,banco largo comedor,64,banco largo comedor 64
+0202178,2021,escritorio,7,escritorio 7
+0202178,2021,mesa 6 alumnos,32,mesa 6 alumnos 32
+0202178,2021,mesa inicial,5,mesa inicial 5
+0202178,2021,mesa pupitre doble,105,mesa pupitre doble 105
+0202178,2021,pizarrón,4,pizarrón 4
+0202178,2021,silla escolar,247,silla escolar 247
+0202178,2022,escritorio,3,escritorio 3
+0202178,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0202178,2022,pizarrón,3,pizarrón 3
+0202178,2022,silla escolar,93,silla escolar 93
+0202178,2023,escritorio,1,escritorio 1
+0202178,2023,mesa pupitre doble,15,mesa pupitre doble 15
+0202178,2023,pizarrón,1,pizarrón 1
+0202178,2023,silla escolar,31,silla escolar 31
+0202179,2021,armario,4,armario 4
+0202179,2021,mesa inicial,5,mesa inicial 5
+0202179,2022,silla escolar,30,silla escolar 30
+0202188,2021,escritorio,6,escritorio 6
+0202188,2021,mesa pupitre doble,90,mesa pupitre doble 90
+0202188,2021,pizarrón,6,pizarrón 6
+0202188,2021,silla escolar,186,silla escolar 186
+0202188,2021,varios,70,varios 70
+0202188,2022,escritorio,6,escritorio 6
+0202188,2022,mesa pupitre doble,90,mesa pupitre doble 90
+0202188,2022,pizarrón,6,pizarrón 6
+0202188,2022,silla escolar,186,silla escolar 186
+0202188,2023,escritorio,2,escritorio 2
+0202188,2023,locker,15,locker 15
+0202188,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0202188,2023,pizarrón,2,pizarrón 2
+0202188,2023,silla escolar,62,silla escolar 62
+0202204,2021,escritorio,2,escritorio 2
+0202204,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0202204,2021,pizarrón,2,pizarrón 2
+0202204,2021,silla escolar,62,silla escolar 62
+0202204,2022,escritorio,4,escritorio 4
+0202204,2022,mesa pupitre doble,60,mesa pupitre doble 60
+0202204,2022,pizarrón,4,pizarrón 4
+0202204,2022,silla escolar,124,silla escolar 124
+0202204,2023,locker,15,locker 15
+0202240,2021,mesa trabajo estante,2,mesa trabajo estante 2
+0202240,2021,varios,4,varios 4
+0202278,2021,mesa trabajo estante,4,mesa trabajo estante 4
+0202278,2021,varios,8,varios 8
+0202309,2022,mesa pupitre doble,7,mesa pupitre doble 7
+0202309,2022,pizarrón,1,pizarrón 1
+0202309,2022,silla escolar,15,silla escolar 15
+0202384,2022,armario,2,armario 2
+0202385,2021,mesa inicial,5,mesa inicial 5
+0202385,2022,silla escolar,15,silla escolar 15
+0202389,2021,escritorio,4,escritorio 4
+0202389,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0202389,2021,pizarrón,2,pizarrón 2
+0202389,2021,silla escolar,124,silla escolar 124
+0202394,2021,mesa trabajo estante,8,mesa trabajo estante 8
+0202394,2021,varios,16,varios 16
+0202430,2021,armario,3,armario 3
+0202437,2023,piso antigolpe para juegos,80,piso antigolpe para juegos 80
+0202450,2021,armario,20,armario 20
+0202562,2021,mesa inicial,5,mesa inicial 5
+0202562,2021,silla escolar,30,silla escolar 30
+0202564,2021,escritorio,2,escritorio 2
+0202564,2021,pizarrón,2,pizarrón 2
+0202564,2021,silla escolar,62,silla escolar 62
+0202564,2022,escritorio,2,escritorio 2
+0202564,2022,mesa pupitre doble,30,mesa pupitre doble 30
+0202564,2022,pizarrón,2,pizarrón 2
+0202564,2022,silla escolar,62,silla escolar 62
+0202564,2023,escritorio,2,escritorio 2
+0202564,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0202564,2023,pizarrón,2,pizarrón 2
+0202564,2023,silla escolar,62,silla escolar 62
+0202569,2023,escritorio,6,escritorio 6
+0202569,2023,mesa pupitre doble,90,mesa pupitre doble 90
+0202569,2023,pizarrón,6,pizarrón 6
+0202569,2023,silla escolar,186,silla escolar 186
+0202579,2021,mesa trabajo estante,2,mesa trabajo estante 2
+0202579,2021,varios,4,varios 4
+0202583,2021,armario,9,armario 9
+0202583,2021,escritorio,2,escritorio 2
+0202583,2021,mesa pupitre doble,30,mesa pupitre doble 30
+0202583,2021,silla escolar,62,silla escolar 62
+0202584,2021,escritorio,3,escritorio 3
+0202584,2021,mesa pupitre doble,45,mesa pupitre doble 45
+0202584,2021,pizarrón,3,pizarrón 3
+0202584,2021,silla escolar,93,silla escolar 93
+0202584,2022,escritorio,3,escritorio 3
+0202584,2022,mesa 6 alumnos,3,mesa 6 alumnos 3
+0202584,2022,mesa pupitre doble,45,mesa pupitre doble 45
+0202584,2022,pizarrón,3,pizarrón 3
+0202584,2022,silla escolar,93,silla escolar 93
+0202584,2023,banco largo comedor,38,banco largo comedor 38
+0202584,2023,escritorio,2,escritorio 2
+0202584,2023,mesa 6 alumnos,19,mesa 6 alumnos 19
+0202584,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0202584,2023,pizarrón,2,pizarrón 2
+0202584,2023,silla escolar,62,silla escolar 62
+0202595,2021,banco largo comedor,14,banco largo comedor 14
+0202595,2021,mesa 6 alumnos,7,mesa 6 alumnos 7
+0202597,2021,varios,30,varios 30
+0202643,2021,banco largo comedor,20,banco largo comedor 20
+0202643,2021,mesa 6 alumnos,10,mesa 6 alumnos 10
+0202643,2021,silla escolar,27,silla escolar 27
+0202649,2021,mesa trabajo estante,10,mesa trabajo estante 10
+0202649,2021,varios,20,varios 20
+0202649,2022,escritorio,2,escritorio 2
+0202649,2022,mesa pupitre doble,38,mesa pupitre doble 38
+0202649,2022,pizarrón,2,pizarrón 2
+0202649,2022,silla escolar,78,silla escolar 78
+0202649,2023,banco largo comedor,20,banco largo comedor 20
+0202649,2023,escritorio,2,escritorio 2
+0202649,2023,mesa 6 alumnos,10,mesa 6 alumnos 10
+0202649,2023,mesa pupitre doble,30,mesa pupitre doble 30
+0202649,2023,pizarrón,2,pizarrón 2
+0202649,2023,silla escolar,62,silla escolar 62
+0202650,2021,mesa trabajo estante,8,mesa trabajo estante 8
+0202650,2021,varios,16,varios 16
+0202656,2021,banco largo comedor,10,banco largo comedor 10
+0202656,2021,mesa 6 alumnos,5,mesa 6 alumnos 5
+0202660,2021,mesa inicial,58,mesa inicial 58
+0202660,2023,mesa inicial,5,mesa inicial 5
+0202660,2023,mesa pupitre doble,50,mesa pupitre doble 50
+0202660,2023,silla escolar,130,silla escolar 130
+0202662,2021,banco largo comedor,40,banco largo comedor 40
+0202662,2021,mesa 6 alumnos,30,mesa 6 alumnos 30
+0202662,2022,escritorio,4,escritorio 4
+0202662,2022,mesa pupitre doble,15,mesa pupitre doble 15
+0202662,2022,pizarrón,4,pizarrón 4
+0202662,2022,silla escolar,140,silla escolar 140
+0202662,2023,locker,15,locker 15
+0202663,2021,armario,17,armario 17
+0202663,2021,banco largo comedor,50,banco largo comedor 50
+0202663,2021,escritorio,25,escritorio 25
+0202663,2021,mesa 6 alumnos,44,mesa 6 alumnos 44
+0202663,2021,mesa pupitre doble,129,mesa pupitre doble 129
+0202663,2021,pizarrón,25,pizarrón 25
+0202663,2021,silla escolar,278,silla escolar 278
+0202663,2022,banco largo comedor,20,banco largo comedor 20
+0202663,2022,mesa 6 alumnos,10,mesa 6 alumnos 10
+0202663,2023,banco largo comedor,19,banco largo comedor 19
+0202663,2023,mesa 6 alumnos,10,mesa 6 alumnos 10
+0202663,2023,mesa pupitre doble,13,mesa pupitre doble 13
+0202663,2023,pizarrón,7,pizarrón 7
+0202663,2023,silla escolar,26,silla escolar 26
+0202667,2022,armario,4,armario 4
+0202667,2022,mesa inicial,20,mesa inicial 20
+0202667,2022,pizarrón,1,pizarrón 1
+0202667,2022,silla escolar,120,silla escolar 120
+0202668,2021,varios,50,varios 50
+0202676,2022,mesa inicial,3,mesa inicial 3
+0202676,2022,silla escolar,18,silla escolar 18
+0202678,2021,varios,300,varios 300
+0202679,2021,armario,1,armario 1
+0202679,2021,banco largo comedor,50,banco largo comedor 50
+0202679,2021,mesa 6 alumnos,25,mesa 6 alumnos 25
+0202679,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0202679,2021,silla escolar,64,silla escolar 64
+0202680,2021,banco largo comedor,74,banco largo comedor 74
+0202683,2021,armario,3,armario 3
+0202683,2022,mesa pupitre doble,40,mesa pupitre doble 40
+0202683,2022,silla escolar,80,silla escolar 80
+0202684,2021,juego de patio,1,juego de patio 1
+0202684,2021,varios,6,varios 6
+0202687,2021,armario,12,armario 12
+0202687,2021,banco largo comedor,35,banco largo comedor 35
+0202687,2021,biblioteca,10,biblioteca 10
+0202687,2021,escritorio,9,escritorio 9
+0202687,2021,mesa 6 alumnos,6,mesa 6 alumnos 6
+0202687,2021,mesa pupitre doble,115,mesa pupitre doble 115
+0202687,2021,pizarrón,18,pizarrón 18
+0202687,2021,silla escolar,198,silla escolar 198
+0202688,2021,armario,5,armario 5
+0202688,2021,biblioteca,10,biblioteca 10
+0202688,2021,escritorio,4,escritorio 4
+0202688,2021,mesa pupitre doble,60,mesa pupitre doble 60
+0202688,2021,pizarrón,2,pizarrón 2
+0202689,2022,armario,92,armario 92
+0202731,2021,armario,3,armario 3
+0202731,2021,biblioteca,3,biblioteca 3
+0202731,2021,escritorio,3,escritorio 3
+0202731,2021,juego de patio,1,juego de patio 1
+0202731,2021,mesa inicial,53,mesa inicial 53
+0202731,2021,pizarrón,8,pizarrón 8
+0202731,2021,silla escolar,332,silla escolar 332
+0202731,2021,varios,113,varios 113
+0202734,2021,mesa trabajo estante,12,mesa trabajo estante 12
+0202734,2021,varios,24,varios 24
+0202773,2022,armario,18,armario 18
+0202773,2022,biblioteca,9,biblioteca 9
+0202773,2022,escritorio,4,escritorio 4
+0202773,2022,mesa inicial,45,mesa inicial 45
+0202773,2022,pizarrón,15,pizarrón 15
+0202773,2022,silla escolar,428,silla escolar 428
+0202773,2022,varios,14,varios 14
+0203125,2021,juego de patio,1,juego de patio 1
+0203125,2021,piso antigolpe para juegos,60,piso antigolpe para juegos 60
+0203185,2021,armario,28,armario 28
+0203185,2021,banco largo comedor,28,banco largo comedor 28
+0203185,2021,biblioteca,14,biblioteca 14
+0203185,2021,escritorio,14,escritorio 14
+0203185,2021,pizarrón,42,pizarrón 42
+0203185,2021,silla escolar,14,silla escolar 14
+0203185,2022,armario,26,armario 26
+0203185,2022,banco largo comedor,90,banco largo comedor 90
+0203185,2022,biblioteca,14,biblioteca 14
+0203185,2022,escritorio,31,escritorio 31
+0203185,2022,mesa 6 alumnos,62,mesa 6 alumnos 62
+0203185,2022,mesa inicial,5,mesa inicial 5
+0203185,2022,mesa pupitre doble,260,mesa pupitre doble 260
+0203185,2022,pizarrón,72,pizarrón 72
+0203185,2022,silla escolar,865,silla escolar 865
+0203185,2022,varios,10,varios 10
+0203185,2023,armario,14,armario 14
+0203185,2023,biblioteca,14,biblioteca 14
+0203185,2023,silla escolar,14,silla escolar 14
+0superv,2021,armario,4,armario 4
