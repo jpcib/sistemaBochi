@@ -11,6 +11,20 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N°04 - COLEGIO N° 04 NICOLAS AVELL
 *  (2022) Electricidad 
     + Ejecución Instalacion Luz de Emergencia
 
+
+## Mobiliario
+
+*  (2023) : escritorio 5 
+
+*  (2023) : mesa pupitre doble 75 
+
+*  (2023) : pizarrón 5 
+
+*  (2023) : silla escolar 155 
+
+
+
+
 *  (2022) Incendio 
     + Normalizacion Sistema contra Incendio
 

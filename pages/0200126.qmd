@@ -11,6 +11,34 @@ subtitle: 'Sup Inicial I C - EPC N° 05 AGUSTIN ALVAREZ - JII N° 01/03° - ESEA
 *  (2022) Otros Servicios 
     + Arreglo filtración Baño Jardín
 
+
+## Mobiliario
+
+*  (2021) : armario 4 
+
+*  (2021) : banco largo comedor 96 
+
+*  (2021) : escritorio 4 
+
+*  (2021) : mesa 6 alumnos 48 
+
+*  (2021) : mesa inicial 6 
+
+*  (2021) : mesa pupitre doble 60 
+
+*  (2021) : silla escolar 36 
+
+*  (2022) : mesa pupitre doble 41 
+
+*  (2022) : silla escolar 82 
+
+*  (2023) : armario 2 
+
+*  (2023) : varios 1 
+
+
+
+
 *  (2022) Carpinterías 
     + Protección de Carpinterías Aulas 1P-2P
 

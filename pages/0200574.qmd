@@ -11,6 +11,28 @@ subtitle: 'LICEO N° 05 PASCUAL GUAGLIANONE - ESC. TEC.  N° 18 JOSE ANTONIO ALV
 *  (2022) Calefaccion y Refrigeracion 
     + Provisión de caldera de calefacción
 
+
+## Mobiliario
+
+*  (2021) : escritorio 5 
+
+*  (2021) : mesa pupitre doble 75 
+
+*  (2021) : pizarrón 5 
+
+*  (2021) : silla escolar 155 
+
+*  (2022) : escritorio 1 
+
+*  (2022) : mesa pupitre doble 15 
+
+*  (2022) : pizarrón 1 
+
+*  (2022) : silla escolar 31 
+
+
+
+
 *  (2022) Incendio 
     + Trabajos en la IFCI
 

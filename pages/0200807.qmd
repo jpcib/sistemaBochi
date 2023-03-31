@@ -11,6 +11,20 @@ subtitle: 'EPC N° 03 MONTE CASTRO - JINA(EPCJS03/18°)[S]LA CALESITA DON JOSE -
 *  (2022) Electricidad 
     + Adecuar instalacion electrica
 
+
+## Mobiliario
+
+*  (2022) : banco largo comedor 22 
+
+*  (2022) : mesa 6 alumnos 17 
+
+*  (2022) : mesa pupitre doble 30 
+
+*  (2022) : silla escolar 60 
+
+
+
+
 *  (2022) Electricidad 
     + Tendido electrico carros de computacion
 

@@ -4,3 +4,25 @@ subtitle: 'ESCUELA INF. N° 08/01°'
 ---
 
 #
+
+
+## Mobiliario
+
+*  (2021) : armario 6 
+
+*  (2021) : escritorio 3 
+
+*  (2021) : mesa inicial 6 
+
+*  (2021) : pizarrón 3 
+
+*  (2021) : silla escolar 48 
+
+*  (2021) : varios 43 
+
+*  (2022) : armario 8 
+
+*  (2022) : varios 32 
+
+
+

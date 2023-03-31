@@ -15,6 +15,30 @@ subtitle: 'EPC N° 04 PROVINCIA DE CORDOBA'
 *  (2022) Calefaccion y Refrigeracion 
     + Instalación de 2 AA
 
+
+## Mobiliario
+
+*  (2021) : armario 28 
+
+*  (2021) : banco largo comedor 44 
+
+*  (2021) : escritorio 11 
+
+*  (2021) : mesa 6 alumnos 22 
+
+*  (2021) : mesa pupitre doble 85 
+
+*  (2021) : pizarrón 25 
+
+*  (2021) : silla escolar 191 
+
+*  (2022) : pizarrón 1 
+
+*  (2022) : silla escolar 7 
+
+
+
+
 *  (2022) Gas 
     + Prov y coloc 3 Estufas de TB
 

@@ -2,10 +2,11 @@
 title: Bochi v 0.2
 ---
 
-Aplicación de consulta escolar de la SSGEFYAR \n
+Aplicación de consulta escolar de la SSGEFYAR
+
 Busque por dirección del establecimiento o nombre de escuela para acceder a los detalles.
 
----
+------------------------------------------------------------------------
 
 ```{r packages, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
 

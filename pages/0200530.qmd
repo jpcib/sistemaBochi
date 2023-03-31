@@ -4,6 +4,34 @@ subtitle: 'ESC. TEC. N° 28 REPUBLICA FRANCESA'
 ---
 
 #
+
+
+## Mobiliario
+
+*  (2021) : escritorio 4 
+
+*  (2021) : mesa pupitre doble 60 
+
+*  (2021) : pizarrón 4 
+
+*  (2022) : escritorio 3 
+
+*  (2022) : mesa pupitre doble 45 
+
+*  (2022) : pizarrón 3 
+
+*  (2022) : silla escolar 93 
+
+*  (2023) : escritorio 3 
+
+*  (2023) : mesa pupitre doble 45 
+
+*  (2023) : pizarrón 3 
+
+*  (2023) : silla escolar 93 
+
+
+
 ## Infraestructura
 
 * Instalacion electrica y  termomecanica, filtracion por cubierta. 

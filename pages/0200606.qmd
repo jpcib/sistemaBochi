@@ -11,6 +11,20 @@ subtitle: 'COLEGIO N° 09 JUSTO JOSE DE URQUIZA'
 *  (2023) Albañileria / Pintura 
     + Aulas secundarias del futuro
 
+
+## Mobiliario
+
+*  (2023) : escritorio 5 
+
+*  (2023) : mesa pupitre doble 75 
+
+*  (2023) : pizarrón 5 
+
+*  (2023) : silla escolar 155 
+
+
+
+
 *  (2023) Gas 
     + CAMBIAR CAÑERIA GAS LABORATORIOS
 

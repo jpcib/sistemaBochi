@@ -11,6 +11,16 @@ subtitle: 'ESCUELA INF. N° 02/02° PAMPITA'
 *  (2023) Electricidad 
     + Cambio de ventilador en Dirección
 
+
+## Mobiliario
+
+*  (2022) : mesa inicial 10 
+
+*  (2022) : silla escolar 75 
+
+
+
+
 *  (2022) Gas 
     + Puesta a normativa de inst de gas
 

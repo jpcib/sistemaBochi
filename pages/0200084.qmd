@@ -11,6 +11,24 @@ subtitle: 'EPC N° 11 PROVINCIA DE JUJUY - JIN C (EPCJC 11/02°) - CENS N° 29'
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Cambio de membrana en azotea
 
+
+## Mobiliario
+
+*  (2021) : armario 6 
+
+*  (2021) : banco largo comedor 32 
+
+*  (2021) : biblioteca 5 
+
+*  (2021) : mesa 6 alumnos 9 
+
+*  (2021) : pizarrón 1 
+
+*  (2022) : armario 4 
+
+
+
+
 *  (2022) Incendio 
     + Reposición de 1 Matafuegos ABC 5kg
 

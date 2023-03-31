@@ -11,6 +11,26 @@ subtitle: 'JIN A (EPCJS 04/12°) [S] - EPC N° 04 PROVINCIA DE LA PAMPA - ESEA E
 *  (2022) Calefaccion y Refrigeracion 
     + Plataforma para caloventiladores
 
+
+## Mobiliario
+
+*  (2021) : armario 4 
+
+*  (2021) : mesa inicial 5 
+
+*  (2021) : silla escolar 30 
+
+*  (2023) : banco largo comedor 16 
+
+*  (2023) : mesa 6 alumnos 8 
+
+*  (2023) : mesa pupitre doble 90 
+
+*  (2023) : silla escolar 180 
+
+
+
+
 *  (2022) Incendio 
     + Reposición de faltantes IFCI
 

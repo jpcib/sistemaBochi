@@ -11,6 +11,22 @@ subtitle: 'ESCUELA INF. N° 09/05° - EPC N°05 DE 05'
 *  (2022) Electricidad 
     + Instalación de luminarias led
 
+
+## Mobiliario
+
+*  (2021) : armario 5 
+
+*  (2021) : biblioteca 10 
+
+*  (2021) : escritorio 4 
+
+*  (2021) : mesa pupitre doble 60 
+
+*  (2021) : pizarrón 2 
+
+
+
+
 *  (2022) Electricidad 
     + Reemplazo de ventiladores con anomalías
 

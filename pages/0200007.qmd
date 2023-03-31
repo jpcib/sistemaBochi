@@ -17,6 +17,32 @@ Primer piso
 *  (2022) Electricidad 
     + Colocar ventiladores en aulas
 
+
+## Mobiliario
+
+*  (2021) : armario 4 
+
+*  (2021) : mesa inicial 6 
+
+*  (2021) : mesa pupitre doble 60 
+
+*  (2021) : silla escolar 60 
+
+*  (2022) : armario 2 
+
+*  (2022) : mesa pupitre doble 52 
+
+*  (2022) : pizarrón 14 
+
+*  (2022) : silla escolar 106 
+
+*  (2023) : armario 1 
+
+*  (2023) : pizarrón 14 
+
+
+
+
 *  (2022) Electricidad 
     + Reemplazo de Termotanques
 

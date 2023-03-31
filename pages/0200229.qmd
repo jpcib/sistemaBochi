@@ -11,6 +11,20 @@ subtitle: 'EPC N° 07 JUAN DE GARAY - EPA N° 07 JUAN DE GARAY - JIN A (EPCJS 07
 *  (2023) Albañileria / Pintura 
     + Cateos
 
+
+## Mobiliario
+
+*  (2021) : escritorio 4 
+
+*  (2021) : mesa pupitre doble 60 
+
+*  (2021) : pizarrón 10 
+
+*  (2021) : silla escolar 124 
+
+
+
+
 *  (2023) Electricidad 
     + instalación de 16 ventiladores
 
