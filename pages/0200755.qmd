@@ -7,7 +7,9 @@ subtitle: 'EPC N°17 GREGORIA MATORRAS DE SAN MARTIN - JIN C (EPCJS 17/16°) [S]
 ## Infraestructura
 
 * Etapa i2020 adecuacion espacios aulicos y ampliacion comedor pintura, accesibilidad 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
+    + Inicio de obra:28/2/2023 
+
 
 
 ## Mantenimiento
@@ -20,7 +22,6 @@ subtitle: 'EPC N°17 GREGORIA MATORRAS DE SAN MARTIN - JIN C (EPCJS 17/16°) [S]
 
 *  (2021) Saneamiento 
     + Proveer y colocar 7 purificadores
-
 
 
 

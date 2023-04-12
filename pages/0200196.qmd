@@ -7,7 +7,7 @@ subtitle: 'Sup Media Tecnica Region II Este - ESC. TEC. N° 31 MAESTRO QUINQUELA
 ## Infraestructura
 
 * Reparacion de aleros, cubiertas. 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'Sup Media Tecnica Region II Este - ESC. TEC. N° 31 MAESTRO QUINQUELA
 *  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
+
+    + Inicio de obra:24/9/2021 
 
 
 
@@ -41,7 +43,6 @@ subtitle: 'Sup Media Tecnica Region II Este - ESC. TEC. N° 31 MAESTRO QUINQUELA
 
 *  (2021) Cubiertas / Impermeabilizaciones 
     + 5ta ampliación andamios - PDM y Araoz, PROVISION E INSTALACION DE VALLA DE PROT
-
 
 
 

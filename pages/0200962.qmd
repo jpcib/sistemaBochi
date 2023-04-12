@@ -7,7 +7,7 @@ subtitle: 'ESC. DE COM. N° 12 JUAN XXIII'
 ## Infraestructura
 
 * Instalacion electrica, mejorar patio, sanitarios, y accesibilidad basica. Ampliacion de aulas region v (4 / 5 aulas), ver posibilidad de cambio de sistema de calefaccion 
-    + En Proyecto - Mejora Edilicia 
+    + Mejora Edilicia - En Proyecto 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'ESC. DE COM. N° 12 JUAN XXIII'
 *  (2022) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
 
 
+
+    + Inicio de obra:7/11/2023 
 
 
 
@@ -40,9 +42,9 @@ subtitle: 'ESC. DE COM. N° 12 JUAN XXIII'
 
 
 
-
 * 2do año 
-    + Finalizado - SDF 
+    + SDF - Finalizado 
+    + Inicio de obra:10/01/2023 
 
 
 

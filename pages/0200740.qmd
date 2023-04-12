@@ -7,7 +7,7 @@ subtitle: 'Sup Primaria DE16 - EPC N° 01 DR. DELFIN GALLO - EPA N° 01 DR. DELF
 ## Infraestructura
 
 * NA 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
 
 
 ## Mobiliario
@@ -16,13 +16,14 @@ subtitle: 'Sup Primaria DE16 - EPC N° 01 DR. DELFIN GALLO - EPA N° 01 DR. DELF
 
 
 
+    + Inicio de obra:Sin fecha de inicio 
+
 
 
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + pintura en salas del jardín
-
 
 
 

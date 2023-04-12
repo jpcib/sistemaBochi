@@ -7,7 +7,7 @@ subtitle: 'JII N° 04/03° EL JARDIN DEL MANZANO'
 ## Infraestructura
 
 * Sanitarios. (Fondos covid) 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -16,13 +16,14 @@ subtitle: 'JII N° 04/03° EL JARDIN DEL MANZANO'
 
 
 
+    + Inicio de obra:18/8/2022 
+
 
 
 ## Mantenimiento
 
 *  (2022) Gas 
     + Adecuación de Instalación de Gas COCINA
-
 
 
 

@@ -7,7 +7,7 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 ## Infraestructura
 
 * 3er año 
-    + En Obra - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -20,6 +20,8 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 
 
 
+    + Inicio de obra: 22/01/2023 - Avance: 10% - Plazo: 60 
+
 
 
 ## Mantenimiento
@@ -29,7 +31,6 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 
 *  (2021) Sanitarias 
     + Reemp tapas tanques-Reserva y Cisterna
-
 
 
 

@@ -7,7 +7,7 @@ subtitle: 'JIN D (EPCJC 24/12°) - EPC N° 24 PADRE CASTAÑEDA'
 ## Infraestructura
 
 * NA 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'JIN D (EPCJC 24/12°) - EPC N° 24 PADRE CASTAÑEDA'
 *  (2021) : Banco largo comedor 4, Escritorio 2, Mesa inicial 10, Mesa pupitre doble 15, Mesa usos múltiples 7, Pizarrón 5, Silla escolar 94 
 
 
+
+    + Inicio de obra:01/04/2023 
 
 
 
@@ -30,7 +32,6 @@ subtitle: 'JIN D (EPCJC 24/12°) - EPC N° 24 PADRE CASTAÑEDA'
 
 *  (2021) Sanitarias 
     + Reparaciones de albañilería y sanitarias
-
 
 
 

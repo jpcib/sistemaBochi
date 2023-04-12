@@ -7,7 +7,7 @@ subtitle: 'EPC N° 06 DR. ALFREDO L. PALACIOS'
 ## Infraestructura
 
 * NA 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'EPC N° 06 DR. ALFREDO L. PALACIOS'
 *  (2021) : Pizarrón 5 
 
 
+
+    + Inicio de obra:Sin fecha de inicio 
 
 
 
@@ -30,7 +32,6 @@ subtitle: 'EPC N° 06 DR. ALFREDO L. PALACIOS'
 
 *  (2021) Gas 
     + Cambio TB aula 2, 3 y Sala Maestros, Ejecutar Recomendac. Form. Metrogas
-
 
 
 

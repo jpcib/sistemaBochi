@@ -7,7 +7,7 @@ subtitle: 'ESPACIO DE PRIMERA INFANCIA EEM Nº2 DE 17 - EEM N° 02/17° RUMANIA 
 ## Infraestructura
 
 * 3er año 
-    + Finalizado - SDF 
+    + SDF - Finalizado 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'ESPACIO DE PRIMERA INFANCIA EEM Nº2 DE 17 - EEM N° 02/17° RUMANIA 
 *  (2021) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 3, Silla escolar 155 
 
 
+
+    + Inicio de obra:19/01/2023 
 
 
 
@@ -44,7 +46,6 @@ subtitle: 'ESPACIO DE PRIMERA INFANCIA EEM Nº2 DE 17 - EEM N° 02/17° RUMANIA 
 
 *  (2021) Gas 
     + REEMPLAZO DE HORNOS
-
 
 
 

@@ -7,7 +7,7 @@ subtitle: 'Sup Primaria DE 11 - JIN D (EPCJS 15/11Â°) [S] SIN FRONTERAS - EPA NÂ
 ## Infraestructura
 
 * Acondicionamiento de sanitarios pb y 1er. Pintura. Provision de piletones de acero inx. Acondicionamiento de solado en expansion descubierta del 2do piso. Creacion de sanitario para disca en pb. Rearmado de locales con tabiqueria en area de  pb. Colocacion de montaescalera en acceso (pb). 
-    + En Proyecto - Mejora Edilicia 
+    + Mejora Edilicia - En Proyecto 
 
 
 ## Mobiliario
@@ -18,6 +18,8 @@ subtitle: 'Sup Primaria DE 11 - JIN D (EPCJS 15/11Â°) [S] SIN FRONTERAS - EPA NÂ
 
 
 
+    + Inicio de obra:10/08/2023 
+
 
 
 ## Mantenimiento
@@ -27,7 +29,6 @@ subtitle: 'Sup Primaria DE 11 - JIN D (EPCJS 15/11Â°) [S] SIN FRONTERAS - EPA NÂ
 
 *  (2021) Cubiertas / Impermeabilizaciones 
     + ImpermeabilizaciÃ³n terraza supervisiÃ³n
-
 
 
 

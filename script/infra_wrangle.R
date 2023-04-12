@@ -5,28 +5,24 @@ options(scipen = 999)
 "%ni%" <- Negate("%in%")
 
 
-
 #PLANIFICACIÓN - Selección de columnas
-plani_raw <- 
+gop_raw <- 
   googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1Q1p_3pHECh8xOPOUeZj1bQV8dW7Ch1uJhk7-HFm3fRE/edit?usp=sharing",
                             sheet = "Planificación 2022-23", col_types = "c") %>% 
   janitor::clean_names() %>%
-  select(n_proyecto,
-         cui,
-         direccion = proyecto,
-         intervenciones, 
-         estado,
-         subestado,
-         eje,
-         nota_de_inicio,
-         pase_dgar = contains("dgar"),
-         inicio_obra = contains("inicio_obra"),
-         fin_obra,
-         avance_de_obra_real
-         ) %>% 
+  #selecciono columnas para ME
+  select(n_proyecto, direccion = proyecto, cui, estado_actual, estado_a_fin_de_obra, intervenciones,
+         presupuesto_estimado = ppto_estimado_plani, presupuesto_final = ppto_oficial, 
+         estado, subestado, fuente, 
+         pase_dgar = contains("dgar"), inicio_obra = contains("inicio_obra"), plazo_obra, ampliacion_de_plazo, 
+         avance_de_obra = avance_de_obra_real, fin_obra = contains("fin_obra"), 
+         expediente, 
+         eje) %>%
   glimpse()
 
-plani_clean <- plani_raw %>% 
+
+
+plani_clean <- gop_raw %>% 
   filter(!is.na(n_proyecto)) %>% 
   mutate(subestado = str_to_lower(subestado), 
          cui = str_squish(cui), 
@@ -38,6 +34,10 @@ plani_clean <- plani_raw %>%
   #saco obras con problemas en el cui
   drop_na(cui) %>% 
   filter(cui %ni% c("-","0000000","00000GG")) %>%  
+  mutate(inicio_obra = case_when(is.na(inicio_obra) ~ "Sin fecha de inicio", 
+                                 T ~ inicio_obra), 
+         plazo_obra = case_when(is.na(plazo_obra) ~ "Sin plazo", 
+                                T ~ plazo_obra)) %>% 
   # mutate(fecha = case_when(estado == "Planificado" ~ nota_de_inicio, 
   #                          estado == "En Proyecto" ~ nota_de_inicio,
   #                          estado == "Licitación" ~ pase_dgar,
@@ -51,4 +51,13 @@ plani_clean <- plani_raw %>%
   # distinct(estado) %>% 
   glimpse()
 
-write_csv(plani_clean, "data/infra_gop_v2.csv")
+DataExplorer::profile_missing(plani_clean)
+
+plani_clean %>%
+  filter(is.na(inicio_obra)) %>%
+  view()
+
+writexl::write_xlsx(plani_clean %>% filter(is.na(inicio_obra)), "data/sin_fecha_inicio_gop.xlsx")
+
+
+write_csv(plani_clean, "data/infra_gop_12-04.csv")

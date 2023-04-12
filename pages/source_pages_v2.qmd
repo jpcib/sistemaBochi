@@ -53,8 +53,8 @@ for (id_edificio in data$cui) {
 ```
 
 ```{r data_infra, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_infra <- read_csv("../data/infra_gop_v2.csv") %>% 
-  select(-c(nota_de_inicio:avance_de_obra_real)) %>% 
+data_infra <- read_csv("../data/infra_gop_12-04.csv") %>% 
+  # select(-c(nota_de_inicio:avance_de_obra_real)) %>% 
   arrange(cui) %>% 
   # slice(5:14) %>% 
   glimpse()
@@ -79,9 +79,15 @@ add_project_section <- function(data, dir) {
       id_data <- data[data$cui == i, ]
       
       # Create a bulleted list of the projects and dates
-      projects_list <- paste0("* ", id_data$intervenciones, " \n", 
-                              "    + ", id_data$estado, " - ", id_data$eje,  " \n\n")  
-      
+      if (any(id_data$estado == "En Obra")) {
+        projects_list <- paste0("* ", id_data$intervenciones, " \n", 
+                                "    + ", id_data$eje, " - ", id_data$estado, " \n",
+                                "    + ", "Inicio de obra: ", id_data$inicio_obra, " - ", "Avance: ", id_data$avance_de_obra, " - ", "Plazo: ", id_data$plazo_obra, " \n\n")  
+      } else {
+        projects_list <- paste0("* ", id_data$intervenciones, " \n", 
+                                "    + ", id_data$eje, " - ", id_data$estado, " \n",
+                                "    + ", "Inicio de obra:", id_data$inicio_obra, " \n\n") 
+      }
       # Combine the title and bulleted list
       project_section <- paste0("## Infraestructura\n\n", paste(projects_list, collapse = "\n"), "\n\n")
       
@@ -160,7 +166,7 @@ add_service_section_v3 <- function(data, dir) {
       
       if (length(infra_pos) > 0) {
         # Find the position of the last bulleted item under the Infrastructure header
-        infra_end_pos <- infra_pos + match(TRUE, grepl("^    \\+ ", file_contents[infra_pos:length(file_contents)])) - 1
+        infra_end_pos <- infra_pos + match(TRUE, grepl("^    \\+ ", file_contents[infra_pos:length(file_contents)])) + 1
         
         # Insert the services section after the last bulleted item under the Infrastructure header
         updated_contents <- append(file_contents, services_section, after = infra_end_pos)
@@ -190,6 +196,8 @@ add_service_section_v3 <- function(data, dir) {
     
   }
 }
+
+
 
 add_service_section_v3(data_mtom, dir = ".")
 

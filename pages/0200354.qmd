@@ -7,7 +7,9 @@ subtitle: 'EPC N° 02 FRANCISCO DESIDERIO HERRERA - CONSERVATORIO SUPERIOR DE M�
 ## Infraestructura
 
 * Acondicionamiento  de acc basica cubierta (nueva toda la cubierta del gym),inst electricidad,  incendio, cambio calera, prov agua  arreglo menores de revoquers patio. pintura genereal.  provicion de moviliariio para guardado 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
+    + Inicio de obra:10/1/2023 
+
 
 
 ## Mantenimiento
@@ -23,7 +25,6 @@ subtitle: 'EPC N° 02 FRANCISCO DESIDERIO HERRERA - CONSERVATORIO SUPERIOR DE M�
 
 *  (2021) Electricidad 
     + Colocación de luces de emergencia
-
 
 
 

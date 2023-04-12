@@ -8,7 +8,7 @@ subtitle: 'ISFA [A 3] - ESC. SUPERIOR DE EDUCACIÓN ARTÍSTICA EN DANZA AÍDA VI
 
 * Restauracion de fachadas, refacciones generales de cielorrasos, pisos, sala
 De cooperadora y sala docente , inst eléctrica, sanitarios 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -20,6 +20,8 @@ De cooperadora y sala docente , inst eléctrica, sanitarios
 *  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
+
+    + Inicio de obra: 20/1/2023 - Avance: 0% - Plazo: 310 
 
 
 
@@ -48,7 +50,6 @@ De cooperadora y sala docente , inst eléctrica, sanitarios
 
 *  (2021) Electricidad 
     + Prov,coloc tarima, inst electrica,pintur, Instalar 7 purificadores
-
 
 
 

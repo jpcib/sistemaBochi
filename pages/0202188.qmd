@@ -7,7 +7,7 @@ subtitle: 'ESC. TEC. N° 36 ALTE. GUILLERMO BROWN - ESC. SUPERIOR DE EDUCACIÓN 
 ## Infraestructura
 
 * Terminación vestuarios, pileta, sanitarios, estacionamiento, parquizado 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'ESC. TEC. N° 36 ALTE. GUILLERMO BROWN - ESC. SUPERIOR DE EDUCACIÓN 
 *  (2021) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186, Varios 70 
 
 
+
+    + Inicio de obra: 20/1/2023 - Avance: 4% - Plazo: 330 
 
 
 
@@ -87,9 +89,9 @@ subtitle: 'ESC. TEC. N° 36 ALTE. GUILLERMO BROWN - ESC. SUPERIOR DE EDUCACIÓN 
 
 
 
-
 * 3er año 
-    + En Obra - SDF 
+    + SDF - En Obra 
+    + Inicio de obra: 10/01/2023 - Avance: 33% - Plazo: 60 
 
 
 

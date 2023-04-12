@@ -7,7 +7,7 @@ subtitle: 'JIN D (EPCJS 19/09°) - EPC N° 19 PROVINCIA DEL CHUBUT - CAIYJ CHACA
 ## Infraestructura
 
 * Instalacion electrica completa 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
 
 
 ## Mobiliario
@@ -16,13 +16,14 @@ subtitle: 'JIN D (EPCJS 19/09°) - EPC N° 19 PROVINCIA DEL CHUBUT - CAIYJ CHACA
 
 
 
+    + Inicio de obra:Sin fecha de inicio 
+
 
 
 ## Mantenimiento
 
 *  (2021) Gas 
     + Adecuacion instalacion de gas
-
 
 
 

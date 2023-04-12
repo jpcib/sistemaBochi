@@ -7,7 +7,7 @@ subtitle: 'ESC. TEC. N° 28 REPUBLICA FRANCESA'
 ## Infraestructura
 
 * Instalacion electrica y  termomecanica, filtracion por cubierta. 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -20,6 +20,8 @@ subtitle: 'ESC. TEC. N° 28 REPUBLICA FRANCESA'
 
 
 
+    + Inicio de obra:1/6/2023 
+
 
 
 ## Mantenimiento
@@ -29,7 +31,6 @@ subtitle: 'ESC. TEC. N° 28 REPUBLICA FRANCESA'
 
 *  (2021) Electricidad 
     + Colocacion de purificadores
-
 
 
 

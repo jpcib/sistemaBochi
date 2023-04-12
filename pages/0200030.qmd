@@ -7,7 +7,7 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 ## Infraestructura
 
 * 2do año 
-    + En Obra - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 *  (2021) : Armario 4, Escritorio 4, Mesa pupitre doble 90, Pizarrón 4, Silla escolar 60 
 
 
+
+    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
 
 
 
@@ -50,7 +52,6 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 
 *  (2021) Otros Servicios 
     + 4 AULAS SECUNDARIAS DEL FUTURO
-
 
 
 

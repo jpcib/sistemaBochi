@@ -7,7 +7,7 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
 ## Infraestructura
 
 * Accesibilidad, ascensor. (amparo) 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
 
+
+    + Inicio de obra: 15/9/2021 - Avance: 100% - Plazo: 210 
 
 
 
@@ -36,9 +38,9 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
 
 
 
-
 * 3er año 
-    + En Obra - SDF 
+    + SDF - En Obra 
+    + Inicio de obra: 10/01/2023 - Avance: 75% - Plazo: 60 
 
 
 

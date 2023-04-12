@@ -7,7 +7,7 @@ subtitle: 'EPC N° 01 CASTO MUNITA - JIC N° 03/10° [A] - CENOF CENTRO CUBA - E
 ## Infraestructura
 
 * Sanitarios, cubierta, carpinterias y pintura 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'EPC N° 01 CASTO MUNITA - JIC N° 03/10° [A] - CENOF CENTRO CUBA - E
 *  (2021) : Escritorio 3, Mesa pupitre doble 39, Silla escolar 75 
 
 
+
+    + Inicio de obra:27/6/2023 
 
 
 
@@ -25,7 +27,6 @@ subtitle: 'EPC N° 01 CASTO MUNITA - JIC N° 03/10° [A] - CENOF CENTRO CUBA - E
 
 *  (2021) Albañileria / Pintura 
     + Pintura en Gimnasio, Provision y colocacion de ceramicas
-
 
 
 

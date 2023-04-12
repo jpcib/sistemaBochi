@@ -7,7 +7,9 @@ subtitle: 'ESC. DE COM. N° 32 JOSE LEON SUAREZ [A]'
 ## Infraestructura
 
 * 2do año 
-    + En Obra - SDF 
+    + SDF - En Obra 
+    + Inicio de obra: 15/01/2023 - Avance: 87% - Plazo: 60 
+
 
 
 ## Mantenimiento
@@ -26,7 +28,6 @@ subtitle: 'ESC. DE COM. N° 32 JOSE LEON SUAREZ [A]'
 
 *  (2021) Gas 
     + Poner en norma instalacion de gas renglo
-
 
 
 

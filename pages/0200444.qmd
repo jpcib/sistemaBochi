@@ -7,7 +7,7 @@ subtitle: 'JII N° 05/09° - EPC N° 05 HON. CONGRESO DE LA NACION - CECEP N° 0
 ## Infraestructura
 
 * Electrica e incendio / amparo 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'JII N° 05/09° - EPC N° 05 HON. CONGRESO DE LA NACION - CECEP N° 0
 *  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
+
+    + Inicio de obra:19/05/2023 
 
 
 
@@ -42,7 +44,6 @@ subtitle: 'JII N° 05/09° - EPC N° 05 HON. CONGRESO DE LA NACION - CECEP N° 0
 
 *  (2021) Sanitarias 
     + Construcción de pozo para desagüe
-
 
 
 

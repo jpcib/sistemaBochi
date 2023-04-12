@@ -7,7 +7,7 @@ subtitle: 'EPC N° 03 ING. ALVAREZ CONDARCO - JIN C (EPCJC 03/14°) [S]'
 ## Infraestructura
 
 * Instalacion electrica completa 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -20,6 +20,8 @@ subtitle: 'EPC N° 03 ING. ALVAREZ CONDARCO - JIN C (EPCJC 03/14°) [S]'
 
 
 
+    + Inicio de obra: 17/11/2022 - Avance: 38% - Plazo: 90 
+
 
 
 ## Mantenimiento
@@ -29,7 +31,6 @@ subtitle: 'EPC N° 03 ING. ALVAREZ CONDARCO - JIN C (EPCJC 03/14°) [S]'
 
 *  (2021) Electricidad 
     + Adecuacion tableros electricos, Colocacion de purificadores
-
 
 
 

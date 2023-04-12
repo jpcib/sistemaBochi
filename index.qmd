@@ -1,5 +1,5 @@
 ---
-title: Bochi v 0.2
+title: Sistema de Consulta Escolar 1.0
 ---
 
 Aplicación de consulta escolar de la SSGEFYAR

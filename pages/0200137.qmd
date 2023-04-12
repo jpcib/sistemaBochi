@@ -7,7 +7,7 @@ subtitle: 'PI LUCECITAS - CENS N° 18 - COLEGIO N° 01 BERNARDINO RIVADAVIA - ES
 ## Infraestructura
 
 * NA 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'PI LUCECITAS - CENS N° 18 - COLEGIO N° 01 BERNARDINO RIVADAVIA - ES
 *  (2021) : Mesa pupitre doble 60 
 
 
+
+    + Inicio de obra:Sin fecha de inicio 
 
 
 
@@ -42,9 +44,9 @@ subtitle: 'PI LUCECITAS - CENS N° 18 - COLEGIO N° 01 BERNARDINO RIVADAVIA - ES
 
 
 
-
 * Impermeabilizacion de todas las terrazas y cubiertas. tratamiento de patologias estructurales, hierros expuestos. Tratamiento de humedad de cimientos. Optimizacion en instalaciones pluvial. 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra:07/07/2022 
 
 
 

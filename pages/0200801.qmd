@@ -7,7 +7,9 @@ subtitle: 'Sup.Educ.Prim.Zona D Región VIII - DE 17 - Biblioteca Antonio Devoto
 ## Infraestructura
 
 * Refuncionalizacion edilicia: casa del casero en oficinas de la supervision. Accesibilidad basica, instalacion electrica completa, sanitaria y termomecanica. 
-    + En Proyecto - Mejora Edilicia 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra:11/08/2023 
+
 
 
 ## Mantenimiento
@@ -20,7 +22,6 @@ subtitle: 'Sup.Educ.Prim.Zona D Región VIII - DE 17 - Biblioteca Antonio Devoto
 
 *  (2022) Gas 
     + Recambio de artefacto cocina
-
 
 
 

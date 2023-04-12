@@ -7,7 +7,7 @@ subtitle: 'EPC N° 10 ANTONIO ZACCAGNINI - JII N° 03/13° JARDIN DEL PARQUE'
 ## Infraestructura
 
 * Cubierta, carpinterias (madera, deterioradas), playon de acceso, puesta en valor sector original del edificio 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
 
 
 ## Mobiliario
@@ -18,6 +18,7 @@ subtitle: 'EPC N° 10 ANTONIO ZACCAGNINI - JII N° 03/13° JARDIN DEL PARQUE'
 
 
 
+    + Inicio de obra:14/3/2024 
 
 
 

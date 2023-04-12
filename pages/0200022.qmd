@@ -7,7 +7,7 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N° 02 - COLEGIO N° 02 DOMINGO FAUS
 ## Infraestructura
 
 * 2do año 
-    + En Obra - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N° 02 - COLEGIO N° 02 DOMINGO FAUS
 *  (2022) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 
+
+    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
 
 
 
@@ -33,7 +35,6 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N° 02 - COLEGIO N° 02 DOMINGO FAUS
 
 *  (2021) Electricidad 
     + Reemplazo de ventiladores en aulas
-
 
 
 

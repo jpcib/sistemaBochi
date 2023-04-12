@@ -7,7 +7,7 @@ subtitle: 'ESC. DE COM.  N° 21 CAP. DE NAVIO HIPOLITO BOUCHARD'
 ## Infraestructura
 
 * 2do año 
-    + Licitación - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -20,6 +20,8 @@ subtitle: 'ESC. DE COM.  N° 21 CAP. DE NAVIO HIPOLITO BOUCHARD'
 
 
 
+    + Inicio de obra: Sin fecha de inicio - Avance: DGMESC - Plazo: 90 
+
 
 
 ## Mantenimiento
@@ -29,7 +31,6 @@ subtitle: 'ESC. DE COM.  N° 21 CAP. DE NAVIO HIPOLITO BOUCHARD'
 
 *  (2021) Cubiertas / Impermeabilizaciones 
     + Retiro e instalac. membrana impermeab.
-
 
 
 

@@ -7,7 +7,7 @@ subtitle: 'ESC. TEC. N° 06 FERNANDO FADER'
 ## Infraestructura
 
 * Obra nueva, ampliación de la porteña 54  ( 9 aulas) 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'ESC. TEC. N° 06 FERNANDO FADER'
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
+
+    + Inicio de obra: 20/1/2023 - Avance: 1% - Plazo: 390 
 
 
 
@@ -43,7 +45,6 @@ subtitle: 'ESC. TEC. N° 06 FERNANDO FADER'
 
 *  (2021) Calefaccion y Refrigeracion 
     + Inst 2 equipos A°A°-Dirección y Regencia
-
 
 
 

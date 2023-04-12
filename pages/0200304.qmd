@@ -7,7 +7,7 @@ subtitle: 'EPC N° 13 BRIG. GRAL. JOSE M. ZAPIOLA - JIN B (EPCJC 13/06°) MAESTR
 ## Infraestructura
 
 * Casa de casero 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'EPC N° 13 BRIG. GRAL. JOSE M. ZAPIOLA - JIN B (EPCJC 13/06°) MAESTR
 *  (2021) : Banco largo comedor 16, Mesa usos múltiples 8 
 
 
+
+    + Inicio de obra:15/07/2023 
 
 
 
@@ -39,7 +41,6 @@ subtitle: 'EPC N° 13 BRIG. GRAL. JOSE M. ZAPIOLA - JIN B (EPCJC 13/06°) MAESTR
 
 *  (2021) Electricidad 
     + Reemplazo de artefactos de fachada, Artefactos LED en hall de acceso
-
 
 
 

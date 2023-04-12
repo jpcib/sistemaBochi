@@ -7,7 +7,7 @@ subtitle: 'EEM N° 05/10° HEROES DE MALVINAS'
 ## Infraestructura
 
 * 2do año 
-    + Licitación - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'EEM N° 05/10° HEROES DE MALVINAS'
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
+
+    + Inicio de obra: Sin fecha de inicio - Avance: DGMESC - Plazo: 90 
 
 
 
@@ -36,7 +38,6 @@ subtitle: 'EEM N° 05/10° HEROES DE MALVINAS'
 
 *  (2021) Electricidad 
     + Provision y colocacion de central telefo
-
 
 
 

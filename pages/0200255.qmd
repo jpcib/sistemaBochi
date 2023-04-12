@@ -7,7 +7,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 05'
 ## Infraestructura
 
 * Sanitarios. (Fondos covid) 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -18,13 +18,14 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 05'
 
 
 
+    + Inicio de obra:24/5/2022 
+
 
 
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
     + Colocacion aire acondicionado en aula
-
 
 
 

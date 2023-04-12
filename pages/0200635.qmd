@@ -7,7 +7,7 @@ subtitle: 'EPC N° 18 DRA.ELVIRA R. DE DELLEPIANE - JINC(EPCJC 18/13°)NIÑOS LA
 ## Infraestructura
 
 * NA 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -16,6 +16,7 @@ subtitle: 'EPC N° 18 DRA.ELVIRA R. DE DELLEPIANE - JINC(EPCJC 18/13°)NIÑOS LA
 
 
 
+    + Inicio de obra:27/7/2022 
 
 
 

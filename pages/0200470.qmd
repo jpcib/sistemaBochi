@@ -7,7 +7,7 @@ subtitle: 'EEM N° 07/09° MARIA CLAUDIA FALCONE'
 ## Infraestructura
 
 * 2do año 
-    + Finalizado - SDF 
+    + SDF - Finalizado 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'EEM N° 07/09° MARIA CLAUDIA FALCONE'
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
+
+    + Inicio de obra:10/12/2022 
 
 
 
@@ -39,7 +41,6 @@ subtitle: 'EEM N° 07/09° MARIA CLAUDIA FALCONE'
 
 *  (2021) Otros Servicios 
     + Protecciones metalicas en terraza 3ro
-
 
 
 

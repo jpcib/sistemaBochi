@@ -8,7 +8,7 @@ subtitle: 'EEM N° 05/15° - EEM N° 05/15°'
 
 * Reparación de humedad de cimientos, reparación de las mamposterías afectadas y pintura integral. Impermeabilización de cubiertas, en sector con filtraciones y respiración de cielorrasos.
 Acondicionamiento de baños 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
 
 
 ## Mobiliario
@@ -20,6 +20,8 @@ Acondicionamiento de baños
 *  (2021) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 
 
 
+
+    + Inicio de obra:23/3/2024 
 
 
 
@@ -33,7 +35,6 @@ Acondicionamiento de baños
 
 *  (2021) Electricidad 
     + Instalacion de 7 purificadores
-
 
 
 

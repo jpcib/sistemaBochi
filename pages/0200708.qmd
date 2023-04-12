@@ -7,7 +7,7 @@ subtitle: 'EPC N° 09 DOMINGUITO - CENS N° 78'
 ## Infraestructura
 
 * Demoliciones varias, reparaciones y provisión de nuevas carpinterías (herreria), accesibilidad basica, sanitario adaptado, patio, pintura gral. 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'EPC N° 09 DOMINGUITO - CENS N° 78'
 *  (2021) : Armario 4, Escritorio 4, Mesa pupitre doble 60, Silla escolar 123 
 
 
+
+    + Inicio de obra: 23/9/2022 - Avance: 45% - Plazo: 120 
 
 
 
@@ -28,7 +30,6 @@ subtitle: 'EPC N° 09 DOMINGUITO - CENS N° 78'
 
 *  (2021) Electricidad 
     + Instalacion de purificadores
-
 
 
 

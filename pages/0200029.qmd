@@ -7,7 +7,7 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 ## Infraestructura
 
 * Impermeabilizacion 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 *  (2021) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 
+
+    + Inicio de obra: 1/5/2023 - Avance: 64% - Plazo: 240 
 
 
 
@@ -69,9 +71,9 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 
 
 
-
 * 2do año 
-    + Licitación - SDF 
+    + SDF - En Obra 
+    + Inicio de obra: Sin fecha de inicio - Avance: 30% - Plazo: 60 
 
 
 

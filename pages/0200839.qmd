@@ -7,7 +7,7 @@ subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
 ## Infraestructura
 
 * 2do año 
-    + Finalizado - SDF 
+    + SDF - Finalizado 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
 *  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
+
+    + Inicio de obra:22/01/2023 
 
 
 
@@ -39,7 +41,6 @@ subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
 
 *  (2021) Carpinterías 
     + Pintura aulas y provisión de puerta
-
 
 
 

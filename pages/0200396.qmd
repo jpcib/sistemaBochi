@@ -7,7 +7,7 @@ subtitle: 'EEM N° 01/07 JULIETA LANTERI'
 ## Infraestructura
 
 * Puesta en funcionamiento de la plieta y accesibilidad 
-    + En Proyecto - CORP SUR 
+    + CORP SUR - En Proyecto 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'EEM N° 01/07 JULIETA LANTERI'
 *  (2021) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 3, Silla escolar 31 
 
 
+
+    + Inicio de obra:06/07/2023 
 
 
 
@@ -32,7 +34,6 @@ subtitle: 'EEM N° 01/07 JULIETA LANTERI'
 
 *  (2021) Gas 
     + Adecuación instalacion de gas
-
 
 
 

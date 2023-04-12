@@ -7,7 +7,7 @@ subtitle: 'COLEGIO N° 13 CNEL. TOMAS ESPORA - EEM N° 01/18° E REINGRESO - PI 
 ## Infraestructura
 
 * 2do año 
-    + Finalizado - SDF 
+    + SDF - Finalizado 
 
 
 ## Mobiliario
@@ -18,13 +18,14 @@ subtitle: 'COLEGIO N° 13 CNEL. TOMAS ESPORA - EEM N° 01/18° E REINGRESO - PI 
 
 
 
+    + Inicio de obra:22/01/2023 
+
 
 
 ## Mantenimiento
 
 *  (2021) Albañileria / Pintura 
     + Pintura y herrería
-
 
 
 

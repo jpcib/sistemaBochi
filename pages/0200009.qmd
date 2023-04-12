@@ -7,7 +7,7 @@ subtitle: 'JIN A (EPCJC 09/01°) - EPC N° 09 FAMILIA DE CABEZON - CENS N° 26'
 ## Infraestructura
 
 * Adecuacion de cubierta , sanitario ,electricidad , cielorraso , carpinteria                                                          arreglo de revoques  en aulas y patio                                                                 adecuacion pintura interior de areas significantes  y patio 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'JIN A (EPCJC 09/01°) - EPC N° 09 FAMILIA DE CABEZON - CENS N° 26'
 *  (2021) : Escritorio 2, Mesa pupitre doble 60, Pizarrón 12, Silla escolar 62 
 
 
+
+    + Inicio de obra:15/4/2024 
 
 
 
@@ -30,7 +32,6 @@ subtitle: 'JIN A (EPCJC 09/01°) - EPC N° 09 FAMILIA DE CABEZON - CENS N° 26'
 
 *  (2021) Medios de elevación 
     + Adecuar a norma montacarga
-
 
 
 

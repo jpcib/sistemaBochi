@@ -7,7 +7,7 @@ subtitle: 'Sup Adultos Region II B - Sup Adultos Region IV B - ESC. DE COM. N° 
 ## Infraestructura
 
 * Instalacion electrica completa, impermeabilizacion, mejoras varias en el edificio 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'Sup Adultos Region II B - Sup Adultos Region IV B - ESC. DE COM. N° 
 *  (2022) : Pizarrón 21 
 
 
+
+    + Inicio de obra: 22/12/2021 - Avance: 61% - Plazo: 210 
 
 
 
@@ -30,7 +32,6 @@ subtitle: 'Sup Adultos Region II B - Sup Adultos Region IV B - ESC. DE COM. N° 
 
 *  (2021) Carpinterías 
     + Reponer puertas Bº y retretes
-
 
 
 

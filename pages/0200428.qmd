@@ -7,7 +7,7 @@ subtitle: 'ISEF N° 02 PROF. FEDERICO W. DICKENS'
 ## Infraestructura
 
 * Refaccion integral edilicia accesibilidad plena carpinteria y pintura patio 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'ISEF N° 02 PROF. FEDERICO W. DICKENS'
 *  (2022) : Escritorio 5, Mesa pupitre doble 40, Silla escolar 85 
 
 
+
+    + Inicio de obra:25/5/2022 
 
 
 
@@ -39,7 +41,6 @@ subtitle: 'ISEF N° 02 PROF. FEDERICO W. DICKENS'
 
 *  (2021) Sanitarias 
     + Reemplazar las dos bombas de desagote
-
 
 
 

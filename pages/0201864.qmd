@@ -7,7 +7,7 @@ subtitle: 'EEM N° 02/13°'
 ## Infraestructura
 
 * Fachadas exteriores (desprendimiento de pintura y revoques), humedad en subsuelo y levantamiento de solado, aulas en mal estado (placas de cielorraso faltantes, pinturas con grafitis), patio cubierto con filtración por cubierta de vidrio. Baños: filtración, faltante de cerámicos y artefactos de luz. pintura en general. 
-    + En Proyecto - Mejora Edilicia 
+    + Mejora Edilicia - En Proyecto 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'EEM N° 02/13°'
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
+
+    + Inicio de obra:03/09/2023 
 
 
 
@@ -40,9 +42,9 @@ subtitle: 'EEM N° 02/13°'
 
 
 
-
 * 2do año 
-    + Finalizado - SDF 
+    + SDF - Finalizado 
+    + Inicio de obra:15/01/2023 
 
 
 

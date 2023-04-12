@@ -7,7 +7,7 @@ subtitle: 'ESCUELA INF. N° 02/03° MANE BERNARDO'
 ## Infraestructura
 
 * Etapa 2022-23 adecuación de cubierta, patio, instalación eléctrica completa (amparo) y pintura 
-    + En Proyecto - Mejora Edilicia 
+    + Mejora Edilicia - En Proyecto 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'ESCUELA INF. N° 02/03° MANE BERNARDO'
 *  (2021) : Mesa inicial 20, Silla escolar 120 
 
 
+
+    + Inicio de obra:28/9/2023 
 
 
 
@@ -32,7 +34,6 @@ subtitle: 'ESCUELA INF. N° 02/03° MANE BERNARDO'
 
 *  (2021) Gas 
     + Cambio de termotanque jardin
-
 
 
 

@@ -7,7 +7,7 @@ subtitle: 'EPC N° 08 JORGE ANGEL BOERO'
 ## Infraestructura
 
 * Impermeabilización e inst electrica completa 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'EPC N° 08 JORGE ANGEL BOERO'
 *  (2021) : Banco largo comedor 42, Mesa usos múltiples 25 
 
 
+
+    + Inicio de obra:2/1/2023 
 
 
 
@@ -28,7 +30,6 @@ subtitle: 'EPC N° 08 JORGE ANGEL BOERO'
 
 *  (2021) Gas 
     + Reemplazo de Termotanque-Caseros
-
 
 
 

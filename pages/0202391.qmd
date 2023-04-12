@@ -7,7 +7,9 @@ subtitle: 'JII N° 14/21° - SUM-COMEDOR JIC N°14"Complejo Bermejo"'
 ## Infraestructura
 
 * Adaptacion de modulares en un cfp / acceso independiente / cambiar sanitarios / instalaciones/ aula 
-    + En Proyecto - Mejora Edilicia 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra:10/9/2022 
+
 
 
 ## Mantenimiento
@@ -26,7 +28,6 @@ subtitle: 'JII N° 14/21° - SUM-COMEDOR JIC N°14"Complejo Bermejo"'
 
 *  (2021) Electricidad 
     + Cambio disyuntor de mayor amp, Línea de tomas en dirección
-
 
 
 

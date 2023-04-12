@@ -7,7 +7,7 @@ subtitle: 'JIN A (EPCJC 08/09°) - EPC N° 08 ARMENIO-ARGENTINA'
 ## Infraestructura
 
 * Re ajuste aulas y ampliacion sala de 3. Casa casero? 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'JIN A (EPCJC 08/09°) - EPC N° 08 ARMENIO-ARGENTINA'
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 124 
 
 
+
+    + Inicio de obra:22/11/2022 
 
 
 
@@ -38,7 +40,6 @@ subtitle: 'JIN A (EPCJC 08/09°) - EPC N° 08 ARMENIO-ARGENTINA'
 
 *  (2021) Electricidad 
     + Instalar 1 purificador de aire
-
 
 
 

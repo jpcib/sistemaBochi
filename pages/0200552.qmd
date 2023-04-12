@@ -7,7 +7,9 @@ subtitle: 'EPC N° 04 BENJAMIN ZORRILLA - JIC N° 02/11°'
 ## Infraestructura
 
 * Patio cubierto, creacion de un comedor con sanitarios 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra:19/1/2024 
+
 
 
 ## Mantenimiento
@@ -29,7 +31,6 @@ subtitle: 'EPC N° 04 BENJAMIN ZORRILLA - JIC N° 02/11°'
 
 *  (2021) Medios de elevación 
     + puesta en norma del ascensor
-
 
 
 

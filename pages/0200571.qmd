@@ -7,7 +7,7 @@ subtitle: 'ESC. DE COM. N° 09 JOSE INGENIEROS'
 ## Infraestructura
 
 * 2do año 
-    + Licitación - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -18,6 +18,7 @@ subtitle: 'ESC. DE COM. N° 09 JOSE INGENIEROS'
 
 
 
+    + Inicio de obra: Sin fecha de inicio - Avance: DGMESC - Plazo: 90 
 
 
 

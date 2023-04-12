@@ -7,7 +7,7 @@ subtitle: 'ESC. SUPERIOR DE EDUCACIÓN ARTÍSTICA EN ARTES VISUALES ROGELIO YRUR
 ## Infraestructura
 
 * 3er año 
-    + En Obra - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'ESC. SUPERIOR DE EDUCACIÓN ARTÍSTICA EN ARTES VISUALES ROGELIO YRUR
 *  (2021) : Banco largo comedor 40, Mesa usos múltiples 30 
 
 
+
+    + Inicio de obra: 10/01/2023 - Avance: 75% - Plazo: 60 
 
 
 
@@ -48,9 +50,9 @@ subtitle: 'ESC. SUPERIOR DE EDUCACIÓN ARTÍSTICA EN ARTES VISUALES ROGELIO YRUR
 
 
 
-
 * Trabajos en  medianeras, subsuelo por filtraciones 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra: 20/5/2022 - Avance: 100% - Plazo: 150 
 
 
 

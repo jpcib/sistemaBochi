@@ -7,7 +7,7 @@ subtitle: 'EPC N° 22 FELIX DE AZARA'
 ## Infraestructura
 
 * Sanitarios, revoques, patios y pintura. 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'EPC N° 22 FELIX DE AZARA'
 *  (2021) : Banco largo comedor 8, Mesa usos múltiples 4 
 
 
+
+    + Inicio de obra:08/06/2023 
 
 
 
@@ -34,7 +36,6 @@ subtitle: 'EPC N° 22 FELIX DE AZARA'
 
 *  (2021) Sanitarias 
     + cambio CI baño varones PB
-
 
 
 

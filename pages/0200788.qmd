@@ -13,7 +13,7 @@ Cielorrasos, solados, cambio de cubierta
 De tejas coloniales, reacondicionamiento
 De locales en 1º piso, instalaciones
 Eléctricas , sanitarias y termomecánicas 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -22,13 +22,14 @@ Eléctricas , sanitarias y termomecánicas
 
 
 
+    + Inicio de obra: 22/2/2022 - Avance: 96% - Plazo: 270 
+
 
 
 ## Mantenimiento
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Colocar red antipaloma en patio
-
 
 
 

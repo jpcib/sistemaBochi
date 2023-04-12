@@ -7,7 +7,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 ## Infraestructura
 
 * Carpinterías, cubierta y pintura en areas significativas 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 124 
 
 
+
+    + Inicio de obra:24/1/2023 
 
 
 
@@ -37,7 +39,6 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 
 *  (2021) Sanitarias 
     + Termotanque eléctrico en casa casera
-
 
 
 

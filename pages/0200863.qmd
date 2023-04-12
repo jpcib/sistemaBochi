@@ -7,7 +7,7 @@ subtitle: 'POLIDEPORTIVO - EEM N° 02/19° - PI JAURETCHITOS - EEM N° 02/19° A
 ## Infraestructura
 
 * 3er año 
-    + Licitación - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'POLIDEPORTIVO - EEM N° 02/19° - PI JAURETCHITOS - EEM N° 02/19° A
 *  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
+
+    + Inicio de obra: Sin fecha de inicio - Avance: DGMESC - Plazo: 60 
 
 
 
@@ -56,7 +58,6 @@ subtitle: 'POLIDEPORTIVO - EEM N° 02/19° - PI JAURETCHITOS - EEM N° 02/19° A
 
 *  (2021) Medios de elevación 
     + Adecuación de ascensor
-
 
 
 

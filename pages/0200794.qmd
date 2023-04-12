@@ -7,7 +7,7 @@ subtitle: 'Sup. Media Region 7 - EEM N° 03/17° ANTONIO DEVOTO - CENS N° 65 - 
 ## Infraestructura
 
 * , Adecuacion de cubierta, pluviales, carpinteria. Arreglo de revoques en aulas y patio. Adecuacion pintura interior de areas significantes y patio. Agregar sdf 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -18,6 +18,8 @@ subtitle: 'Sup. Media Region 7 - EEM N° 03/17° ANTONIO DEVOTO - CENS N° 65 - 
 
 
 
+    + Inicio de obra:11/7/2023 
+
 
 
 ## Mantenimiento
@@ -27,7 +29,6 @@ subtitle: 'Sup. Media Region 7 - EEM N° 03/17° ANTONIO DEVOTO - CENS N° 65 - 
 
 *  (2021) Cubiertas / Impermeabilizaciones 
     + Impermeab. medianera SUM, Reparar cubierta biblioteca
-
 
 
 

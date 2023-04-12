@@ -7,7 +7,7 @@ subtitle: 'ESC. DE COM. N° 26 ENRIQUE DE VEDIA - ENS LENGUAS VIVAS SOFIA DE SPA
 ## Infraestructura
 
 * Nuevo ascensor exterior - aumento caudal, reserva sanitaria 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'ESC. DE COM. N° 26 ENRIQUE DE VEDIA - ENS LENGUAS VIVAS SOFIA DE SPA
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4 
 
 
+
+    + Inicio de obra: 26/6/2022 - Avance: 67% - Plazo: 180 
 
 
 
@@ -57,7 +59,6 @@ subtitle: 'ESC. DE COM. N° 26 ENRIQUE DE VEDIA - ENS LENGUAS VIVAS SOFIA DE SPA
 
 *  (2021) Otros Servicios 
     + Readecuacion de patio sala 2 años
-
 
 
 

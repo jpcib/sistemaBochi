@@ -7,7 +7,7 @@ subtitle: 'EPC N° 07 OLEGARIO VICTOR ANDRADE - CECIE N° 06'
 ## Infraestructura
 
 * Accesibilidad, ascensor, instalacion electrica completa 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'EPC N° 07 OLEGARIO VICTOR ANDRADE - CECIE N° 06'
 *  (2022) : Banco largo comedor 10, Escritorio 5, Mesa pupitre doble 90, Silla escolar 183 
 
 
+
+    + Inicio de obra: 8/7/2022 - Avance: 67% - Plazo: 240 
 
 
 
@@ -33,7 +35,6 @@ subtitle: 'EPC N° 07 OLEGARIO VICTOR ANDRADE - CECIE N° 06'
 
 *  (2021) Incendio 
     + Reposición de extintores
-
 
 
 

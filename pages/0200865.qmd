@@ -7,7 +7,7 @@ subtitle: 'JIN B (EPCJS 11/19°) [S] HOMERO MANZI - EPC N° 22 JUANA AZURDUY'
 ## Infraestructura
 
 * Instalacion electrica completa, aa en patio central 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'JIN B (EPCJS 11/19°) [S] HOMERO MANZI - EPC N° 22 JUANA AZURDUY'
 *  (2021) : Armario 4, Mesa inicial 5 
 
 
+
+    + Inicio de obra:21/10/2022 
 
 
 
@@ -39,7 +41,6 @@ subtitle: 'JIN B (EPCJS 11/19°) [S] HOMERO MANZI - EPC N° 22 JUANA AZURDUY'
 
 *  (2021) Sanitarias 
     + Reemplazo de Canaletas Pluviales Patio
-
 
 
 

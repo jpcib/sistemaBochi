@@ -7,7 +7,7 @@ subtitle: 'Sup Media Region V - LICEO N° 08 ESTEBAN ECHEVERRIA'
 ## Infraestructura
 
 * 3er año 
-    + En Obra - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'Sup Media Region V - LICEO N° 08 ESTEBAN ECHEVERRIA'
 *  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
+
+    + Inicio de obra: 10/01/2023 - Avance: 70% - Plazo: 60 
 
 
 
@@ -32,7 +34,6 @@ subtitle: 'Sup Media Region V - LICEO N° 08 ESTEBAN ECHEVERRIA'
 
 *  (2022) Incendio 
     + Provisión de matafuegos
-
 
 
 

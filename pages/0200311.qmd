@@ -7,7 +7,7 @@ subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
 ## Infraestructura
 
 * Pintura y acondicionamiento de patio 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
 *  (2021) : Armario 6 
 
 
+
+    + Inicio de obra:Sin fecha de inicio 
 
 
 
@@ -33,7 +35,6 @@ subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
 
 *  (2021) Otros Servicios 
     + Reposicion de termotanque
-
 
 
 

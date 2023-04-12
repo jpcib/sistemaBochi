@@ -7,7 +7,7 @@ subtitle: 'BOA N° 01 ANTONIO BERNI - COLEGIO N° 10 JOSE DE SAN MARTIN'
 ## Infraestructura
 
 * Mejoramiento edilicio e instalación eléctrica 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'BOA N° 01 ANTONIO BERNI - COLEGIO N° 10 JOSE DE SAN MARTIN'
 *  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
+
+    + Inicio de obra: 30/1/2023 - Avance: 68% - Plazo: 120 
 
 
 
@@ -38,7 +40,6 @@ subtitle: 'BOA N° 01 ANTONIO BERNI - COLEGIO N° 10 JOSE DE SAN MARTIN'
 
 *  (2021) Otros Servicios 
     + Colocacion de red anti palomas
-
 
 
 

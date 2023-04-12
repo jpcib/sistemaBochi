@@ -7,7 +7,7 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 ## Infraestructura
 
 * 3er año 
-    + En Obra - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 *  (2021) : Armario 7, Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
+
+    + Inicio de obra: Sin fecha de inicio - Avance: 20% - Plazo: 60 
 
 
 
@@ -35,7 +37,6 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 
 *  (2021) Gas 
     + Modificaciones informe matriculado, Cambio de artefacto cocina casero
-
 
 
 

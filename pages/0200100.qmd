@@ -7,7 +7,7 @@ subtitle: 'Polideportivo ESC. TEC. N° 30 DR. NORBERTO PIÑERO - ESC. TEC. N° 3
 ## Infraestructura
 
 * Mejora edilicia, sanitarios, talleres. 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'Polideportivo ESC. TEC. N° 30 DR. NORBERTO PIÑERO - ESC. TEC. N° 3
 *  (2021) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 
+
+    + Inicio de obra:18/11/2021 
 
 
 
@@ -38,7 +40,6 @@ subtitle: 'Polideportivo ESC. TEC. N° 30 DR. NORBERTO PIÑERO - ESC. TEC. N° 3
 
 *  (2021) Gas 
     + Reparar perdidas en cocina de buffet, Recolocar tubos de ventilacion, Cambio de cañeria de termofusion, Reacondicionamiento de redes de gas
-
 
 
 

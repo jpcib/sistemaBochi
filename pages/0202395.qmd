@@ -7,7 +7,9 @@ subtitle: 'EPC N° 13 PREFECTURA NAVAL ARGENTINA - ESCUELA INF. N° 04/17°'
 ## Infraestructura
 
 * Impermeabilizacion 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra:5/10/2021 
+
 
 
 ## Mantenimiento
@@ -20,7 +22,6 @@ subtitle: 'EPC N° 13 PREFECTURA NAVAL ARGENTINA - ESCUELA INF. N° 04/17°'
 
 *  (2021) Gas 
     + Gas, extracción y ventilaciones
-
 
 
 

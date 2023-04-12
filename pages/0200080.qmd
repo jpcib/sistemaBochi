@@ -7,7 +7,7 @@ subtitle: 'EPC N° 07 DEL CENTENARIO - JIN C (EPCJC 07/02°)'
 ## Infraestructura
 
 * Acc. plena, pintura y adecuacion de instalacion electrica 
-    + En Proyecto - Mejora Edilicia 
+    + Mejora Edilicia - En Proyecto 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'EPC N° 07 DEL CENTENARIO - JIN C (EPCJC 07/02°)'
 *  (2023) : Armario 3, Escritorio 3, Silla escolar 9 
 
 
+
+    + Inicio de obra:25/9/2023 
 
 
 
@@ -37,7 +39,6 @@ subtitle: 'EPC N° 07 DEL CENTENARIO - JIN C (EPCJC 07/02°)'
 
 *  (2021) Sanitarias 
     + Nueva cañería desde grasera a cámara, Adecuación descarga de la grasera
-
 
 
 

@@ -7,7 +7,7 @@ subtitle: 'ESC. DE COM. N° 33 MAIPU'
 ## Infraestructura
 
 * Instalacion electrica completa 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'ESC. DE COM. N° 33 MAIPU'
 *  (2021) : Banco largo comedor 84, Escritorio 7, Mesa pupitre doble 75, Pizarrón 3, Silla escolar 154 
 
 
+
+    + Inicio de obra:19/8/2022 
 
 
 
@@ -41,7 +43,6 @@ subtitle: 'ESC. DE COM. N° 33 MAIPU'
 
 *  (2021) Carpinterías 
     + Protecciones estufas tiro balanceado, Proteciones baranda escalera, Reparacion puertas madera acceso
-
 
 
 

@@ -7,7 +7,7 @@ subtitle: 'EPC N°14 FRAY MARTIN DEL BARCO CENTENERA - JIC Nº 10 DE 10'
 ## Infraestructura
 
 * Amparo - accesibilidad plena y pintura parcial + ie ajustar 
-    + En Proyecto - Mejora Edilicia 
+    + Mejora Edilicia - En Proyecto 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'EPC N°14 FRAY MARTIN DEL BARCO CENTENERA - JIC Nº 10 DE 10'
 *  (2021) : Escritorio 2, Mesa inicial 5, Mesa integradora con escotadura 1, Mesa pupitre doble 30, Silla escolar 92, Varios 6 
 
 
+
+    + Inicio de obra:4/11/2023 
 
 
 
@@ -33,7 +35,6 @@ subtitle: 'EPC N°14 FRAY MARTIN DEL BARCO CENTENERA - JIC Nº 10 DE 10'
 
 *  (2021) Medios de elevación 
     + Puesta en marcha de montasilla
-
 
 
 

@@ -7,7 +7,7 @@ subtitle: 'EEM N° 03/07°'
 ## Infraestructura
 
 * 2do año 
-    + En Obra - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'EEM N° 03/07°'
 *  (2022) : Banco largo comedor 20, Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
+
+    + Inicio de obra: 17/01/2023 - Avance: 40% - Plazo: 60 
 
 
 
@@ -36,7 +38,6 @@ subtitle: 'EEM N° 03/07°'
 
 *  (2021) Medios de elevación 
     + Habilitación de platafoma de PB
-
 
 
 

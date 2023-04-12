@@ -7,7 +7,7 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
 ## Infraestructura
 
 * 2do año 
-    + Licitación - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
 *  (2021) : Escritorio 4, Mesa pupitre doble 50, Silla escolar 104 
 
 
+
+    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
 
 
 
@@ -48,9 +50,9 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
 
 
 
-
 * Instalacion electrica completa, sanitarios 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra: 5/10/2021 - Avance: 100% - Plazo: 180 
 
 
 

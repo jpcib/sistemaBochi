@@ -7,7 +7,7 @@ subtitle: 'CENS N° 70 - EPC N° 05 PAUL GROUSSAC'
 ## Infraestructura
 
 * Pintura general y arreglos de algunos sectores de revoque. 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -18,6 +18,8 @@ subtitle: 'CENS N° 70 - EPC N° 05 PAUL GROUSSAC'
 
 
 
+    + Inicio de obra: 20/1/2023 - Avance: 98% - Plazo: 90 
+
 
 
 ## Mantenimiento
@@ -27,7 +29,6 @@ subtitle: 'CENS N° 70 - EPC N° 05 PAUL GROUSSAC'
 
 *  (2022) Gas 
     + Adecuación de inst de gas a normativa
-
 
 
 

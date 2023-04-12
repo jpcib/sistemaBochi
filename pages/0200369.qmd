@@ -7,7 +7,7 @@ subtitle: 'EPC N° 19 GALICIA'
 ## Infraestructura
 
 * Patio, demolicion de casa del casero en patio, pluviales del patio, accesibilidad basica, baños 
-    + En Proyecto - Mejora Edilicia 
+    + Mejora Edilicia - En Proyecto 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'EPC N° 19 GALICIA'
 *  (2021) : Banco largo comedor 24, Mesa usos múltiples 12 
 
 
+
+    + Inicio de obra:17/10/2023 
 
 
 
@@ -31,7 +33,6 @@ subtitle: 'EPC N° 19 GALICIA'
 
 *  (2021) Electricidad 
     + Instalacion equipos purificadores, Adecuación eléctrica de la válv solenoid
-
 
 
 

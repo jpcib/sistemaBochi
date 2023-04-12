@@ -7,7 +7,7 @@ subtitle: 'ESC. TEC. N° 11 MANUEL BELGRANO'
 ## Infraestructura
 
 * 2do año 
-    + Finalizado - SDF 
+    + SDF - Finalizado 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'ESC. TEC. N° 11 MANUEL BELGRANO'
 *  (2022) : Escritorio 6, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 150 
 
 
+
+    + Inicio de obra:10/12/2022 
 
 
 
@@ -33,7 +35,6 @@ subtitle: 'ESC. TEC. N° 11 MANUEL BELGRANO'
 
 *  (2021) Sanitarias 
     + Reposición Tapas de tanques de agua
-
 
 
 

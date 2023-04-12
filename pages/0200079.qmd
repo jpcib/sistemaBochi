@@ -7,7 +7,9 @@ subtitle: 'EPC N° 06 GRAL. MARTIN RODRIGUEZ - CENOF CENTRO ANCHORENA'
 ## Infraestructura
 
 * Adecuacion inst y pintura 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
+    + Inicio de obra: 8/2/2023 - Avance: 19% - Plazo: 150 
+
 
 
 ## Mantenimiento
@@ -17,7 +19,6 @@ subtitle: 'EPC N° 06 GRAL. MARTIN RODRIGUEZ - CENOF CENTRO ANCHORENA'
 
 *  (2021) Electricidad 
     + Colocación de purificadores
-
 
 
 

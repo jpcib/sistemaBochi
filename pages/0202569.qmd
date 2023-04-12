@@ -7,7 +7,7 @@ subtitle: 'ESC. DE COM.   N° 27 ANTARTIDA ARGENTINA - ESC. DE COM.  N° 04 BALD
 ## Infraestructura
 
 * Instalacion electrica, ampliacion, mejora edilicia 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'ESC. DE COM.   N° 27 ANTARTIDA ARGENTINA - ESC. DE COM.  N° 04 BALD
 *  (2023) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
 
 
+
+    + Inicio de obra:19/11/2021 
 
 
 
@@ -37,7 +39,6 @@ subtitle: 'ESC. DE COM.   N° 27 ANTARTIDA ARGENTINA - ESC. DE COM.  N° 04 BALD
 
 *  (2021) Cubiertas / Impermeabilizaciones 
     + Reemplazo de cubierta de SUM
-
 
 
 

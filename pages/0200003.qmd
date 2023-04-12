@@ -7,7 +7,7 @@ subtitle: 'EPA N° 03 DR. ONESIMO LEGUIZAMON - EPC N° 03 DR. ONESIMO LEGUIZAMON
 ## Infraestructura
 
 * Patios, freno de deterioro en las fachadas. 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'EPA N° 03 DR. ONESIMO LEGUIZAMON - EPC N° 03 DR. ONESIMO LEGUIZAMON
 *  (2021) : Banco largo comedor 50, Escritorio 6, Mesa pupitre doble 75, Mesa usos múltiples 25, Pizarrón 2, Silla escolar 176 
 
 
+
+    + Inicio de obra:31/03/2023 
 
 
 
@@ -28,7 +30,6 @@ subtitle: 'EPA N° 03 DR. ONESIMO LEGUIZAMON - EPC N° 03 DR. ONESIMO LEGUIZAMON
 
 *  (2021) Electricidad 
     + Prov y coloc 7 ventiladores
-
 
 
 

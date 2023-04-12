@@ -7,7 +7,7 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 19 - ESC. DE COM. N° 19 JU
 ## Infraestructura
 
 * 2do año 
-    + Finalizado - SDF 
+    + SDF - Finalizado 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 19 - ESC. DE COM. N° 19 JU
 *  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
+
+    + Inicio de obra:01/12/2022 
 
 
 
@@ -48,9 +50,9 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 19 - ESC. DE COM. N° 19 JU
 
 
 
-
 * Accesibilidad, ascensor. (amparo) 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra:27/9/2021 
 
 
 

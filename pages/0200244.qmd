@@ -7,7 +7,7 @@ subtitle: 'EPC N° 24 CONTRALMIRANTE MARTIN GUERRICO'
 ## Infraestructura
 
 * Sanitarios. (Fondos covid) 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -18,6 +18,8 @@ subtitle: 'EPC N° 24 CONTRALMIRANTE MARTIN GUERRICO'
 
 
 
+    + Inicio de obra:21/6/2022 
+
 
 
 ## Mantenimiento
@@ -27,7 +29,6 @@ subtitle: 'EPC N° 24 CONTRALMIRANTE MARTIN GUERRICO'
 
 *  (2021) Electricidad 
     + Instalacion purificadores de aire.
-
 
 
 

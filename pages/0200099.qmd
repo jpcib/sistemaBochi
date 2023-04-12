@@ -7,7 +7,7 @@ subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI L
 ## Infraestructura
 
 * 3er año 
-    + En Obra - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI L
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
 
+
+    + Inicio de obra: Sin fecha de inicio - Avance: 20% - Plazo: 60 
 
 
 
@@ -32,7 +34,6 @@ subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI L
 
 *  (2021) Sanitarias 
     + Conexión de agua en bacha-Sala Jardín
-
 
 
 

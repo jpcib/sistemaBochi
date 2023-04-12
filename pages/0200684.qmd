@@ -7,7 +7,7 @@ subtitle: 'Sup Media Region IV A Sup Media Tecnica Region IV A UTN - ESC. TEC. N
 ## Infraestructura
 
 * Instalacion electrica completa, instalacion contra incendios 
-    + Licitación - Mejora Edilicia 
+    + Mejora Edilicia - Licitación 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'Sup Media Region IV A Sup Media Tecnica Region IV A UTN - ESC. TEC. N
 *  (2021) : Armario 2, Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
+
+    + Inicio de obra:25/04/2023 
 
 
 
@@ -38,7 +40,6 @@ subtitle: 'Sup Media Region IV A Sup Media Tecnica Region IV A UTN - ESC. TEC. N
 
 *  (2021) Electricidad 
     + Cambio artefactos de luz de LED
-
 
 
 

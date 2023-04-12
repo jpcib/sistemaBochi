@@ -7,7 +7,7 @@ subtitle: 'ESC. TEC. N° 09 ING. LUIS A. HUERGO - CAIYJ CLUB HUERGO'
 ## Infraestructura
 
 * NA 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'ESC. TEC. N° 09 ING. LUIS A. HUERGO - CAIYJ CLUB HUERGO'
 *  (2022) : Escritorio 7, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 216 
 
 
+
+    + Inicio de obra: 19/1/2023 - Avance: 7% - Plazo: 330 
 
 
 
@@ -52,9 +54,9 @@ subtitle: 'ESC. TEC. N° 09 ING. LUIS A. HUERGO - CAIYJ CLUB HUERGO'
 
 
 
-
 * Imperbeabilizacion de un sector de azotea 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra: 11/6/2023 - Avance: 100% - Plazo: - 
 
 
 

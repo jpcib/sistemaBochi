@@ -7,7 +7,7 @@ subtitle: 'EPC N° 10 JOSE ERNESTO GALLONI - JINA(EPCJS 10/17°)ALICIA M.DE JUST
 ## Infraestructura
 
 * Acondicionamiento  de cubierta , cocina , inst electrica + gas e incendio , arreglo patio y  muros con sus revoques                                                                                        adecuacion  pintura interior de areas significantes  y patio 
-    + Planificado - Mejora Edilicia 
+    + Mejora Edilicia - Planificado 
 
 
 ## Mobiliario
@@ -15,6 +15,8 @@ subtitle: 'EPC N° 10 JOSE ERNESTO GALLONI - JINA(EPCJS 10/17°)ALICIA M.DE JUST
 *  (2022) : Mesa inicial 8, Silla escolar 48 
 
 
+
+    + Inicio de obra:21/1/2024 
 
 
 
@@ -28,7 +30,6 @@ subtitle: 'EPC N° 10 JOSE ERNESTO GALLONI - JINA(EPCJS 10/17°)ALICIA M.DE JUST
 
 *  (2021) Sanitarias 
     + Adecuaciones sanitarias y eléctricas
-
 
 
 

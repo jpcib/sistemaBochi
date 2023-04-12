@@ -7,7 +7,7 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
 ## Infraestructura
 
 * Acondicionamiento de fachadas/ adecuacion de supervision de1 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
 *  (2021) : Banco largo comedor 36, Escritorio 4, Juego de patio 1, Mesa usos múltiples 18, Piso antigolpe para juegos 60, Silla escolar 124, Varios 10 
 
 
+
+    + Inicio de obra: 1/12/2022 - Avance: 2% - Plazo: 270 
 
 
 
@@ -39,7 +41,6 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
 
 *  (2021) Sanitarias 
     + Limpieza y desinfección tanque cisterna, Recambio de tapa de inspección
-
 
 
 

@@ -7,7 +7,7 @@ subtitle: 'COLEGIO N° 19 LUIS PASTEUR'
 ## Infraestructura
 
 * Sanitarios, electricidad, accesibilidad y preceptoria 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -19,6 +19,8 @@ subtitle: 'COLEGIO N° 19 LUIS PASTEUR'
 *  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
+
+    + Inicio de obra: 27/5/2022 - Avance: 69% - Plazo: 180 
 
 
 
@@ -35,7 +37,6 @@ subtitle: 'COLEGIO N° 19 LUIS PASTEUR'
 
 *  (2021) Electricidad 
     + Instalacion de un purificador
-
 
 
 

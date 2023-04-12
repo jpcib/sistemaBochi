@@ -7,7 +7,7 @@ subtitle: 'CAIYJ BARRACAS - PI ESPACIO BARRACAS - ESC. DE COM.  Nº 01 DE 04 JOA
 ## Infraestructura
 
 * 2do año 
-    + En Obra - SDF 
+    + SDF - En Obra 
 
 
 ## Mobiliario
@@ -18,13 +18,14 @@ subtitle: 'CAIYJ BARRACAS - PI ESPACIO BARRACAS - ESC. DE COM.  Nº 01 DE 04 JOA
 
 
 
+    + Inicio de obra: 28/12/2022 - Avance: 40% - Plazo: 90 
+
 
 
 ## Mantenimiento
 
 *  (2021) Saneamiento 
     + Cambio de tapas de tanques
-
 
 
 

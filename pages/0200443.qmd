@@ -7,7 +7,7 @@ subtitle: 'EPC N° 04 PROVINCIA DE CORDOBA'
 ## Infraestructura
 
 * Sanitario e impermeabilizacion 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
 
 
 ## Mobiliario
@@ -17,6 +17,8 @@ subtitle: 'EPC N° 04 PROVINCIA DE CORDOBA'
 *  (2021) : Armario 28, Banco largo comedor 44, Escritorio 11, Mesa pupitre doble 85, Mesa usos múltiples 22, Pizarrón 25, Silla escolar 191 
 
 
+
+    + Inicio de obra:Sin fecha de inicio 
 
 
 
@@ -33,7 +35,6 @@ subtitle: 'EPC N° 04 PROVINCIA DE CORDOBA'
 
 *  (2021) Gas 
     + Protecciones mecanicas de estufas de gas
-
 
 
 

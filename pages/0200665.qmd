@@ -7,7 +7,9 @@ subtitle: 'EPC N° 12 HERMINIA BRUMANA'
 ## Infraestructura
 
 * Accesibilidad basica,  cubierta, pintura hall y patio. Instalacion electrica completa 
-    + En Proyecto - Mejora Edilicia 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra:26/8/2023 
+
 
 
 ## Mantenimiento
@@ -26,7 +28,6 @@ subtitle: 'EPC N° 12 HERMINIA BRUMANA'
 
 *  (2021) Calefaccion y Refrigeracion 
     + Cambio de termotanque y estufa
-
 
 
 

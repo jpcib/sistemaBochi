@@ -7,7 +7,7 @@ subtitle: 'JII N° 06/09° - EPC N° 06 VICENTE FIDEL LOPEZ - EPA N° 06 VICENTE
 ## Infraestructura
 
 * Instalación eléctrica 
-    + En Obra - Mejora Edilicia 
+    + Mejora Edilicia - En Obra 
 
 
 ## Mobiliario
@@ -16,13 +16,14 @@ subtitle: 'JII N° 06/09° - EPC N° 06 VICENTE FIDEL LOPEZ - EPA N° 06 VICENTE
 
 
 
+    + Inicio de obra: 8/10/2022 - Avance: 55% - Plazo: 120 
+
 
 
 ## Mantenimiento
 
 *  (2022) Gas 
     + Cambio de 17 estufas
-
 
 
 

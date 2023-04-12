@@ -7,7 +7,9 @@ subtitle: 'EPC N° 06 DR. GUILLERMO CORREA - JIC N° 03/06° - CAIYJ CLUB DE CHI
 ## Infraestructura
 
 * Mejora edilicia en varios sectores 
-    + Finalizado - Mejora Edilicia 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra:23/11/2021 
+
 
 
 ## Mantenimiento
@@ -26,7 +28,6 @@ subtitle: 'EPC N° 06 DR. GUILLERMO CORREA - JIC N° 03/06° - CAIYJ CLUB DE CHI
 
 *  (2021) Sanitarias 
     + Reemplazo de cañeria sobre comedor, Tapas de tanques de reserva
-
 
 
 
