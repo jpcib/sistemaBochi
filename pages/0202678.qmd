@@ -8,6 +8,8 @@ subtitle: 'ESCUELA INF. N° 05/01° ANEXO - ESCUELA INF. N° 12/01° - ESCUELA I
 
 * Obra en escuela temporaria de la media, se desafecta el edificio y paso a justicia 
     + Mejora Edilicia - Finalizado 
+    + Inicio de obra:Sin fecha de inicio 
+
 
 
 ## Mobiliario
@@ -15,8 +17,6 @@ subtitle: 'ESCUELA INF. N° 05/01° ANEXO - ESCUELA INF. N° 12/01° - ESCUELA I
 *  (2021) : Varios 300 
 
 
-
-    + Inicio de obra:Sin fecha de inicio 
 
 
 

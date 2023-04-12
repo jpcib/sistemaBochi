@@ -8,6 +8,8 @@ subtitle: 'ESC. DE COM.  N° 21 CAP. DE NAVIO HIPOLITO BOUCHARD'
 
 * 2do año 
     + SDF - En Obra 
+    + Inicio de obra: Sin fecha de inicio - Avance: DGMESC - Plazo: 90 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'ESC. DE COM.  N° 21 CAP. DE NAVIO HIPOLITO BOUCHARD'
 *  (2021) : Mesa pupitre doble 30 
 
 
-
-    + Inicio de obra: Sin fecha de inicio - Avance: DGMESC - Plazo: 90 
 
 
 

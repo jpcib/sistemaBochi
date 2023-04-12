@@ -8,6 +8,8 @@ subtitle: 'EPC N° 13 PROVINCIA DEL NEUQUEN - JII N° 06/14°'
 
 * Biblioteca, sala maestros, filtraciones 
     + Mejora Edilicia - Finalizado 
+    + Inicio de obra:20/10/2022 
+
 
 
 ## Mobiliario
@@ -17,8 +19,6 @@ subtitle: 'EPC N° 13 PROVINCIA DEL NEUQUEN - JII N° 06/14°'
 *  (2021) : Mesa inicial 17, Silla escolar 102 
 
 
-
-    + Inicio de obra:20/10/2022 
 
 
 

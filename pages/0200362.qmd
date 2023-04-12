@@ -8,6 +8,8 @@ subtitle: 'EPC N° 12 FACUNDO ZUVIRIA - JIN C (EPCJC 12/07°) [S] - CECIE N° 07
 
 * Sanitarios. (Fondos covid) 
     + Mejora Edilicia - Finalizado 
+    + Inicio de obra:3/1/2022 
+
 
 
 ## Mobiliario
@@ -17,8 +19,6 @@ subtitle: 'EPC N° 12 FACUNDO ZUVIRIA - JIN C (EPCJC 12/07°) [S] - CECIE N° 07
 *  (2021) : Armario 4, Mesa inicial 5 
 
 
-
-    + Inicio de obra:3/1/2022 
 
 
 

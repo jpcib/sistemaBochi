@@ -8,6 +8,8 @@ subtitle: 'EEM N° 01/20° BIB.CONGRESO DE LA NACION - ESCUELA INF. N° 08/20° 
 
 * 3er año 
     + SDF - En Obra 
+    + Inicio de obra: Sin fecha de inicio - Avance: 5% - Plazo: 60 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'EEM N° 01/20° BIB.CONGRESO DE LA NACION - ESCUELA INF. N° 08/20° 
 *  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
-
-    + Inicio de obra: Sin fecha de inicio - Avance: 5% - Plazo: 60 
 
 
 

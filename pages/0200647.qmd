@@ -8,6 +8,8 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 
 * 3er año 
     + SDF - En Obra 
+    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
 
-
-    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
 
 
 

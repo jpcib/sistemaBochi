@@ -8,6 +8,8 @@ subtitle: 'ENS N°04 ESTANISLAO SEVERO ZEBALLOS - LICEO N° 02 AMANCIO ALCORTA'
 
 * Creacion de un comedor 
     + Mejora Edilicia - Licitación 
+    + Inicio de obra:30/03/2023 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'ENS N°04 ESTANISLAO SEVERO ZEBALLOS - LICEO N° 02 AMANCIO ALCORTA'
 *  (2021) : Escritorio 8, Mesa inicial 4, Mesa pupitre doble 120, Pizarrón 8, Silla escolar 268 
 
 
-
-    + Inicio de obra:30/03/2023 
 
 
 

@@ -8,6 +8,8 @@ subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
 
 * Pintura y acondicionamiento de patio 
     + Mejora Edilicia - Finalizado 
+    + Inicio de obra:Sin fecha de inicio 
+
 
 
 ## Mobiliario
@@ -17,8 +19,6 @@ subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
 *  (2021) : Armario 6 
 
 
-
-    + Inicio de obra:Sin fecha de inicio 
 
 
 

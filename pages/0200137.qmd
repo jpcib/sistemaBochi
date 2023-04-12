@@ -8,6 +8,8 @@ subtitle: 'PI LUCECITAS - CENS N° 18 - COLEGIO N° 01 BERNARDINO RIVADAVIA - ES
 
 * NA 
     + Mejora Edilicia - Planificado 
+    + Inicio de obra:Sin fecha de inicio 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'PI LUCECITAS - CENS N° 18 - COLEGIO N° 01 BERNARDINO RIVADAVIA - ES
 *  (2021) : Mesa pupitre doble 60 
 
 
-
-    + Inicio de obra:Sin fecha de inicio 
 
 
 

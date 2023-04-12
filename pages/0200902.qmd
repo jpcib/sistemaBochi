@@ -8,6 +8,8 @@ subtitle: 'EPC N° 05 VICENTE LOPEZ Y PLANES - CENS N° 02'
 
 * Accesibilidad, ascensor. 
     + Mejora Edilicia - Finalizado 
+    + Inicio de obra:19/1/2022 
+
 
 
 ## Mobiliario
@@ -15,8 +17,6 @@ subtitle: 'EPC N° 05 VICENTE LOPEZ Y PLANES - CENS N° 02'
 *  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
-
-    + Inicio de obra:19/1/2022 
 
 
 

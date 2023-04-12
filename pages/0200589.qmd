@@ -8,6 +8,8 @@ subtitle: 'EPC N° 06 DR. ALFREDO L. PALACIOS'
 
 * NA 
     + Mejora Edilicia - Planificado 
+    + Inicio de obra:Sin fecha de inicio 
+
 
 
 ## Mobiliario
@@ -17,8 +19,6 @@ subtitle: 'EPC N° 06 DR. ALFREDO L. PALACIOS'
 *  (2021) : Pizarrón 5 
 
 
-
-    + Inicio de obra:Sin fecha de inicio 
 
 
 

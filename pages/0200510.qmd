@@ -8,6 +8,8 @@ subtitle: 'EPC N° 16 REPUBLICA DOMINICANA - JIN C (EPCJS 16/10°) - EPA N° 16 
 
 * Instalacion electrica completa 
     + Mejora Edilicia - En Proyecto 
+    + Inicio de obra:3/9/2023 
+
 
 
 ## Mobiliario
@@ -15,8 +17,6 @@ subtitle: 'EPC N° 16 REPUBLICA DOMINICANA - JIN C (EPCJS 16/10°) - EPA N° 16 
 *  (2022) : Escritorio 7, Mesa pupitre doble 30, Pizarrón 10, Silla escolar 90 
 
 
-
-    + Inicio de obra:3/9/2023 
 
 
 

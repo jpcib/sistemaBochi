@@ -1,10 +1,13 @@
 ---
 title: Sistema de Consulta Escolar 1.0
+format: 
+  html:
+    page-layout: full
 ---
 
-Aplicación de consulta escolar de la SSGEFYAR
+Aplicación de consulta de la SSGEFYAR.
 
-Busque por dirección del establecimiento o nombre de escuela para acceder a los detalles.
+Busque por dirección, nombre, número de escuela, y/o distrito para acceder a los detalles.
 
 ------------------------------------------------------------------------
 

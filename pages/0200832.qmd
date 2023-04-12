@@ -8,6 +8,8 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
 
 * 2do año 
     + SDF - En Obra 
+    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
 *  (2021) : Escritorio 4, Mesa pupitre doble 50, Silla escolar 104 
 
 
-
-    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
 
 
 

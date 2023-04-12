@@ -8,6 +8,8 @@ subtitle: 'LICEO N° 10 RICARDO ROJAS - BOA N° 04 XUL SOLAR'
 
 * 2do año 
     + SDF - Finalizado 
+    + Inicio de obra:01/12/2022 
+
 
 
 ## Mobiliario
@@ -17,8 +19,6 @@ subtitle: 'LICEO N° 10 RICARDO ROJAS - BOA N° 04 XUL SOLAR'
 *  (2022) : Escritorio 4, Mesa pupitre doble 75, Mesa usos múltiples 65, Pizarrón 3, Silla escolar 183 
 
 
-
-    + Inicio de obra:01/12/2022 
 
 
 

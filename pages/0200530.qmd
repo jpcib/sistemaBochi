@@ -8,6 +8,8 @@ subtitle: 'ESC. TEC. N° 28 REPUBLICA FRANCESA'
 
 * Instalacion electrica y  termomecanica, filtracion por cubierta. 
     + Mejora Edilicia - Licitación 
+    + Inicio de obra:1/6/2023 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'ESC. TEC. N° 28 REPUBLICA FRANCESA'
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4 
 
 
-
-    + Inicio de obra:1/6/2023 
 
 
 

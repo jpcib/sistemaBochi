@@ -8,6 +8,8 @@ subtitle: 'Sup Primaria DE16 - EPC N° 01 DR. DELFIN GALLO - EPA N° 01 DR. DELF
 
 * NA 
     + Mejora Edilicia - Planificado 
+    + Inicio de obra:Sin fecha de inicio 
+
 
 
 ## Mobiliario
@@ -15,8 +17,6 @@ subtitle: 'Sup Primaria DE16 - EPC N° 01 DR. DELFIN GALLO - EPA N° 01 DR. DELF
 *  (2022) : Armario 4, Escritorio 4, Mesa inicial 3, Mesa pupitre doble 12, Pizarrón 16, Silla escolar 76 
 
 
-
-    + Inicio de obra:Sin fecha de inicio 
 
 
 

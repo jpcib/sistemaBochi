@@ -8,6 +8,8 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 
 * 2do año 
     + SDF - En Obra 
+    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 *  (2021) : Armario 4, Escritorio 4, Mesa pupitre doble 90, Pizarrón 4, Silla escolar 60 
 
 
-
-    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
 
 
 

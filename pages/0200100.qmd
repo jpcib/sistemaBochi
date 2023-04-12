@@ -8,6 +8,8 @@ subtitle: 'Polideportivo ESC. TEC. N° 30 DR. NORBERTO PIÑERO - ESC. TEC. N° 3
 
 * Mejora edilicia, sanitarios, talleres. 
     + Mejora Edilicia - Finalizado 
+    + Inicio de obra:18/11/2021 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'Polideportivo ESC. TEC. N° 30 DR. NORBERTO PIÑERO - ESC. TEC. N° 3
 *  (2021) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 
-
-    + Inicio de obra:18/11/2021 
 
 
 

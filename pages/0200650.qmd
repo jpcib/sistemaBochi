@@ -8,6 +8,8 @@ subtitle: 'Esc. de Teatro Niní Marschall'
 
 * 3er año 
     + SDF - En Obra 
+    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'Esc. de Teatro Niní Marschall'
 *  (2021) : Pizarrón 4 
 
 
-
-    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
 
 
 

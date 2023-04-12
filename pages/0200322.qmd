@@ -8,6 +8,8 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
 
 * Sanitarios. (Fondos inet) 
     + Mejora Edilicia - En Obra 
+    + Inicio de obra: 29/3/2023 - Avance: 0% - Plazo: 120 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
 *  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
-
-    + Inicio de obra: 29/3/2023 - Avance: 0% - Plazo: 120 
 
 
 

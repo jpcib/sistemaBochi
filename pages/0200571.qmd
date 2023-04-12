@@ -8,6 +8,8 @@ subtitle: 'ESC. DE COM. N° 09 JOSE INGENIEROS'
 
 * 2do año 
     + SDF - En Obra 
+    + Inicio de obra: Sin fecha de inicio - Avance: DGMESC - Plazo: 90 
+
 
 
 ## Mobiliario
@@ -17,8 +19,6 @@ subtitle: 'ESC. DE COM. N° 09 JOSE INGENIEROS'
 *  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
-
-    + Inicio de obra: Sin fecha de inicio - Avance: DGMESC - Plazo: 90 
 
 
 

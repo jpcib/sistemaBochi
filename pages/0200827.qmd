@@ -8,6 +8,8 @@ subtitle: 'COLEGIO N° 13 CNEL. TOMAS ESPORA - EEM N° 01/18° E REINGRESO - PI 
 
 * 2do año 
     + SDF - Finalizado 
+    + Inicio de obra:22/01/2023 
+
 
 
 ## Mobiliario
@@ -17,8 +19,6 @@ subtitle: 'COLEGIO N° 13 CNEL. TOMAS ESPORA - EEM N° 01/18° E REINGRESO - PI 
 *  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4 
 
 
-
-    + Inicio de obra:22/01/2023 
 
 
 

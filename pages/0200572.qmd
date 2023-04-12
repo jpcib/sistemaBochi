@@ -8,6 +8,8 @@ subtitle: 'ESC. TEC. N° 05 MARIA DE ESCALADA DE SAN MARTIN'
 
 * 3er año 
     + SDF - En Obra 
+    + Inicio de obra: 10/01/2023 - Avance: 0% - Plazo: 60 
+
 
 
 ## Mobiliario
@@ -19,8 +21,6 @@ subtitle: 'ESC. TEC. N° 05 MARIA DE ESCALADA DE SAN MARTIN'
 *  (2021) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
 
 
-
-    + Inicio de obra: 10/01/2023 - Avance: 0% - Plazo: 60 
 
 
 
