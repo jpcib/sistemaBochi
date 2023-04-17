@@ -7,8 +7,8 @@ subtitle: 'EEM N° 03/07°'
 ## Infraestructura
 
 * 2do año 
-    + SDF - En Obra 
-    + Inicio de obra: 17/01/2023 - Avance: 40% - Plazo: 60 
+    + SDF - Finalizado 
+    + Inicio de obra:17/01/2023 
 
 
 

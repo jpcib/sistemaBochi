@@ -1,5 +1,5 @@
 ---
-title: 'AVDA. CORDOBA 1951'
+title: 'AVDA. CORDOBA 1951 - PARAGUAY 1950'
 subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCALADA DE SAN MARTIN - ESEA  DANZA RAMICONE  FOLKLORE N° 21 - ESC. DE COM. N° 10 ISLAS MALVINAS'
 ---
 
@@ -8,7 +8,7 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 
 * Impermeabilizacion 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 1/5/2023 - Avance: 64% - Plazo: 240 
+    + Inicio de obra: 22/7/2023 - Avance: 64% - Plazo: 240 
 
 
 
@@ -73,7 +73,7 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 
 * 2do año 
     + SDF - En Obra 
-    + Inicio de obra: Sin fecha de inicio - Avance: 30% - Plazo: 60 
+    + Inicio de obra: 06/02/2023 - Avance: 60% - Plazo: 60 
 
 
 

@@ -8,7 +8,7 @@ subtitle: 'ESC. DE COM. N° 09 JOSE INGENIEROS'
 
 * 2do año 
     + SDF - En Obra 
-    + Inicio de obra: Sin fecha de inicio - Avance: DGMESC - Plazo: 90 
+    + Inicio de obra: DGMESC - Avance: DGMESC - Plazo: 90 
 
 
 

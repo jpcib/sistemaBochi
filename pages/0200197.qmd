@@ -7,8 +7,8 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 ## Infraestructura
 
 * 3er año 
-    + SDF - En Obra 
-    + Inicio de obra: Sin fecha de inicio - Avance: 20% - Plazo: 60 
+    + SDF - Finalizado 
+    + Inicio de obra:03/02/2023 
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'AVDA. DON PEDRO DE MENDOZA 1835'
+title: 'AVDA. DON PEDRO DE MENDOZA 1835 - GRAL. GREGORIO ARAOZ DE LAMADRID 648'
 subtitle: 'Museo de Bellas Artes de Artistas Argentinos Benito Quinquela Martin - EPC N° 09 BENITO QUINQUELA MARTIN - CENS N° 32 - CENOF CENTRO MUSEO QUINQUELA MARTIN - JII N° 01/04° BENITO QUINQUELA MARTIN'
 ---
 
@@ -8,7 +8,7 @@ subtitle: 'Museo de Bellas Artes de Artistas Argentinos Benito Quinquela Martin 
 
 * Acondicionamiento  de cubierta, instalacion sanitario, electrica e incendio. Arreglo de revoques menores en aulas.  Adecuacion pintura interior de areas significantes  y patio. 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra:26/10/2023 
+    + Inicio de obra:7/11/2023 
 
 
 

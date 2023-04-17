@@ -7,8 +7,8 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
 ## Infraestructura
 
 * 2do año 
-    + SDF - En Obra 
-    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 
+    + SDF - Finalizado 
+    + Inicio de obra:31/1 
 
 
 
@@ -52,7 +52,7 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
 
 * Instalacion electrica completa, sanitarios 
     + Mejora Edilicia - Finalizado 
-    + Inicio de obra: 5/10/2021 - Avance: 100% - Plazo: 180 
+    + Inicio de obra:5/10/2021 
 
 
 

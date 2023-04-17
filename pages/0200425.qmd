@@ -8,7 +8,7 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
 
 * Accesibilidad, ascensor. (amparo) 
     + Mejora Edilicia - Finalizado 
-    + Inicio de obra: 15/9/2021 - Avance: 100% - Plazo: 210 
+    + Inicio de obra:15/9/2021 
 
 
 
@@ -39,8 +39,8 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
 
 
 * 3er año 
-    + SDF - En Obra 
-    + Inicio de obra: 10/01/2023 - Avance: 75% - Plazo: 60 
+    + SDF - Finalizado 
+    + Inicio de obra:10/01/2023 
 
 
 

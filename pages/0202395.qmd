@@ -1,5 +1,5 @@
 ---
-title: 'SIMBRON 5821'
+title: 'SIMBRON 5821 - SIMBRON 5855'
 subtitle: 'EPC N° 13 PREFECTURA NAVAL ARGENTINA - ESCUELA INF. N° 04/17°'
 ---
 

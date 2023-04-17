@@ -16,7 +16,7 @@ invisible(lapply(packages, library, character.only = TRUE))
 ```
 
 ```{r data, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data <- read_csv("../data/base_completa_link_v4.csv") %>%
+data <- read_csv("../data/base_completa_link_v6.csv") %>%
   # slice_head(n = 3)
   glimpse()
 ```
@@ -53,7 +53,8 @@ for (id_edificio in data$cui) {
 ```
 
 ```{r data_infra, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_infra <- read_csv("../data/infra_gop_12-04.csv") %>% 
+data_infra <- read_csv("../data/infra_gop_17-04.csv") %>% 
+  mutate(intervenciones = str_to_sentence(intervenciones)) %>% 
   # select(-c(nota_de_inicio:avance_de_obra_real)) %>% 
   arrange(cui) %>% 
   # slice(5:14) %>% 

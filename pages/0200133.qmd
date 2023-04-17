@@ -1,6 +1,6 @@
 ---
-title: 'AVDA. ENTRE RIOS 1359'
-subtitle: 'EPA N° 22 CARLOS PELLEGRINI - JIN A (EPCJS 22/03°) - EPC N° 22 CARLOS PELLEGRINI - CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - Sup Primaria DE03 A - Centro de Terminalidad a Distancia[sede] - Sup Adultos Region I A - Bib.del Docente Dist.3 Carlos Pellegrini'
+title: 'AVDA. ENTRE RIOS 1341 - AVDA. ENTRE RIOS 1349 - AVDA. ENTRE RIOS 1359 - CONSTITUCION 1839'
+subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - Bib.del Docente Dist.3 Carlos Pellegrini - EPA N° 22 CARLOS PELLEGRINI - JIN A (EPCJS 22/03°) - EPC N° 22 CARLOS PELLEGRINI - Sup Primaria DE03 A - Centro de Terminalidad a Distancia[sede] - Sup Adultos Region I A'
 ---
 
 #

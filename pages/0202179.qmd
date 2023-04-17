@@ -6,8 +6,8 @@ subtitle: 'ESCUELA INF. N° 11/05° (S)'
 #
 ## Infraestructura
 
-* Puerta, ampliación aulas 
-    + Mejora Edilicia - Licitación 
+* Ampliación aulas y comedor 
+    + Mejora Edilicia - Fracasado 
     + Inicio de obra:28/4/2023 
 
 
@@ -31,6 +31,11 @@ subtitle: 'ESCUELA INF. N° 11/05° (S)'
     + Adecuacion de gas
 
 
+
+
+* Puerta, ampliación aulas 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra:28/4/2023 
 
 
 

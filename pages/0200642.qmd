@@ -7,8 +7,8 @@ subtitle: 'Sup Media Region V - LICEO N° 08 ESTEBAN ECHEVERRIA'
 ## Infraestructura
 
 * 3er año 
-    + SDF - En Obra 
-    + Inicio de obra: 10/01/2023 - Avance: 70% - Plazo: 60 
+    + SDF - Finalizado 
+    + Inicio de obra:10/01/2023 
 
 
 

@@ -7,8 +7,8 @@ subtitle: 'COLEGIO N° 06 MANUEL BELGRANO - COLEGIO N° 15 REVOLUCION DE MAYO'
 ## Infraestructura
 
 * 3er año 
-    + SDF - En Obra 
-    + Inicio de obra: Sin fecha de inicio - Avance: 1% - Plazo: 60 
+    + SDF - Finalizado 
+    + Inicio de obra:03/02/2023 
 
 
 

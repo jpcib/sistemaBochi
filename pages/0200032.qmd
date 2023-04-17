@@ -6,7 +6,7 @@ subtitle: 'INST. DE ENSEÑANZA SUPERIOR EN LENGUAS VIVAS JUAN RAMÓN FERNÁNDEZ'
 #
 ## Infraestructura
 
-* Proyecto terminado por sum 
+* Puesta en valor del sum y accesibilidad basica 
     + Mejora Edilicia - En Obra 
     + Inicio de obra: 1/3/2023 - Avance: 0% - Plazo: 210 
 
