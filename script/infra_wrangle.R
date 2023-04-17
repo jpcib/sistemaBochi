@@ -32,32 +32,23 @@ plani_clean <- gop_raw %>%
   #Podemos ver de dejarlo como una anotacion luego. 
   filter(subestado %ni% c("fracaso / pase f11", "fracaso r", "f14 - fracaso - r")) %>% #filtro (descarto) los fracasos que ya se relanzaron
   #saco obras con problemas en el cui
-  drop_na(cui) %>% 
-  filter(cui %ni% c("-","0000000","00000GG")) %>%  
+  drop_na(cui) %>%
+  # filter(cui %ni% c("-","0000000","00000GG")) %>%  
   mutate(inicio_obra = case_when(is.na(inicio_obra) ~ "Sin fecha de inicio", 
                                  T ~ inicio_obra), 
          plazo_obra = case_when(is.na(plazo_obra) ~ "Sin plazo", 
                                 T ~ plazo_obra)) %>% 
-  # mutate(fecha = case_when(estado == "Planificado" ~ nota_de_inicio, 
-  #                          estado == "En Proyecto" ~ nota_de_inicio,
-  #                          estado == "Licitación" ~ pase_dgar,
-  #                          estado == "En Obra" ~ inicio_obra,
-  #                          estado == "Finalizado" ~ fin_obra, 
-  #                          # is.na(estado) ~ "s/f",
-  #                          T ~ "s/f")) %>% 
-  # group_by(cui) %>%
-  # mutate(n = n()) %>%
-  # filter(n > 1) %>%
-  # distinct(estado) %>% 
+  
+  mutate(cui = str_pad(cui, 7, "left", "0")) %>% 
   glimpse()
 
 DataExplorer::profile_missing(plani_clean)
+# 
+# plani_clean %>%
+#   filter(is.na(inicio_obra)) %>%
+#   view()
 
-plani_clean %>%
-  filter(is.na(inicio_obra)) %>%
-  view()
-
-writexl::write_xlsx(plani_clean %>% filter(is.na(inicio_obra)), "data/sin_fecha_inicio_gop.xlsx")
+# writexl::write_xlsx(plani_clean %>% filter(is.na(inicio_obra)), "data/sin_fecha_inicio_gop.xlsx")
 
 
-write_csv(plani_clean, "data/infra_gop_12-04.csv")
+write_csv(plani_clean, "data/infra_gop_17-04.csv")
