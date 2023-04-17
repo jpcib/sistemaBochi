@@ -18,5 +18,4 @@ Instructable
 
   - Lee tabla de GOP para hacer bajada con fecha y nutrir data de infraestructura.
   - Updated 17-04-2023.
-
-4. 
+  
