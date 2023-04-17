@@ -9,6 +9,8 @@ Aplicación de consulta de la SSGEFYAR.
 
 Busque por dirección, nombre, número de escuela, y/o distrito para acceder a los detalles.
 
+*Última actualización:* Infra: 17-04, Mobiliario: 16-03, Mantenimiento: 16-03.
+
 ------------------------------------------------------------------------
 
 ```{r packages, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
@@ -25,7 +27,8 @@ invisible(lapply(packages, library, character.only = TRUE))
 ```
 
 ```{r read, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-raw <- read_csv("data/base_completa_link_v5.csv") %>% 
+raw <- read_csv("data/base_completa_link_v6.csv") %>% 
+  # glimpse()
   select(Domicilio, Establecimiento, Nº, DE)
 
 tabla <- DT::datatable(raw, 
