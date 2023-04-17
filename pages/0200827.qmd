@@ -12,13 +12,6 @@ subtitle: 'COLEGIO N° 13 CNEL. TOMAS ESPORA - EEM N° 01/18° E REINGRESO - PI 
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
-
-*  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4 
-
-
 
 
 
@@ -29,6 +22,13 @@ subtitle: 'COLEGIO N° 13 CNEL. TOMAS ESPORA - EEM N° 01/18° E REINGRESO - PI 
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
+
+*  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4 
 
 
 

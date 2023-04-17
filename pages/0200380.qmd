@@ -12,13 +12,6 @@ subtitle: 'ESC. DE COM. N° 23 DR. LUIS AGOTE - EC N° 29 MARINA MERCANTE ARGENT
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
-
-*  (2022) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
-
-
 
 
 
@@ -38,6 +31,13 @@ subtitle: 'ESC. DE COM. N° 23 DR. LUIS AGOTE - EC N° 29 MARINA MERCANTE ARGENT
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
+
+*  (2022) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
 
 
 

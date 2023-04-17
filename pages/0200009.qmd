@@ -12,13 +12,6 @@ subtitle: 'JIN A (EPCJC 09/01°) - EPC N° 09 FAMILIA DE CABEZON - CENS N° 26'
 
 
 
-## Mobiliario
-
-*  (2022) : Mesa inicial 5, Silla escolar 30 
-
-*  (2021) : Escritorio 2, Mesa pupitre doble 60, Pizarrón 12, Silla escolar 62 
-
-
 
 
 
@@ -35,6 +28,13 @@ subtitle: 'JIN A (EPCJC 09/01°) - EPC N° 09 FAMILIA DE CABEZON - CENS N° 26'
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Mesa inicial 5, Silla escolar 30 
+
+*  (2021) : Escritorio 2, Mesa pupitre doble 60, Pizarrón 12, Silla escolar 62 
 
 
 

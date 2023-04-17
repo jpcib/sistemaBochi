@@ -12,11 +12,6 @@ subtitle: 'EPC N° 08 ALTE. RAMON GONZALEZ FERNANDEZ - JII N° 04/10°'
 
 
 
-## Mobiliario
-
-*  (2021) : Escritorio 3, Mesa pupitre doble 45, Silla escolar 93 
-
-
 
 
 
@@ -36,6 +31,11 @@ subtitle: 'EPC N° 08 ALTE. RAMON GONZALEZ FERNANDEZ - JII N° 04/10°'
 
 
 
+
+
+## Mobiliario
+
+*  (2021) : Escritorio 3, Mesa pupitre doble 45, Silla escolar 93 
 
 
 

@@ -12,11 +12,6 @@ subtitle: 'Superv.Educ.Prim. Zona E Región IX-DE10 - EPC N° 03 ESTEBAN ECHEVER
 
 
 
-## Mobiliario
-
-*  (2022) : Armario 6, Escritorio 8, Mesa pupitre doble 50, Pizarrón 8, Silla escolar 108 
-
-
 
 
 
@@ -30,6 +25,11 @@ subtitle: 'Superv.Educ.Prim. Zona E Región IX-DE10 - EPC N° 03 ESTEBAN ECHEVER
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Armario 6, Escritorio 8, Mesa pupitre doble 50, Pizarrón 8, Silla escolar 108 
 
 
 

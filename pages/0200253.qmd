@@ -12,15 +12,6 @@ subtitle: 'PI ESPACIO HUELLITAS - ESC. DE COM. N° 18 REINO DE SUECIA - EEM N° 
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 98 
-
-*  (2021) : Banco largo comedor 50, Mesa usos múltiples 25 
-
-
 
 
 
@@ -49,6 +40,15 @@ subtitle: 'PI ESPACIO HUELLITAS - ESC. DE COM. N° 18 REINO DE SUECIA - EEM N° 
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 98 
+
+*  (2021) : Banco largo comedor 50, Mesa usos múltiples 25 
 
 
 

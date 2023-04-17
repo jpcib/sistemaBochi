@@ -11,14 +11,10 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 19 - ESC. DE COM. N° 19 JU
     + Inicio de obra:01/12/2022 
 
 
+* Accesibilidad, ascensor. (amparo) 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra:27/9/2021 
 
-## Mobiliario
-
-*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
-
-*  (2022) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
-
-*  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
 
@@ -50,10 +46,14 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 19 - ESC. DE COM. N° 19 JU
 
 
 
-* Accesibilidad, ascensor. (amparo) 
-    + Mejora Edilicia - Finalizado 
-    + Inicio de obra:27/9/2021 
 
+## Mobiliario
+
+*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
+
+*  (2022) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
+
+*  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
 

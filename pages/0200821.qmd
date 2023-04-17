@@ -12,11 +12,6 @@ subtitle: 'EPC N° 22 PROVINCIA DE SANTA CRUZ - EPA N° 22 PROVINCIA DE SANTA CR
 
 
 
-## Mobiliario
-
-*  (2022) : Banco largo comedor 52, Escritorio 3, Mesa pupitre doble 53, Mesa usos múltiples 25, Silla escolar 114 
-
-
 
 
 
@@ -36,6 +31,11 @@ subtitle: 'EPC N° 22 PROVINCIA DE SANTA CRUZ - EPA N° 22 PROVINCIA DE SANTA CR
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Banco largo comedor 52, Escritorio 3, Mesa pupitre doble 53, Mesa usos múltiples 25, Silla escolar 114 
 
 
 

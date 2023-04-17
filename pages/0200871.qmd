@@ -12,15 +12,6 @@ subtitle: 'EEM N° 03/19° - CAIYJ CLUB BAJO FLORES - CAIYJ CLUB DE CHICOS BAJO 
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2021) : Escritorio 3, Mesa inicial 14, Mesa pupitre doble 52, Silla escolar 177 
-
-
 
 
 
@@ -37,6 +28,15 @@ subtitle: 'EEM N° 03/19° - CAIYJ CLUB BAJO FLORES - CAIYJ CLUB DE CHICOS BAJO 
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2021) : Escritorio 3, Mesa inicial 14, Mesa pupitre doble 52, Silla escolar 177 
 
 
 

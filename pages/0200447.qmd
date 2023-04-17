@@ -12,15 +12,6 @@ subtitle: 'JIN A (EPCJC 08/09°) - EPC N° 08 ARMENIO-ARGENTINA'
 
 
 
-## Mobiliario
-
-*  (2023) : Mesa pupitre doble 60, Silla escolar 120 
-
-*  (2022) : Mesa inicial 6, Silla escolar 36 
-
-*  (2021) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 124 
-
-
 
 
 
@@ -43,6 +34,15 @@ subtitle: 'JIN A (EPCJC 08/09°) - EPC N° 08 ARMENIO-ARGENTINA'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Mesa pupitre doble 60, Silla escolar 120 
+
+*  (2022) : Mesa inicial 6, Silla escolar 36 
+
+*  (2021) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 124 
 
 
 

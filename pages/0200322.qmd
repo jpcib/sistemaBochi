@@ -12,15 +12,6 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-
 
 
 
@@ -52,6 +43,15 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
 

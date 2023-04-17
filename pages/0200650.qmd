@@ -12,15 +12,6 @@ subtitle: 'Esc. de Teatro Niní Marschall'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 2, Locker 20, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 178 
-
-*  (2021) : Pizarrón 4 
-
-
 
 
 
@@ -34,6 +25,15 @@ subtitle: 'Esc. de Teatro Niní Marschall'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Locker 20, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 178 
+
+*  (2021) : Pizarrón 4 
 
 
 

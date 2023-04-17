@@ -12,6 +12,9 @@ subtitle: 'IS DEL PROF. DR. JOAQUIN V. GONZALEZ'
 
 
 
+
+
+
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
@@ -31,9 +34,6 @@ subtitle: 'IS DEL PROF. DR. JOAQUIN V. GONZALEZ'
 
 *  (2021) Electricidad 
     + Adecuación sistema de alarma de incendio, Cambio cables en ascensor 2
-
-
-
 
 
 

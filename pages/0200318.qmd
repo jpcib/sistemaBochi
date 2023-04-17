@@ -12,13 +12,6 @@ subtitle: 'LICEO N° 10 RICARDO ROJAS - BOA N° 04 XUL SOLAR'
 
 
 
-## Mobiliario
-
-*  (2023) : Armario 5, Escritorio 2, Mesa pupitre doble 30, Pizarrón 17, Silla escolar 62 
-
-*  (2022) : Escritorio 4, Mesa pupitre doble 75, Mesa usos múltiples 65, Pizarrón 3, Silla escolar 183 
-
-
 
 
 
@@ -41,6 +34,13 @@ subtitle: 'LICEO N° 10 RICARDO ROJAS - BOA N° 04 XUL SOLAR'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Armario 5, Escritorio 2, Mesa pupitre doble 30, Pizarrón 17, Silla escolar 62 
+
+*  (2022) : Escritorio 4, Mesa pupitre doble 75, Mesa usos múltiples 65, Pizarrón 3, Silla escolar 183 
 
 
 

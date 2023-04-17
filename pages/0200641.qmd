@@ -12,13 +12,6 @@ subtitle: 'ESC. DE COM.  N° 32 JOSE LEON SUAREZ [S]'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-
 
 
 
@@ -35,6 +28,13 @@ subtitle: 'ESC. DE COM.  N° 32 JOSE LEON SUAREZ [S]'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
 

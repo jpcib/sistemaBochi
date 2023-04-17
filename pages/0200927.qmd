@@ -12,15 +12,6 @@ subtitle: 'EEM N° 02/20° - JM N° 05/20° (A) - CAIYJ CLUB MATADEROS - IFTS N�
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Escritorio 2, Mesa inicial 22, Mesa integradora con escotadura 7, Mesa pupitre doble 30, Pizarrón 24, Silla escolar 62 
-
-*  (2021) : Escritorio 3, Mesa pupitre doble 45, Mesa usos múltiples 22, Pizarrón 3, Silla escolar 93 
-
-
 
 
 
@@ -52,6 +43,15 @@ subtitle: 'EEM N° 02/20° - JM N° 05/20° (A) - CAIYJ CLUB MATADEROS - IFTS N�
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Escritorio 2, Mesa inicial 22, Mesa integradora con escotadura 7, Mesa pupitre doble 30, Pizarrón 24, Silla escolar 62 
+
+*  (2021) : Escritorio 3, Mesa pupitre doble 45, Mesa usos múltiples 22, Pizarrón 3, Silla escolar 93 
 
 
 

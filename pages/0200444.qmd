@@ -12,13 +12,6 @@ subtitle: 'JII N° 05/09° - EPC N° 05 HON. CONGRESO DE LA NACION - CECEP N° 0
 
 
 
-## Mobiliario
-
-*  (2022) : Banco largo comedor 20, Mesa usos múltiples 10 
-
-*  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
-
-
 
 
 
@@ -47,6 +40,13 @@ subtitle: 'JII N° 05/09° - EPC N° 05 HON. CONGRESO DE LA NACION - CECEP N° 0
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Banco largo comedor 20, Mesa usos múltiples 10 
+
+*  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
 

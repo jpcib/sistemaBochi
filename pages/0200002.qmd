@@ -12,13 +12,6 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
 
 
 
-## Mobiliario
-
-*  (2022) : Armario 2, Mesa inicial 5, Pizarrón 7, Silla escolar 30, Varios 1 
-
-*  (2021) : Banco largo comedor 36, Escritorio 4, Juego de patio 1, Mesa usos múltiples 18, Piso antigolpe para juegos 60, Silla escolar 124, Varios 10 
-
-
 
 
 
@@ -44,6 +37,13 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Armario 2, Mesa inicial 5, Pizarrón 7, Silla escolar 30, Varios 1 
+
+*  (2021) : Banco largo comedor 36, Escritorio 4, Juego de patio 1, Mesa usos múltiples 18, Piso antigolpe para juegos 60, Silla escolar 124, Varios 10 
 
 
 

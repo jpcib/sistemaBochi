@@ -12,15 +12,6 @@ subtitle: 'EEM N° 04/21° - EPC N° 04 PROVINCIA DE TUCUMAN - CAIYJ CLUB LUGANO
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2022) : Armario 2, Escritorio 3, Mesa pupitre doble 48, Pizarrón 3, Silla escolar 99 
-
-*  (2021) : Armario 4, Escritorio 6, Mesa inicial 4, Mesa pupitre doble 95, Pizarrón 3, Silla escolar 216 
-
-
 
 
 
@@ -46,6 +37,15 @@ subtitle: 'EEM N° 04/21° - EPC N° 04 PROVINCIA DE TUCUMAN - CAIYJ CLUB LUGANO
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2022) : Armario 2, Escritorio 3, Mesa pupitre doble 48, Pizarrón 3, Silla escolar 99 
+
+*  (2021) : Armario 4, Escritorio 6, Mesa inicial 4, Mesa pupitre doble 95, Pizarrón 3, Silla escolar 216 
 
 
 

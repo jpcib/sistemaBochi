@@ -12,15 +12,6 @@ subtitle: 'COLEGIO N° 06 MANUEL BELGRANO - COLEGIO N° 15 REVOLUCION DE MAYO'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
-
-*  (2022) : Mesa pupitre doble 60 
-
-*  (2021) : Escritorio 6, Mesa pupitre doble 95, Pizarrón 6, Silla escolar 186 
-
-
 
 
 
@@ -46,6 +37,15 @@ subtitle: 'COLEGIO N° 06 MANUEL BELGRANO - COLEGIO N° 15 REVOLUCION DE MAYO'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
+
+*  (2022) : Mesa pupitre doble 60 
+
+*  (2021) : Escritorio 6, Mesa pupitre doble 95, Pizarrón 6, Silla escolar 186 
 
 
 

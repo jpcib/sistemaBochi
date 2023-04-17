@@ -12,11 +12,6 @@ subtitle: 'ENS N° 08 PRESIDENTE J.A. ROCA ([A])'
 
 
 
-## Mobiliario
-
-*  (2022) : Armario 4, Escritorio 4, Mesa inicial 5, Mesa pupitre doble 60, Pizarrón 5, Silla escolar 150 
-
-
 
 
 
@@ -30,6 +25,11 @@ subtitle: 'ENS N° 08 PRESIDENTE J.A. ROCA ([A])'
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Armario 4, Escritorio 4, Mesa inicial 5, Mesa pupitre doble 60, Pizarrón 5, Silla escolar 150 
 
 
 

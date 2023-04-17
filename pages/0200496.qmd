@@ -12,11 +12,6 @@ subtitle: 'EPC N° 01 CASTO MUNITA - JIC N° 03/10° [A] - CENOF CENTRO CUBA - E
 
 
 
-## Mobiliario
-
-*  (2021) : Escritorio 3, Mesa pupitre doble 39, Silla escolar 75 
-
-
 
 
 
@@ -30,6 +25,11 @@ subtitle: 'EPC N° 01 CASTO MUNITA - JIC N° 03/10° [A] - CENOF CENTRO CUBA - E
 
 
 
+
+
+## Mobiliario
+
+*  (2021) : Escritorio 3, Mesa pupitre doble 39, Silla escolar 75 
 
 
 

@@ -12,11 +12,6 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
 
 
 
-## Mobiliario
-
-*  (2022) : Mesa inicial 5, Silla escolar 15 
-
-
 
 
 
@@ -39,6 +34,11 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Mesa inicial 5, Silla escolar 15 
 
 
 

@@ -12,13 +12,6 @@ subtitle: 'JIN C (EPCJS 01/01°) - EPC N° 01 JUAN JOSE CASTELLI - CENS - UGEE N
 
 
 
-## Mobiliario
-
-*  (2022) : Armario 4, Banco largo comedor 60 
-
-*  (2021) : Armario 4, Escritorio 6, Mesa pupitre doble 60, Silla escolar 124 
-
-
 
 
 
@@ -41,6 +34,13 @@ subtitle: 'JIN C (EPCJS 01/01°) - EPC N° 01 JUAN JOSE CASTELLI - CENS - UGEE N
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Armario 4, Banco largo comedor 60 
+
+*  (2021) : Armario 4, Escritorio 6, Mesa pupitre doble 60, Silla escolar 124 
 
 
 

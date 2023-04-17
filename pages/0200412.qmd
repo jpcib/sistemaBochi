@@ -12,11 +12,6 @@ subtitle: 'JIN A (EPCJS 16/08°) - EPC N° 16 JOSE MARIA RAMOS MEJIA - CENOF CEN
 
 
 
-## Mobiliario
-
-*  (2022) : Mesa inicial 5, Pizarrón 2, Silla escolar 30 
-
-
 
 
 
@@ -45,6 +40,11 @@ subtitle: 'JIN A (EPCJS 16/08°) - EPC N° 16 JOSE MARIA RAMOS MEJIA - CENOF CEN
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Mesa inicial 5, Pizarrón 2, Silla escolar 30 
 
 
 

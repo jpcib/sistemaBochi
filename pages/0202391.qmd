@@ -12,6 +12,9 @@ subtitle: 'JII N° 14/21° - SUM-COMEDOR JIC N°14"Complejo Bermejo"'
 
 
 
+
+
+
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
@@ -28,9 +31,6 @@ subtitle: 'JII N° 14/21° - SUM-COMEDOR JIC N°14"Complejo Bermejo"'
 
 *  (2021) Electricidad 
     + Cambio disyuntor de mayor amp, Línea de tomas en dirección
-
-
-
 
 
 

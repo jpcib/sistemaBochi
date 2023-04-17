@@ -12,13 +12,6 @@ subtitle: 'JIC N° 03/09° LEOPOLDO MARECHAL - EPC N° 02 AUSTRALIA - IFTS N° 2
 
 
 
-## Mobiliario
-
-*  (2022) : Armario 2, Pizarrón 14 
-
-*  (2021) : Mesa inicial 23, Silla escolar 120 
-
-
 
 
 
@@ -41,6 +34,13 @@ subtitle: 'JIC N° 03/09° LEOPOLDO MARECHAL - EPC N° 02 AUSTRALIA - IFTS N° 2
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Armario 2, Pizarrón 14 
+
+*  (2021) : Mesa inicial 23, Silla escolar 120 
 
 
 

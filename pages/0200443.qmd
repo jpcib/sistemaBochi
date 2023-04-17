@@ -12,13 +12,6 @@ subtitle: 'EPC N° 04 PROVINCIA DE CORDOBA'
 
 
 
-## Mobiliario
-
-*  (2022) : Pizarrón 1, Silla escolar 7 
-
-*  (2021) : Armario 28, Banco largo comedor 44, Escritorio 11, Mesa pupitre doble 85, Mesa usos múltiples 22, Pizarrón 25, Silla escolar 191 
-
-
 
 
 
@@ -38,6 +31,13 @@ subtitle: 'EPC N° 04 PROVINCIA DE CORDOBA'
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Pizarrón 1, Silla escolar 7 
+
+*  (2021) : Armario 28, Banco largo comedor 44, Escritorio 11, Mesa pupitre doble 85, Mesa usos múltiples 22, Pizarrón 25, Silla escolar 191 
 
 
 

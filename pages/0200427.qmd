@@ -11,14 +11,10 @@ subtitle: 'ENS N°04 ESTANISLAO SEVERO ZEBALLOS - LICEO N° 02 AMANCIO ALCORTA'
     + Inicio de obra:30/03/2023 
 
 
+* Instalacion electrica completa, impermeabilizacion, restauracion de un sector de fachada 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra:17/11/2021 
 
-## Mobiliario
-
-*  (2023) : Escritorio 7, Mesa pupitre doble 105, Mesa usos múltiples 1, Pizarrón 7, Silla escolar 217 
-
-*  (2022) : Escritorio 11, Mesa pupitre doble 208, Pizarrón 11, Silla escolar 467 
-
-*  (2021) : Escritorio 8, Mesa inicial 4, Mesa pupitre doble 120, Pizarrón 8, Silla escolar 268 
 
 
 
@@ -53,10 +49,14 @@ subtitle: 'ENS N°04 ESTANISLAO SEVERO ZEBALLOS - LICEO N° 02 AMANCIO ALCORTA'
 
 
 
-* Instalacion electrica completa, impermeabilizacion, restauracion de un sector de fachada 
-    + Mejora Edilicia - Finalizado 
-    + Inicio de obra:17/11/2021 
 
+## Mobiliario
+
+*  (2023) : Escritorio 7, Mesa pupitre doble 105, Mesa usos múltiples 1, Pizarrón 7, Silla escolar 217 
+
+*  (2022) : Escritorio 11, Mesa pupitre doble 208, Pizarrón 11, Silla escolar 467 
+
+*  (2021) : Escritorio 8, Mesa inicial 4, Mesa pupitre doble 120, Pizarrón 8, Silla escolar 268 
 
 
 

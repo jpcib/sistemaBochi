@@ -12,13 +12,6 @@ subtitle: 'ESC. DE COM. N° 26 ENRIQUE DE VEDIA - ENS LENGUAS VIVAS SOFIA DE SPA
 
 
 
-## Mobiliario
-
-*  (2022) : Escritorio 4, Mesa inicial 6, Mesa pupitre doble 60, Pizarrón 5, Silla escolar 154 
-
-*  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4 
-
-
 
 
 
@@ -62,6 +55,13 @@ subtitle: 'ESC. DE COM. N° 26 ENRIQUE DE VEDIA - ENS LENGUAS VIVAS SOFIA DE SPA
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Escritorio 4, Mesa inicial 6, Mesa pupitre doble 60, Pizarrón 5, Silla escolar 154 
+
+*  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4 
 
 
 

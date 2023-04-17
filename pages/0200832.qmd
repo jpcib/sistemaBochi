@@ -11,14 +11,10 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
     + Inicio de obra:31/1 
 
 
+* Instalacion electrica completa, sanitarios 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra:5/10/2021 
 
-## Mobiliario
-
-*  (2023) : Escritorio 7, Locker 20, Mesa pupitre doble 105, Pizarrón 7, Silla escolar 217 
-
-*  (2022) : Escritorio 7, Mesa pupitre doble 105, Pizarrón 7, Silla escolar 93 
-
-*  (2021) : Escritorio 4, Mesa pupitre doble 50, Silla escolar 104 
 
 
 
@@ -50,10 +46,14 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
 
 
 
-* Instalacion electrica completa, sanitarios 
-    + Mejora Edilicia - Finalizado 
-    + Inicio de obra:5/10/2021 
 
+## Mobiliario
+
+*  (2023) : Escritorio 7, Locker 20, Mesa pupitre doble 105, Pizarrón 7, Silla escolar 217 
+
+*  (2022) : Escritorio 7, Mesa pupitre doble 105, Pizarrón 7, Silla escolar 93 
+
+*  (2021) : Escritorio 4, Mesa pupitre doble 50, Silla escolar 104 
 
 
 

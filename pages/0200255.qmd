@@ -12,13 +12,6 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 05'
 
 
 
-## Mobiliario
-
-*  (2023) : Mesa inicial 3, Silla escolar 18 
-
-*  (2021) : Armario 14, Mesa inicial 1, Mesa pupitre doble 3, Pizarrón 8, Silla escolar 13 
-
-
 
 
 
@@ -29,6 +22,13 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 05'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Mesa inicial 3, Silla escolar 18 
+
+*  (2021) : Armario 14, Mesa inicial 1, Mesa pupitre doble 3, Pizarrón 8, Silla escolar 13 
 
 
 

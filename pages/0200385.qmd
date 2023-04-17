@@ -12,13 +12,6 @@ subtitle: 'EEM N° 03/07°'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Banco largo comedor 20, Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-
 
 
 
@@ -41,6 +34,13 @@ subtitle: 'EEM N° 03/07°'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Banco largo comedor 20, Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 

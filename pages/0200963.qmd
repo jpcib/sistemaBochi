@@ -12,13 +12,6 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
-
-*  (2022) : Mesa pupitre doble 90 
-
-
 
 
 
@@ -38,6 +31,13 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
+
+*  (2022) : Mesa pupitre doble 90 
 
 
 

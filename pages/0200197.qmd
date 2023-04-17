@@ -12,15 +12,6 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 3, Locker 100, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2022) : Armario 12, Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2021) : Armario 7, Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-
 
 
 
@@ -40,6 +31,15 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 3, Locker 100, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2022) : Armario 12, Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2021) : Armario 7, Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
 

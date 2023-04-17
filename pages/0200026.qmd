@@ -13,15 +13,6 @@ De cooperadora y sala docente , inst eléctrica, sanitarios
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 2, Locker 15, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Escritorio 2, Mesa pupitre doble 32, Pizarrón 2, Silla escolar 64, Varios 2 
-
-*  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-
 
 
 
@@ -53,6 +44,15 @@ De cooperadora y sala docente , inst eléctrica, sanitarios
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Locker 15, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Escritorio 2, Mesa pupitre doble 32, Pizarrón 2, Silla escolar 64, Varios 2 
+
+*  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 

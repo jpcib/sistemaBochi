@@ -11,12 +11,10 @@ subtitle: 'ESCUELA INF. N° 11/05° (S)'
     + Inicio de obra:28/4/2023 
 
 
+* Puerta, ampliación aulas 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra:28/4/2023 
 
-## Mobiliario
-
-*  (2022) : Silla escolar 30 
-
-*  (2021) : Armario 4, Mesa inicial 5 
 
 
 
@@ -33,10 +31,12 @@ subtitle: 'ESCUELA INF. N° 11/05° (S)'
 
 
 
-* Puerta, ampliación aulas 
-    + Mejora Edilicia - En Proyecto 
-    + Inicio de obra:28/4/2023 
 
+## Mobiliario
+
+*  (2022) : Silla escolar 30 
+
+*  (2021) : Armario 4, Mesa inicial 5 
 
 
 

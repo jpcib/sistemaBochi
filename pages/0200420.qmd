@@ -12,15 +12,6 @@ subtitle: 'BOA N° 01 ANTONIO BERNI - COLEGIO N° 10 JOSE DE SAN MARTIN'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2022) : Armario 6 
-
-*  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
-
-
 
 
 
@@ -43,6 +34,15 @@ subtitle: 'BOA N° 01 ANTONIO BERNI - COLEGIO N° 10 JOSE DE SAN MARTIN'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2022) : Armario 6 
+
+*  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
 

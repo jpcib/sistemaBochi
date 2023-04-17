@@ -12,15 +12,6 @@ subtitle: 'EPC N° 03 ING. ALVAREZ CONDARCO - JIN C (EPCJC 03/14°) [S]'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 7, Mesa pupitre doble 67, Silla escolar 141 
-
-*  (2022) : Armario 1, Mesa inicial 5, Pizarrón 2, Silla escolar 60 
-
-*  (2021) : Armario 4, Banco largo comedor 32, Mesa inicial 5, Mesa usos múltiples 16 
-
-
 
 
 
@@ -34,6 +25,15 @@ subtitle: 'EPC N° 03 ING. ALVAREZ CONDARCO - JIN C (EPCJC 03/14°) [S]'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 7, Mesa pupitre doble 67, Silla escolar 141 
+
+*  (2022) : Armario 1, Mesa inicial 5, Pizarrón 2, Silla escolar 60 
+
+*  (2021) : Armario 4, Banco largo comedor 32, Mesa inicial 5, Mesa usos múltiples 16 
 
 
 

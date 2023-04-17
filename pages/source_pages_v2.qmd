@@ -167,7 +167,7 @@ add_service_section_v3 <- function(data, dir) {
       
       if (length(infra_pos) > 0) {
         # Find the position of the last bulleted item under the Infrastructure header
-        infra_end_pos <- infra_pos + match(TRUE, grepl("^    \\+ ", file_contents[infra_pos:length(file_contents)])) + 1
+        infra_end_pos <- length(file_contents)
         
         # Insert the services section after the last bulleted item under the Infrastructure header
         updated_contents <- append(file_contents, services_section, after = infra_end_pos)
@@ -242,7 +242,7 @@ add_mobi_section_v1 <- function(data, dir) {
       
       if (length(infra_pos) > 0) {
         # Find the position of the last bulleted item under the Infrastructure header
-        infra_end_pos <- infra_pos + match(TRUE, grepl("^    \\+ ", file_contents[infra_pos:length(file_contents)])) + 1
+        infra_end_pos <- length(file_contents)
         
         # Insert the services section after the last bulleted item under the Infrastructure header
         updated_contents <- append(file_contents, services_section, after = infra_end_pos)

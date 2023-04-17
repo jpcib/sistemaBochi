@@ -12,11 +12,6 @@ subtitle: 'EPC N° 07 DEL CENTENARIO - JIN C (EPCJC 07/02°)'
 
 
 
-## Mobiliario
-
-*  (2023) : Armario 3, Escritorio 3, Silla escolar 9 
-
-
 
 
 
@@ -42,6 +37,11 @@ subtitle: 'EPC N° 07 DEL CENTENARIO - JIN C (EPCJC 07/02°)'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Armario 3, Escritorio 3, Silla escolar 9 
 
 
 

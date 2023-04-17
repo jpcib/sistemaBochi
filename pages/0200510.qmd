@@ -12,11 +12,6 @@ subtitle: 'EPC N° 16 REPUBLICA DOMINICANA - JIN C (EPCJS 16/10°) - EPA N° 16 
 
 
 
-## Mobiliario
-
-*  (2022) : Escritorio 7, Mesa pupitre doble 30, Pizarrón 10, Silla escolar 90 
-
-
 
 
 
@@ -39,6 +34,11 @@ subtitle: 'EPC N° 16 REPUBLICA DOMINICANA - JIN C (EPCJS 16/10°) - EPA N° 16 
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Escritorio 7, Mesa pupitre doble 30, Pizarrón 10, Silla escolar 90 
 
 
 

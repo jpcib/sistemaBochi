@@ -14,15 +14,6 @@ Primer piso
 
 
 
-## Mobiliario
-
-*  (2023) : Armario 1, Pizarrón 14 
-
-*  (2022) : Armario 2, Mesa pupitre doble 52, Pizarrón 14, Silla escolar 106 
-
-*  (2021) : Armario 4, Mesa inicial 6, Mesa pupitre doble 60, Silla escolar 60 
-
-
 
 
 
@@ -39,6 +30,15 @@ Primer piso
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Armario 1, Pizarrón 14 
+
+*  (2022) : Armario 2, Mesa pupitre doble 52, Pizarrón 14, Silla escolar 106 
+
+*  (2021) : Armario 4, Mesa inicial 6, Mesa pupitre doble 60, Silla escolar 60 
 
 
 

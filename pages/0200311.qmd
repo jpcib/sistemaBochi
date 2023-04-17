@@ -12,13 +12,6 @@ subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
 
 
 
-## Mobiliario
-
-*  (2022) : Armario 2, Mesa pupitre doble 60, Pizarrón 1, Silla escolar 120 
-
-*  (2021) : Armario 6 
-
-
 
 
 
@@ -38,6 +31,13 @@ subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Armario 2, Mesa pupitre doble 60, Pizarrón 1, Silla escolar 120 
+
+*  (2021) : Armario 6 
 
 
 

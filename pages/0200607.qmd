@@ -12,11 +12,6 @@ subtitle: 'ESC. TEC. N° 06 FERNANDO FADER'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-
 
 
 
@@ -48,6 +43,11 @@ subtitle: 'ESC. TEC. N° 06 FERNANDO FADER'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
 

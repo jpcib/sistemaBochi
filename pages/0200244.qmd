@@ -12,13 +12,6 @@ subtitle: 'EPC N° 24 CONTRALMIRANTE MARTIN GUERRICO'
 
 
 
-## Mobiliario
-
-*  (2022) : Armario 4, Escritorio 3, Mesa pupitre doble 39, Pizarrón 7, Silla escolar 88 
-
-*  (2021) : Mesa integradora con escotadura 1 
-
-
 
 
 
@@ -32,6 +25,13 @@ subtitle: 'EPC N° 24 CONTRALMIRANTE MARTIN GUERRICO'
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Armario 4, Escritorio 3, Mesa pupitre doble 39, Pizarrón 7, Silla escolar 88 
+
+*  (2021) : Mesa integradora con escotadura 1 
 
 
 

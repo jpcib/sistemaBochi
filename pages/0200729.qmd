@@ -12,11 +12,6 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS Y JÓVENES CON PLURIDISCAPACIDAD MOTORA N° 
 
 
 
-## Mobiliario
-
-*  (2021) : Armario 14, Banco largo comedor 4, Escritorio 2, Mesa inicial 2, Mesa pupitre doble 2, Mesa usos múltiples 2, Pizarrón 2, Silla escolar 20, Varios 5 
-
-
 
 
 
@@ -30,6 +25,11 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS Y JÓVENES CON PLURIDISCAPACIDAD MOTORA N° 
 
 
 
+
+
+## Mobiliario
+
+*  (2021) : Armario 14, Banco largo comedor 4, Escritorio 2, Mesa inicial 2, Mesa pupitre doble 2, Mesa usos múltiples 2, Pizarrón 2, Silla escolar 20, Varios 5 
 
 
 

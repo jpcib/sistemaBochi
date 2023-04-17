@@ -12,13 +12,6 @@ subtitle: 'JIN D (EPCJC 22/10°) [S] - EPC N° 22 REMEDIOS DE ESC. DE SAN MARTIN
 
 
 
-## Mobiliario
-
-*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2021) : Banco largo comedor 40, Escritorio 2, Mesa inicial 5, Mesa pupitre doble 30, Mesa usos múltiples 20, Silla escolar 92, Varios 20 
-
-
 
 
 
@@ -29,6 +22,13 @@ subtitle: 'JIN D (EPCJC 22/10°) [S] - EPC N° 22 REMEDIOS DE ESC. DE SAN MARTIN
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2021) : Banco largo comedor 40, Escritorio 2, Mesa inicial 5, Mesa pupitre doble 30, Mesa usos múltiples 20, Silla escolar 92, Varios 20 
 
 
 

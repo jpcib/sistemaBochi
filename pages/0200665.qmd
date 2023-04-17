@@ -12,6 +12,9 @@ subtitle: 'EPC N° 12 HERMINIA BRUMANA'
 
 
 
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 
@@ -28,9 +31,6 @@ subtitle: 'EPC N° 12 HERMINIA BRUMANA'
 
 *  (2021) Calefaccion y Refrigeracion 
     + Cambio de termotanque y estufa
-
-
-
 
 
 

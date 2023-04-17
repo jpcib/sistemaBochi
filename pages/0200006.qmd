@@ -12,13 +12,6 @@ subtitle: 'CENS Nº 90 - EPC N° 06 FRENCH Y BERUTI - JII N° 02/01° - EPA N° 
 
 
 
-## Mobiliario
-
-*  (2022) : Armario 2 
-
-*  (2021) : Armario 4, Banco largo comedor 96, Escritorio 2, Mesa pupitre doble 75, Mesa usos múltiples 48, Silla escolar 152 
-
-
 
 
 
@@ -29,6 +22,13 @@ subtitle: 'CENS Nº 90 - EPC N° 06 FRENCH Y BERUTI - JII N° 02/01° - EPA N° 
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Armario 2 
+
+*  (2021) : Armario 4, Banco largo comedor 96, Escritorio 2, Mesa pupitre doble 75, Mesa usos múltiples 48, Silla escolar 152 
 
 
 

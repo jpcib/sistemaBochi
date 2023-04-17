@@ -12,15 +12,6 @@ subtitle: 'Sup Media Region V - LICEO N° 08 ESTEBAN ECHEVERRIA'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-
 
 
 
@@ -37,6 +28,15 @@ subtitle: 'Sup Media Region V - LICEO N° 08 ESTEBAN ECHEVERRIA'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 

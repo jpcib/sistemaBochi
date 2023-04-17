@@ -12,11 +12,6 @@ subtitle: 'JIN D (EPCJS 19/09°) - EPC N° 19 PROVINCIA DEL CHUBUT - CAIYJ CHACA
 
 
 
-## Mobiliario
-
-*  (2023) : Armario 6, Banco largo comedor 32, Escritorio 7, Mesa pupitre doble 60, Mesa usos múltiples 16, Silla escolar 123 
-
-
 
 
 
@@ -27,6 +22,11 @@ subtitle: 'JIN D (EPCJS 19/09°) - EPC N° 19 PROVINCIA DEL CHUBUT - CAIYJ CHACA
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Armario 6, Banco largo comedor 32, Escritorio 7, Mesa pupitre doble 60, Mesa usos múltiples 16, Silla escolar 123 
 
 
 

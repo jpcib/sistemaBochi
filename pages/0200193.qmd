@@ -12,13 +12,6 @@ subtitle: 'CAIYJ BARRACAS - PI ESPACIO BARRACAS - ESC. DE COM.  Nº 01 DE 04 JOA
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 7, Mesa pupitre doble 105, Pizarrón 7, Silla escolar 217 
-
-*  (2022) : Escritorio 9, Mesa pupitre doble 135, Pizarrón 9, Silla escolar 279 
-
-
 
 
 
@@ -29,6 +22,13 @@ subtitle: 'CAIYJ BARRACAS - PI ESPACIO BARRACAS - ESC. DE COM.  Nº 01 DE 04 JOA
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 7, Mesa pupitre doble 105, Pizarrón 7, Silla escolar 217 
+
+*  (2022) : Escritorio 9, Mesa pupitre doble 135, Pizarrón 9, Silla escolar 279 
 
 
 

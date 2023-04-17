@@ -12,13 +12,6 @@ subtitle: 'ISEF N° 02 PROF. FEDERICO W. DICKENS'
 
 
 
-## Mobiliario
-
-*  (2023) : Mesa pupitre doble 35, Silla escolar 140 
-
-*  (2022) : Escritorio 5, Mesa pupitre doble 40, Silla escolar 85 
-
-
 
 
 
@@ -44,6 +37,13 @@ subtitle: 'ISEF N° 02 PROF. FEDERICO W. DICKENS'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Mesa pupitre doble 35, Silla escolar 140 
+
+*  (2022) : Escritorio 5, Mesa pupitre doble 40, Silla escolar 85 
 
 
 

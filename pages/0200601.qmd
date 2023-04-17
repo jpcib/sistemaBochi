@@ -12,13 +12,6 @@ subtitle: 'JIN D (EPCJC 24/12°) - EPC N° 24 PADRE CASTAÑEDA'
 
 
 
-## Mobiliario
-
-*  (2022) : Mesa pupitre doble 24, Mesa usos múltiples 12, Pizarrón 18, Silla escolar 148 
-
-*  (2021) : Banco largo comedor 4, Escritorio 2, Mesa inicial 10, Mesa pupitre doble 15, Mesa usos múltiples 7, Pizarrón 5, Silla escolar 94 
-
-
 
 
 
@@ -35,6 +28,13 @@ subtitle: 'JIN D (EPCJC 24/12°) - EPC N° 24 PADRE CASTAÑEDA'
 
 
 
+
+
+## Mobiliario
+
+*  (2022) : Mesa pupitre doble 24, Mesa usos múltiples 12, Pizarrón 18, Silla escolar 148 
+
+*  (2021) : Banco largo comedor 4, Escritorio 2, Mesa inicial 10, Mesa pupitre doble 15, Mesa usos múltiples 7, Pizarrón 5, Silla escolar 94 
 
 
 

@@ -11,12 +11,10 @@ subtitle: 'INST. DE ENSEÑANZA SUPERIOR EN LENGUAS VIVAS JUAN RAMÓN FERNÁNDEZ'
     + Inicio de obra: 1/3/2023 - Avance: 0% - Plazo: 210 
 
 
+* Puesta en valor de la escalera 
+    + Mejora Edilicia - Finalizado 
+    + Inicio de obra: 20/9/2021 - Avance: 100% - Plazo: 60 
 
-## Mobiliario
-
-*  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
-
-*  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
 
 
@@ -39,10 +37,12 @@ subtitle: 'INST. DE ENSEÑANZA SUPERIOR EN LENGUAS VIVAS JUAN RAMÓN FERNÁNDEZ'
 
 
 
-* Puesta en valor de la escalera 
-    + Mejora Edilicia - Finalizado 
-    + Inicio de obra: 20/9/2021 - Avance: 100% - Plazo: 60 
 
+## Mobiliario
+
+*  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
+
+*  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
 
 

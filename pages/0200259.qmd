@@ -12,15 +12,6 @@ subtitle: 'ENS N° 05 GRAL.  M. M. DE GÜEMES (SEDE) - LICEO COM. N° 03 JOSE MA
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
-
-*  (2022) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
-
-*  (2021) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
-
-
 
 
 
@@ -37,6 +28,15 @@ subtitle: 'ENS N° 05 GRAL.  M. M. DE GÜEMES (SEDE) - LICEO COM. N° 03 JOSE MA
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
+
+*  (2022) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
+
+*  (2021) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
 
 
 

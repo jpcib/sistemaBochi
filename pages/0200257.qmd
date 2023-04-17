@@ -12,15 +12,6 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
-
-*  (2022) : Armario 2, Escritorio 1, Mesa pupitre doble 40 
-
-*  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
-
-
 
 
 
@@ -34,6 +25,15 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
+
+*  (2022) : Armario 2, Escritorio 1, Mesa pupitre doble 40 
+
+*  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
 
 

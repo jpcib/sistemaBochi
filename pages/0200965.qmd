@@ -12,13 +12,6 @@ subtitle: 'JII Nº 10 DE 21 - EEM N° 06/21° E.REINGRESO - PI LARRAZABAL - EPC 
 
 
 
-## Mobiliario
-
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-
 
 
 
@@ -59,6 +52,13 @@ subtitle: 'JII Nº 10 DE 21 - EEM N° 06/21° E.REINGRESO - PI LARRAZABAL - EPC 
 
 
 
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
 
