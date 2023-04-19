@@ -18,7 +18,10 @@ subtitle: 'PI SOL DE NOCHE - JII N° 10/05° - CAIYJ ZAVALETA'
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Instalación de Aires Acondicionados, Prov.e instalacion rejilla y cañeria
+    + Prov.e instalacion rejilla y cañeria
+
+*  (2022) Electricidad 
+    + Instalación de Aires Acondicionados
 
 *  (2021) Albañileria / Pintura 
     + Pisos maderas y otros, Reparación Medianera, Construcción de muro medianero

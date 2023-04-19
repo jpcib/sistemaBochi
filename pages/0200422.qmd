@@ -6,14 +6,6 @@ subtitle: 'Sup Inicial IV A - JII N° 02/08° JORGE EDUARDO COLL'
 #
 
 
-## Mobiliario
-
-*  (2023) : Silla escolar 279 
-
-
-
-
-
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 

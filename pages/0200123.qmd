@@ -34,7 +34,7 @@ subtitle: 'ESCUELA INF. N° 02/03° MANE BERNARDO'
 
 *  (2023) : Armario 4, Escritorio 3, Juego de patio 1, Piso antigolpe para juegos 7, Pizarrón 1, Silla escolar 10 
 
-*  (2022) : Piso antigolpe para juegos 50, Varios 27 
+*  (2022) : Varios 27 
 
 *  (2021) : Mesa inicial 20, Silla escolar 120 
 

@@ -25,11 +25,11 @@ subtitle: 'EPC N° 06 DR. ADOLFO SALDIAS'
 *  (2022) Sanitarias 
     + Cambio de termotanque. Inspector devuelv
 
-*  (2021) Albañileria / Pintura 
-    + Acondicionamiento en casa de casera
-
 *  (2021) Incendio 
     + Reemplazo de matafuegos.
+
+*  (2021) Sanitarias 
+    + Acondicionamiento en casa de casera
 
 
 

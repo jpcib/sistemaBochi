@@ -37,17 +37,11 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
 *  (2021) Albañileria / Pintura 
     + Acond acustico taller de radio
 
-*  (2021) Calefaccion y Refrigeracion 
-    + Reparación de sistema VRV
-
 *  (2021) Carpinterías 
     + Prov,coloc puerta reja en cocina, Reparar reja plegable acceso, Extension reja exterior PB a gimnasio, Provisión de mosquiteros cocina
 
 *  (2021) Otros Servicios 
     + Sist riego balcón 3er piso frente, Sist riego canteros azotea, Acond. y nivelacion cantero PB
-
-*  (2021) Sanitarias 
-    + Reemplazo equipos de colectores solares, Colectores solares-Sist agua caliente
 
 
 

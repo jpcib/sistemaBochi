@@ -17,7 +17,7 @@ subtitle: 'JII N° 13/19°'
 *  (2022) Electricidad 
     + Reponer artefacto de iluminacion exterio
 
-*  (2022) Sanitarias 
+*  (2022) NA 
     + Instalar canilla junto a cisterna y cont
 
 *  (2021) Carpinterías 
