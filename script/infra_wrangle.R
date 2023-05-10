@@ -51,4 +51,4 @@ DataExplorer::profile_missing(plani_clean)
 # writexl::write_xlsx(plani_clean %>% filter(is.na(inicio_obra)), "data/sin_fecha_inicio_gop.xlsx")
 
 
-write_csv(plani_clean, "data/infra_gop_17-04.csv")
+write_csv(plani_clean, "data/infra_gop_10-05.csv")

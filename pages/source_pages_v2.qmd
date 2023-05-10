@@ -53,10 +53,10 @@ for (id_edificio in data$cui) {
 ```
 
 ```{r data_infra, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_infra <- read_csv("../data/infra_gop_17-04.csv") %>% 
+data_infra <- read_csv("../data/infra_gop_10-05.csv") %>% 
   mutate(intervenciones = str_to_sentence(intervenciones)) %>% 
   # select(-c(nota_de_inicio:avance_de_obra_real)) %>% 
-  filter(n_proyecto != "x093") %>% #elimino goleta santa cruz
+  # filter(n_proyecto != "x093") %>% #elimino goleta santa cruz
   arrange(cui) %>% 
   # slice(5:14) %>% 
   glimpse()
@@ -216,7 +216,7 @@ add_service_section_v3(data_mtom, dir = ".")
 
 
 ```{r data_mobi, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_mobi <- read_csv("../data/base_mobiliario_itemizada_19-04.csv") %>% 
+data_mobi <- read_csv("../data/base_mobiliario_itemizada_10-05.csv") %>% 
   arrange(desc(entrega)) %>%
   glimpse()
 ```

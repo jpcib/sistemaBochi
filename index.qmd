@@ -9,7 +9,7 @@ Aplicación de consulta de la SSGEFYAR.
 
 Busque por dirección, nombre, número de escuela, y/o distrito para acceder a los detalles.
 
-*Última actualización:* Infra: 17-04, Mobiliario: 19-04, Mantenimiento: 19-04.
+*Última actualización:* Infra: 10-05, Mobiliario: 10-05, Mantenimiento: 19-04.
 
 ------------------------------------------------------------------------
 

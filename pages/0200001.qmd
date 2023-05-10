@@ -8,7 +8,7 @@ subtitle: 'JIN C (EPCJS 01/01°) - EPC N° 01 JUAN JOSE CASTELLI - CENS - UGEE N
 
 * Facahadas y carpinterias / aula de gines 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 23/12/2023 
+    + Inicio de obra: 14/1/2024 
 
 
 
@@ -38,7 +38,7 @@ subtitle: 'JIN C (EPCJS 01/01°) - EPC N° 01 JUAN JOSE CASTELLI - CENS - UGEE N
 
 ## Mobiliario
 
-*  (2023) : Juego de patio 1 
+*  (2023) : Juego de patio 1, Piso antigolpe para juegos 1 
 
 *  (2022) : Armario 4, Banco largo comedor 60 
 

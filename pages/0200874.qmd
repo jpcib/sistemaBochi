@@ -4,15 +4,12 @@ subtitle: 'ESC. DE EDUC. MEDIA Nº 05 DE 19 E.REINGRESO'
 ---
 
 #
+## Infraestructura
 
+* Instalacion de gas 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra: 21/9/2023 
 
-## Mobiliario
-
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Escritorio 2, Mesa pupitre doble 33, Pizarrón 2, Silla escolar 68 
-
-*  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 
@@ -28,6 +25,18 @@ subtitle: 'ESC. DE EDUC. MEDIA Nº 05 DE 19 E.REINGRESO'
 
 *  (2021) Carpinterías 
     + Prov. e inst. pasadores puertas emergenc
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Escritorio 2, Mesa pupitre doble 33, Pizarrón 2, Silla escolar 68 
+
+*  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 
