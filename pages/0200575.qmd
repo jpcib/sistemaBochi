@@ -8,7 +8,7 @@ subtitle: 'ESC. DE COM.  N° 21 CAP. DE NAVIO HIPOLITO BOUCHARD'
 
 * 2do año 
     + SDF - En Obra 
-    + Inicio de obra: DGMESC - Avance: DGMESC - Plazo: 90 
+    + Inicio de obra: DGMESC - Avance: DGMESC - Plazo: 90 días 
 
 
 
