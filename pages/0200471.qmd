@@ -18,6 +18,12 @@ subtitle: 'ESC. TEC. DE JARDINERIA CRISTOBAL M. HICKEN'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + instalación de seguridad
+
+*  (2023) Incendio 
+    + Reemplazo de 1 matafuego
+
 *  (2022) Calefaccion y Refrigeracion 
     + Reemplazo de 2 estufas
 

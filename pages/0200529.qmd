@@ -17,6 +17,9 @@ subtitle: 'ESC. TEC. N° 21 FRAGATA ESCUELA LIBERTAD'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + INSTALACION EN ESPACIOS SEGUROS
+
 *  (2022) Albañileria / Pintura 
     + Reparación terraza, puertas b°y otros
 
@@ -29,7 +32,7 @@ subtitle: 'ESC. TEC. N° 21 FRAGATA ESCUELA LIBERTAD'
 
 ## Mobiliario
 
-*  (2023) : Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+*  (2023) : Mesa pupitre doble 45, Silla escolar 93 
 
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 

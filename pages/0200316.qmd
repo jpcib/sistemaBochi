@@ -16,6 +16,9 @@ subtitle: 'JII N° 02/06° FEDERICO FROEBEL'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Reemplazo de un ventilador de techo
+
 *  (2022) Electricidad 
     + Recambio de extractor de aire
 

@@ -18,6 +18,9 @@ subtitle: 'EPC N° 23 LORENZO ANADON - CENOF CENTRO TRAFUL'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Recambio de inodoro
+
 *  (2022) Calefaccion y Refrigeracion 
     + Reemplazo EstufasTraful 3847 (Jardín)
 

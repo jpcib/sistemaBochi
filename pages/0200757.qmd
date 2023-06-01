@@ -16,6 +16,9 @@ subtitle: 'EPC N° 19 DR. T. SANCHEZ DE BUSTAMANTE'
 
 ## Mantenimiento
 
+*  (2023) Sanitarias 
+    + Reemplazo de guardaganados en patio.
+
 *  (2021) Calefaccion y Refrigeracion 
     + Reparar-cambiar bomba recirculadoras
 

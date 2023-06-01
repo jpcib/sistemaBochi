@@ -8,6 +8,12 @@ subtitle: 'ESCUELA INF. N° 03/04°'
 
 ## Mantenimiento
 
+*  (2023) Carpinterías 
+    + Reparacion dos hojas puerta Emerg
+
+*  (2023) Medios de elevación 
+    + Reparar eje de polea, polea tensora
+
 *  (2022) Calefaccion y Refrigeracion 
     + Reponer el equipo de aire acondicionado
 

@@ -20,6 +20,9 @@ subtitle: 'INST. DE ENSEÑANZA SUPERIOR EN LENGUAS VIVAS JUAN B. JUSTO (SEDE)'
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Reemplazo de estufas TB fin de vida útil
+
 *  (2022) Albañileria / Pintura 
     + Reparaciones en Aula por Incendio, Pintura en cielorraso-Aula circulación
 

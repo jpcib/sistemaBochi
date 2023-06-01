@@ -20,6 +20,9 @@ subtitle: 'EEM N° 03/07°'
 *  (2023) Incendio 
     + Reposicion de faltantes  hidrantes
 
+*  (2023) Medios de elevación 
+    + Reparacion puertas ascensor
+
 *  (2022) Albañileria / Pintura 
     + Secundarias del futuro 2022- 2 aulas
 

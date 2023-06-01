@@ -16,6 +16,12 @@ subtitle: 'EPC N° 25 BANDERA ARGENTINA'
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Colocacion de aires acondicionados
+
+*  (2023) Electricidad 
+    + Reemplazo de Ventiladores
+
 *  (2022) Carpinterías 
     + Provision y Colocacion de Black out-ofic, Provision y colocacion de Black out-espa
 

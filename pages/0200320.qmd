@@ -18,7 +18,10 @@ subtitle: 'ESC. TEC.  N°25 TTE.1° DE ARTILLERIA F.L.BELTRAN'
 ## Mantenimiento
 
 *  (2023) Electricidad 
-    + Reemp ventiladores en aulas y oficinas
+    + Reemp ventiladores en aulas y oficinas, Reemplazar y reubicar cajas electricas
+
+*  (2023) Gas 
+    + Informe de Metrogas
 
 *  (2023) Sanitarias 
     + Habilitar y mejorar cubiculos de baños
@@ -30,7 +33,7 @@ subtitle: 'ESC. TEC.  N°25 TTE.1° DE ARTILLERIA F.L.BELTRAN'
     + Cambio de cerradura, Mejoras y habilitacion de puertas baño
 
 *  (2022) Gas 
-    + Adecuación de inst de gas a normativa
+    + Adecuación de inst de gas a Normativa
 
 
 

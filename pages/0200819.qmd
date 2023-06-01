@@ -18,6 +18,9 @@ subtitle: 'EPC N° 18 GENDARMERIA NACIONAL - JIN E (EPCJS 18/18°)'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + 5 ventiladores
+
 *  (2022) Albañileria / Pintura 
     + Colocar piso antigolpes-Revoques y pint., Arreglos revoques  patio sobre escenario
 

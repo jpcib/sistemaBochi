@@ -20,6 +20,9 @@ subtitle: 'Sup Inicial I C - EPC N° 05 AGUSTIN ALVAREZ - JII N° 01/03° - ESEA
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Reemplazo de portero eléctrico
+
 *  (2022) Albañileria / Pintura 
     + Pintura Hall de planta baja
 

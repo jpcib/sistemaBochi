@@ -16,6 +16,9 @@ subtitle: 'EPC N° 01 CHACABUCO - JII N° 01/08° CIUDAD DE BUENOS AIRES - CENS 
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Reparacion de Sistema de Vigilancia
+
 *  (2022) Calefaccion y Refrigeracion 
     + Estufa de 5700kcal., INSTALACION DE 4 AA EN SALAS JARDIN
 

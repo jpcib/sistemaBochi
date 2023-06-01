@@ -8,7 +8,7 @@ subtitle: 'IFTS Nº 11 DE 05 - ESC. TEC. N° 07 DOLORES LAVALLE DE LAVALLE - CAI
 
 ## Mobiliario
 
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
@@ -19,6 +19,12 @@ subtitle: 'IFTS Nº 11 DE 05 - ESC. TEC. N° 07 DOLORES LAVALLE DE LAVALLE - CAI
 
 
 ## Mantenimiento
+
+*  (2023) Albañileria / Pintura 
+    + SDF 2023. Adecuación, 2 aulas
+
+*  (2023) Electricidad 
+    + Traslado Tablero Eléctrico
 
 *  (2022) Carpinterías 
     + Secundarias del futuro 2022 - 2 aulas

@@ -17,6 +17,9 @@ subtitle: 'ESC. TEC. N° 05 MARIA DE ESCALADA DE SAN MARTIN'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + INSTALACION EN ESPACIOS SEGUROS
+
 *  (2022) Calefaccion y Refrigeracion 
     + Intervención en quipo central de aire
 

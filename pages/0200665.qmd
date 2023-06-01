@@ -17,6 +17,9 @@ subtitle: 'EPC N° 12 HERMINIA BRUMANA'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Alquiler de generador eléctrico
+
 *  (2022) Albañileria / Pintura 
     + Pintura de SUM
 

@@ -8,6 +8,9 @@ subtitle: 'JIN D (EPCJC 11/07°) - EPC N° 11 JOSE IGNACIO GORRITI'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Readecuacion luces emergencia
+
 *  (2021) Electricidad 
     + Instalacion 7 equipos purificadores
 

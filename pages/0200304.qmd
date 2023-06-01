@@ -20,6 +20,9 @@ subtitle: 'EPC N° 13 BRIG. GRAL. JOSE M. ZAPIOLA - JIN B (EPCJC 13/06°) MAESTR
 *  (2023) Albañileria / Pintura 
     + Instalación de malla metálica.
 
+*  (2023) Electricidad 
+    + Reemplazo de Ventiladores
+
 *  (2023) Gas 
     + Colocar nuevo termotanque en jardín
 

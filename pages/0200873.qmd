@@ -11,6 +11,12 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS Y JÓVENES CON DISCAPACIDAD MENTAL Y DE FORM
 *  (2023) Albañileria / Pintura 
     + Adecuacion de patio
 
+*  (2023) Electricidad 
+    + Prov. Coloc.  central teléfonica., Cambio de artefactos de iluminación
+
+*  (2023) Incendio 
+    + Adecuacion instalacion contra incendio
+
 *  (2022) Carpinterías 
     + Reparar herrajes cerraduras baño docente
 

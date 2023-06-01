@@ -20,6 +20,9 @@ subtitle: 'ESC. TEC. N° 10 FRAY LUIS BELTRAN - LICEO COM. N° 03 J. M. ESTRADA 
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Proteger cables expuestos en tablero, Instalación de espacios seguro
+
 *  (2022) Albañileria / Pintura 
     + Estudio de suelo y contruccion de platea, Plataforma de H°A°, adecuación de dos (2) aulas 1er Piso
 

@@ -8,7 +8,7 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 
 * Impermeabilizacion 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 22/7/2023 - Avance: 78% - Plazo: 240 días 
+    + Inicio de obra: 22/7/2023 - Avance: 94% - Plazo: 240 días 
 
 
 * 2do año 
@@ -24,6 +24,12 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 
 *  (2023) Carpinterías 
     + Prov,coloc 3 puertas reja acceso aulas
+
+*  (2023) Electricidad 
+    + Reemplazo de 19 ventiladores de pared, Realizar circuito independiente de tomas, Colocacion de 11 ventiladores de techo
+
+*  (2023) Incendio 
+    + Reemplazo de componentes de ascensor
 
 *  (2023) Sanitarias 
     + Cambio de 3 inodoros

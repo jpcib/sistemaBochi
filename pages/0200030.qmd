@@ -17,6 +17,9 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Adecuación de instalación de gas
+
 *  (2022) Medios de elevación 
     + reparacion ascensor
 

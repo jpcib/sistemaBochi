@@ -17,6 +17,9 @@ subtitle: 'EPA N° 26 REPUBLICA DE COLOMBIA - EPC N° 26 REPUBLICA DE COLOMBIA'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + PROVISION E INST. DE VENTILADORES
+
 *  (2022) Albañileria / Pintura 
     + Limpieza y reparacion de aberturas
 

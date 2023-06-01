@@ -8,7 +8,7 @@ subtitle: 'EPC N° 19 NACIONES UNIDAS - JIC N° 01/15° - CAIYJ CLUB SAAVEDRA'
 
 * Completo o por etapas de obra / acondicionamiento de aulas, sanitarios y pintura general 
     + Mejora Edilicia - Planificado 
-    + Inicio de obra: 08/02/2024 
+    + Inicio de obra: 06/06/2024 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'EPC N° 19 NACIONES UNIDAS - JIC N° 01/15° - CAIYJ CLUB SAAVEDRA'
 
 
 ## Mantenimiento
+
+*  (2023) Electricidad 
+    + Instalación en espacios seguros
 
 *  (2022) Albañileria / Pintura 
     + Reemplazo de solado en aula PB, Recambio de solados biblioteca

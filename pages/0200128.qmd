@@ -19,6 +19,9 @@ subtitle: 'JIN B (EPCJS 09/03°) - EPC N° 09 MARIANO MORENO - EPA N° 09 MARIAN
 *  (2023) Carpinterías 
     + Colocación de puerta de rejas
 
+*  (2023) Electricidad 
+    + Ejecucion Espacios Seguros, Reemplazo de Ventiladores
+
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Reparacion  de filtracion en techo
 

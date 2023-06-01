@@ -25,6 +25,9 @@ subtitle: 'PI LUCECITAS - CENS N° 18 - COLEGIO N° 01 BERNARDINO RIVADAVIA - ES
 *  (2023) Albañileria / Pintura 
     + Secundaria del Futuro 2do Piso 3Etapa
 
+*  (2023) Electricidad 
+    + Reemplazo de ventiladores en aulas
+
 *  (2022) Albañileria / Pintura 
     + Cálculo por Refuerzo Estructural, ACONDICIONAMIENTO DE AULAS, Secundaria del futuro Segundo Piso - Eta, Secundaria del Futuro 2do piso Etapa 2
 

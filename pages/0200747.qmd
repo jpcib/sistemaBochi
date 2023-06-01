@@ -8,6 +8,9 @@ subtitle: 'EPC N° 08 SAN JUAN BOSCO - JIN A (EPCJS 08/16°)'
 
 ## Mantenimiento
 
+*  (2023) Sanitarias 
+    + Cambio de un tanque cisterna
+
 *  (2022) Electricidad 
     + Prov. y coloc. de luces de emergencia, Timbre de recreo automatico
 

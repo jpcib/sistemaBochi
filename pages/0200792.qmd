@@ -8,7 +8,7 @@ subtitle: 'ESC. TEC. N° 16 ESPAÑA'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 
+*  (2023) : Escritorio 1, Mesa pupitre doble 15, Silla escolar 31 
 
 *  (2022) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 
 
@@ -19,6 +19,9 @@ subtitle: 'ESC. TEC. N° 16 ESPAÑA'
 
 
 ## Mantenimiento
+
+*  (2023) Albañileria / Pintura 
+    + Ejecucion 1  aula del Futuro
 
 *  (2022) Electricidad 
     + Ejecucion 1 aula secudario del futuro

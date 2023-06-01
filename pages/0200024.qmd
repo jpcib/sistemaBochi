@@ -20,6 +20,12 @@ subtitle: 'ESC. TEC.  N° 12 LIB. GRAL. JOSE DE SAN MARTIN'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Adecuación SDF 2023
+
+*  (2023) Otros Servicios 
+    + Instalación en espacios seguros, Tareas Complementarias Eléctricas
+
 *  (2022) Carpinterías 
     + PROVISION Y COLOCACION DE CARP. EN AULAS
 

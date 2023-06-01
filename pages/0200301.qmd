@@ -26,7 +26,7 @@ subtitle: 'EPC N° 10 FRANCISCO DE GURRUCHAGA'
     + Placas antihumedad Sector Comedor
 
 *  (2022) Gas 
-    + Adecuación de inst de gas a normativa
+    + Adecuación de inst de gas a Normativa
 
 *  (2021) Gas 
     + Pruebas de hermeticidad y adecuación

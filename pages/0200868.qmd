@@ -24,6 +24,9 @@ subtitle: 'ESCUELA INF. N° 05/19° SAN LORENZO DE ALMAGRO'
 *  (2022) Carpinterías 
     + Reja perimetral con refuerzo
 
+*  (2022) Electricidad 
+    + Remplazo de ventiladores
+
 *  (2022) Gas 
     + Cambio de puerta en Nichos de gas.
 

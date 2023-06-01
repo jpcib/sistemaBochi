@@ -18,6 +18,9 @@ subtitle: 'JIN D (EPCJC 03/12°) [S] - EPC N° 03 EMILIO GIMENEZ ZAPIOLA - EPA N
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Cambio de caño ventilación caldera
+
 *  (2022) Carpinterías 
     + Colocación de red en dos ventanas
 

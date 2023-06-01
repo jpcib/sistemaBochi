@@ -8,6 +8,9 @@ subtitle: 'EPA N° 01 T. DE LA QUINTANA DE ESCALADA - JIN A (EPCJC 01/07°) [S] 
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Readecuacion de caldera
+
 *  (2022) Albañileria / Pintura 
     + Reparación de revoques y pintura
 

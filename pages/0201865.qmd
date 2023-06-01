@@ -20,6 +20,12 @@ subtitle: 'ESC. DE COM.  N° 17 SANTA MARIA DE LOS BUENOS AIRES'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Protocolo espacios seguros
+
+*  (2023) Incendio 
+    + Adecuación IFCI
+
 *  (2022) Albañileria / Pintura 
     + S.D.F. - 1º - 2 aulas
 

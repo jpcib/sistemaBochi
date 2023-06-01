@@ -17,7 +17,10 @@ subtitle: 'Sup Inicial VIII A - EEM N° 02/16°'
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + SDF 2 AULAS 2023
+    + SDF 2 AULAS 2023, Espacio Digital
+
+*  (2023) Calefaccion y Refrigeracion 
+    + prov y col de 2 radiadores en aulas, prov y col de 2 bombas recircu calef
 
 *  (2021) Carpinterías 
     + colocar reja de malla soldada 5 x 5 PA

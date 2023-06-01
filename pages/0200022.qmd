@@ -17,6 +17,9 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N° 02 - COLEGIO N° 02 DOMINGO FAUS
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Instalacion  Espacios Seguros
+
 *  (2022) Electricidad 
     + Adecuación de la instalación eléctrica
 
@@ -35,7 +38,7 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N° 02 - COLEGIO N° 02 DOMINGO FAUS
 
 ## Mobiliario
 
-*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
+*  (2023) : Escritorio 5, Mesa pupitre doble 75, Silla escolar 155 
 
 *  (2022) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 

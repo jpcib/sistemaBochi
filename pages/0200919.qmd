@@ -16,11 +16,17 @@ subtitle: 'JII N° 01/20° - EPC N° 22 RUFINO LURO CAMBACERES'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Proveer  luminarias exteriores
+
 *  (2022) Carpinterías 
     + Proveer y colocar puerta reja, Prov. coloc de 3 cerraduras por vandalis, Prov. coloc. 4 vidrios por vandalismo
 
 *  (2022) Gas 
     + Adecuar instalación de gas
+
+*  (2022) Sanitarias 
+    + Ejecución de cámaras cloacales.
 
 *  (2021) Albañileria / Pintura 
     + Tabique para canteroy reja de protección

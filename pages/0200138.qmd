@@ -17,6 +17,9 @@ subtitle: 'COLEGIO N° 07 JUAN MARTIN DE PUEYRREDON'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Instalacion es espacios seguros, Reemplazo y provision de ventiladores
+
 *  (2023) Incendio 
     + Reemplazo de extintores
 

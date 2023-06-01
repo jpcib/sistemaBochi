@@ -8,7 +8,7 @@ subtitle: 'BOA N° 01 ANTONIO BERNI - COLEGIO N° 10 JOSE DE SAN MARTIN'
 
 * Mejoramiento edilicio e instalación eléctrica 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 30/1/2023 - Avance: 70% - Plazo: 120 días 
+    + Inicio de obra: 30/1/2023 - Avance: 97% - Plazo: 120 días 
 
 
 
@@ -20,8 +20,11 @@ subtitle: 'BOA N° 01 ANTONIO BERNI - COLEGIO N° 10 JOSE DE SAN MARTIN'
 *  (2023) Albañileria / Pintura 
     + Adicional por placa san francisco
 
+*  (2023) Electricidad 
+    + PROVISION E INST. DE VENTILADORES
+
 *  (2023) Otros Servicios 
-    + Aulas secundarias del futuro
+    + AULAS SECUNDARIAS DEL FUTURO, Espacio digital Secundarias del futuro
 
 *  (2022) Otros Servicios 
     + Reemplazo bomba, Adecuaciones en instalacion de gas, Adecuacion inst. elect. zona caldera, Provision e instalacion de rejas

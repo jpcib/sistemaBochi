@@ -8,6 +8,12 @@ subtitle: 'EPC N° 25 REPUBLICA DE GUATEMALA'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Inst. aires acondicionado
+
+*  (2023) Gas 
+    + Adecuación instalación de gas
+
 *  (2021) Electricidad 
     + Instalacion 6 equipos purificadores
 

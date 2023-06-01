@@ -17,6 +17,9 @@ subtitle: 'EPC N° 04 PROVINCIA DE CORDOBA'
 
 ## Mantenimiento
 
+*  (2023) Sanitarias 
+    + Colocacion de Bomba y tanque de bombeo
+
 *  (2022) Calefaccion y Refrigeracion 
     + Instalación de 2 AA
 

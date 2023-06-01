@@ -4,11 +4,12 @@ subtitle: 'EPC N° 10 ALFONSINA STORNI - EPA N° 10 ALFONSINA STORNI - JIN C (EP
 ---
 
 #
+## Infraestructura
 
+* Instalacion electrica 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra: 8/12/2023 
 
-## Mobiliario
-
-*  (2022) : Mesa inicial 6, Silla escolar 24 
 
 
 
@@ -21,6 +22,14 @@ subtitle: 'EPC N° 10 ALFONSINA STORNI - EPA N° 10 ALFONSINA STORNI - JIN C (EP
 
 *  (2021) Sanitarias 
     + Cambio de tanques de agua.
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Mesa inicial 6, Silla escolar 24 
 
 
 

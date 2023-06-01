@@ -21,7 +21,10 @@ subtitle: 'EEM N° 01/12° JULIO CORTAZAR'
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Aulas secundarias del futuro
+    + AULAS SECUNDARIAS DEL FUTURO
+
+*  (2023) Sanitarias 
+    + INSTALACIÓN BOMBA DE AGUA
 
 *  (2022) Electricidad 
     + Instalación de purificadores

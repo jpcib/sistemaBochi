@@ -16,6 +16,12 @@ subtitle: 'JIC N° 04/18° - IFTS N° 16 SEDE - EPC N° 09 PROVINCIA DE MISIONES
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Reparacion  revoques y pintura de friso
+
+*  (2023) Electricidad 
+    + Proveer ventiladores-Modif inst S Video
+
 *  (2022) Electricidad 
     + Colocar 3 ventiladores y tomas
 

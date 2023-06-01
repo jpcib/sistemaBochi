@@ -8,7 +8,7 @@ subtitle: 'EPC N° 07 DEL CENTENARIO - JIN C (EPCJC 07/02°)'
 
 * Acc. plena, pintura y adecuacion de instalacion electrica 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 5/10/2023 
+    + Inicio de obra: 31/10/2023 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'EPC N° 07 DEL CENTENARIO - JIN C (EPCJC 07/02°)'
 
 
 ## Mantenimiento
+
+*  (2023) Sanitarias 
+    + Cambio del calefon a gas casa casera
 
 *  (2022) Albañileria / Pintura 
     + Pintura piso de la cancha, Pintura adicional de la cancha de futbol

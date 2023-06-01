@@ -19,6 +19,9 @@ subtitle: 'JIN B (EPCJS 04/05°) - EPC N° 04 CNEL. DE MARINA TOMAS ESPORA'
 *  (2023) Albañileria / Pintura 
     + Puesta en valor aula 2do, Puesta en valor aula 1ero
 
+*  (2023) Electricidad 
+    + Reemplazo de ventiladores en aula.
+
 *  (2022) Albañileria / Pintura 
     + Puesta en Valor de Aula y Biblioteca
 

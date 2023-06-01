@@ -18,6 +18,9 @@ subtitle: 'INST. DE TIEMPO LIBRE Y RECREACION - LICEO N° 01 JOSE FIGUEROA ALCOR
 
 ## Mantenimiento
 
+*  (2023) Sanitarias 
+    + Prov.Coloc inodoro en baño de mujeres
+
 *  (2021) Albañileria / Pintura 
     + Puesta en valor de aula 15, 16 y 26, Acondicionar dos aulas para SDF 202
 
@@ -25,7 +28,7 @@ subtitle: 'INST. DE TIEMPO LIBRE Y RECREACION - LICEO N° 01 JOSE FIGUEROA ALCOR
     + Cambio de vidrios en 2 aulas 1er piso
 
 *  (2021) Electricidad 
-    + REALIZAR 4 AULAS DEL FUTURO, Provisión y colocación de un nuevo timbr, Proveer y colocar 14 ventiladores
+    + Realizar 4 aulas del futuro, Provisión y colocación de un nuevo timbr, Proveer y colocar 14 ventiladores
 
 *  (2021) Incendio 
     + Adecuar IFCI

@@ -8,6 +8,12 @@ subtitle: 'ESCUELA INF. N°05/21° HEBE SAN MARTIN DUPRAT'
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Revestimiento de durlok en direccion
+
+*  (2023) Calefaccion y Refrigeracion 
+    + Equipo aire frio calor inverter de 5000
+
 *  (2023) Electricidad 
     + Colocacion de artefactos luz tubos led
 
@@ -15,7 +21,7 @@ subtitle: 'ESCUELA INF. N°05/21° HEBE SAN MARTIN DUPRAT'
     + Cambio de piso de goma-Sala 1 año, Colocacion placas en friso
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Prov. coloc.equipo AA frio calor, Equipo aire frio calor inverter de 5000
+    + Prov. coloc.equipo AA frio calor
 
 *  (2022) Carpinterías 
     + Colocacion de 3 cerradura por vandalismo, Colocación cerraduras puerta de entrada

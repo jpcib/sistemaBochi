@@ -17,6 +17,9 @@ subtitle: 'JII N° 01/05° WALT DISNEY'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Reemplazo de 4 ventiladores
+
 *  (2022) Incendio 
     + Regularizar IFCI
 

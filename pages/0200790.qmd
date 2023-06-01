@@ -8,7 +8,7 @@ subtitle: 'COLEGIO N° 19 LUIS PASTEUR'
 
 * Sanitarios, electricidad, accesibilidad y preceptoria 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 27/5/2022 - Avance: 69% - Plazo: 180 días 
+    + Inicio de obra: 27/5/2022 - Avance: 76% - Plazo: 180 días 
 
 
 
@@ -17,7 +17,7 @@ subtitle: 'COLEGIO N° 19 LUIS PASTEUR'
 
 ## Mantenimiento
 
-*  (2023) Electricidad 
+*  (2023) Albañileria / Pintura 
     + Reacondicionamiento de 3 aulas para SDF
 
 *  (2022) Gas 

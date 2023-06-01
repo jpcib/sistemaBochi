@@ -20,6 +20,9 @@ subtitle: 'ESC. DE COM. N° 32 JOSE LEON SUAREZ [A]'
 *  (2023) Albañileria / Pintura 
     + Adecuar 3 aulas
 
+*  (2023) Electricidad 
+    + Reemplazar cables deteriorados
+
 *  (2022) Carpinterías 
     + Reparación de toldo metálico
 

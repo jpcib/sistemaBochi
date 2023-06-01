@@ -18,6 +18,12 @@ subtitle: 'EPC N° 02 JUAN LARREA - ESC. DE MUSICA N° 10'
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Adecuaciones en la de instalación de gas
+
+*  (2023) Sanitarias 
+    + Prov y coloc   inodoro en baño de varone
+
 *  (2022) Albañileria / Pintura 
     + Pintura de Hall de ingreso
 

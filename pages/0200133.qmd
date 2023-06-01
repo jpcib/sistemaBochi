@@ -18,6 +18,9 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Adecuación de inst de gas a Normativa, Reparacion segun informe MetroGas
+
 *  (2022) Albañileria / Pintura 
     + Reparar revoques de aula de plástica, Pintura de pasillo y 2 hall
 
@@ -31,7 +34,7 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
     + Reemplazar y suministrar ventiladores, Colocar Cinco Ventiladores distribuidos
 
 *  (2022) Gas 
-    + Adecuación de inst de gas a normativa
+    + Adecuación de inst de gas a Normativa
 
 *  (2022) Otros Servicios 
     + RETIRO DE ARBOL, Retiro de Materiales o Restos de Obra

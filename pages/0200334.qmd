@@ -12,7 +12,10 @@ subtitle: 'EPC N° 15 MAESTRO JORGE LUIS CHINETTI - IFTS N° 26'
     + Reemplazo de chapas de policarbonato
 
 *  (2022) Gas 
-    + Reemplazo estufas TB en mal estado, Adecuación de inst de gas a normativa
+    + Reemplazo estufas TB en mal estado, Adecuación de inst de gas a Normativa
+
+*  (2022) Sanitarias 
+    + Reponer un inodoro roto
 
 *  (2021) Albañileria / Pintura 
     + Retiro de vegetales en altura (cornisas)

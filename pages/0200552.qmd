@@ -8,7 +8,7 @@ subtitle: 'EPC N° 04 BENJAMIN ZORRILLA - JIC N° 02/11°'
 
 * Patio cubierto, creacion de un comedor con sanitarios 
     + Mejora Edilicia - Planificado 
-    + Inicio de obra: 2/2/2024 
+    + Inicio de obra: 2/6/2024 
 
 
 
@@ -18,7 +18,7 @@ subtitle: 'EPC N° 04 BENJAMIN ZORRILLA - JIC N° 02/11°'
 ## Mantenimiento
 
 *  (2022) Incendio 
-    + Provision de matafuego en cocina
+    + Provision de matafuego en cocina, Instalación de detectores
 
 *  (2022) Sanitarias 
     + Acondicionamiento de acceso a tanque

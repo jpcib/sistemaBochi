@@ -17,7 +17,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 18'
 ## Mantenimiento
 
 *  (2022) Electricidad 
-    + Colocar 2 ventiladores
+    + Colocar 2 ventiladores, Proveer y coloc ventiladores-SUM y talle
 
 *  (2021) Gas 
     + Revision y restitución del gas en la ESC

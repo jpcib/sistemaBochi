@@ -16,6 +16,9 @@ subtitle: 'EPC N° 01 MARTIN FIERRO - JIN E (EPCJS 01/18°) (SEDE)'
 
 ## Mantenimiento
 
+*  (2023) Carpinterías 
+    + Mallado en reja de acceso
+
 *  (2022) Albañileria / Pintura 
     + Arreglos de revoques y pintura
 

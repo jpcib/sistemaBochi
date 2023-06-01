@@ -18,6 +18,9 @@ subtitle: 'JII N° 01/01° - EPC N° 12 GRAL. LAS HERAS - CEC PLASTICA 01'
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + CAMBIO DE TERMOTANQUE
+
 *  (2022) Gas 
     + Colocación de solenoide y extractor
 

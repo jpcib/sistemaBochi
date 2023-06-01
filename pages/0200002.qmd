@@ -8,7 +8,7 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
 
 * Acondicionamiento de fachadas/ adecuacion de supervision de1 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 1/12/2022 - Avance: 5% - Plazo: 270 días 
+    + Inicio de obra: 1/12/2022 - Avance: 13% - Plazo: 270 días 
 
 
 
@@ -17,11 +17,17 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Instalacion  Espacios Seguros, Reemplazar 2 ventiladores en jardín
+
 *  (2022) Albañileria / Pintura 
     + Recambio de tramo de conducto pluvial
 
 *  (2022) Electricidad 
     + Remplazo de ventiladores
+
+*  (2022) Gas 
+    + Instalaciones de gas
 
 *  (2022) Sanitarias 
     + Reposición de Bidet vandalizado

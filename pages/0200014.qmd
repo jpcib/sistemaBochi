@@ -16,6 +16,9 @@ subtitle: 'EPC N° 16 WENCESLAO POSSE - JIC N° 03/01° - CENOF CENTRO JUNCAL - 
 
 ## Mantenimiento
 
+*  (2023) Incendio 
+    + Reponer punta de lanza hidrante
+
 *  (2022) Calefaccion y Refrigeracion 
     + Reparar instalación de calefacción, Etapa 2 de reparación de calefacción, Cambio de quemador caldera
 

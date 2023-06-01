@@ -18,6 +18,9 @@ subtitle: 'Sup Primaria DE07 - EPA N° 16 ANDRES FERREYRA - EPC N° 16 ANDRES FE
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + instalacion de aire acondicionado
+
 *  (2022) Albañileria / Pintura 
     + Reemplazo de mesada de granito en cocina
 

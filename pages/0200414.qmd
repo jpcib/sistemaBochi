@@ -16,6 +16,9 @@ subtitle: 'EPC N° 20 ELOY FERNANDEZ ALONSO - JIN C (EPCJS 20/08°)'
 
 ## Mantenimiento
 
+*  (2023) Otros Servicios 
+    + Colocacion placa san francisco
+
 *  (2021) Electricidad 
     + Instalacion de purificadores en aulas
 

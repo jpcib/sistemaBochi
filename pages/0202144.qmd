@@ -16,6 +16,9 @@ subtitle: 'EPC N° 21 HIPOLITO VIEYTES - CENS N° 60'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Instalación en espacios seguros
+
 *  (2022) Albañileria / Pintura 
     + Acondicionamiento de 2 aulas Primer Piso
 

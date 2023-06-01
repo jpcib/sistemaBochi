@@ -8,6 +8,9 @@ subtitle: 'JIC N° 08/19° - EPC N° 16 WILLIAM C. MORRIS'
 
 ## Mantenimiento
 
+*  (2022) Gas 
+    + Puesta en normativa gas por Metrogas,sal
+
 *  (2022) Otros Servicios 
     + Colocar tomas en aulas
 
@@ -16,9 +19,6 @@ subtitle: 'JIC N° 08/19° - EPC N° 16 WILLIAM C. MORRIS'
 
 *  (2021) Electricidad 
     + Reposicion caja termicas y cableado
-
-*  (2021) Gas 
-    + Puesta en normativa gas por Metrogas,sal
 
 *  (2021) Incendio 
     + Cambio bomba incendio por vandalismo

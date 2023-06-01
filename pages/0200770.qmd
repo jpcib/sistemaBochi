@@ -16,6 +16,9 @@ subtitle: 'EPC N° 03 POLICIA FEDERAL ARGENTINA - JINA(EPCJC 03/17°)ALICIA MORE
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Estufa en sala plastica
+
 *  (2022) Calefaccion y Refrigeracion 
     + Proveer Split frío/calor de 3000
 

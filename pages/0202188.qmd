@@ -8,7 +8,7 @@ subtitle: 'ESC. TEC. N° 36 ALTE. GUILLERMO BROWN - ESC. SUPERIOR DE EDUCACIÓN 
 
 * Terminación vestuarios, pileta, sanitarios, estacionamiento, parquizado 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 20/1/2023 - Avance: 5% - Plazo: 330 días 
+    + Inicio de obra: 20/1/2023 - Avance: 7% - Plazo: 330 días 
 
 
 * 3er año 
@@ -26,19 +26,19 @@ subtitle: 'ESC. TEC. N° 36 ALTE. GUILLERMO BROWN - ESC. SUPERIOR DE EDUCACIÓN 
     + Instalación de dos equipos de AA
 
 *  (2023) Electricidad 
-    + Instalación de portero eléctrico, Reparación de ventiladores
+    + Instalación de portero eléctrico, Reparación de ventiladores, Colocación de luces LED, Instalación luces led, Colocación de ventiladores de pared
 
 *  (2023) Sanitarias 
     + Cambio de tanques cisterna
 
 *  (2022) Albañileria / Pintura 
-    + Refuncionalización espacio bibliot. y pr, Realizar division y pintura sala
+    + Refuncionalización espacio bibliot. y pr, Realizar division y pintura sala, Pintura de aulas, Pintura  de circulaciones
 
 *  (2022) Calefaccion y Refrigeracion 
     + Nuevos desagües de equipos de A°A°, Reparar Aire Acondicionado central
 
 *  (2022) Carpinterías 
-    + Divisor de aula Nro 2, SUM- Reemplazo de paños fijos por ventan, Comedor- Reemplazo de paños fijos por ve, Proveer rampa en sanitario, Reemplazar vidrio vandalizado en SS, Prov. y coloc. espejos aula 6, Refuerzo cerco perimetral canchas, Refuerzo cerco perimetral, Proveer rampa en Baño-Posprimaria, Reparación de puertas PB+2ndo piso, Reemplazar vidrio puerta salida, Reemplazar vidrio enfermería, Reposición de vidrios vandalizados, Vidrios vandalizados, Reparación  puerta violentada y portero
+    + Divisor de aula Nro 2, SUM- Reemplazo de paños fijos por ventan, Comedor- Reemplazo de paños fijos por ve, Proveer rampa en sanitario, Reemplazar vidrio vandalizado en SS, Prov. y coloc. espejos aula 6, Refuerzo cerco perimetral canchas, Refuerzo cerco perimetral, Proveer rampa en Baño-Posprimaria, Reparación de puertas PB+2ndo piso, Reemplazar vidrio puerta salida, Reemplazar vidrio enfermería, Reposición de vidrios vandalizados, Vidrios vandalizados, Reparación  puerta violentada y portero, Restauracion de anfiteatro abierto
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Impermeabilización y realización drenaje

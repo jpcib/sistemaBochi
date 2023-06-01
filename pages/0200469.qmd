@@ -6,9 +6,9 @@ subtitle: 'Sup Media Region VIII A Sup Media Tecnica Region VIII - ESC. TEC. N°
 #
 ## Infraestructura
 
-* Analizar factibilidad de incorporar  6 salas de inicial (salas de 3,4 y 5 años). 
+* NA 
     + Obra Nueva - En Proyecto 
-    + Inicio de obra: 25/11/2023 
+    + Inicio de obra: 24/11/2023 
 
 
 
@@ -16,6 +16,12 @@ subtitle: 'Sup Media Region VIII A Sup Media Tecnica Region VIII - ESC. TEC. N°
 
 
 ## Mantenimiento
+
+*  (2023) Albañileria / Pintura 
+    + Instalacion eléctrica y pintura en aulas
+
+*  (2023) Electricidad 
+    + SECUNDARIAS DEL FUTURO- 3 AULAS
 
 *  (2022) Albañileria / Pintura 
     + Pintura general de aula 23, CONEXIÓN CON MIRADOR COMASTRI, Pañol en taller audiovisual

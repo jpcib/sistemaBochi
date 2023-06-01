@@ -8,7 +8,7 @@ subtitle: 'CENS N° 59 - EPC N° 25 GERVASIO POSADAS - EPA N° 25 GERVASIO POSAD
 
 * Proyecto de accesibilidad y pintura general. Agregar impermeabilización. Expediente: construccion de galeria en patio para paso (jardin) 
     + Mejora Edilicia - Planificado 
-    + Inicio de obra: 18/3/2024 
+    + Inicio de obra: 5/7/2024 
 
 
 
@@ -17,6 +17,9 @@ subtitle: 'CENS N° 59 - EPC N° 25 GERVASIO POSADAS - EPA N° 25 GERVASIO POSAD
 
 ## Mantenimiento
 
+*  (2023) Sanitarias 
+    + Reparaciones en tanque de agua
+
 *  (2022) Albañileria / Pintura 
     + Acondicionamiento de muro medianero
 
@@ -24,7 +27,7 @@ subtitle: 'CENS N° 59 - EPC N° 25 GERVASIO POSADAS - EPA N° 25 GERVASIO POSAD
     + Colocacion de 5 ventiladores
 
 *  (2022) Gas 
-    + Reemplazo General de Estufas pb, Adecuación de inst de gas a normativa
+    + Reemplazo General de Estufas pb, Adecuación de inst de gas a Normativa
 
 *  (2022) Sanitarias 
     + Perdida en Cañeria Baños en comedor, Reponer inodoro en baño de niñas

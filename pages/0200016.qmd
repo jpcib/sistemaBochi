@@ -22,6 +22,9 @@ subtitle: 'JIN C (EPCJC 21/01°) - EPC N° 21 ANGEL GALLARDO'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Colocacion de 8 ventiladores de pared
+
 *  (2022) Albañileria / Pintura 
     + Pintura de Paredes y retiro de placas.
 

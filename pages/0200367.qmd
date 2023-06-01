@@ -18,6 +18,9 @@ subtitle: 'EPC N° 17 FRANCISCO DE VITORIA - CENS N° 33 LEOPOLDO MARECHAL - JIN
 
 ## Mantenimiento
 
+*  (2023) Incendio 
+    + Reemplazo de tendido de cable
+
 *  (2022) Electricidad 
     + Adecuación eléctrica en casa casera
 

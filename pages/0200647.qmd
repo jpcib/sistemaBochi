@@ -22,6 +22,9 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Prov.Coloc. luces de emergencia
+
 *  (2022) Calefaccion y Refrigeracion 
     + Prov. coloc. 11 placas Eco sol 900watt
 

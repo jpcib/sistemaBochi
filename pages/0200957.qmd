@@ -4,18 +4,25 @@ subtitle: 'EPC N° 15 DR. CARLOS ALBERTO VERONELLI - JII N° 01/21° - CENOF CEN
 ---
 
 #
-## Infraestructura
 
-* Cambio de carpintenrias (fondos covid) 
-    + Mejora Edilicia - Planificado 
-    + Inicio de obra: Sin fecha de inicio 
 
+## Mobiliario
+
+*  (2022) : Mesa pupitre doble 94, Silla escolar 188 
+
+*  (2021) : Mesa inicial 20, Pizarrón 3, Silla escolar 60 
 
 
 
 
 
 ## Mantenimiento
+
+*  (2023) Electricidad 
+    + Remplazo de ventiladores, Espacios Seguros adecuar prov.colocacion
+
+*  (2023) Sanitarias 
+    + Realizar camara de inspeccion, Cambio termotanque
 
 *  (2022) Albañileria / Pintura 
     + Pintura fachadas y mejoras pintura
@@ -43,16 +50,6 @@ subtitle: 'EPC N° 15 DR. CARLOS ALBERTO VERONELLI - JII N° 01/21° - CENOF CEN
 
 *  (2021) Sanitarias 
     + Rep. termotanque en casa de casera
-
-
-
-
-
-## Mobiliario
-
-*  (2022) : Mesa pupitre doble 94, Silla escolar 188 
-
-*  (2021) : Mesa inicial 20, Pizarrón 3, Silla escolar 60 
 
 
 

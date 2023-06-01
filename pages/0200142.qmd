@@ -8,6 +8,9 @@ subtitle: 'ESC. PARA JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL Y DE FORMACIÓN 
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + INFORME METROGAS
+
 *  (2022) Calefaccion y Refrigeracion 
     + Reemplazar estufas-Aulas gastronomia
 
@@ -18,7 +21,7 @@ subtitle: 'ESC. PARA JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL Y DE FORMACIÓN 
     + Colocacion de 5 ventiladores
 
 *  (2022) Gas 
-    + Reemplazo de Termotanque., Adecuación de inst de gas a normativa
+    + Reemplazo de Termotanque., Adecuación de inst de gas a Normativa
 
 *  (2022) Incendio 
     + Provisión de extintores K

@@ -17,8 +17,13 @@ subtitle: 'Sup Media Tecnica Region I - IFTS Nº 06 - ESC. TEC. N° 01 ING. OTTO
 
 
 * 433: completamiento de aulas de mecanica, torneria y electricidad. 
-    + Mejora Edilicia - En Proyecto 
+    + Mejora Edilicia - Baja 
     + Inicio de obra: 23/9/2023 
+
+
+* Ie + termo 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 
@@ -27,14 +32,23 @@ subtitle: 'Sup Media Tecnica Region I - IFTS Nº 06 - ESC. TEC. N° 01 ING. OTTO
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + INSTALACION EN ESPACIOS SEGUROS
+
 *  (2022) Albañileria / Pintura 
     + Pintura de claustro de talleres
+
+*  (2022) Carpinterías 
+    + tareas complementarias sector aulas de t
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Reemplazo de canaleta en cub parabólica
 
 *  (2022) Electricidad 
     + Reemplazo de Timbres y Adecuación de IE, Prov. coloc. ventiladores y reposicion
+
+*  (2022) Incendio 
+    + Reemplazo de termotanque
 
 *  (2022) Saneamiento 
     + Desratizacion

@@ -16,6 +16,12 @@ subtitle: 'Supervisión Primaria DE 14 - EPC N° 24 FRANCISCO BEIRO - JIN D (EPC
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Coloc.6 Split provistos por Cooperadora
+
+*  (2023) Gas 
+    + Estufa tb 3500cal por fin vida útil
+
 *  (2022) Gas 
     + Termotanque 80lt Viv. casera
 

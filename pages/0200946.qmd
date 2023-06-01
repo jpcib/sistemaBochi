@@ -4,12 +4,11 @@ subtitle: 'JIN B (EPCJC 01/21°) [S] - EPC N° 01 CONCEJAL ALBERTO SALVATORI - C
 ---
 
 #
-## Infraestructura
 
-* Sanitarios. (Fondos covid) 
-    + Mejora Edilicia - Planificado 
-    + Inicio de obra: Sin fecha de inicio 
 
+## Mobiliario
+
+*  (2021) : Banco largo comedor 116, Mesa inicial 20, Mesa usos múltiples 58, Pizarrón 10, Silla escolar 120 
 
 
 
@@ -17,8 +16,11 @@ subtitle: 'JIN B (EPCJC 01/21°) [S] - EPC N° 01 CONCEJAL ALBERTO SALVATORI - C
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Reparacion de patio jardin
+
 *  (2023) Sanitarias 
-    + Reposición de dos inodoros
+    + Reposición de dos inodoros, Realización de 2 cámaras de inspección
 
 *  (2022) Carpinterías 
     + Rep. herrajes cerraduras - Vandalismo, Reposición de cerradura por vandalismo, Recambio tapas de tanque
@@ -37,14 +39,6 @@ subtitle: 'JIN B (EPCJC 01/21°) [S] - EPC N° 01 CONCEJAL ALBERTO SALVATORI - C
 
 *  (2021) Medios de elevación 
     + reacondicionamiento de ascensor
-
-
-
-
-
-## Mobiliario
-
-*  (2021) : Banco largo comedor 116, Mesa inicial 20, Mesa usos múltiples 58, Pizarrón 10, Silla escolar 120 
 
 
 

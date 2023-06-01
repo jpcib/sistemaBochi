@@ -18,6 +18,9 @@ subtitle: 'EPC N° 14 ENRIQUE G. PARKER - JIC N°04/12 CONV.INTER. DER.DEL NIÑO
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Caloventiladores e-1
+
 *  (2022) Incendio 
     + Adecuación de extintores s/plano, Recambio de mangueras F.V.U.
 

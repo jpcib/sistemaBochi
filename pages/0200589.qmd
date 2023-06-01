@@ -4,18 +4,22 @@ subtitle: 'EPC N° 06 DR. ALFREDO L. PALACIOS'
 ---
 
 #
-## Infraestructura
 
-* Adecuación de la cubierta móvil. Refuncionalizacion de un depósito en un sanitario para docentes. 
-    + Mejora Edilicia - Planificado 
-    + Inicio de obra: Sin fecha de inicio 
 
+## Mobiliario
+
+*  (2022) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
+
+*  (2021) : Pizarrón 5 
 
 
 
 
 
 ## Mantenimiento
+
+*  (2023) Gas 
+    + Ventilación cocina s/pedido
 
 *  (2021) Albañileria / Pintura 
     + Acond Sala Informática c/Radio y Multim, Rep adicional revoques de S Informática
@@ -25,16 +29,6 @@ subtitle: 'EPC N° 06 DR. ALFREDO L. PALACIOS'
 
 *  (2021) Gas 
     + Cambio TB aula 2, 3 y Sala Maestros, Ejecutar Recomendac. Form. Metrogas
-
-
-
-
-
-## Mobiliario
-
-*  (2022) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
-
-*  (2021) : Pizarrón 5 
 
 
 

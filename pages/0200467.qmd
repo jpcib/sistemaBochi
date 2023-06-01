@@ -20,6 +20,9 @@ subtitle: 'CENS N° 38 - IFTS N° 22 - ESC. TEC. N° 02 OSVALDO MAGNASCO'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Adecuar aula para guardado de material
+
 *  (2023) Otros Servicios 
     + Cerramiento medianera
 

@@ -17,7 +17,10 @@ subtitle: 'ESC. BILINGÜE PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACID
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Reparaciones en estructura de HA, Reparaciones en estructura de HA E 2
+    + Reparaciones en estructura de HA, Reparaciones en estructura de HA E 2, Reparaciones en estructura de HA E 3
+
+*  (2023) Incendio 
+    + Reposición de faltantes en IFCI
 
 *  (2022) Sanitarias 
     + Refuncionalización de baño inicial

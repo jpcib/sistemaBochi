@@ -18,6 +18,9 @@ subtitle: 'JIC N° 03/12° BANDERIN - EPC N°10 CNEL.DE MARINA LEONARDO ROSALES'
 
 ## Mantenimiento
 
+*  (2023) Incendio 
+    + Luces de emergencia, Reparación de central de alarma IFCI
+
 *  (2022) Carpinterías 
     + Protecciones en Terraza y Jardín, Prov. y coloc. de protec. antipalomas
 

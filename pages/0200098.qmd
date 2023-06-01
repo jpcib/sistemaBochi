@@ -17,6 +17,12 @@ subtitle: 'COLEGIO N° 06 MANUEL BELGRANO - COLEGIO N° 15 REVOLUCION DE MAYO'
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Adecuación de la Instalación de Gas
+
+*  (2023) Sanitarias 
+    + Prov y coloc inodoro en baño de varones
+
 *  (2022) Albañileria / Pintura 
     + Pintura en SUM
 

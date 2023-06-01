@@ -8,7 +8,7 @@ subtitle: 'ENS N° 11 DR. RICARDO LEVENE'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 *  (2022) : Escritorio 4, Mesa inicial 3, Mesa pupitre doble 64, Pizarrón 3, Silla escolar 156, Varios 3 
 
@@ -19,6 +19,12 @@ subtitle: 'ENS N° 11 DR. RICARDO LEVENE'
 
 
 ## Mantenimiento
+
+*  (2023) Albañileria / Pintura 
+    + Tratamiento ignifugo escalera madera, Realizacion 2 aulas SDF para 4to año
+
+*  (2023) Cubiertas / Impermeabilizaciones 
+    + Extender Cubierta alero acceso aula
 
 *  (2022) Albañileria / Pintura 
     + Adecuacion sala de direccion primaria

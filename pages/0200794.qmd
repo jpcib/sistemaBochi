@@ -8,7 +8,7 @@ subtitle: 'Sup. Media Region 7 - EEM N° 03/17° ANTONIO DEVOTO - CENS N° 65 - 
 
 * , Adecuacion de cubierta, pluviales, carpinteria. Arreglo de revoques en aulas y patio. Adecuacion pintura interior de areas significantes y patio. Agregar sdf 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 17/9/2023 
+    + Inicio de obra: 9/10/2023 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'Sup. Media Region 7 - EEM N° 03/17° ANTONIO DEVOTO - CENS N° 65 - 
 
 
 ## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Ejecucion 2 aulas del Futuro
 
 *  (2022) Incendio 
     + Recarga de 8 matafuegos

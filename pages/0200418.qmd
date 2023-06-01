@@ -20,6 +20,9 @@ subtitle: 'EPC N° 24 DR. FLORIAN OLIVER - CENS N° 05 ([A] 2) - JIN C (EPCJC 24
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Inst. alarma y camara espacio Seguro
+
 *  (2022) Carpinterías 
     + Prov. Coloc  rejas en ventanas
 

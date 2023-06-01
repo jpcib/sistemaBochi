@@ -8,6 +8,12 @@ subtitle: 'JIN C (EPCJS 11/12°)(SEDE) - EPC N° 11 ANDRES BELLO'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Completar iluminación de emergencia. Seg
+
+*  (2023) Sanitarias 
+    + Cambio de depósito inodoro baño casero
+
 *  (2022) Electricidad 
     + Cambiar portero eléctrico de casero, Ventilador de SUM y reemp artef de luz
 

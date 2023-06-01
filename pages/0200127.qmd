@@ -8,6 +8,9 @@ subtitle: 'EPC N° 07 GRAL. GÜEMES - CENS N° 54'
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Cambio de termotanque casa casera
+
 *  (2021) Incendio 
     + Reemplazo central de incendio
 

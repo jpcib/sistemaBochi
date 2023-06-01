@@ -18,8 +18,11 @@ subtitle: 'LICEO N° 09 SANTIAGO DERQUI'
 
 ## Mantenimiento
 
+*  (2023) Sanitarias 
+    + Reemplazo de tanque de reserva
+
 *  (2022) Albañileria / Pintura 
-    + Adecuación preceptoria PA, Colocacion piso sala de lectura
+    + Adecuación preceptoria PA, Colocacion piso sala de lectura, Adecuacion laboratorio
 
 *  (2022) Carpinterías 
     + Adecuacion sala de computacion

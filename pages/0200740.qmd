@@ -4,12 +4,11 @@ subtitle: 'Sup Primaria DE16 - EPC N° 01 DR. DELFIN GALLO - EPA N° 01 DR. DELF
 ---
 
 #
-## Infraestructura
 
-* Restauración y puesta en valor de las fachadas interiores del edificio histórico. 
-    + Mejora Edilicia - Planificado 
-    + Inicio de obra: Sin fecha de inicio 
 
+## Mobiliario
+
+*  (2022) : Armario 4, Escritorio 4, Mesa inicial 3, Mesa pupitre doble 12, Pizarrón 16, Silla escolar 76 
 
 
 
@@ -18,15 +17,10 @@ subtitle: 'Sup Primaria DE16 - EPC N° 01 DR. DELFIN GALLO - EPA N° 01 DR. DELF
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + pintura en salas del jardín
+    + Reparación de revoques y pintura, pintura en salas del jardín, Reparación de revoques retiro  pizarron
 
-
-
-
-
-## Mobiliario
-
-*  (2022) : Armario 4, Escritorio 4, Mesa inicial 3, Mesa pupitre doble 12, Pizarrón 16, Silla escolar 76 
+*  (2023) Cubiertas / Impermeabilizaciones 
+    + Impermeabilizacion cubierta plana
 
 
 

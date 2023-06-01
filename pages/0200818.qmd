@@ -17,6 +17,9 @@ subtitle: 'JINA(EPCJS 17/18°)LA CALESITA DON JOSE - EPC N° 17 TTE. GRAL. LUIS 
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Colocación de equipo forzado para ventil
+
 *  (2022) Albañileria / Pintura 
     + Colocacion timbre para jardin, Colocar soporte para proyector en aula
 

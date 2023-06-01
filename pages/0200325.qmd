@@ -23,8 +23,11 @@ subtitle: 'ENS N° 08 PRESIDENTE J.A. ROCA (SEDE)'
 *  (2022) Carpinterías 
     + Adecuaciones varias en Biblioteca
 
+*  (2022) Electricidad 
+    + Prov colocacion de ventiladores
+
 *  (2022) Gas 
-    + Adecuación de inst de gas a normativa
+    + Adecuación de inst de gas a Normativa
 
 *  (2021) Albañileria / Pintura 
     + Cornisas y molduras-Patio lateral izq En, Reparacion cielorrasos y paredes fisura

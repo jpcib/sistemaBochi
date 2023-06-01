@@ -16,6 +16,9 @@ subtitle: 'EPC N° 02 PROF. JUAN JOSE MILLAN - JIN E (EPCJS 02/17°) JUANA MANSO
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Inst. Eléctrica s/etapas prevista
+
 *  (2022) Albañileria / Pintura 
     + 2da etapa Reparac Cielorr Aulas 1,2,3
 

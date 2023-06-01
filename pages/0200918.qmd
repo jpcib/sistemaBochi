@@ -8,7 +8,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 
 * Carpinterías, cubierta y pintura en areas significativas 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 8/10/2023 
+    + Inicio de obra: 13/10/2023 
 
 
 
@@ -17,6 +17,9 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 
 ## Mantenimiento
 
+*  (2023) Sanitarias 
+    + Cambio de tapas de inspeccion y limpieza
+
 *  (2022) Albañileria / Pintura 
     + Realizar muro exterior en mamposteria
 
@@ -24,7 +27,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
     + Puerta de aula taller de 1er PISO, Cambio de cerradura cocina vandalismo, Provisión y colocación puerta antipanico, Provisión de cerradura por vandalismo
 
 *  (2022) Sanitarias 
-    + Reemplazo de tanque, Provision de un inodoro vandalizado B°al, Cambio de cañeria por termofucion aerea, Provision y colocación de inodoro por va
+    + Reemplazo de tanque, Prov. Coloc tapas de inodoros baños, Provision de un inodoro vandalizado B°al, Cambio de cañeria por termofucion aerea, Provision y colocación de inodoro por va
 
 *  (2021) Carpinterías 
     + Colocacion de puerta antipanico, 2 cerradura vandalizada en el interior, Cerraduras vandalizadas exterior

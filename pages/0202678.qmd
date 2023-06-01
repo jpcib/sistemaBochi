@@ -17,6 +17,12 @@ subtitle: 'ESCUELA INF. N° 05/01° ANEXO - ESCUELA INF. N° 12/01° - ESCUELA I
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Reemplazo de Ventiladores
+
+*  (2023) Medios de elevación 
+    + Puesta en marcha de ascensor
+
 *  (2021) Medios de elevación 
     + Reparacion y puesta en marcha ascensores
 

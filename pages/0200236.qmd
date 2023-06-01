@@ -21,7 +21,7 @@ subtitle: 'JIC N° 04/05° SEDE - EPC N° 14 PROVINCIA DE SAN LUIS'
 ## Mantenimiento
 
 *  (2023) Electricidad 
-    + Gestión y Alquiler de GEM
+    + Gestión y Alquiler de GEM, Espacios seguros, Adecuacion de gas
 
 *  (2022) Calefaccion y Refrigeracion 
     + Reemplazo Estufas Cachi 77 (Primaria)

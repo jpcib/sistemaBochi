@@ -19,8 +19,11 @@ subtitle: 'EPC N° 07 JUAN DE GARAY - EPA N° 07 JUAN DE GARAY - JIN A (EPCJS 07
 *  (2023) Albañileria / Pintura 
     + Cateos, Cateo contrafrente
 
+*  (2023) Carpinterías 
+    + cerradura archivo
+
 *  (2023) Electricidad 
-    + instalación de 16 ventiladores
+    + instalación de 16 ventiladores, Instalacion Espacio Seguro
 
 *  (2022) Albañileria / Pintura 
     + Cambio de solado - 2da Etapa, 3 etapa solado patio delantero
