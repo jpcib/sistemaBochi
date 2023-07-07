@@ -8,6 +8,9 @@ subtitle: 'CENS N° 73 - CENS N° 88'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Colocacion de grupo electrógeno
+
 *  (2022) Electricidad 
     + Prov. Coloc 3 ventiladores
 

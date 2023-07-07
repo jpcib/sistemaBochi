@@ -4,11 +4,12 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 09'
 ---
 
 #
+## Infraestructura
 
+* Plan mejora en   adecuacion fachada,  inst electrica , patios, fisuras , muros ,carpinteria , cubierta, sanitarios, cocina , reparacion de revoques y   pintura en areas significativas  // chequear catalogacion 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2021) : Armario 2, Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
 
@@ -16,11 +17,22 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 09'
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Pintura Aulas, Comedor,  Baño, EPSE., Pintura Fachadas.
+
 *  (2022) Carpinterías 
     + Cambio de catpinteria metalica
 
 *  (2022) Electricidad 
     + Remplazar artefacto luminarias
+
+
+
+
+
+## Mobiliario
+
+*  (2021) : Armario 2, Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
 

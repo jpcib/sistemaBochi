@@ -19,8 +19,11 @@ subtitle: 'EPC N° 16 PRESIDENTE MITRE - EPA N° 16 PRESIDENTE MITRE - ESCUELA I
 *  (2023) Calefaccion y Refrigeracion 
     + Reponer aire acondicionado sala amarilla
 
+*  (2023) Carpinterías 
+    + Colocar malla metálica en ventilación, Colocar red de protección anticaida
+
 *  (2023) Electricidad 
-    + Reparar/reemplazar ventilador.
+    + Reparar/reemplazar ventilador., Instalacion de grupo electrogeno
 
 *  (2022) Albañileria / Pintura 
     + Pintura en hall pb

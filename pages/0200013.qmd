@@ -18,6 +18,12 @@ subtitle: 'EPC N° 14 CORNELIO SAAVEDRA - JIN B (EPCJC 14/01°) [S] - CENOF CENT
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Tablero de instalación de ventiladores
+
+*  (2023) Electricidad 
+    + Instalacion de ventiladores
+
 *  (2022) Albañileria / Pintura 
     + Trabajos en medianera, Pintura del patio de la escuela y reja
 

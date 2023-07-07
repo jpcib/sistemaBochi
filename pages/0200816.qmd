@@ -21,6 +21,9 @@ subtitle: 'Sup Primaria DE 18 - EPC N° 15 MANUEL PEÑA - JIN C (EPCJC 15/18°) 
 *  (2023) Electricidad 
     + Colocacion cuatro ventiladores
 
+*  (2023) Gas 
+    + Colocacion cuatro estufas TB
+
 *  (2022) Calefaccion y Refrigeracion 
     + Aire Acond Supervision Escolar
 

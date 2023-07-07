@@ -7,8 +7,8 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 ## Infraestructura
 
 * Carpinterías, cubierta y pintura en areas significativas 
-    + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 13/10/2023 
+    + Mejora Edilicia - Licitación 
+    + Inicio de obra: NA 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 
 
 ## Mantenimiento
+
+*  (2023) Electricidad 
+    + Provision y colocación de 15 ventiladore
 
 *  (2023) Sanitarias 
     + Cambio de tapas de inspeccion y limpieza

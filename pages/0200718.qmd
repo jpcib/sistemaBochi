@@ -4,12 +4,11 @@ subtitle: 'EPC N° 19 NACIONES UNIDAS - JIC N° 01/15° - CAIYJ CLUB SAAVEDRA'
 ---
 
 #
-## Infraestructura
 
-* Completo o por etapas de obra / acondicionamiento de aulas, sanitarios y pintura general 
-    + Mejora Edilicia - Planificado 
-    + Inicio de obra: 06/06/2024 
 
+## Mobiliario
+
+*  (2022) : Armario 2, Escritorio 2, Mesa pupitre doble 52, Silla escolar 153 
 
 
 
@@ -40,14 +39,6 @@ subtitle: 'EPC N° 19 NACIONES UNIDAS - JIC N° 01/15° - CAIYJ CLUB SAAVEDRA'
 
 *  (2021) Electricidad 
     + Prov, coloc portero electrico jardin
-
-
-
-
-
-## Mobiliario
-
-*  (2022) : Armario 2, Escritorio 2, Mesa pupitre doble 52, Silla escolar 104 
 
 
 

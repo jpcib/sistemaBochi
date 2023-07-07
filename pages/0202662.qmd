@@ -25,6 +25,9 @@ subtitle: 'ESC. SUPERIOR DE EDUCACIÓN ARTÍSTICA EN ARTES VISUALES ROGELIO YRUR
 *  (2023) Albañileria / Pintura 
     + Puesta en servicio de ascensores 3 y 4 n
 
+*  (2023) Carpinterías 
+    + Reparar y colocar faltantes en 21 puerta
+
 *  (2023) Electricidad 
     + Reemplazar artefactos led agotados
 

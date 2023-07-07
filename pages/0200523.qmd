@@ -6,9 +6,14 @@ subtitle: 'INST. SUPERIOR DE DEPORTES - EEM N° 03/10° - INST. SUPERIOR DE EDUC
 #
 ## Infraestructura
 
-* A definir 
+* Adecuacion de pileta y sus instalaciones plan mejora de patio+muros+acond gas-electricidad+ sanitarios y pintura en areas significativas 
     + Mejora Edilicia - Planificado 
-    + Inicio de obra: 29/08/2024 
+    + Inicio de obra: NA 
+
+
+* Plan mejora en   adecuacion   inst electrica, gas  , patio , muros ,carpinteria, sanitarios, cubierta  y  pintura en areas significativas 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
 
 
@@ -17,11 +22,17 @@ subtitle: 'INST. SUPERIOR DE DEPORTES - EEM N° 03/10° - INST. SUPERIOR DE EDUC
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Acondicionamiento 2 aulas para SDF, Pintura de Fachades, pintura interior
+
+*  (2023) Electricidad 
+    + Acondicionamiento de aula p/espacio digi
+
 *  (2022) Carpinterías 
     + Vidrios rotos
 
 *  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilizacion sector de servicio, Impermeabilizacion cubierta gimnasio de, Impermeabilizacion cubierta baños gimnas
+    + Impermeabilizacion sector de servicio, Impermeabilizacion cubierta gimnasio de, Impermeabilizacion cubierta gimnasio 3., Impermeabilizacion cubierta baños gimnas
 
 *  (2022) Electricidad 
     + Instalacion de caloventores.

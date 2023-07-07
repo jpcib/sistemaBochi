@@ -4,11 +4,12 @@ subtitle: 'Sup Inicial II A - EPC N° 08 CARLOS DELLA PENNA - JIC N° 02/04° CA
 ---
 
 #
+## Infraestructura
 
+* Impermeabilización de azoteas. Reparación de carpinterías existentes del primer piso con problemas de oxidación. Pintura de rejas en planta alta, nivel a y b. Reparaciones en fachadas de patio interno en planta baja:pintura y limpieza. Intervención de solados – mal estado. Demolición de mesadas en dos aulas del nivel inicial. Provisión y colocación de bicicletero en el acceso del edificio. Trabajos varios de jardinería en canteros. Accesibilidad: provisión y colocación de ascensor para comunicar la planta baja y primer piso. Ejecución de rampa para salvar un desnivel entre primer piso y la azotea. 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2022) : Escritorio 3, Mesa inicial 10, Mesa pupitre doble 48, Pizarrón 15, Silla escolar 156 
 
 
 
@@ -30,6 +31,14 @@ subtitle: 'Sup Inicial II A - EPC N° 08 CARLOS DELLA PENNA - JIC N° 02/04° CA
 
 *  (2021) Gas 
     + Regularizar inst de gas, Red y artefactos de gas en cocina
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Escritorio 3, Mesa inicial 10, Mesa pupitre doble 48, Pizarrón 15, Silla escolar 156 
 
 
 

@@ -4,11 +4,12 @@ subtitle: 'EPC N° 13 PRESBITERO ALBERTI - JIC N° 02/19°'
 ---
 
 #
+## Infraestructura
 
+* Instalacion electrica, termo, patio (arreglo de sus carpintrerias y muros), fachadas, sellado de lucarnas y pintura 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2021) : Mesa inicial 28, Silla escolar 168 
 
 
 
@@ -33,6 +34,14 @@ subtitle: 'EPC N° 13 PRESBITERO ALBERTI - JIC N° 02/19°'
 
 *  (2021) Incendio 
     + Recambio central de incendio, Reemplazo de matafuegos
+
+
+
+
+
+## Mobiliario
+
+*  (2021) : Mesa inicial 28, Silla escolar 168 
 
 
 

@@ -8,7 +8,12 @@ subtitle: 'Museo de Bellas Artes de Artistas Argentinos Benito Quinquela Martin 
 
 * Acondicionamiento  de cubierta, instalacion sanitario, electrica e incendio. Arreglo de revoques menores en aulas.  Adecuacion pintura interior de areas significantes  y patio. 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 1/11/2024 
+    + Inicio de obra: NA 
+
+
+* NA 
+    + Obra Nueva - Finalizado 
+    + Finalizada el Esperando corrección de fecha 
 
 
 
@@ -21,7 +26,7 @@ subtitle: 'Museo de Bellas Artes de Artistas Argentinos Benito Quinquela Martin 
     + Reparar equipo de aire acondicionado
 
 *  (2023) Electricidad 
-    + Instalación de espacios seguro
+    + Instalación de espacios seguro, readecuación instalación de gas
 
 *  (2022) Albañileria / Pintura 
     + Pintura de cielorrasos/techos
@@ -55,7 +60,7 @@ subtitle: 'Museo de Bellas Artes de Artistas Argentinos Benito Quinquela Martin 
 
 *  (2022) : Armario 24, Biblioteca 12, Escritorio 8, Juego de patio 1, Mesa inicial 30, Piso antigolpe para juegos 60, Pizarrón 16, Silla escolar 410, Varios 8 
 
-*  (2021) : Armario 5, Mesa pupitre doble 30, Mesa usos múltiples 10, Pizarrón 2, Silla escolar 150 
+*  (2021) : Armario 5, Mesa inicial 20, Mesa pupitre doble 30, Mesa usos múltiples 10, Pizarrón 2, Silla escolar 150 
 
 
 

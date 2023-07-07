@@ -8,7 +8,7 @@ subtitle: 'Sup Adultos Region II B - Sup Adultos Region IV B - ESC. DE COM. N° 
 
 * Instalacion electrica completa, impermeabilizacion, mejoras varias en el edificio 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 22/12/2021 - Avance: 61% - Plazo: 210 días 
+    + Inicio de obra: NA - Avance: 61% - Plazo: 210 días 
 
 
 
@@ -21,7 +21,7 @@ subtitle: 'Sup Adultos Region II B - Sup Adultos Region IV B - ESC. DE COM. N° 
     + Aulas SdF 2023- 9 aulas
 
 *  (2023) Electricidad 
-    + Instalacion de Generador Electrico Elect
+    + Reparación de red telefónica interna, Instalacion de Generador Electrico Elect
 
 *  (2023) Otros Servicios 
     + Retiro de Materiales o Restos de Obra

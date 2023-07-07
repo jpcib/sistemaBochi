@@ -25,5 +25,8 @@ subtitle: 'EPC Nº 12 DE 21'
 *  (2022) Calefaccion y Refrigeracion 
     + Puesta en marcha de Sist de calefacción, Cambio de 2 placas de equipos por golpe
 
+*  (2022) Carpinterías 
+    + Rejas en ingreso a escuela
+
 
 

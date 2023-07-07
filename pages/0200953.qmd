@@ -8,7 +8,7 @@ subtitle: 'JIC N° 03/21° - EPC N° 09 HECTOR PANIZZA'
 
 * Adecuacion accesibilidad y electrica, incendio, pintura interior + ver cd patio 
     + CORP SUR - En Proyecto 
-    + Inicio de obra: Sin fecha de inicio 
+    + Inicio de obra: NA 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'JIC N° 03/21° - EPC N° 09 HECTOR PANIZZA'
 
 
 ## Mantenimiento
+
+*  (2023) Electricidad 
+    + Protocolo Espacio seguro
 
 *  (2022) Albañileria / Pintura 
     + Reparación de pared medianera lindera

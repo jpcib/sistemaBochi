@@ -19,5 +19,8 @@ subtitle: 'CENS N° 01 - EPC N° 23 TOMAS MANUEL DE ANCHORENA - ESEA  DANZA RAMI
 *  (2023) Electricidad 
     + Reemplazo de Ventiladores
 
+*  (2023) Gas 
+    + Adecuacion de instalacion de gas
+
 
 

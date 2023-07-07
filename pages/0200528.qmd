@@ -11,9 +11,15 @@ subtitle: 'ESC. TEC.S RAGGIO'
     + Finalizada el 15/1/2023 
 
 
-* Patio: analizar posibilidad de cubrir algun patio o parte para generar espacio de sombra. Electricidad: adecuacion de la instalacion segu normativa. Calefaccion y refrigeracion. Pintura. Campo de deportes: trabajos para evitar inundaciones.  Accesibilidad en sector  de aulas.  Cubierta: adecuacion en sector historico. 
+* Accesibilidad: ejecución de ascensor y sala de maquina (exterior), adecuación de rampa existente y adecuación de sanitario pcd existente.
+Mejora edilicia: pintura de aulas de pb del edificio nuevo (pisos superiores dgmesc), revoque y pintura en circulación de edificio histórico pb y 1er piso. Revoque, pintura y solados en circulación entre talleres. Mejoras de marcos de carpinterías.
+Reja de seguridad con concertina superior en fuelle entre el pasadizo de ascensor y edificio existente. (para evitar que alguien ingrese por libertador y se esconda en ese espacio)
+Reja de seguridad corrediza para proteger sector de bicicletas. (Se retira reja deteriorada con ubicación actual para generar el playón de acceso al ascensor)
+Mejoras en escalera exterior en taller de informática en área del fondo.( necesita pasamanos adecuados en ambos laterales, pintura de solado y reemplazo de cintas antideslizantes, ya que se han tropezado alumnos según se nos informó).
+Ampliación de taller de carpintería (ee timm), nueva aula en primer piso del taller.
+Instalaciones: eléctrica en sector histórico y termomecanica (unificar criterio de calefacción y/o refrigeración para el sector de aulas.) 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 04/12/2023 
+    + Inicio de obra: NA 
 
 
 
@@ -22,8 +28,17 @@ subtitle: 'ESC. TEC.S RAGGIO'
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Acondicionamiento aulas 25 y 26 para SDF, Acondicionamiento aulas 27 y 28 para SDF, Acondicionamiento aulas 29 y 30 para SDF, Acondicionamiento Secundarias del Futuro
+
+*  (2023) Electricidad 
+    + Prov, coloc ventiladores aulas SDF 1ºP, Prov, coloc ventiladores aulas SDF 2ºP, Prov,coloc extractor p/conducto de campa
+
+*  (2023) Saneamiento 
+    + Retiro de panal parque de deportes.
+
 *  (2022) Albañileria / Pintura 
-    + Acondicionamiento circulación cierlorras
+    + Acondicionamiento circulación cierlorras, Acondicionamiento aulas para SDF 22,21
 
 *  (2022) Otros Servicios 
     + Adecuacion sistema de elevacion mastil

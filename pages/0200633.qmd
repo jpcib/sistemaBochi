@@ -21,6 +21,9 @@ subtitle: 'JIC N° 02/13° - EPC N° 15 REPUBLICA ARGENTINA - CECEP N° 13 MARTI
 *  (2023) Electricidad 
     + Remplazo de ventiladores.
 
+*  (2023) Gas 
+    + Reemplazo de dos estufas, REMPLAZO DE TERMOTANQUE
+
 *  (2022) Albañileria / Pintura 
     + Coloc alambre de púa-Pintar carpinterías, Ejecución de contrapiso y carpeta
 

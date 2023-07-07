@@ -8,7 +8,7 @@ subtitle: 'ESC. TEC. N° 36 ALTE. GUILLERMO BROWN - ESC. SUPERIOR DE EDUCACIÓN 
 
 * Terminación vestuarios, pileta, sanitarios, estacionamiento, parquizado 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 20/1/2023 - Avance: 7% - Plazo: 330 días 
+    + Inicio de obra: NA - Avance: 7% - Plazo: 330 días 
 
 
 * 3er año 
@@ -23,10 +23,16 @@ subtitle: 'ESC. TEC. N° 36 ALTE. GUILLERMO BROWN - ESC. SUPERIOR DE EDUCACIÓN 
 ## Mantenimiento
 
 *  (2023) Calefaccion y Refrigeracion 
-    + Instalación de dos equipos de AA
+    + Instalación de dos equipos de AA, colocacion/reparacion de blackout
+
+*  (2023) Carpinterías 
+    + Cambio de vidrios vandalizados, Colocación de parasoles, Reemplazo de espejo y vidrios rotos, Reparación equipos calefacción
 
 *  (2023) Electricidad 
-    + Instalación de portero eléctrico, Reparación de ventiladores, Colocación de luces LED, Instalación luces led, Colocación de ventiladores de pared
+    + Instalación de portero eléctrico, Reparación de ventiladores, Colocación de luces LED, Instalación en espacios seguros., Instalación luces led, Colocación de ventiladores de pared
+
+*  (2023) Incendio 
+    + Reemplazo de sensor en taller
 
 *  (2023) Sanitarias 
     + Cambio de tanques cisterna

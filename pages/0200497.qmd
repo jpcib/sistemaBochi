@@ -8,7 +8,7 @@ subtitle: 'Superv.Educ.Prim. Zona E Región IX-DE10 - EPC N° 03 ESTEBAN ECHEVER
 
 * Sanitarios, patios, cubierta (impermeabilizacion y arreglos de cubierta parabolica), cielorrasos, puesta en valor de escalera y aulas. Ie completa. Supervision (patios, solados, carpinterias, sanitarios y sellado de lucarnas). 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 31/12/2023 
+    + Inicio de obra: NA 
 
 
 
@@ -19,6 +19,9 @@ subtitle: 'Superv.Educ.Prim. Zona E Región IX-DE10 - EPC N° 03 ESTEBAN ECHEVER
 
 *  (2023) Albañileria / Pintura 
     + Reparación de muros y pintura, Pintura del gimnasio
+
+*  (2023) Saneamiento 
+    + Prov.Coloc red anti palomas patio acceso, Prov.Coloc red anti palomas en Sum
 
 *  (2021) Cubiertas / Impermeabilizaciones 
     + Impermeabilización de patios

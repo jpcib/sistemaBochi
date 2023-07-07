@@ -7,8 +7,8 @@ subtitle: 'EPC N° 05 ARMADA ARGENTINA - EPA N° 05 ARMADA ARGENTINA - CECIE N°
 ## Infraestructura
 
 * Instalación eléctrica completa, filtraciones, cambio de parasoles, pintura general 
-    + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 9/10/2023 
+    + Mejora Edilicia - Licitación 
+    + Inicio de obra: NA 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'EPC N° 05 ARMADA ARGENTINA - EPA N° 05 ARMADA ARGENTINA - CECIE N°
 
 
 ## Mantenimiento
+
+*  (2023) Sanitarias 
+    + Depósito para peluquería
 
 *  (2022) Albañileria / Pintura 
     + Realizar 3 cateos en zonas indicadas

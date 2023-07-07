@@ -8,6 +8,8 @@ subtitle: 'JIN D (EPCJC 03/12°) [S] - EPC N° 03 EMILIO GIMENEZ ZAPIOLA - EPA N
 
 ## Mobiliario
 
+*  (2023) : Armario 20, Escritorio 14, Pizarrón 28 
+
 *  (2022) : Silla escolar 40 
 
 *  (2021) : Mesa inicial 12 
@@ -17,6 +19,9 @@ subtitle: 'JIN D (EPCJC 03/12°) [S] - EPC N° 03 EMILIO GIMENEZ ZAPIOLA - EPA N
 
 
 ## Mantenimiento
+
+*  (2023) Albañileria / Pintura 
+    + Cambio taparrollos de sala de plastica
 
 *  (2023) Gas 
     + Cambio de caño ventilación caldera

@@ -4,13 +4,12 @@ subtitle: 'EPC N° 11 REPUBLICA DE HAITI - EPA N° 11 REPUBLICA DE HAITI - UGEE 
 ---
 
 #
+## Infraestructura
 
+* Adecuacion de patios , inst electrica y pintura, rejas de seguridad 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2022) : Escritorio 4, Mesa pupitre doble 75, Pizarrón 1, Silla escolar 154 
-
-*  (2021) : Pizarrón 15 
 
 
 
@@ -26,6 +25,16 @@ subtitle: 'EPC N° 11 REPUBLICA DE HAITI - EPA N° 11 REPUBLICA DE HAITI - UGEE 
 
 *  (2021) Incendio 
     + Puesta en condiciones inst. incendios
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Escritorio 4, Mesa pupitre doble 75, Pizarrón 1, Silla escolar 154 
+
+*  (2021) : Pizarrón 15 
 
 
 

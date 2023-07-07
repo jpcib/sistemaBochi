@@ -18,7 +18,10 @@ subtitle: 'ESC. DE COM. N° 33 MAIPU'
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Reparacion de revoques, cielorraso, Secundarias del Futuro 2023
+    + Reparacion de revoques, cielorraso, Secundarias del Futuro 2023, Solado oficina biblioteca
+
+*  (2023) Electricidad 
+    + Colocacion Sist Alarma Espacio Seguro, Colocacion de 10 placas Led en Aulas
 
 *  (2023) Sanitarias 
     + Tanques de Reserva
@@ -41,7 +44,7 @@ subtitle: 'ESC. DE COM. N° 33 MAIPU'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 *  (2022) : Escritorio 2, Mesa pupitre doble 52, Pizarrón 2, Silla escolar 107 
 

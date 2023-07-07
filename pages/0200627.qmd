@@ -18,6 +18,12 @@ subtitle: 'EPC N° 09 HOMERO MANZI - CENS N° 91'
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Prov. Coloc  de A°A
+
+*  (2023) Electricidad 
+    + INSTALACION DE SISTEMA DE ALARMA
+
 *  (2022) Albañileria / Pintura 
     + Pintura en frisos
 

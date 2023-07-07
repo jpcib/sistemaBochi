@@ -40,6 +40,12 @@ plani_clean <- gop_raw %>%
                                 T ~ plazo_obra)) %>% 
   
   mutate(cui = str_pad(cui, 7, "left", "0")) %>% 
+  filter(estado != "Baja") %>% 
+  mutate(inicio_obra = case_match(n_proyecto,
+                                  "x048" ~ "01/07/2023 - rescindido"), 
+         fin_obra = case_when(is.na(fin_obra) ~ "Esperando corrección de fecha",
+                              fin_obra == "-" ~ "Esperando corrección de fecha",
+                              T ~ fin_obra)) %>%
   glimpse()
 
 DataExplorer::profile_missing(plani_clean)
@@ -51,4 +57,4 @@ DataExplorer::profile_missing(plani_clean)
 # writexl::write_xlsx(plani_clean %>% filter(is.na(inicio_obra)), "data/sin_fecha_inicio_gop.xlsx")
 
 
-write_csv(plani_clean, "data/infra_gop_01-06.csv")
+write_csv(plani_clean, "data/infra_gop_06-07.csv")

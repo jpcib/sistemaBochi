@@ -17,6 +17,12 @@ subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI L
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Espacios seguros Inst. alarmas y sensore
+
+*  (2023) Gas 
+    + Reparación en instalación de gas
+
 *  (2021) Calefaccion y Refrigeracion 
     + REPARACION DE CALDERA
 
@@ -34,7 +40,7 @@ subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI L
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
-*  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
+*  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 122 
 
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 

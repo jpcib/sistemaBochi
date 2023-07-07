@@ -7,8 +7,8 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 ## Infraestructura
 
 * 2do año 
-    + SDF - En Obra 
-    + Inicio de obra: 03/01/2023 - Avance: 85% - Plazo: 60 días 
+    + SDF - Finalizado 
+    + Finalizada el Esperando corrección de fecha 
 
 
 
@@ -16,6 +16,12 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 
 
 ## Mantenimiento
+
+*  (2023) Calefaccion y Refrigeracion 
+    + REPARACION DE CALDERA
+
+*  (2023) Electricidad 
+    + Protocolo Espacio seguro
 
 *  (2022) Carpinterías 
     + Prov. y montaje de rejas en  7 ventanas
@@ -35,7 +41,7 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
+*  (2023) : Escritorio 6, Mesa pupitre doble 90, Silla escolar 186 
 
 *  (2022) : Mesa pupitre doble 90 
 

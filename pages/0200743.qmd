@@ -4,11 +4,12 @@ subtitle: 'EPC N° 04 CNEL. MAYOR I. ALVAREZ THOMAS - JIN B (EPCJC 04/16°) JUAN
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + Mejora Edilicia - Finalizado 
+    + Finalizada el Esperando corrección de fecha 
 
-## Mobiliario
-
-*  (2021) : Banco largo comedor 90, Mesa usos múltiples 45 
 
 
 
@@ -48,6 +49,14 @@ subtitle: 'EPC N° 04 CNEL. MAYOR I. ALVAREZ THOMAS - JIN B (EPCJC 04/16°) JUAN
 
 *  (2021) Saneamiento 
     + Cambiar los tanques de reserva
+
+
+
+
+
+## Mobiliario
+
+*  (2021) : Banco largo comedor 90, Mesa usos múltiples 45 
 
 
 

@@ -4,13 +4,12 @@ subtitle: 'JIC N° 03/12° BANDERIN - EPC N°10 CNEL.DE MARINA LEONARDO ROSALES'
 ---
 
 #
+## Infraestructura
 
+* Espacio de sombra 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2023) : Juego de patio 1 
-
-*  (2022) : Armario 6, Escritorio 3, Mesa inicial 5, Mesa pupitre doble 45, Silla escolar 120 
 
 
 
@@ -23,6 +22,16 @@ subtitle: 'JIC N° 03/12° BANDERIN - EPC N°10 CNEL.DE MARINA LEONARDO ROSALES'
 
 *  (2022) Carpinterías 
     + Protecciones en Terraza y Jardín, Prov. y coloc. de protec. antipalomas
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Juego de patio 1 
+
+*  (2022) : Armario 6, Escritorio 3, Mesa inicial 5, Mesa pupitre doble 45, Silla escolar 120 
 
 
 

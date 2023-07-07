@@ -4,11 +4,12 @@ subtitle: 'EPC N° 02 GRAL. MARIANO ACHA'
 ---
 
 #
+## Infraestructura
 
+* Plan mejora en   adecuacion   cocina , comedor ,  cubierta  y reparacion revoques y pintura en areas significativas + evaluacion estado polideportivo. Acustizar comedor. 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2022) : Banco largo comedor 10, Escritorio 2, Mesa pupitre doble 30, Mesa usos múltiples 5, Pizarrón 2, Silla escolar 62 
 
 
 
@@ -21,6 +22,14 @@ subtitle: 'EPC N° 02 GRAL. MARIANO ACHA'
 
 *  (2021) Carpinterías 
     + Protecciones estufas
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Banco largo comedor 10, Escritorio 2, Mesa pupitre doble 30, Mesa usos múltiples 5, Pizarrón 2, Silla escolar 62 
 
 
 

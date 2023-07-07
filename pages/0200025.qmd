@@ -8,7 +8,7 @@ subtitle: 'ESC. TEC. N° 19 ALEJANDRO VOLTA'
 
 * Mejora edilicia, instalacion electrica completa 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 3/6/2022 - Avance: 86% - Plazo: 300 días 
+    + Inicio de obra: NA - Avance: 86% - Plazo: 300 días 
 
 
 
@@ -19,6 +19,9 @@ subtitle: 'ESC. TEC. N° 19 ALEJANDRO VOLTA'
 
 *  (2023) Carpinterías 
     + Prov y coloc cortinas aulas del futuro
+
+*  (2023) Electricidad 
+    + INSTALACION EN ESPACIOS SEGUROS
 
 *  (2022) Electricidad 
     + Reemplazo de Ventiladores
@@ -38,7 +41,7 @@ subtitle: 'ESC. TEC. N° 19 ALEJANDRO VOLTA'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 4, Silla escolar 62 
 
 *  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 

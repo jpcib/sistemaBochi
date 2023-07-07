@@ -16,6 +16,9 @@ subtitle: 'EPC N° 20 NIEVES ESCALADA DE OROMI'
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Adecuacion de gas
+
 *  (2021) Electricidad 
     + Instalacion de purificadores
 

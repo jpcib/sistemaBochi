@@ -8,7 +8,7 @@ subtitle: 'Sup Media Region III - COLEGIO N° 03 MARIANO MORENO - IFTS N° 28'
 
 * Reparación de estructura y vitreaux en el salón de actos del 1º piso, sanitarios, carpinterias, instalacion electrica, pintura, fisuras en pb y ss. Pintura. Cubierta e impermeabilizacion. 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 11/1/2024 
+    + Inicio de obra: NA 
 
 
 
@@ -20,8 +20,14 @@ subtitle: 'Sup Media Region III - COLEGIO N° 03 MARIANO MORENO - IFTS N° 28'
 *  (2023) Albañileria / Pintura 
     + Readecuacion aulas para SDF.
 
+*  (2023) Carpinterías 
+    + Adicional de 6 cerraduras para aulas
+
+*  (2023) Cubiertas / Impermeabilizaciones 
+    + IMPERMEABILIZACIÓN DE AZOTEA
+
 *  (2023) Electricidad 
-    + Reemplazar ventiladores de techo
+    + Prov. Inst. sistema Espacio Seguro, Reemplazar ventiladores de techo
 
 *  (2022) Incendio 
     + Provisión de 8 matafuegos 1 ABC 5 kg

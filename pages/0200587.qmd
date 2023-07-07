@@ -19,7 +19,7 @@ subtitle: 'JIN A (EPCJS 04/12°) [S] - EPC N° 04 PROVINCIA DE LA PAMPA - ESEA E
 ## Mantenimiento
 
 *  (2023) Calefaccion y Refrigeracion 
-    + Caloventiladores e-2
+    + Caloventiladores e-2, Provisión y reemplazo de tubos de calder
 
 *  (2023) Electricidad 
     + Protocolo espacios seguros

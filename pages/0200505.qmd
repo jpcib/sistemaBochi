@@ -8,7 +8,7 @@ subtitle: 'EPC N° 11 PRIMER MINISTRO INDIRA GANDHI - JIN D (EPCJC 11/10°)'
 
 * Obra nueva primaria -ajustes por cambio de terreno- 
     + Obra Nueva - En Obra 
-    + Inicio de obra: 1/2/2023 - Avance: 2% - Plazo: 450 días 
+    + Inicio de obra: NA - Avance: 2% - Plazo: 450 días 
 
 
 
@@ -26,7 +26,7 @@ subtitle: 'EPC N° 11 PRIMER MINISTRO INDIRA GANDHI - JIN D (EPCJC 11/10°)'
 
 ## Mobiliario
 
-*  (2023) : Armario 70, Banco largo comedor 70, Biblioteca 16, Escritorio 21, Juego de patio 2, Mesa inicial 70, Mesa pupitre doble 129, Mesa usos múltiples 49, Piso antigolpe para juegos 120, Pizarrón 45, Silla escolar 585, Varios 232 
+*  (2023) : Piso antigolpe para juegos 120 
 
 *  (2021) : Mesa inicial 10, Silla escolar 30, Varios 12 
 

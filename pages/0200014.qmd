@@ -16,6 +16,9 @@ subtitle: 'EPC N° 16 WENCESLAO POSSE - JIC N° 03/01° - CENOF CENTRO JUNCAL - 
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Insalación de seguridad
+
 *  (2023) Incendio 
     + Reponer punta de lanza hidrante
 

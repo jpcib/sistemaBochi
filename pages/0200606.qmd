@@ -23,7 +23,7 @@ subtitle: 'COLEGIO N° 09 JUSTO JOSE DE URQUIZA'
     + Instalaciones en Espacio Seguro
 
 *  (2023) Gas 
-    + CAMBIAR CAÑERIA GAS LABORATORIOS
+    + CAMBIAR CAÑERIA GAS LABORATORIOS, HABILITACION CALDERA Y RAMAS REGULACIÓN
 
 *  (2022) Electricidad 
     + Instalación de purificadores

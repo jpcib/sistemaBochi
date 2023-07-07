@@ -10,12 +10,12 @@ subtitle: 'ESC. TEC. N° 09 ING. LUIS A. HUERGO - CAIYJ CLUB HUERGO'
 Laboratorios. Instalaciones eléctrica, sanitaria, contra incendio, termomecánica y la reparación –
 Puesta en norma del ascensor. 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 19/1/2023 - Avance: 22% - Plazo: 330 días 
+    + Inicio de obra: NA - Avance: 22% - Plazo: 330 días 
 
 
 * Imperbeabilizacion de un sector de azotea 
     + Mejora Edilicia - Finalizado 
-    + Finalizada el NA 
+    + Finalizada el Esperando corrección de fecha 
 
 
 
@@ -26,6 +26,9 @@ Puesta en norma del ascensor.
 
 *  (2023) Carpinterías 
     + Prov y coloc cortinas rollers blackouts
+
+*  (2023) Electricidad 
+    + INSTALACION EN ESPACIOS SEGUROS
 
 *  (2022) Albañileria / Pintura 
     + Instalacion de agua en laboratorio, Aulas del futuro aula 2,7,12,22
@@ -59,7 +62,7 @@ Puesta en norma del ascensor.
 
 *  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
-*  (2022) : Escritorio 7, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 216 
+*  (2022) : Escritorio 7, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 214 
 
 
 

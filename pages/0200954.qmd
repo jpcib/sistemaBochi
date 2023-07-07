@@ -18,6 +18,9 @@ subtitle: 'EPC N° 10 ITALO AMERICO FORADORI - JIC N° 07/21°'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Protocolo Espacio seguro
+
 *  (2022) Albañileria / Pintura 
     + Reaalización de dos aulas en PA, Rep. de Solado en patio del jardín
 

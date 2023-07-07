@@ -8,12 +8,12 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 
 * 3er año 
     + SDF - En Obra 
-    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 días 
+    + Inicio de obra: NA - Avance: 0% - Plazo: 60 días 
 
 
 * Construcción de 4 aulas modulares en steel frame, adecuaciones en: vivienda casero, sala profesores y preceptores. 
     + CORP SUR - En Proyecto 
-    + Inicio de obra: 01/07/2023 
+    + Inicio de obra: NA 
 
 
 
@@ -57,7 +57,7 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
-*  (2022) : Escritorio 4, Mesa pupitre doble 76, Pizarrón 4, Silla escolar 306 
+*  (2022) : Escritorio 4, Mesa pupitre doble 76, Pizarrón 4, Silla escolar 156 
 
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 

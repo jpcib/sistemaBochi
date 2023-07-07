@@ -8,6 +8,9 @@ subtitle: 'EEM N° 02/04° E.REINGRESO'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Espacios seguros
+
 *  (2022) Electricidad 
     + Colocación de luces de emergencia
 

@@ -4,11 +4,12 @@ subtitle: 'ESCUELA INF. N° 09/05° - EPC N°05 DE 05'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + Mejora Edilicia - Finalizado 
+    + Finalizada el Esperando corrección de fecha 
 
-## Mobiliario
-
-*  (2021) : Armario 5, Biblioteca 10, Escritorio 4, Mesa pupitre doble 60, Pizarrón 2 
 
 
 
@@ -21,6 +22,14 @@ subtitle: 'ESCUELA INF. N° 09/05° - EPC N°05 DE 05'
 
 *  (2021) Sanitarias 
     + Bombas elevadoras
+
+
+
+
+
+## Mobiliario
+
+*  (2021) : Armario 5, Biblioteca 10, Escritorio 4, Mesa pupitre doble 60, Pizarrón 2 
 
 
 

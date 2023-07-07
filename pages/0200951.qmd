@@ -4,17 +4,24 @@ subtitle: 'EPC N° 06 REPUBLICA DE LA INDIA - JII N° 02/21°'
 ---
 
 #
+## Infraestructura
 
+* Plan mejora patio+ cielorraso+carpinteria+ inst gas y calefaccion+ sanitario+ cubierta + reparacion revoques y pintura en areas significativas 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2023) : Mesa pupitre doble 30, Pizarrón 4, Silla escolar 66 
 
 
 
 
 
 ## Mantenimiento
+
+*  (2023) Calefaccion y Refrigeracion 
+    + Reparación de sistema de calefacción.
+
+*  (2023) Electricidad 
+    + Protocolo Espacio seguro
 
 *  (2022) Albañileria / Pintura 
     + Prov. Inst.  de piso antigolpe
@@ -30,6 +37,14 @@ subtitle: 'EPC N° 06 REPUBLICA DE LA INDIA - JII N° 02/21°'
 
 *  (2021) Medios de elevación 
     + puesta en norma del ascensor
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa pupitre doble 30, Pizarrón 4, Silla escolar 66 
 
 
 

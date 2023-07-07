@@ -16,6 +16,9 @@ subtitle: 'EPC N° 14 CAPIT.MARIA REMEDIOS DEL VALLE - JIN A (EPCJC 14/19°)'
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Remplazo de equipo de aire acondicionado
+
 *  (2021) Cubiertas / Impermeabilizaciones 
     + Demolicion terraza patio casera, imperme
 

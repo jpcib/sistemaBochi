@@ -4,13 +4,12 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
 ---
 
 #
+## Infraestructura
 
+* Adecuacion  calefaccion, inst electrica , patio , muros ,cubierta, acesibilidad basica  , pintura en areas significativas 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2022) : Armario 2, Mesa pupitre doble 30, Silla escolar 70 
-
-*  (2021) : Banco largo comedor 10, Mesa usos múltiples 5, Varios 2 
 
 
 
@@ -19,7 +18,7 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
 ## Mantenimiento
 
 *  (2023) Gas 
-    + Adecuación de inst de gas a Normativa, Reparacion segun informe MetroGas
+    + Adecuación de inst de gas a Normativa, REPONER MEDIDOR DE GAS EN COCINA, Reparacion segun informe MetroGas
 
 *  (2022) Albañileria / Pintura 
     + Reparar revoques de aula de plástica, Pintura de pasillo y 2 hall
@@ -47,6 +46,16 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
 
 *  (2021) Gas 
     + Verificar instalacion de gas
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Armario 2, Mesa pupitre doble 30, Silla escolar 70 
+
+*  (2021) : Banco largo comedor 10, Mesa usos múltiples 5, Varios 2 
 
 
 

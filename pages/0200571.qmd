@@ -7,8 +7,8 @@ subtitle: 'ESC. DE COM. N° 09 JOSE INGENIEROS'
 ## Infraestructura
 
 * 2do año 
-    + SDF - En Obra 
-    + Inicio de obra: DGMESC - Avance: DGMESC - Plazo: 90 días 
+    + SDF - Finalizado 
+    + Finalizada el Esperando corrección de fecha 
 
 
 
@@ -18,7 +18,7 @@ subtitle: 'ESC. DE COM. N° 09 JOSE INGENIEROS'
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Acondicionamiento espacio biblioteca
+    + 4 salas del futuro, Acondicionamiento espacio biblioteca
 
 
 

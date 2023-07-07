@@ -20,8 +20,14 @@ subtitle: 'JIC N° 04/05° SEDE - EPC N° 14 PROVINCIA DE SAN LUIS'
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Reposición de paneles de Cielorraso
+
 *  (2023) Electricidad 
     + Gestión y Alquiler de GEM, Espacios seguros, Adecuacion de gas
+
+*  (2023) Sanitarias 
+    + Reemplazo de bombas,adecuacion tablero
 
 *  (2022) Calefaccion y Refrigeracion 
     + Reemplazo Estufas Cachi 77 (Primaria)

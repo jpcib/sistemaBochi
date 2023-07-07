@@ -17,6 +17,12 @@ subtitle: 'COLEGIO N° 06 MANUEL BELGRANO - COLEGIO N° 15 REVOLUCION DE MAYO'
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Prov. coloc placas antihumedad
+
+*  (2023) Electricidad 
+    + Prov. Coloc sistema de alarmas rectoria
+
 *  (2023) Gas 
     + Adecuación de la Instalación de Gas
 
@@ -28,6 +34,9 @@ subtitle: 'COLEGIO N° 06 MANUEL BELGRANO - COLEGIO N° 15 REVOLUCION DE MAYO'
 
 *  (2022) Carpinterías 
     + colocación de dos ventanas sala de idiom
+
+*  (2022) Electricidad 
+    + Adecuaciones en la instalación eléctrica
 
 *  (2022) Gas 
     + Adecuaciones Instalacion Gas
@@ -47,7 +56,7 @@ subtitle: 'COLEGIO N° 06 MANUEL BELGRANO - COLEGIO N° 15 REVOLUCION DE MAYO'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 8, Silla escolar 124 
 
 *  (2022) : Mesa pupitre doble 60 
 

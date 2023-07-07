@@ -4,11 +4,12 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N°04 - COLEGIO N° 04 NICOLAS AVELL
 ---
 
 #
+## Infraestructura
 
+* Adecuacion de patio, carpinterias, sanitarios, inst gas y electrica, pintura (hay sdf) 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 
 
@@ -39,6 +40,14 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N°04 - COLEGIO N° 04 NICOLAS AVELL
 
 *  (2021) Sanitarias 
     + provision y colocacion termotanque
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 
 

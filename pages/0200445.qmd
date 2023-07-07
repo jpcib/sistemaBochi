@@ -8,7 +8,7 @@ subtitle: 'JII N° 06/09° - EPC N° 06 VICENTE FIDEL LOPEZ - EPA N° 06 VICENTE
 
 * Instalación eléctrica 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 8/10/2022 - Avance: 83% - Plazo: 120 días 
+    + Inicio de obra: NA - Avance: 83% - Plazo: 120 días 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'JII N° 06/09° - EPC N° 06 VICENTE FIDEL LOPEZ - EPA N° 06 VICENTE
 
 
 ## Mantenimiento
+
+*  (2023) Gas 
+    + Puesta en Norma Inst. de Gas
 
 *  (2022) Gas 
     + Cambio de 17 estufas

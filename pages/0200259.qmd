@@ -8,7 +8,7 @@ subtitle: 'ENS N° 05 GRAL.  M. M. DE GÜEMES (SEDE) - LICEO COM. N° 03 JOSE MA
 
 * Instalacion electrica completa, impermeabilizacion, restauracion de un sector de fachada 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 23/11/2021 - Avance: 80% - Plazo: 365 días 
+    + Inicio de obra: NA - Avance: 80% - Plazo: 365 días 
 
 
 
@@ -19,6 +19,9 @@ subtitle: 'ENS N° 05 GRAL.  M. M. DE GÜEMES (SEDE) - LICEO COM. N° 03 JOSE MA
 
 *  (2023) Carpinterías 
     + Colocar picaportes y cerraduras, Reparación de ventana aula planta alta
+
+*  (2023) Incendio 
+    + Recarga de 3 extintores accionados
 
 *  (2022) Albañileria / Pintura 
     + Cambio de piso vinilico, pintura aula

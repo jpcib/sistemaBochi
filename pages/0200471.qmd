@@ -18,8 +18,11 @@ subtitle: 'ESC. TEC. DE JARDINERIA CRISTOBAL M. HICKEN'
 
 ## Mantenimiento
 
+*  (2023) Carpinterías 
+    + Instalación de porteroeléctrico
+
 *  (2023) Electricidad 
-    + instalación de seguridad
+    + instalación de seguridad, Instalación de tomas
 
 *  (2023) Incendio 
     + Reemplazo de 1 matafuego

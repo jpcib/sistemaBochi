@@ -20,6 +20,9 @@ subtitle: 'ESC. DE COM. N° 32 JOSE LEON SUAREZ [A]'
 *  (2023) Albañileria / Pintura 
     + Adecuar 3 aulas
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Reemplazar estufas rotas.
+
 *  (2023) Electricidad 
     + Reemplazar cables deteriorados
 

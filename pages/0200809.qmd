@@ -16,6 +16,9 @@ subtitle: 'JIN D (EPCJS 07/18°) - EPA N° 07 REPUBLICA ARABE DE EGIPTO - EPC N�
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Reemplazar motor sistema de calefaccion
+
 *  (2022) Sanitarias 
     + reponer inodoro roto baño de varones
 

@@ -8,7 +8,7 @@ subtitle: 'ESC. DE COM. N° 26 ENRIQUE DE VEDIA - ENS LENGUAS VIVAS SOFIA DE SPA
 
 * Nuevo ascensor exterior - aumento caudal, reserva sanitaria 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 26/6/2022 - Avance: 82% - Plazo: 180 días 
+    + Inicio de obra: NA - Avance: 82% - Plazo: 180 días 
 
 
 
@@ -19,6 +19,9 @@ subtitle: 'ESC. DE COM. N° 26 ENRIQUE DE VEDIA - ENS LENGUAS VIVAS SOFIA DE SPA
 
 *  (2023) Calefaccion y Refrigeracion 
     + Cambio de Caldera
+
+*  (2023) Carpinterías 
+    + Protección rejas
 
 *  (2023) Incendio 
     + Reemplazo de 1 matafuego

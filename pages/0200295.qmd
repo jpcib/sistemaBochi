@@ -4,11 +4,12 @@ subtitle: 'EPC N° 02 JOSE MARIA GUTIERREZ'
 ---
 
 #
+## Infraestructura
 
+* Muros, patio, carpinteria, inst electrica, prov agua, acc basica y pintura. Catalogacion? 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2022) : Silla escolar 12 
 
 
 
@@ -30,6 +31,14 @@ subtitle: 'EPC N° 02 JOSE MARIA GUTIERREZ'
 
 *  (2021) Medios de elevación 
     + Reparación montasillas por roturas Vanda
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Silla escolar 12 
 
 
 

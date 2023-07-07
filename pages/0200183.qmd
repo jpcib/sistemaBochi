@@ -16,6 +16,9 @@ subtitle: 'EPC N° 18 PROVINCIA DE LA RIOJA'
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Trabajos de pintura
+
 *  (2021) Gas 
     + adecuación gas a norma vigente.
 

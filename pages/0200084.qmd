@@ -21,7 +21,7 @@ subtitle: 'EPC N° 11 PROVINCIA DE JUJUY - JIN C (EPCJC 11/02°) - CENS N° 29'
 *  (2023) Electricidad 
     + Reemplazo de 3 ventiladores de techo
 
-*  (2023) Otros Servicios 
+*  (2023) Gas 
     + Protecciones para artefacto de gas
 
 *  (2022) Cubiertas / Impermeabilizaciones 

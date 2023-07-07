@@ -4,13 +4,12 @@ subtitle: 'EPC N° 23 BELISARIO ROLDAN - JIN A (EPCJC 23/16°)'
 ---
 
 #
+## Infraestructura
 
+* Plan mejora de  fachada+ patio+ carpinteria + sanitario + inst gas + inst electrica+ sanitario+ cubierta + revoques y pintura en areas significativas 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2023) : Armario 4, Mesa usos múltiples 3, Pizarrón 12, Silla escolar 25 
-
-*  (2021) : Banco largo comedor 114, Mesa usos múltiples 50 
 
 
 
@@ -26,6 +25,16 @@ subtitle: 'EPC N° 23 BELISARIO ROLDAN - JIN A (EPCJC 23/16°)'
 
 *  (2021) Gas 
     + readecuación instalación de gas
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Armario 4, Mesa usos múltiples 3, Pizarrón 12, Silla escolar 25 
+
+*  (2021) : Banco largo comedor 114, Mesa usos múltiples 50 
 
 
 

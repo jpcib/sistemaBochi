@@ -4,11 +4,12 @@ subtitle: 'EEEYFL N° 21 ROSARIO VERA PEÑALOZA'
 ---
 
 #
+## Infraestructura
 
+* Plan mejora edif historico adecuacion fachada+ patio+ cielorraso+ carpinteria+ inst gas-calefaccion + inst electrica + acond sanitarios y prov de agua , reparacion revoques y pintura en areas significativas +accesibilidad plena 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2021) : Armario 30, Escritorio 2, Mesa pupitre doble 30, Pizarrón 5, Silla escolar 62 
 
 
 
@@ -27,6 +28,14 @@ subtitle: 'EEEYFL N° 21 ROSARIO VERA PEÑALOZA'
 
 *  (2021) Albañileria / Pintura 
     + Trabajos alabañileria y pintura 2 aulas
+
+
+
+
+
+## Mobiliario
+
+*  (2021) : Armario 30, Escritorio 2, Mesa pupitre doble 30, Pizarrón 5, Silla escolar 62 
 
 
 

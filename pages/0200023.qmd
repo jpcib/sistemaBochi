@@ -4,15 +4,12 @@ subtitle: 'Sup Media Region I - Sup.Educ.Tec.Region I DE 01,03 - ESC. DE COM. N�
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + Mejora Edilicia - Finalizado 
+    + Finalizada el Esperando corrección de fecha 
 
-## Mobiliario
-
-*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
-
-*  (2022) : Escritorio 4, Mesa pupitre doble 64, Pizarrón 4, Silla escolar 132 
-
-*  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
 
 
@@ -49,6 +46,18 @@ subtitle: 'Sup Media Region I - Sup.Educ.Tec.Region I DE 01,03 - ESC. DE COM. N�
 
 *  (2021) Sanitarias 
     + Tapas laterales del tanque elevado
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
+
+*  (2022) : Escritorio 4, Mesa pupitre doble 64, Pizarrón 4, Silla escolar 132 
+
+*  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
 
 

@@ -33,6 +33,9 @@ subtitle: 'EPC N° 04 CASIMIRO AURELIANO MACIEL - JINA(EPCJS 04/18°)LA CALESITA
 *  (2022) Electricidad 
     + Instalacion luces de emergencia
 
+*  (2022) Sanitarias 
+    + Aliviadores de canaletas de cubiertas
+
 *  (2021) Albañileria / Pintura 
     + Rep Revoques-Pintura Aulas Etapa 1
 

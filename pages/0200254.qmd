@@ -27,7 +27,7 @@ subtitle: 'ESC. TEC. N° 04 REPUBLICA DEL LIBANO'
     + Cerraduras
 
 *  (2023) Electricidad 
-    + Luces de emergencia
+    + Luces de emergencia, Instalacion Espacio Seguro
 
 *  (2022) Albañileria / Pintura 
     + 2 aulas - SDF

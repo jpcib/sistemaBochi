@@ -17,7 +17,7 @@ subtitle: 'EPC N° 19 JOSE MARTI - EPA N° 19 JOSE MARTI'
 ## Mantenimiento
 
 *  (2023) Electricidad 
-    + Prov. inst, luces de emergencia
+    + Prov. inst, luces de emergencia, Prov y coloc ventiladores por vandalismo
 
 *  (2023) Incendio 
     + Cambiar matafuegos de pasillo 1erP
@@ -29,7 +29,7 @@ subtitle: 'EPC N° 19 JOSE MARTI - EPA N° 19 JOSE MARTI'
     + cambio de cubierta en SUM y aulas 1°piso
 
 *  (2022) Electricidad 
-    + Ventiladores en SUM, Prov y coloc ventiladores por vandalismo
+    + Ventiladores en SUM
 
 *  (2022) Gas 
     + Adecuacion instalacion de gas

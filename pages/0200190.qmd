@@ -4,11 +4,12 @@ subtitle: 'JIN C (EPCJC 28/04°) [S] - EPC N° 28 FRANCISCO PASCASIO MORENO - CA
 ---
 
 #
+## Infraestructura
 
+* Plan mejora de patio + adecuacion pisos de madera+ muro con humedades+ carpinteria +prov agua+  inst electrica + y pintura en areas significativas. Accesibilidad23 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2021) : Armario 35, Banco largo comedor 16, Mesa pupitre doble 20, Mesa usos múltiples 8, Silla escolar 40 
 
 
 
@@ -33,6 +34,16 @@ subtitle: 'JIN C (EPCJC 28/04°) [S] - EPC N° 28 FRANCISCO PASCASIO MORENO - CA
 
 *  (2021) Carpinterías 
     + Nueva cerradura ascenso
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Pizarrón 16 
+
+*  (2021) : Armario 35, Banco largo comedor 16, Mesa pupitre doble 20, Mesa usos múltiples 8, Silla escolar 40 
 
 
 

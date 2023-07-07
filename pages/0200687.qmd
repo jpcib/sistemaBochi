@@ -19,6 +19,9 @@ subtitle: 'EEM N° 01/14° FEDERICO GARCIA LORCA - CAIYJ CLUB GARCIA LORCA'
 *  (2023) Electricidad 
     + Secundarias del Futuro 2 aulas 1 año
 
+*  (2023) Medios de elevación 
+    + Reemplazo botonera y coloc llave
+
 *  (2022) Carpinterías 
     + Reposición cortina blackout
 

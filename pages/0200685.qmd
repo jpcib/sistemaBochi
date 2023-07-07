@@ -4,11 +4,20 @@ subtitle: 'Sup Educacion Especial. Escal C A Centro Cultural Roberto Santoro - E
 ---
 
 #
+## Infraestructura
+
+* Plan mejora edilicia adecuacion patio, muro, carpinteria, cubierta  cubierta y  pintura en areas significativas + adecuacion gimnasio 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
+
+
+
+
 
 
 ## Mantenimiento
 
-*  (2023) Carpinterías 
+*  (2023) Sanitarias 
     + Cambio canaleta y pluviales gimnasio
 
 *  (2022) Albañileria / Pintura 

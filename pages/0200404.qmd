@@ -17,7 +17,7 @@ subtitle: 'JIN B (EPCJS 06/08°) [S] - EPC N° 06 SAN JOSE DE CALASANZ - EPA N°
 ## Mantenimiento
 
 *  (2023) Otros Servicios 
-    + PROVISION E INST. DE VENTILADORES
+    + Espacios seguros, PROVISION E INST. DE VENTILADORES
 
 *  (2022) Carpinterías 
     + Proveer e instalar proteccion red

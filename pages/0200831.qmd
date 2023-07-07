@@ -4,15 +4,12 @@ subtitle: 'ESC. TEC. N° 35 ING. EDUARDO LATZINA'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2021) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 
 
@@ -22,6 +19,9 @@ subtitle: 'ESC. TEC. N° 35 ING. EDUARDO LATZINA'
 
 *  (2023) Albañileria / Pintura 
     + Colocacion revestimientos vestuarios/bañ
+
+*  (2023) Electricidad 
+    + Colocacion Sist Alarma Espacio Seguro, Colocacion de 15 placas de iluminacion
 
 *  (2023) Sanitarias 
     + Canaleta perimetral patio deportes
@@ -37,6 +37,18 @@ subtitle: 'ESC. TEC. N° 35 ING. EDUARDO LATZINA'
 
 *  (2021) Electricidad 
     + Secundarias del Futuro 2021 - 5 Aulas, Adecuaciones Eléctricas
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2021) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 
 

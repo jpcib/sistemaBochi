@@ -8,6 +8,9 @@ subtitle: 'JIN B (EPCJS 24/02°) JARDIN DEL ABASTO - CENS N° 16 - EPC N° 24 PR
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Reparación en instalación de gas
+
 *  (2022) Carpinterías 
     + Colocación de la puerta del baño
 

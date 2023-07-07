@@ -8,6 +8,12 @@ subtitle: 'JII N° 03/20° - CAIYJ MATADEROS'
 
 ## Mantenimiento
 
+*  (2023) Incendio 
+    + Prov y coloc lanza vandalizada.
+
+*  (2023) Sanitarias 
+    + Reemplazo de dos mochilas por vandalismo
+
 *  (2022) Albañileria / Pintura 
     + Retiro y colocacion de  cerámicos
 
@@ -15,7 +21,7 @@ subtitle: 'JII N° 03/20° - CAIYJ MATADEROS'
     + Instalación de gas.
 
 *  (2022) Sanitarias 
-    + Prov. coloc.bomba presurizadora, Reemplazo de dos mochilas por vandalismo
+    + Prov. coloc.bomba presurizadora
 
 *  (2021) Carpinterías 
     + Colocar pasadores,rep cerradura-Acceso x

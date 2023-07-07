@@ -17,7 +17,7 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Pintura de circulaciones, Pintura de aulas y pasillos, Modificación de baños, Pintura interior de aulas
+    + Pintura de circulaciones, Pintura de aulas y pasillos, Modificación de baños, Puesta a punto del edificio, Pintura interior de aulas, Mantenimiento equipo BMS, Reemplazo paneles vinilicos vandalizados
 
 *  (2023) Calefaccion y Refrigeracion 
     + Reparación de equipo vrv
@@ -26,7 +26,7 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
     + reparación de carpinterias de aluminio, Colocación de red antipalomas
 
 *  (2023) Electricidad 
-    + Reparación del sistema de ventilación, Reparación del sistema de datos
+    + Mantención del equipo BMS, Reparación del sistema de ventilación, Reparación del sistema de datos, Colocación de paneles LED
 
 *  (2023) Sanitarias 
     + Colocación de válvula interceptora, Reemplazo de bombas de circulacion

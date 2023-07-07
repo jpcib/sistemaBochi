@@ -18,8 +18,14 @@ subtitle: 'EPA N°22 SANTA MARIA DE LOS BUENOS AIRES - EPC N°22 SANTA MARIA DE 
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Prov.Coloc aire acondicionado.
+
+*  (2023) Electricidad 
+    + Reemplazo de central telefonica
+
 *  (2022) Electricidad 
-    + Provision y colocacion de luces de emer, Reemplazo de central telefonica
+    + Provision y colocacion de luces de emer
 
 *  (2022) Incendio 
     + Colocación lanzas faltantes polipropilen

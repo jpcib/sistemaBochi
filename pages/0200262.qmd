@@ -24,10 +24,13 @@ subtitle: 'IFTS Nº 11 DE 05 - ESC. TEC. N° 07 DOLORES LAVALLE DE LAVALLE - CAI
     + SDF 2023. Adecuación, 2 aulas
 
 *  (2023) Electricidad 
-    + Traslado Tablero Eléctrico
+    + Traslado Tablero Eléctrico, Espacios seguros
 
 *  (2022) Carpinterías 
     + Secundarias del futuro 2022 - 2 aulas
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Filtraciones aulas nuevas
 
 *  (2022) Electricidad 
     + Conexión Aula Computación con tecnología, Colocación  toma en aula nueva PB, Colocación de 30 tomas en aula nueva

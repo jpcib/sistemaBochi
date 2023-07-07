@@ -7,8 +7,8 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 ## Infraestructura
 
 * 3er año 
-    + SDF - En Obra 
-    + Inicio de obra: 22/01/2023 - Avance: 55% - Plazo: 60 días 
+    + SDF - Finalizado 
+    + Finalizada el Esperando corrección de fecha 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 
 
 ## Mantenimiento
+
+*  (2023) Electricidad 
+    + Espacio Seguro
 
 *  (2021) Gas 
     + Adecuacion de gas

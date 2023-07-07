@@ -8,6 +8,9 @@ subtitle: 'EPC N° 20 ROSARIO VERA PEÑALOZA - JIN D (EPCJS 20/02°) [S] - CENOF
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Espacios seguros
+
 *  (2021) Electricidad 
     + cotizacion y Reemplazo de ventiladores
 

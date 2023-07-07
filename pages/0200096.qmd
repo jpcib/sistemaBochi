@@ -18,8 +18,14 @@ subtitle: 'INST. DE TIEMPO LIBRE Y RECREACION - LICEO N° 01 JOSE FIGUEROA ALCOR
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Prov y coloc 2 ventiladores para gym., Prov. Coloc sistema de alarma con sensor
+
 *  (2023) Sanitarias 
     + Prov.Coloc inodoro en baño de mujeres
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Puesta en normativa de Caldera
 
 *  (2021) Albañileria / Pintura 
     + Puesta en valor de aula 15, 16 y 26, Acondicionar dos aulas para SDF 202

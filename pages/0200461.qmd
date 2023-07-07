@@ -4,11 +4,12 @@ subtitle: 'EPC N° 30 GRANADEROS DE SAN MARTIN - JIC N° 02/09° GRANADEROS DE S
 ---
 
 #
+## Infraestructura
 
+* Adecuacion de fachada+  patios + muros+carpinterias+   inst electrica + inst gas-calefacc y pintura en areas significativas evaluar posible mejora en pileta -instalaciones-. Catalogación. 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: NA 
 
-## Mobiliario
-
-*  (2023) : Escritorio 7, Mesa pupitre doble 65, Pizarrón 1, Silla escolar 137 
 
 
 
@@ -17,10 +18,13 @@ subtitle: 'EPC N° 30 GRANADEROS DE SAN MARTIN - JIC N° 02/09° GRANADEROS DE S
 ## Mantenimiento
 
 *  (2023) Electricidad 
-    + instalación de seguridad
+    + instalación de seguridad, Readecuación de instalación electrica
 
 *  (2022) Albañileria / Pintura 
     + pintura de friso y entrepiso del gimnasi, Pintura de cielorrasos/techos
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Cambio de equipo de calefacción
 
 *  (2022) Electricidad 
     + Instalación eléctrica sector hidroponia., Instalar 17 tomas para TV en aulas
@@ -36,6 +40,14 @@ subtitle: 'EPC N° 30 GRANADEROS DE SAN MARTIN - JIC N° 02/09° GRANADEROS DE S
 
 *  (2021) Sanitarias 
     + Cambio termotanque vivienda casera
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 7, Mesa pupitre doble 65, Pizarrón 1, Silla escolar 137 
 
 
 

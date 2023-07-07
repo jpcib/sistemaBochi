@@ -9,7 +9,10 @@ subtitle: 'JIC N° 12/20°'
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Readecuacion sector juegos
+    + Readecuacion sector juegos, Readecuacion sector juegos segunda etapa
+
+*  (2023) Calefaccion y Refrigeracion 
+    + Prov.Coloc.  A.A. frio/calor de 3000
 
 *  (2022) Carpinterías 
     + Proveer y colocar cerradura-Dirección
