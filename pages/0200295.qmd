@@ -8,7 +8,7 @@ subtitle: 'EPC N° 02 JOSE MARIA GUTIERREZ'
 
 * Muros, patio, carpinteria, inst electrica, prov agua, acc basica y pintura. Catalogacion? 
     + Mejora Edilicia - Planificado 
-    + Inicio de obra: NA 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 

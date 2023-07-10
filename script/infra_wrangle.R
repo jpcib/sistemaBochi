@@ -42,7 +42,8 @@ plani_clean <- gop_raw %>%
   mutate(cui = str_pad(cui, 7, "left", "0")) %>% 
   filter(estado != "Baja") %>% 
   mutate(inicio_obra = case_match(n_proyecto,
-                                  "x048" ~ "01/07/2023 - rescindido"), 
+                                  "x048" ~ "01/07/2023 - rescindido", 
+                                  .default = inicio_obra), 
          fin_obra = case_when(is.na(fin_obra) ~ "Esperando corrección de fecha",
                               fin_obra == "-" ~ "Esperando corrección de fecha",
                               T ~ fin_obra)) %>%

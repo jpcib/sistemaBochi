@@ -8,7 +8,7 @@ subtitle: 'Polideportivo ESC. TEC. N° 30 DR. NORBERTO PIÑERO - ESC. TEC. N° 3
 
 * Puesta en funcionamineot de la calefaccion 
     + 433 - En Proyecto 
-    + Inicio de obra: NA 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 * Mejora edilicia, sanitarios, talleres. 
