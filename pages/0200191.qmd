@@ -20,9 +20,6 @@ subtitle: 'CENS N° 45 - EPA N° 29 MANUEL BELGRANO'
 *  (2023) Electricidad 
     + Insonorizacion campana
 
-*  (2022) Carpinterías 
-    + Cerramiento sobre portón nuevo
-
 *  (2022) Electricidad 
     + Mover portero electrico
 

@@ -6,9 +6,9 @@ subtitle: 'JIN A (EPCJC 10/10°) - EPC N° 10 JOAQUIN MARIA CULLEN'
 #
 ## Infraestructura
 
-* Historica, arreglo de carpinterias, fachadas, patios, ie completa, pintura y adecuacion de casa del casero. Puesta en valor de sanitarios y fisuras varias. Catalogacion 
+* Historica, arreglo de carpinterias, fachadas, patios, ie completa, pintura y adecuacion de casa del casero. Puesta en valor de sanitarios y fisuras varias. Catalogacion -  intervencion en subsuelo por ingreso de agua de napa 
     + Mejora Edilicia - Planificado 
-    + Inicio de obra: 31/3/2024 
+    + Inicio de obra: 24/4/2024 
 
 
 
@@ -19,6 +19,9 @@ subtitle: 'JIN A (EPCJC 10/10°) - EPC N° 10 JOAQUIN MARIA CULLEN'
 
 *  (2022) Carpinterías 
     + Prov y coloc reja en medianera
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + IMPERMEABILIZACION DE TERRAZA
 
 *  (2021) Albañileria / Pintura 
     + Reconstruccion pisos patio acceso, Piso de patio sobre Juana Azurduy

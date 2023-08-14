@@ -6,9 +6,17 @@ subtitle: 'EPC N° 07 GRAL. GÜEMES - CENS N° 54'
 #
 
 
+## Mobiliario
+
+*  (2023) : Armario 6, Escritorio 4, Mesa pupitre doble 60, Silla escolar 120 
+
+
+
+
+
 ## Mantenimiento
 
-*  (2023) Gas 
+*  (2023) Otros Servicios 
     + Cambio de termotanque casa casera
 
 *  (2021) Incendio 

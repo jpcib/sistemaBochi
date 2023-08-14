@@ -19,6 +19,9 @@ subtitle: 'CENTRO EDUCATIVO PARA NIÑOS EN TIEMPOS Y ESPACIOS SINGULARES N° 01 
 *  (2023) Albañileria / Pintura 
     + Reparacion muro sobre la línea municipal
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Cambio de estufas
+
 *  (2023) Electricidad 
     + Adecuar aulas de computación
 

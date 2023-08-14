@@ -18,6 +18,9 @@ subtitle: 'Sup Primaria DE 04 A Sup Adultos Region V A - EPA N° 13 REPUBLICA DE
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Cambio de estufas
+
 *  (2023) Electricidad 
     + Prov. Coloc 2 ventiladores de pared
 

@@ -17,6 +17,9 @@ subtitle: 'CENS N° 70 - EPC N° 05 PAUL GROUSSAC'
 
 ## Mantenimiento
 
+*  (2023) Sanitarias 
+    + Reemplazo cañeria bajada de tanque
+
 *  (2022) Albañileria / Pintura 
     + Reparación de revoques y pintura
 

@@ -6,9 +6,9 @@ subtitle: 'JIC N° 03/12° BANDERIN - EPC N°10 CNEL.DE MARINA LEONARDO ROSALES'
 #
 ## Infraestructura
 
-* Espacio de sombra 
-    + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 26/11/2023 
+* Espacio de sombra - impermeabilizacion 
+    + Mejora Edilicia - Licitación 
+    + Inicio de obra: 1/12/2023 
 
 
 
@@ -29,7 +29,7 @@ subtitle: 'JIC N° 03/12° BANDERIN - EPC N°10 CNEL.DE MARINA LEONARDO ROSALES'
 
 ## Mobiliario
 
-*  (2023) : Juego de patio 1 
+*  (2023) : Juego de patio 1, Piso antigolpe para juegos 60 
 
 *  (2022) : Armario 6, Escritorio 3, Mesa inicial 5, Mesa pupitre doble 45, Silla escolar 120 
 

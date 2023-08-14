@@ -18,7 +18,10 @@ subtitle: 'COLEGIO N° 06 MANUEL BELGRANO - COLEGIO N° 15 REVOLUCION DE MAYO'
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Prov. coloc placas antihumedad
+    + Prov. coloc placas antihumedad, Impermeabilización azotea y cielorraso H
+
+*  (2023) Carpinterías 
+    + Proteccion metalica en balcones y escale
 
 *  (2023) Electricidad 
     + Prov. Coloc sistema de alarmas rectoria

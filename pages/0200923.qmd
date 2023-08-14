@@ -8,6 +8,9 @@ subtitle: 'JII N° 03/20° - CAIYJ MATADEROS'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Remplazo de ventiladores de pared
+
 *  (2023) Incendio 
     + Prov y coloc lanza vandalizada.
 

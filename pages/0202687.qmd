@@ -17,7 +17,7 @@ subtitle: 'EPC N° 24 DE 20'
 ## Mantenimiento
 
 *  (2023) Electricidad 
-    + Prov. y coloc. equipo de iluminacion, Prov.Coloc. 6 ventiladores
+    + Prov. y coloc. equipo de iluminacion, Sistema de Vigilancia, Prov.Coloc. 6 ventiladores
 
 *  (2022) Electricidad 
     + Proveer y colocar ventilador de pared

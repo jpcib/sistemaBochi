@@ -12,7 +12,7 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 
 
 * Construcción de 4 aulas modulares en steel frame, adecuaciones en: vivienda casero, sala profesores y preceptores. 
-    + CORP SUR - En Proyecto 
+    + CORP SUR - Licitación 
     + Inicio de obra: 01/07/2023 
 
 
@@ -22,8 +22,14 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 
 ## Mantenimiento
 
+*  (2023) Cubiertas / Impermeabilizaciones 
+    + Impermeabilización de hall ingreso
+
 *  (2023) Electricidad 
-    + Prov.Coloc. luces de emergencia
+    + Instalar un sistema Alarma:, Prov.Coloc. luces de emergencia, Remplazo de ventiladores de pared.
+
+*  (2023) Medios de elevación 
+    + Adecuacion de ascensor
 
 *  (2022) Calefaccion y Refrigeracion 
     + Prov. coloc. 11 placas Eco sol 900watt

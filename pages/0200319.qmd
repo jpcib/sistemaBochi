@@ -17,6 +17,9 @@ subtitle: 'ESC. TEC. N° 11 MANUEL BELGRANO'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Instalación en espacios seguros
+
 *  (2022) Medios de elevación 
     + Reparacion botonera montasilla
 

@@ -14,6 +14,9 @@ subtitle: 'JIC N° 12/20°'
 *  (2023) Calefaccion y Refrigeracion 
     + Prov.Coloc.  A.A. frio/calor de 3000
 
+*  (2023) Electricidad 
+    + Reparacion de Sistema de Vigilancia
+
 *  (2022) Carpinterías 
     + Proveer y colocar cerradura-Dirección
 

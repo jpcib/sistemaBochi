@@ -7,8 +7,8 @@ subtitle: 'Sup Inicial III B - JII N° 04/02º'
 ## Infraestructura
 
 * Reparaciones varias. Mejoras en núcleos sanitarios. Ejecución cuña desmontable. Tratamiento de humedad de cimientos. Trabajos sanitarios. Instalación eléctrica 
-    + Mejora Edilicia - En Obra 
-    + Inicio de obra: 8/7/2022 - Avance: 90% - Plazo: 240 días 
+    + Mejora Edilicia - Finalizado 
+    + Finalizada el 30/7/2023 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'Sup Inicial III B - JII N° 04/02º'
 
 
 ## Mantenimiento
+
+*  (2023) Albañileria / Pintura 
+    + Demol cielorraso/puerta reja/Inst. 2 AA
 
 *  (2022) Gas 
     + Reemplazo de estufa TB de comedor

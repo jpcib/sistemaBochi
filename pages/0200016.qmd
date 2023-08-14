@@ -7,7 +7,7 @@ subtitle: 'JIN C (EPCJC 21/01°) - EPC N° 21 ANGEL GALLARDO'
 ## Infraestructura
 
 * Instalacion electrica 
-    + Mejora Edilicia - En Proyecto 
+    + Mejora Edilicia - Licitación 
     + Inicio de obra: 20/11/2023 
 
 
@@ -21,6 +21,9 @@ subtitle: 'JIN C (EPCJC 21/01°) - EPC N° 21 ANGEL GALLARDO'
 
 
 ## Mantenimiento
+
+*  (2023) Albañileria / Pintura 
+    + Sala de maquinas a tanques de bombeo
 
 *  (2023) Electricidad 
     + Colocacion de 8 ventiladores de pared

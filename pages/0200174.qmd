@@ -18,6 +18,9 @@ subtitle: 'EPC N° 02 CARLOS RAMON VIGNALE - EPA N° 02 CARLOS RAMON VIGNALE'
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Cambio de estufa
+
 *  (2022) Albañileria / Pintura 
     + Instalación eléctrica para ventiladores.
 

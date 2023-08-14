@@ -18,8 +18,14 @@ subtitle: 'Sup Primaria DE20 A Sup Adultos Region IV A - JIN B (EPCJC 08/20°) [
 
 ## Mantenimiento
 
+*  (2023) Carpinterías 
+    + Proveer rampa movil
+
 *  (2023) Electricidad 
     + Cambio de ventiladores de pared
+
+*  (2023) Gas 
+    + Cambiar 2 estufas
 
 *  (2022) Gas 
     + Adecuación inst. gas a normativa

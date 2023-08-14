@@ -22,7 +22,10 @@ subtitle: 'PI EL RINCONCITO DE CLAUDIO - EEM N° 05/21° JUAN MANUEL FANGIO - EP
     + Reposicion de 2 calderas
 
 *  (2023) Electricidad 
-    + Seguridad para espacio digital 2do piso
+    + Seguridad para espacio digital 2do piso, Reposición de 10 ventialdores
+
+*  (2023) Gas 
+    + Instalación de gas por corte de suminist
 
 *  (2022) Albañileria / Pintura 
     + Aulas secundaria del futuro

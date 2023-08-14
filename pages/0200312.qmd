@@ -8,7 +8,7 @@ subtitle: 'Museo Bernasconi - ESC. PRIMARIA COMÚN N° 91 DR. CARLOS SAAVEDRA LA
 
 * Freno de deterioro en fachadas exteriores e interiores 
     + Mejora Edilicia - Licitación 
-    + Inicio de obra: 15/08/2023 
+    + Inicio de obra: 30/08/2023 
 
 
 * Restauracion de cielorrasos de sector pileta 
@@ -29,6 +29,9 @@ subtitle: 'Museo Bernasconi - ESC. PRIMARIA COMÚN N° 91 DR. CARLOS SAAVEDRA LA
 
 *  (2023) Albañileria / Pintura 
     + Realizar plataforma, coloc piso goma
+
+*  (2023) Calefaccion y Refrigeracion 
+    + reemplazo cañería vapor colector caldera
 
 *  (2023) Cubiertas / Impermeabilizaciones 
     + Impermeabilizacion cubierta cocina comed

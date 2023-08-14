@@ -16,6 +16,9 @@ subtitle: 'ESC. PARA NIÑOS Y NIÑAS CON DISCAPACIDAD MENTAL N° 05 DR. ANGEL AR
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Adecuación de sistema de gas
+
 *  (2022) Albañileria / Pintura 
     + Instalación de ventana en aula
 

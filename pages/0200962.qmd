@@ -8,7 +8,7 @@ subtitle: 'ESC. DE COM. N° 12 JUAN XXIII'
 
 * Instalacion electrica completa, remodelacion de nucleo sanitario en pb y nucleos sanitarios a nuevos en 1 y 2 piso. accesibilida plena (ascensor, solado rampante en gym y baño de disca en 2 piso). Ampliacion de 4 aulas (3 jin). pintura. calefaccion. 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 24/12/2023 
+    + Inicio de obra: 2/1/2024 
 
 
 * 2do año 
@@ -25,8 +25,14 @@ subtitle: 'ESC. DE COM. N° 12 JUAN XXIII'
 *  (2023) Albañileria / Pintura 
     + Pintura de dos aulas
 
+*  (2023) Electricidad 
+    + Seguridad rectoria y aula virtual PA, Suministrar un grupo electrogeno
+
 *  (2022) Carpinterías 
     + Reponer dos vidrios rotos por vandalismo
+
+*  (2022) Gas 
+    + Adecuación instalación de gas
 
 *  (2021) Electricidad 
     + Provision y colocación de luces de emerg

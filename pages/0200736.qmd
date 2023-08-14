@@ -16,6 +16,9 @@ subtitle: 'JM N° 06/13'
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Proveer e instalar termotanque
+
 *  (2022) Otros Servicios 
     + Provi. y coloc de p. vinilico en 2 salas
 

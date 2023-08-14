@@ -4,13 +4,12 @@ subtitle: 'EPC N° 27 PETRONILA RODRIGUEZ'
 ---
 
 #
+## Infraestructura
 
+* Sentencia judicial: ampliacion comedor, 3 aulas 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra: 19/01/2024 
 
-## Mobiliario
-
-*  (2023) : Banco largo comedor 44, Mesa usos múltiples 22 
-
-*  (2022) : Banco largo comedor 12, Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 
@@ -23,6 +22,16 @@ subtitle: 'EPC N° 27 PETRONILA RODRIGUEZ'
 
 *  (2021) Calefaccion y Refrigeracion 
     + instalcion equipos de aire acondicionado
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Banco largo comedor 44, Mesa usos múltiples 22 
+
+*  (2022) : Banco largo comedor 12, Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 

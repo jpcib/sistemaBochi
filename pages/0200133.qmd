@@ -17,6 +17,9 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Instalación en espacios seguros
+
 *  (2023) Gas 
     + Adecuación de inst de gas a Normativa, REPONER MEDIDOR DE GAS EN COCINA, Reparacion segun informe MetroGas
 
@@ -52,6 +55,8 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
 
 
 ## Mobiliario
+
+*  (2023) : Pizarrón 9 
 
 *  (2022) : Armario 2, Mesa pupitre doble 30, Silla escolar 70 
 

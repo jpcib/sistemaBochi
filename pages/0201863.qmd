@@ -7,8 +7,8 @@ subtitle: 'IS DEL PROF. DR. JOAQUIN V. GONZALEZ'
 ## Infraestructura
 
 * Adecuacion y puesto funcionamiento elevadores 
-    + Mejora Edilicia - En Obra 
-    + Inicio de obra: 22/12/2022 - Avance: 69% - Plazo: 120 días 
+    + Mejora Edilicia - Finalizado 
+    + Finalizada el 30/7/2023 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'IS DEL PROF. DR. JOAQUIN V. GONZALEZ'
 
 
 ## Mantenimiento
+
+*  (2023) Gas 
+    + Adecuaciones de instalación de gas
 
 *  (2022) Calefaccion y Refrigeracion 
     + Readecuacion de caldera

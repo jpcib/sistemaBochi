@@ -16,6 +16,9 @@ subtitle: 'EPC N° 10 FRANCISCO DE GURRUCHAGA'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Generador electrico
+
 *  (2022) Albañileria / Pintura 
     + Pintura paredes  sala de computacion
 

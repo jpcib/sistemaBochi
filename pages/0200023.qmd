@@ -20,6 +20,9 @@ subtitle: 'Sup Media Region I - Sup.Educ.Tec.Region I DE 01,03 - ESC. DE COM. N�
 *  (2023) Albañileria / Pintura 
     + Realizar 4 aulas del futuro
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Provision e instalacion de calderas
+
 *  (2023) Carpinterías 
     + Prov. e instalacion cortinas black out S
 

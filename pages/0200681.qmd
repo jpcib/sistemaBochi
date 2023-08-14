@@ -8,6 +8,8 @@ subtitle: 'Sup Inicial X A - JII N° 03/14° EL JARDIN DE OLLEROS'
 
 ## Mobiliario
 
+*  (2023) : Mesa inicial 15, Silla escolar 90 
+
 *  (2022) : Mesa inicial 12, Pizarrón 16, Silla escolar 72 
 
 
@@ -20,7 +22,7 @@ subtitle: 'Sup Inicial X A - JII N° 03/14° EL JARDIN DE OLLEROS'
     + Instalacion Aire acondicionado
 
 *  (2022) Calefaccion y Refrigeracion 
-    + Instalación aire acondicionado
+    + Instalación aire acondicionado, Instalación aire acondicionado
 
 *  (2022) Electricidad 
     + Readecuacion tableros, alimentacion toma

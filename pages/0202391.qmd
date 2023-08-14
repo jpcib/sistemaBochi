@@ -7,7 +7,7 @@ subtitle: 'JII N° 14/21° - SUM-COMEDOR JIC N°14"Complejo Bermejo"'
 ## Infraestructura
 
 * Adaptacion de modulares en un cfp / acceso independiente / cambiar sanitarios / instalaciones/ aula 
-    + Mejora Edilicia - En Proyecto 
+    + Mejora Edilicia - Licitación 
     + Inicio de obra: 24/10/2023 
 
 
@@ -25,6 +25,9 @@ subtitle: 'JII N° 14/21° - SUM-COMEDOR JIC N°14"Complejo Bermejo"'
 
 *  (2022) Carpinterías 
     + Prov. Coloc. cerradura para baño, Prov. Coloc.cerradura en sala de jardín.
+
+*  (2022) Sanitarias 
+    + Reubicacion de Pileta sala de bombas
 
 *  (2021) Calefaccion y Refrigeracion 
     + Cambio unidad sellada exterior AA

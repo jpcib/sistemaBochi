@@ -6,6 +6,14 @@ subtitle: 'JIN C (EPCJS 08/11°) HERMINIA BRUMANA - EPC N° 08 CNEL.ING.PEDRO AN
 #
 
 
+## Mobiliario
+
+*  (2023) : Armario 6 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Medios de elevación 

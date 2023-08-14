@@ -23,6 +23,12 @@ subtitle: 'COLEGIO N° 08 JULIO ARGENTINO ROCA'
 *  (2023) Albañileria / Pintura 
     + Ejecución de 2 aulas del futuro 3er piso, Ejecución 3 aulas del futuro  5to año.
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Puesta a punto y encendido de caldera
+
+*  (2023) Electricidad 
+    + Instalación en espacios seguros.
+
 *  (2022) Albañileria / Pintura 
     + Ejecución de 5 aulas del futuro 2021
 

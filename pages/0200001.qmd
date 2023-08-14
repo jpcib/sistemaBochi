@@ -8,7 +8,7 @@ subtitle: 'JIN C (EPCJS 01/01°) - EPC N° 01 JUAN JOSE CASTELLI - CENS - UGEE N
 
 * Fachadas (cambio de carpinterias y parasoles), nucleos sanitarios,(aula jines) mudanza de una sala, pintura completa, instalacion electrica y sanitario. Analizar instalacion termomecanica. red de proteccion en azotea. 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 3/2/2024 
+    + Inicio de obra: 23/2/2024 
 
 
 
@@ -17,8 +17,14 @@ subtitle: 'JIN C (EPCJS 01/01°) - EPC N° 01 JUAN JOSE CASTELLI - CENS - UGEE N
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Adecuacion de gas
+
 *  (2023) Calefaccion y Refrigeracion 
     + Cambio de aprox 10 equipos y calderas.
+
+*  (2023) Carpinterías 
+    + Colocacion de red antipalomas pb y films
 
 *  (2023) Electricidad 
     + Reparacion de Sistema de Vigilancia, Colocacion de ventiladores

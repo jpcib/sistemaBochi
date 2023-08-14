@@ -17,13 +17,16 @@ subtitle: 'EPC N° 13 DR. ALFREDO LANARI - JIN C (EPCJS 13/21°) - EPA N° 13 DR
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Retiro de revestimiento
+    + Retiro de revestimiento, Pintura de 3 aulas
 
 *  (2023) Electricidad 
-    + Recambio motor ventana corrediza
+    + Recambio motor ventana corrediza, Seguridad para aula informática pb
 
 *  (2023) Sanitarias 
     + Reposición  válvula de descarga inodoro
+
+*  (2022) Carpinterías 
+    + Reposición sistema cortina de enrollar
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Impermeabilización de varios sectores

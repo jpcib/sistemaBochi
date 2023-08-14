@@ -6,7 +6,7 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
 #
 ## Infraestructura
 
-* Plan mejora adecuacion aulas, revoques y carpinteria   + inst electrica  y pintura en areas significativas + accesibilidad plena 
+* Plan mejora adecuacion aulas, revoques y carpinteria   + inst electrica  y pintura en areas significativas + accesibilidad plena - . Intervención integral en baños. 
     + Mejora Edilicia - Planificado 
     + Inicio de obra: 17/04/2024 
 
@@ -16,6 +16,9 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
 
 
 ## Mantenimiento
+
+*  (2023) Sanitarias 
+    + Acondicionamiento gral sanitarios PB, Reemplazo de tanques de agua
 
 *  (2022) Carpinterías 
     + Colocación de redes de protección.

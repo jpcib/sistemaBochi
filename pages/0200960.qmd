@@ -16,6 +16,9 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 21'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Instalación de luces de emergencia
+
 *  (2023) Gas 
     + Instalación de gas
 

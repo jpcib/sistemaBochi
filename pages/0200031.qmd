@@ -16,6 +16,9 @@ subtitle: 'INST. DE EDUCACIÓN SUPERIOR N° 01 DRA. ALICIA MOREAU DE JUSTO - CEN
 
 ## Mantenimiento
 
+*  (2023) Carpinterías 
+    + Rejas y protecciones de seguridad
+
 *  (2023) Electricidad 
     + Iluminacion sector Bilblioteca
 

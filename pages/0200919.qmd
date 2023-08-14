@@ -22,6 +22,9 @@ subtitle: 'JII N° 01/20° - EPC N° 22 RUFINO LURO CAMBACERES'
 *  (2023) Electricidad 
     + Proveer  luminarias exteriores, Sistema de alarma y vigilancia
 
+*  (2023) Sanitarias 
+    + Ejecucion camaras cloacales 2 etapa
+
 *  (2022) Carpinterías 
     + Proveer y colocar puerta reja, Prov. coloc de 3 cerraduras por vandalis, Prov. coloc. 4 vidrios por vandalismo
 

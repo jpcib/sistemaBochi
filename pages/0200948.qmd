@@ -8,6 +8,9 @@ subtitle: 'EPC N° 03 CRISTOBAL COLON - EPA N° 03 CRISTOBAL COLON - JIN A (EPCJ
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Seguridad sala informática y sala apoyo
+
 *  (2022) Medios de elevación 
     + Adecuación a normas ascensor
 

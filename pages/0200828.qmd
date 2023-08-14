@@ -21,11 +21,14 @@ subtitle: 'ESC. DE COM. N° 30 DR. ESTEBAN AGUSTIN GASCON'
 *  (2023) Albañileria / Pintura 
     + 3 aulas del Futuro, Construcción de vereda en acceso parque, provisión e instalación de ventiladores
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Reemplazo de caldera y adecuación de SM
+
 *  (2023) Electricidad 
     + Cambio de artefactos electrico, Adecuación electrica en preceptoria PB/P
 
 *  (2023) Sanitarias 
-    + Colocación de tanque de reserva
+    + Retiro de tanque de reserva, Colocación de tanque de reserva
 
 *  (2022) Albañileria / Pintura 
     + Rep solado y cielorraso-Laboratorio 2

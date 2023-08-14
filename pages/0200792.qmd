@@ -23,6 +23,9 @@ subtitle: 'ESC. TEC. N° 16 ESPAÑA'
 *  (2023) Albañileria / Pintura 
     + Ejecucion 1  aula del Futuro
 
+*  (2023) Electricidad 
+    + Inst. alarma y cámara de seguridad
+
 *  (2022) Electricidad 
     + Ejecucion 1 aula secudario del futuro
 

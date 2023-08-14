@@ -7,8 +7,8 @@ subtitle: 'ESC. DE EDUC. MEDIA Nº 05 DE 19 E.REINGRESO'
 ## Infraestructura
 
 * Conexion de instalacion de gas (medidor y conexion)+ habilitacion y puesta en marcha sistema de calefaccion 
-    + Mejora Edilicia - Licitación 
-    + Inicio de obra: Sin fecha de inicio 
+    + Mejora Edilicia - En Obra 
+    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 días 
 
 
 
@@ -19,6 +19,9 @@ subtitle: 'ESC. DE EDUC. MEDIA Nº 05 DE 19 E.REINGRESO'
 
 *  (2023) Albañileria / Pintura 
     + 2 aulas del futuro - Primer Piso
+
+*  (2023) Electricidad 
+    + INSTALACION EN ESPACIOS SEGUROS
 
 *  (2022) Carpinterías 
     + Provisión y colocación de vidrios por va, Red antipalomas en PB y 1erPiso

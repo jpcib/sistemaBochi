@@ -8,7 +8,7 @@ subtitle: 'EPC N° 15 ARZOBISPO MARIANO A. ESPINOSA - JIN A (EPCJS 15/05°)'
 
 ## Mobiliario
 
-*  (2023) : Pizarrón 6 
+*  (2023) : Mesa inicial 4, Pizarrón 6, Silla escolar 25 
 
 *  (2022) : Escritorio 5, Mesa pupitre doble 48, Silla escolar 48 
 
@@ -17,6 +17,9 @@ subtitle: 'EPC N° 15 ARZOBISPO MARIANO A. ESPINOSA - JIN A (EPCJS 15/05°)'
 
 
 ## Mantenimiento
+
+*  (2023) Albañileria / Pintura 
+    + Reacondicionamiento de la dirección
 
 *  (2022) Albañileria / Pintura 
     + Colocacion  placas antihumedad -especifi

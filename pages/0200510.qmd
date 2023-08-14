@@ -7,8 +7,8 @@ subtitle: 'EPC N° 16 REPUBLICA DOMINICANA - JIN C (EPCJS 16/10°) - EPA N° 16 
 ## Infraestructura
 
 * Instalacion electrica completa 
-    + Mejora Edilicia - Licitación 
-    + Inicio de obra: 22/8/2023 
+    + Mejora Edilicia - En Obra 
+    + Inicio de obra: 22/8/2023 - Avance: 0% - Plazo: 150 días 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'EPC N° 16 REPUBLICA DOMINICANA - JIN C (EPCJS 16/10°) - EPA N° 16 
 
 
 ## Mantenimiento
+
+*  (2023) Albañileria / Pintura 
+    + Adecuacion patio exterior
 
 *  (2022) Albañileria / Pintura 
     + Reparacion de revoques por filtracion, Reparación revoques pintura de paredes, Reparacion de revoques, pintura de frizo

@@ -7,8 +7,8 @@ subtitle: 'EPC N° 07 DEL CENTENARIO - JIN C (EPCJC 07/02°)'
 ## Infraestructura
 
 * Acc. plena, pintura y adecuacion de instalacion electrica 
-    + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 14/11/2023 
+    + Mejora Edilicia - Licitación 
+    + Inicio de obra: 30/11/2023 
 
 
 
@@ -16,6 +16,12 @@ subtitle: 'EPC N° 07 DEL CENTENARIO - JIN C (EPCJC 07/02°)'
 
 
 ## Mantenimiento
+
+*  (2023) Gas 
+    + Readecuación de la instlación de gas
+
+*  (2023) Medios de elevación 
+    + Reparación del montasilla de ingreso
 
 *  (2023) Sanitarias 
     + Cambio del calefon a gas casa casera

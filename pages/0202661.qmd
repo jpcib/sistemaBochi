@@ -8,6 +8,9 @@ subtitle: 'JII N° 15/05°'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Baja Tensión
+
 *  (2022) Carpinterías 
     + Agregado Cerradura puerta lateral
 

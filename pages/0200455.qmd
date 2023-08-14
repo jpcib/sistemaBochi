@@ -20,6 +20,9 @@ subtitle: 'EPC N°16 CAP.DE FRAGATA CARLOS M.MOYANO - EPA N° 16 CAP.DE FRAGATA 
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + povisión de 12 protecciones de estufa
+
 *  (2022) Albañileria / Pintura 
     + Pintura de caja de escalera, Pintura de sum y sala de musica
 

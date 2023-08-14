@@ -16,8 +16,14 @@ subtitle: 'EPC N° 15 FRANCISCO NARCISO DE LAPRIDA - JIN B (EPCJS 15/03°) - CEN
 
 ## Mantenimiento
 
+*  (2022) Electricidad 
+    + Cortinas black out y ventiladores- Aulas
+
 *  (2022) Gas 
     + Adecuación de inst de gas a Normativa
+
+*  (2022) Incendio 
+    + Adecuación de IFCI
 
 *  (2021) Calefaccion y Refrigeracion 
     + Reemplazo de estufa, Reparacion  motor 7 ventiladores

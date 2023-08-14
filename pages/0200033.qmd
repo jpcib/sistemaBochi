@@ -18,6 +18,9 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA Nª 01'
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Puesta a normativa 2 calderas
+
 *  (2022) Electricidad 
     + 4 ventiladores de pared de 20" y 1 techo
 

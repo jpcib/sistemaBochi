@@ -24,7 +24,10 @@ subtitle: 'CENOF POLA - EPC N° 19 HERMANOS LATINOAMERICANOS - EEM N° 01/21° -
     + Realización de tabiques divisorios
 
 *  (2023) Electricidad 
-    + Cambio de ventilador en aula
+    + Colocacion de alarma y camaras, Reposicion ventilador y toma corriente, Reposición1 ventilador de techo aula, Cambio de ventilador en aula
+
+*  (2023) Medios de elevación 
+    + Puesta en marcha ascensor por vandalismo
 
 *  (2022) Albañileria / Pintura 
     + adecuacion aula sdf, Mamposteria de ladrillo

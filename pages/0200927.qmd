@@ -7,7 +7,7 @@ subtitle: 'EEM N° 02/20° - JM N° 05/20° (A) - CAIYJ CLUB MATADEROS - IFTS N�
 ## Infraestructura
 
 * Incorporacion de dos aulas de steel frame y nucleo sanitarios. Traslado de mastil. 
-    + CORP SUR - En Proyecto 
+    + CORP SUR - Licitación 
     + Inicio de obra: 01/07/2023 
 
 
@@ -18,13 +18,16 @@ subtitle: 'EEM N° 02/20° - JM N° 05/20° (A) - CAIYJ CLUB MATADEROS - IFTS N�
 ## Mantenimiento
 
 *  (2023) Electricidad 
-    + Colocación de luces de emergencia, Provision de 15 Ventiladores
+    + Colocación de luces de emergencia, Espacio digital y oficina de alumnos, Provision de 15 Ventiladores
 
 *  (2022) Albañileria / Pintura 
     + Prov. coloc. placa cielorraso, Ejecución de dos aula futuro para 5to
 
 *  (2022) Carpinterías 
     + Reemplazo de 4 puertas antipanico
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Reemplazo de Termotanque Electrico
 
 *  (2022) Gas 
     + Readecuar instalación de gas

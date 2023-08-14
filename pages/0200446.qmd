@@ -21,6 +21,9 @@ subtitle: 'EPC N° 07 MARCOS SASTRE - JIN A (EPCJC 07/09°)'
 *  (2023) Albañileria / Pintura 
     + Pintura de hall y comedor
 
+*  (2023) Gas 
+    + Adecuación del conducto de ventilación
+
 *  (2022) Albañileria / Pintura 
     + Enchapado de pared de sala tecnología, Colcacion de reja
 

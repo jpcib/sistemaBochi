@@ -20,14 +20,11 @@ subtitle: 'ENS N° 03 BERNARDINO RIVADAVIA (SEDE) - ENS N° 03 BERNARDINO RIVADA
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Adecuación de SDF 2023
+*  (2023) Carpinterías 
+    + Adecuación de SDF 2023, Prov y colocacion de ventanas en aulas
 
 *  (2023) Electricidad 
     + Reemplazo de ventiladores en aulas
-
-*  (2023) Otros Servicios 
-    + Prov y colocacion de ventanas en aulas
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Cambio de cubierta de chapa y cielorraso

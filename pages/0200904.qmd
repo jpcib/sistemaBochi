@@ -8,6 +8,9 @@ subtitle: 'EPC N° 07 ARISTOBULO DEL VALLE - JIN C (EPCJS 07/20°)'
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Colocacion de camaras, alarma( Apolo)
+
 *  (2022) Albañileria / Pintura 
     + Colocar redes plásticas y bandejas
 

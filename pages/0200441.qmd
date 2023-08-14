@@ -7,13 +7,8 @@ subtitle: 'JIC N° 03/09° LEOPOLDO MARECHAL - EPC N° 02 AUSTRALIA - IFTS N° 2
 ## Infraestructura
 
 * Instalacion electrica 
-    + Mejora Edilicia - Fracasado 
-    + Inicio de obra: 28/10/2023 
-
-
-* Instalacion electrica 
     + Mejora Edilicia - Licitación 
-    + Inicio de obra: 28/10/2023 
+    + Inicio de obra: 10/11/2023 
 
 
 
