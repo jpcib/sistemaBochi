@@ -89,7 +89,7 @@ add_project_section_v6 <- function(data, dir) {
         if (id_data$estado[j] == "En Obra") {
           project <- paste0("* ", id_data$intervenciones[j], " \n", 
                             "    + ", id_data$eje[j], " - ", id_data$estado[j], " \n",
-                            "    + ", "Inicio de obra: ", id_data$inicio_obra[j], " - ", "Avance: ", id_data$avance_de_obra[j], " - ", "Plazo: ", id_data$plazo_obra[j], " días", " \n\n")  
+                            "    + ", "Inicio de obra: ", id_data$inicio_obra[j], " - ", "Avance: ", id_data$avance_de_obra[j], " - ", "Fecha de finalización: ", id_data$fin_obra[j], " \n\n")  
         } else if (id_data$estado[j] == "Finalizado") {
           project <- paste0("* ", id_data$intervenciones[j], " \n", 
                             "    + ", id_data$eje[j], " - ", id_data$estado[j], " \n",
