@@ -21,7 +21,10 @@ subtitle: 'ESC. TEC. N° 03 MARIA SANCHEZ DE THOMPSON'
 ## Mantenimiento
 
 *  (2023) Electricidad 
-    + Insalación de seguridad, Reemplazar 8 artefactos iluminación led
+    + Insalación de seguridad, Reemplazar 8 artefactos iluminación led, Instalación de 4 enchufes trifásico
+
+*  (2023) Gas 
+    + Reacondicionar inst. de gas calefactor
 
 *  (2022) Electricidad 
     + Aulas del futuro

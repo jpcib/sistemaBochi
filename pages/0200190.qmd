@@ -7,8 +7,8 @@ subtitle: 'JIN C (EPCJC 28/04°) [S] - EPC N° 28 FRANCISCO PASCASIO MORENO - CA
 ## Infraestructura
 
 * Plan mejora de patio + adecuacion pisos de madera+ muro con humedades+ carpinteria +prov agua+  inst electrica + y pintura en areas significativas. Accesibilidad23 
-    + Mejora Edilicia - Planificado 
-    + Inicio de obra: 28/4/2024 
+    + Mejora Edilicia - En Proyecto 
+    + Inicio de obra: 31/5/2024 
 
 
 
@@ -16,6 +16,12 @@ subtitle: 'JIN C (EPCJC 28/04°) [S] - EPC N° 28 FRANCISCO PASCASIO MORENO - CA
 
 
 ## Mantenimiento
+
+*  (2023) Medios de elevación 
+    + Nueva rampa de acceso en hall escuela
+
+*  (2023) Sanitarias 
+    + Cambio cañería cloacal en baño varones
 
 *  (2022) Albañileria / Pintura 
     + Nuevas placas san francisco en S. Jardín

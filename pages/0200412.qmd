@@ -8,7 +8,7 @@ subtitle: 'JIN A (EPCJS 16/08°) - EPC N° 16 JOSE MARIA RAMOS MEJIA - CENOF CEN
 
 * Accesibilidad plena, sanitarios, freno de deterioro en fachada y puesta en valor de carpinterias, pintura, incendio (a definir) 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 12/2/2024 
+    + Inicio de obra: 13/2/2024 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'JIN A (EPCJS 16/08°) - EPC N° 16 JOSE MARIA RAMOS MEJIA - CENOF CEN
 
 
 ## Mantenimiento
+
+*  (2023) Calefaccion y Refrigeracion 
+    + Proveer y colocar dos caloventores
 
 *  (2023) Electricidad 
     + Reemplazar-reponer bomba quemada, Reponer ventiladores

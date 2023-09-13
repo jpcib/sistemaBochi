@@ -19,7 +19,7 @@ subtitle: 'Sup Adultos Region VI - JIN A (EPCJC 08/01°) - EPC N° 08 NICOLAS AV
 ## Mantenimiento
 
 *  (2023) Calefaccion y Refrigeracion 
-    + Reparacion integral sistema calefaccion
+    + Reparacion integral sistema calefaccion, Puesta en marcha de Sist de calefacción
 
 *  (2023) Electricidad 
     + Espacios seguros

@@ -4,11 +4,12 @@ subtitle: 'EPC N° 03 MONTE CASTRO - JINA(EPCJS03/18°)[S]LA CALESITA DON JOSE -
 ---
 
 #
+## Infraestructura
 
+* Cubierta, pintura, cielorrasos, revoques, electrica, calefaccion 
+    + Mejora Edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Banco largo comedor 11, Mesa pupitre doble 30, Mesa usos múltiples 17, Silla escolar 60 
 
 
 
@@ -36,6 +37,14 @@ subtitle: 'EPC N° 03 MONTE CASTRO - JINA(EPCJS03/18°)[S]LA CALESITA DON JOSE -
 
 *  (2021) Sanitarias 
     + 6 bajadas pluviales
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Banco largo comedor 11, Mesa pupitre doble 30, Mesa usos múltiples 17, Silla escolar 60 
 
 
 

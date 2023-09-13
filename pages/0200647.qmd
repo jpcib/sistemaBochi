@@ -8,7 +8,7 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 
 * 3er año 
     + SDF - En Obra 
-    + Inicio de obra: Sin fecha de inicio - Avance: 0% - Plazo: 60 días 
+    + Inicio de obra: Sin fecha de inicio - Avance: 90% - Plazo: 60 días 
 
 
 * Construcción de 4 aulas modulares en steel frame, adecuaciones en: vivienda casero, sala profesores y preceptores. 
@@ -22,11 +22,14 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Reparar sistema de calefacción
+
 *  (2023) Cubiertas / Impermeabilizaciones 
     + Impermeabilización de hall ingreso
 
 *  (2023) Electricidad 
-    + Instalar un sistema Alarma:, Prov.Coloc. luces de emergencia, Remplazo de ventiladores de pared.
+    + Prov.Coloc. luces de emergencia, Instalar un sistema Alarma:, Remplazo de ventiladores de pared.
 
 *  (2023) Medios de elevación 
     + Adecuacion de ascensor

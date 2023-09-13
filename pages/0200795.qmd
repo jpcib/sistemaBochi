@@ -21,7 +21,7 @@ subtitle: 'CBFO N° 02 SALVADOR MAZA - ESPACIO DE PRIMERA INFANCIA EEM Nº2 DE 1
     + Pintura contrafrente y patio, Pintura patio interior
 
 *  (2023) Electricidad 
-    + PROV Y COLOC LUCES EMERGENCIA
+    + PROV Y COLOC LUCES EMERGENCIA, Espacios seguros
 
 *  (2022) Electricidad 
     + Reemplazo de paneles led quemados
@@ -49,7 +49,7 @@ subtitle: 'CBFO N° 02 SALVADOR MAZA - ESPACIO DE PRIMERA INFANCIA EEM Nº2 DE 1
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
-*  (2022) : Banco largo comedor 8, Escritorio 3, Mesa pupitre doble 90, Mesa usos múltiples 4, Pizarrón 3, Silla escolar 93 
+*  (2022) : Banco largo comedor 8, Escritorio 3, Mesa pupitre doble 45, Mesa usos múltiples 4, Pizarrón 3, Silla escolar 93 
 
 *  (2021) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 3, Silla escolar 155 
 

@@ -20,6 +20,9 @@ subtitle: 'Sup Inicial III B - JII N° 04/02º'
 *  (2023) Albañileria / Pintura 
     + Demol cielorraso/puerta reja/Inst. 2 AA
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Adicional por conexionados de AA
+
 *  (2022) Gas 
     + Reemplazo de estufa TB de comedor
 

@@ -8,7 +8,7 @@ subtitle: 'EPC N° 19 GALICIA'
 
 * Demolicion completa de contruccion en patio y trabajos de retiro de asbesto, accesibilidad  basica, cambio de carpinterias y cubierta  de galeria y paso que da al patio, nuevo nucleo sanitario en donde funcionaba la sala de maestro y sanitario adjunto. Demolicion de sanitarios en sum. Demolicion de parrilla y armado de lugar para gimnacio.  puesta en valor de sanitarios existentes y sala de auxiliares. Instalacion sanitaria (cambio de tanque bombeo) y adecuacion de instalacion electrica. Refuncionalizar casa del casero: cambio de cielorraso, puesta en valor del santario, cambio de carpinterias. Completamiento de medianera y arreglo de muro existente. 
     + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 21/12/2023 
+    + Inicio de obra: 13/01/2024 
 
 
 
@@ -19,6 +19,9 @@ subtitle: 'EPC N° 19 GALICIA'
 
 *  (2023) Carpinterías 
     + Adecuación instalación gas
+
+*  (2023) Gas 
+    + Cajones de Durlock
 
 *  (2022) Cubiertas / Impermeabilizaciones 
     + Cambio de cubierta  desagües pluviales

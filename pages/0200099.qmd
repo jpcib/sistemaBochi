@@ -17,6 +17,9 @@ subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI L
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Bombas de sistema de calefacción
+
 *  (2023) Electricidad 
     + Espacios seguros Inst. alarmas y sensore
 

@@ -8,7 +8,7 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 
 * 2do año 
     + SDF - Finalizado 
-    + Finalizada el Esperando corrección de fecha 
+    + Finalizada el - 
 
 
 
@@ -19,6 +19,9 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 
 *  (2023) Gas 
     + Adecuación de instalación de gas
+
+*  (2023) Medios de elevación 
+    + Reparación de plataforma elevadora
 
 *  (2022) Medios de elevación 
     + reparacion ascensor
@@ -57,7 +60,7 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 
 *  (2022) : Armario 20, Escritorio 8, Mesa pupitre doble 120, Pizarrón 10, Silla escolar 248 
 
-*  (2021) : Armario 4, Escritorio 4, Mesa pupitre doble 90, Pizarrón 4, Silla escolar 60 
+*  (2021) : Armario 4, Escritorio 4, Mesa pupitre doble 90, Pizarrón 4, Silla escolar 184 
 
 
 

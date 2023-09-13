@@ -8,7 +8,7 @@ subtitle: 'Esc. de Teatro Niní Marschall'
 
 * 3er año 
     + SDF - Finalizado 
-    + Finalizada el Esperando corrección de fecha 
+    + Finalizada el - 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'Esc. de Teatro Niní Marschall'
 
 
 ## Mantenimiento
+
+*  (2023) Calefaccion y Refrigeracion 
+    + Reparación y limpieza de calderas 1-2-3
 
 *  (2022) Albañileria / Pintura 
     + Secundaria del futuro
@@ -34,9 +37,7 @@ subtitle: 'Esc. de Teatro Niní Marschall'
 
 *  (2023) : Escritorio 2, Locker 20, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
-*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 178 
-
-*  (2021) : Pizarrón 4 
+*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 

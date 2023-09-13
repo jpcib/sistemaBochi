@@ -8,7 +8,7 @@ subtitle: 'EPC N° 22 FELIX DE AZARA'
 
 * Sanitarios, revoques, patios y pintura. 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 22/06/2023 - Avance: 53% - Plazo: 180 días 
+    + Inicio de obra: 22/06/2023 - Avance: 68% - Plazo: 180 días 
 
 
 
@@ -40,6 +40,8 @@ subtitle: 'EPC N° 22 FELIX DE AZARA'
 
 
 ## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa integradora con escotadura 1, Mesa pupitre doble 44, Pizarrón 6, Silla escolar 92 
 
 *  (2021) : Banco largo comedor 8, Mesa usos múltiples 4 
 

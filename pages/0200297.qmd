@@ -8,6 +8,9 @@ subtitle: 'EPC N° 04 SALVADOR MARIA DEL CARRIL - JIN B (EPCJS 04/06°) MAESTRO 
 
 ## Mantenimiento
 
+*  (2023) Carpinterías 
+    + Rampa de acceso en madera
+
 *  (2023) Electricidad 
     + Provisión y colocacion de ventiladores
 

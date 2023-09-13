@@ -29,7 +29,7 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
     + Prov.Coloc. rejas en puertas a patio
 
 *  (2023) Electricidad 
-    + Instalación de espacio seguro
+    + Instalación de espacio seguro, Reparar portero eléct/timbre de ingreso
 
 *  (2022) Gas 
     + Reacondicionamiento de gas, Adicional de gas
@@ -48,7 +48,7 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
 
 *  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
-*  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4 
+*  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 

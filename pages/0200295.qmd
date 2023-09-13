@@ -17,6 +17,9 @@ subtitle: 'EPC N° 02 JOSE MARIA GUTIERREZ'
 
 ## Mantenimiento
 
+*  (2023) Incendio 
+    + Adecuación sala bombas incendio
+
 *  (2022) Albañileria / Pintura 
     + Reparar molduras y pintura de fachada
 
@@ -31,14 +34,6 @@ subtitle: 'EPC N° 02 JOSE MARIA GUTIERREZ'
 
 *  (2021) Medios de elevación 
     + Reparación montasillas por roturas Vanda
-
-
-
-
-
-## Mobiliario
-
-*  (2022) : Silla escolar 12 
 
 
 

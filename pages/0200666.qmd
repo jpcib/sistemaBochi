@@ -17,6 +17,9 @@ subtitle: 'EPC N° 13 PROVINCIA DEL NEUQUEN - JII N° 06/14°'
 
 ## Mantenimiento
 
+*  (2023) Medios de elevación 
+    + Colocar rampa móvil para acceso
+
 *  (2023) Sanitarias 
     + Prov. Coloc termotanque electrico
 

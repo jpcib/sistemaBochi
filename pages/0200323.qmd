@@ -20,6 +20,9 @@ subtitle: 'ESC. TEC. N° 29 RECONQUISTA DE BUENOS AIRES'
 
 ## Mantenimiento
 
+*  (2023) Carpinterías 
+    + Cambio de cerradura en puerta de acceso
+
 *  (2023) Electricidad 
     + Espacios seguros, Reemplazo de 3 ventiladores
 

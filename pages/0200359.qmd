@@ -8,7 +8,7 @@ subtitle: 'EPC N° 08 PROVINCIA DE SAN JUAN - JIC N° 04/07° - ESC. DE MUSICA N
 
 ## Mobiliario
 
-*  (2022) : Escritorio 1, Juego de patio 1, Mesa inicial 10, Piso antigolpe para juegos 36, Silla escolar 60 
+*  (2022) : Escritorio 1, Juego de patio 1, Mesa inicial 10, Piso antigolpe para juegos 36, Silla escolar 61 
 
 *  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
@@ -17,6 +17,9 @@ subtitle: 'EPC N° 08 PROVINCIA DE SAN JUAN - JIC N° 04/07° - ESC. DE MUSICA N
 
 
 ## Mantenimiento
+
+*  (2023) Medios de elevación 
+    + Reparación de Ascensor
 
 *  (2022) Electricidad 
     + Conexión de 3 ventiladores en gimnasio S

@@ -8,7 +8,7 @@ subtitle: 'EPC N° 04 BENJAMIN ZORRILLA - JIC N° 02/11°'
 
 * Ejecución ampliación y remodelación jic (tal como esta previsto en el proyecto). Ejecución de solados patios descubiertos los que deberían incluir el sector que hoy se encuentra con terreno absorbente, desnivelado y con cascotes. Construcción de un semicubierto para utilizar como gimnasio. Trabajos en muros perimetrales ya que al ser terreno de relleno se producen desplazamientos constantemente, sumado a la rotura de llos mismo por los arboles. Idem rejas perimetrales. Pintura de herrerías (parasoles, protecciones y carpinterías de chapa y hierro ángulo). Puesta en marcha sistema de ventilación (posee los conductos pero solo funciona la calefacción, al ser muy vidriado el edificio los espacios comunes se transforman en grandes hornos, y las aulas poseen poca ventilación al ser de apertura de proyección) 
     + Mejora Edilicia - Planificado 
-    + Inicio de obra: 29/8/2024 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 
@@ -34,6 +34,14 @@ subtitle: 'EPC N° 04 BENJAMIN ZORRILLA - JIC N° 02/11°'
 
 *  (2021) Medios de elevación 
     + puesta en norma del ascensor
+
+
+
+
+
+## Mobiliario
+
+*  (2021) : Pizarrón 2 
 
 
 

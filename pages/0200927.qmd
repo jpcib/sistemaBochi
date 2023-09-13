@@ -20,6 +20,9 @@ subtitle: 'EEM N째 02/20째 - JM N째 05/20째 (A) - CAIYJ CLUB MATADEROS - IFTS N�
 *  (2023) Electricidad 
     + Colocaci처n de luces de emergencia, Espacio digital y oficina de alumnos, Provision de 15 Ventiladores
 
+*  (2023) Gas 
+    + reemplazo de regulador de gas
+
 *  (2022) Alba챰ileria / Pintura 
     + Prov. coloc. placa cielorraso, Ejecuci처n de dos aula futuro para 5to
 
@@ -61,9 +64,9 @@ subtitle: 'EEM N째 02/20째 - JM N째 05/20째 (A) - CAIYJ CLUB MATADEROS - IFTS N�
 
 *  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarr처n 2, Silla escolar 62 
 
-*  (2022) : Escritorio 2, Mesa inicial 22, Mesa integradora con escotadura 7, Mesa pupitre doble 30, Pizarr처n 24, Silla escolar 62 
+*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarr처n 2, Silla escolar 62 
 
-*  (2021) : Escritorio 3, Mesa pupitre doble 45, Mesa usos m첬ltiples 22, Pizarr처n 3, Silla escolar 93 
+*  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarr처n 3, Silla escolar 93 
 
 
 

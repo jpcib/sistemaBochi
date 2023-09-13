@@ -12,8 +12,8 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 
 
 * 2do año 
-    + SDF - En Obra 
-    + Inicio de obra: 06/02/2023 - Avance: 90% - Plazo: 60 días 
+    + SDF - Finalizado 
+    + Finalizada el - 
 
 
 
@@ -22,11 +22,14 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Puesta a noramtiva de calderas
+
 *  (2023) Carpinterías 
     + Prov,coloc 3 puertas reja acceso aulas
 
 *  (2023) Electricidad 
-    + Reemplazo de 19 ventiladores de pared, Realizar circuito independiente de tomas, Instalacion electrica en sala de tanques, Colocacion de 11 ventiladores de techo
+    + Realizar circuito independiente de tomas, Reemplazo de 19 ventiladores de pared, Instalacion electrica en sala de tanques, Colocacion de 11 ventiladores de techo
 
 *  (2023) Incendio 
     + Reemplazo de componentes de ascensor

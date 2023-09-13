@@ -8,7 +8,7 @@ subtitle: 'CAIYJ BARRACAS - PI ESPACIO BARRACAS - ESC. DE COM.  Nº 01 DE 04 JOA
 
 * 2do año 
     + SDF - Finalizado 
-    + Finalizada el Esperando corrección de fecha 
+    + Finalizada el - 
 
 
 
@@ -19,6 +19,9 @@ subtitle: 'CAIYJ BARRACAS - PI ESPACIO BARRACAS - ESC. DE COM.  Nº 01 DE 04 JOA
 
 *  (2023) Electricidad 
     + Instalación de espacios seguro
+
+*  (2023) Incendio 
+    + Provisión/Colocación 12 extintores
 
 *  (2021) Saneamiento 
     + Cambio de tapas de tanques

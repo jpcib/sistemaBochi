@@ -25,10 +25,10 @@ subtitle: 'ESC. DE COM. N° 30 DR. ESTEBAN AGUSTIN GASCON'
     + Reemplazo de caldera y adecuación de SM
 
 *  (2023) Electricidad 
-    + Cambio de artefactos electrico, Adecuación electrica en preceptoria PB/P
+    + Adecuación electrica en preceptoria PB/P, Cambio de artefactos electrico
 
 *  (2023) Sanitarias 
-    + Retiro de tanque de reserva, Colocación de tanque de reserva
+    + Colocación de tanque de reserva, Retiro de tanque de reserva
 
 *  (2022) Albañileria / Pintura 
     + Rep solado y cielorraso-Laboratorio 2

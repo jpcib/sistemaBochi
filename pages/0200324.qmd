@@ -8,7 +8,7 @@ subtitle: 'ENS N°02 EN LENGUAS VIVAS MARIANO ACOSTA - IES MARIANO ACOSTA - ESEA
 
 ## Mobiliario
 
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+*  (2023) : Armario 6, Escritorio 5, Mesa inicial 9, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 147 
 
 *  (2022) : Armario 4, Escritorio 6, Mesa usos múltiples 1 
 
@@ -28,6 +28,9 @@ subtitle: 'ENS N°02 EN LENGUAS VIVAS MARIANO ACOSTA - IES MARIANO ACOSTA - ESEA
 
 *  (2023) Gas 
     + Puesta a normativa de gas
+
+*  (2023) Medios de elevación 
+    + Prov e inst de contactora en ascensor
 
 *  (2022) Calefaccion y Refrigeracion 
     + Acondicionar sistema de caldera, Instalación de placas calefactoras

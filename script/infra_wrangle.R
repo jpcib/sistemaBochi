@@ -10,8 +10,9 @@ gop_raw <-
   googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1Q1p_3pHECh8xOPOUeZj1bQV8dW7Ch1uJhk7-HFm3fRE/edit?usp=sharing",
                             sheet = "Planificación 2022-23", col_types = "c") %>% 
   janitor::clean_names() %>%
+  # glimpse()
   #selecciono columnas para ME
-  select(n_proyecto, direccion = proyecto, cui, estado_actual, estado_a_fin_de_obra, intervenciones,
+  select(n_proyecto, direccion = nivel_7, cui, estado_actual, estado_a_fin_de_obra, intervenciones,
          presupuesto_estimado = ppto_estimado_plani, presupuesto_final = ppto_oficial, 
          estado, subestado, fuente, 
          pase_dgar = contains("dgar"), inicio_obra = contains("inicio_obra"), plazo_obra, ampliacion_de_plazo, 
@@ -30,7 +31,7 @@ plani_clean <- gop_raw %>%
          intervenciones = str_to_sentence(intervenciones)) %>% 
   #saco obras relicitadas para quedarnos con el ultimo estado. 
   #Podemos ver de dejarlo como una anotacion luego. 
-  filter(subestado %ni% c("fracaso / pase f11", "fracaso r", "f14 - fracaso - r")) %>% #filtro (descarto) los fracasos que ya se relanzaron
+  filter(subestado %ni% c("fracaso / pase f11", "fracaso r", "f14 - fracaso - r", "f14 - caf - fracaso - r")) %>% #filtro (descarto) los fracasos que ya se relanzaron
   #saco obras con problemas en el cui
   drop_na(cui) %>%
   # filter(cui %ni% c("-","0000000","00000GG")) %>%  
@@ -41,12 +42,11 @@ plani_clean <- gop_raw %>%
   
   mutate(cui = str_pad(cui, 7, "left", "0")) %>% 
   filter(estado != "Baja") %>% 
-  mutate(inicio_obra = case_match(n_proyecto,
-                                  "x048" ~ "01/07/2023 - rescindido", 
-                                  .default = inicio_obra), 
-         fin_obra = case_when(is.na(fin_obra) ~ " - ",
+  mutate(fin_obra = case_when(is.na(fin_obra) ~ " - ",
                               fin_obra == "-" ~ " - ",
-                              T ~ fin_obra)) %>%
+                              T ~ fin_obra),
+         fin_obra = case_when(n_proyecto == "x043" ~ "PARA RESCINDIR",
+                        T ~ fin_obra)) %>% 
   glimpse()
 
 DataExplorer::profile_missing(plani_clean)
@@ -59,4 +59,4 @@ DataExplorer::profile_missing(plani_clean)
 
 #OJO
 #
-write_csv(plani_clean, "data/infra_gop_14-08.csv")
+write_csv(plani_clean, "data/infra_gop_13-09.csv")

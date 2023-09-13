@@ -20,6 +20,9 @@ subtitle: 'EPC N° 22 PROVINCIA DE SANTA CRUZ - EPA N° 22 PROVINCIA DE SANTA CR
 *  (2023) Albañileria / Pintura 
     + Pintura de fachada
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Cambio termotanque de casero
+
 *  (2022) Albañileria / Pintura 
     + Pintura completa de aula de musica
 
@@ -38,7 +41,9 @@ subtitle: 'EPC N° 22 PROVINCIA DE SANTA CRUZ - EPA N° 22 PROVINCIA DE SANTA CR
 
 ## Mobiliario
 
-*  (2022) : Banco largo comedor 52, Escritorio 3, Mesa pupitre doble 53, Mesa usos múltiples 25, Silla escolar 114 
+*  (2023) : Escritorio 13, Mesa inicial 3, Mesa pupitre doble 38, Pizarrón 16, Silla escolar 76 
+
+*  (2022) : Banco largo comedor 52, Escritorio 3, Mesa pupitre doble 53, Mesa usos múltiples 25, Silla escolar 132 
 
 
 

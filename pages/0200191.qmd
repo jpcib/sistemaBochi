@@ -8,7 +8,7 @@ subtitle: 'CENS N° 45 - EPA N° 29 MANUEL BELGRANO'
 
 * NA 
     + Mejora Edilicia - Finalizado 
-    + Finalizada el Esperando corrección de fecha 
+    + Finalizada el - 
 
 
 
@@ -16,6 +16,9 @@ subtitle: 'CENS N° 45 - EPA N° 29 MANUEL BELGRANO'
 
 
 ## Mantenimiento
+
+*  (2023) Calefaccion y Refrigeracion 
+    + Instalación 2 estufas nuevas
 
 *  (2023) Electricidad 
     + Insonorizacion campana

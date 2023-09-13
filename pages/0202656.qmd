@@ -20,7 +20,7 @@ subtitle: 'EPC N° 11 DE 21'
     + cambio de cableado de datos equipos AA
 
 *  (2023) Electricidad 
-    + Prov y coloc de 4 ventiladores, Reemplazo de artefactos de luminarias
+    + Reemplazo de artefactos de luminarias, Prov y coloc de 4 ventiladores
 
 *  (2022) Albañileria / Pintura 
     + Cambio de placas de cielorraso-Aulas 3P

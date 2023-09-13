@@ -6,9 +6,9 @@ subtitle: 'Sup Media Region VIII A Sup Media Tecnica Region VIII - ESC. TEC. N°
 #
 ## Infraestructura
 
-* NA 
-    + Obra Nueva - En Proyecto 
-    + Inicio de obra: 18/12/0203 
+* Itsf, acondicionamiento de taller en estudio de grabacion 
+    + Obra Nueva - Licitación 
+    + Inicio de obra: 26/12/2023 
 
 
 
@@ -46,7 +46,7 @@ subtitle: 'Sup Media Region VIII A Sup Media Tecnica Region VIII - ESC. TEC. N°
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 145 
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Mesa trabajo estante 4, Pizarrón 4, Silla escolar 124, Varios 8 
 

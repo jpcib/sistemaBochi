@@ -8,6 +8,8 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
 
 ## Mobiliario
 
+*  (2023) : Piso antigolpe para juegos 60 
+
 *  (2021) : Banco largo comedor 14, Mesa usos múltiples 7 
 
 
@@ -17,7 +19,7 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Pintura de circulaciones, Pintura de aulas y pasillos, Modificación de baños, Puesta a punto del edificio, Pintura interior de aulas, Mantenimiento equipo BMS, Reemplazo paneles vinilicos vandalizados
+    + Pintura de circulaciones, Pintura de aulas y pasillos, Modificación de baños, Puesta a punto del edificio, Pintura interior de aulas, Reemplazo paneles vinilicos vandalizados, Mantenimiento equipo BMS
 
 *  (2023) Calefaccion y Refrigeracion 
     + Reparación de equipo vrv
@@ -26,7 +28,7 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
     + reparación de carpinterias de aluminio, Colocación de red antipalomas
 
 *  (2023) Electricidad 
-    + Mantención del equipo BMS, Reparación del sistema de ventilación, Reparación del sistema de datos, Colocación de paneles LED
+    + Reparación del sistema de ventilación, Reparación del sistema de datos, Mantención del equipo BMS, Colocación de paneles LED
 
 *  (2023) Sanitarias 
     + Colocación de válvula interceptora, Reemplazo de bombas de circulacion

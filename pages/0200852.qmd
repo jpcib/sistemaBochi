@@ -16,6 +16,9 @@ subtitle: 'CENS N° 77 - JIN A (EPCJS 09/19°) [S] - EPC N° 09 DR. JOSE BENJAMI
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Remplazo de equipo de aire acondicionado
+
 *  (2023) Electricidad 
     + Cambio de 1 ventilador en techo
 

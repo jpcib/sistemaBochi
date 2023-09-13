@@ -23,6 +23,9 @@ subtitle: 'ESC. TEC. N° 04 REPUBLICA DEL LIBANO'
 *  (2023) Albañileria / Pintura 
     + Freno deterioro
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Reemplazo estufa/reposición 1 matafuegos
+
 *  (2023) Carpinterías 
     + Cerraduras
 

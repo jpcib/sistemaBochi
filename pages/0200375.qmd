@@ -12,7 +12,10 @@ subtitle: 'EPC N° 25 REPUBLICA DE GUATEMALA'
     + Inst. aires acondicionado
 
 *  (2023) Gas 
-    + Adecuación instalación de gas
+    + Adecuación instalación de gas, Cajones de Durlock
+
+*  (2023) Medios de elevación 
+    + Rampa móvil
 
 *  (2021) Electricidad 
     + Instalacion 6 equipos purificadores

@@ -17,6 +17,9 @@ subtitle: 'JIC N° 03/09° LEOPOLDO MARECHAL - EPC N° 02 AUSTRALIA - IFTS N° 2
 
 ## Mantenimiento
 
+*  (2023) Electricidad 
+    + Cambiar cables de tablero ppal
+
 *  (2023) Incendio 
     + Colocación de hidrante en 1er piso
 

@@ -8,6 +8,9 @@ subtitle: 'CENS N° 19 - EPC N° 24 VIRGEN GENERALA - JINB(EPCJC 24/07°)LA VELE
 
 ## Mantenimiento
 
+*  (2023) Gas 
+    + Reparaciones de inst de gas
+
 *  (2023) Sanitarias 
     + Reemplazo termotanque eléctrico
 

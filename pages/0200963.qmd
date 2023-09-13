@@ -8,7 +8,7 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 
 * 2do año 
     + SDF - Finalizado 
-    + Finalizada el Esperando corrección de fecha 
+    + Finalizada el - 
 
 
 
@@ -43,7 +43,7 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 
 *  (2023) : Escritorio 6, Mesa pupitre doble 90, Silla escolar 186 
 
-*  (2022) : Mesa pupitre doble 90 
+*  (2022) : Escritorio 7, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 216 
 
 
 

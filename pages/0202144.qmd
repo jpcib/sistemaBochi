@@ -16,6 +16,9 @@ subtitle: 'EPC N° 21 HIPOLITO VIEYTES - CENS N° 60'
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Puesta en valor de Sala de Máquinas PB
+
 *  (2023) Electricidad 
     + Instalación en espacios seguros
 

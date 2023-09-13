@@ -6,7 +6,18 @@ subtitle: 'EPC N° 11 FRAY LUIS BELTRAN - JIN A (EPCJC 11/15°)'
 #
 
 
+## Mobiliario
+
+*  (2021) : Mesa usos múltiples 6 
+
+
+
+
+
 ## Mantenimiento
+
+*  (2023) Medios de elevación 
+    + Reparación de plataforma elevadora
 
 *  (2021) Calefaccion y Refrigeracion 
     + Reemplazo estufas y adaptación tirajes

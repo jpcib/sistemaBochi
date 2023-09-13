@@ -17,13 +17,13 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
 
 
 * Construccion de sala de tableros para edesur 
-    + Mejora Edilicia - Fracasado 
-    + Inicio de obra: Sin fecha de inicio 
+    + Mejora Edilicia - Licitación 
+    + Inicio de obra: 15/11/2023 
 
 
 * Construccion de sala de tableros para edesur 
-    + Mejora Edilicia - Licitación 
-    + Inicio de obra: 15/11/2023 
+    + Mejora Edilicia - Fracasado 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 
@@ -61,7 +61,7 @@ subtitle: 'ESEA DANZA N° 02 JORGE DONN - ESEA ARTE CERAMICO Nª 2 FERNANDO ARRA
 
 *  (2023) : Escritorio 7, Locker 20, Mesa pupitre doble 105, Pizarrón 7, Silla escolar 217 
 
-*  (2022) : Escritorio 7, Mesa pupitre doble 105, Pizarrón 7, Silla escolar 93 
+*  (2022) : Escritorio 7, Mesa pupitre doble 105, Pizarrón 7, Silla escolar 217 
 
 *  (2021) : Escritorio 4, Mesa pupitre doble 50, Silla escolar 104 
 

@@ -21,6 +21,9 @@ subtitle: 'ESCUELA INF. N° 05/19° SAN LORENZO DE ALMAGRO'
 *  (2023) Calefaccion y Refrigeracion 
     + Colocacion de equipo de aire
 
+*  (2023) Cubiertas / Impermeabilizaciones 
+    + IMPERMEABILIZACION DE AZOTEA
+
 *  (2023) Electricidad 
     + Remplazo de ventiladores
 

@@ -19,6 +19,9 @@ subtitle: 'CENS N° 15 - EPC N° 18 DR. ANTONIO BERMEJO'
 *  (2023) Electricidad 
     + Provisión y colocacion de ventiladores
 
+*  (2023) Sanitarias 
+    + Proveer y colocar inodoro B° Varones
+
 *  (2022) Incendio 
     + Provisión de 1 matafuego ABC 5 kg
 

@@ -8,7 +8,7 @@ subtitle: 'ENS N° 06 VICENTE LOPEZ Y PLANES'
 
 * Plan mejora edif historica adecuacion  inst electrica , gas-calefaccion patio , cubierta , reparacion revoques y pintura en areas significativas 
     + Mejora Edilicia - Planificado 
-    + Inicio de obra: 5/1/2025 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 
@@ -48,7 +48,7 @@ subtitle: 'ENS N° 06 VICENTE LOPEZ Y PLANES'
 
 *  (2022) : Armario 6, Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
-*  (2021) : Armario 3, Escritorio 4, Mesa pupitre doble 60, Pizarrón 5 
+*  (2021) : Armario 3, Escritorio 4, Mesa pupitre doble 60, Pizarrón 5, Silla escolar 124 
 
 
 

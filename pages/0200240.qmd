@@ -16,6 +16,9 @@ subtitle: 'JIN B (EPCJC 18/05°) - EPC N° 18 JUAN ENRIQUE PESTALOZZI - ESEA DAN
 
 ## Mantenimiento
 
+*  (2023) Medios de elevación 
+    + Cargador para el montasiilas
+
 *  (2022) Calefaccion y Refrigeracion 
     + Prov. coloc. 2  estufas
 

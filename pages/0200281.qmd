@@ -19,13 +19,13 @@ subtitle: 'Casa de la Cultura - CAEBYT N° 47 - EEM N° 06/05° - EPC N° 12 HOR
 ## Mantenimiento
 
 *  (2023) Cubiertas / Impermeabilizaciones 
-    + Trabajos a Reparación de Cubierta, Trabajos a Realizar Reparación de Cubier
+    + Trabajos a Realizar Reparación de Cubier, Trabajos a Reparación de Cubierta
 
 *  (2023) Electricidad 
     + 3 Aulas Secundaria del Futuro, Espacio Seguro, Espacio Seguro
 
 *  (2023) Sanitarias 
-    + Realizar nueva red cloacal hasta cámara, Descubrir cámara cloacal oculta y otros.
+    + Descubrir cámara cloacal oculta y otros., Realizar nueva red cloacal hasta cámara
 
 *  (2022) Albañileria / Pintura 
     + Retiro del piso de Porcelanato

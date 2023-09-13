@@ -12,13 +12,16 @@ subtitle: 'Sup Inicial I C - EPC N° 05 AGUSTIN ALVAREZ - JII N° 01/03° - ESEA
 
 *  (2022) : Mesa pupitre doble 41, Silla escolar 82 
 
-*  (2021) : Armario 4, Banco largo comedor 96, Escritorio 4, Mesa inicial 6, Mesa pupitre doble 60, Mesa usos múltiples 48, Silla escolar 36 
+*  (2021) : Armario 4, Banco largo comedor 96, Escritorio 4, Mesa inicial 6, Mesa pupitre doble 60, Mesa usos múltiples 48, Silla escolar 160 
 
 
 
 
 
 ## Mantenimiento
+
+*  (2023) Carpinterías 
+    + Puerta reja sobre LM
 
 *  (2023) Electricidad 
     + Reemplazo de portero eléctrico

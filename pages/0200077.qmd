@@ -8,7 +8,7 @@ subtitle: 'EPC N° 03 MANUEL SOLA - JIN C (EPCJS 03/02°) - CENOF CENTRO LAMBARE
 
 * Plan mejora en   adecuacion   inst electrica, cielorraso  , patio , muros ,carpinteria, cubierta  y  pintura en areas significativas 
     + Mejora Edilicia - Planificado 
-    + Inicio de obra: 26/1/2025 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 
@@ -32,7 +32,7 @@ subtitle: 'EPC N° 03 MANUEL SOLA - JIN C (EPCJS 03/02°) - CENOF CENTRO LAMBARE
 
 ## Mobiliario
 
-*  (2022) : Escritorio 4, Mesa pupitre doble 45, Silla escolar 93 
+*  (2022) : Escritorio 4, Mesa pupitre doble 45, Pizarrón 14, Silla escolar 93 
 
 
 

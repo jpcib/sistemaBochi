@@ -12,7 +12,7 @@ subtitle: 'JIC N° 04/05° SEDE - EPC N° 14 PROVINCIA DE SAN LUIS'
 
 *  (2022) : Mesa inicial 10, Pizarrón 4, Silla escolar 60 
 
-*  (2021) : Armario 28, Mesa pupitre doble 90, Silla escolar 180 
+*  (2021) : Armario 28, Escritorio 14, Mesa pupitre doble 90, Silla escolar 194 
 
 
 
@@ -24,7 +24,7 @@ subtitle: 'JIC N° 04/05° SEDE - EPC N° 14 PROVINCIA DE SAN LUIS'
     + Reposición de paneles de Cielorraso, Reposición de percheros faltantes
 
 *  (2023) Electricidad 
-    + Gestión y Alquiler de GEM, Espacios seguros, Adecuacion de gas
+    + Gestión y Alquiler de GEM, Espacios seguros, Adecuacion de gas, Baja Tensión
 
 *  (2023) Sanitarias 
     + Reemplazo de bombas,adecuacion tablero

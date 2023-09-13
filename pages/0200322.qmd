@@ -8,7 +8,7 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
 
 * Sanitarios. (Fondos inet) 
     + Mejora Edilicia - En Obra 
-    + Inicio de obra: 29/3/2023 - Avance: 55% - Plazo: 120 días 
+    + Inicio de obra: 29/3/2023 - Avance: 77% - Plazo: 120 días 
 
 
 
@@ -30,7 +30,7 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
     + 2DA ETAPA-Adecuacion de inst de gas, Ejecución Espacios Seguros
 
 *  (2023) Gas 
-    + Adecuacion de gas en el edificio, Carpinterás - Placas antihumeddad
+    + Carpinterás - Placas antihumeddad, Adecuacion de gas en el edificio
 
 *  (2022) Calefaccion y Refrigeracion 
     + Provisión y colocac. equipos frio/calor
