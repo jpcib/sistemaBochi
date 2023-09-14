@@ -4,7 +4,7 @@ title: "Últimas entregas de mobiliario"
 
 <!-- data/consolidado_entregas_08-08-23.csv -->
 
-*Última actualización:* 08-09-23
+*Última actualización:* 13-09-23
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ invisible(lapply(packages, library, character.only = TRUE))
 ```
 
 ```{r read, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-base_entregas <- read_csv("data/tabla_entregas_08-09-23.csv") %>% 
+base_entregas <- read_csv("data/tabla_entregas_13-09-23.csv") %>% 
   # select(cue,establecimiento,direccion,muebles,cantidad)
   glimpse()
 
