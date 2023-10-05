@@ -6,6 +6,15 @@ subtitle: 'JII Nº 03/15º'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Varios 30 

@@ -55,3 +55,12 @@ subtitle: 'EEM N° 02/13°'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+

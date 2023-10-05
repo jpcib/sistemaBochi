@@ -60,3 +60,12 @@ Reinstalación de cañerías de gas exteriores en el interior del edificio.
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+

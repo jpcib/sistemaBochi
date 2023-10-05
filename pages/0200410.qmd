@@ -6,6 +6,15 @@ subtitle: 'EPA N° 14 JOAQUIN VICTOR GONZALEZ - EPC N° 14 JOAQUIN VICTOR GONZAL
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Pizarrón 11 

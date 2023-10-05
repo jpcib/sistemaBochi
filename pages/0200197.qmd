@@ -54,3 +54,12 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+

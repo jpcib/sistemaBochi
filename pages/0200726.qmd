@@ -6,6 +6,15 @@ subtitle: 'COLEGIO N° 16 GUILLERMO RAWSON - COLEGIO N° 12 RECONQUISTA - LICEO 
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 

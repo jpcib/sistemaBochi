@@ -6,6 +6,15 @@ subtitle: 'EPC N° 11 DE 21'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Banco largo comedor 10, Mesa usos múltiples 5 

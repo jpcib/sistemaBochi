@@ -6,6 +6,15 @@ subtitle: 'ESCUELA INF. N° 03/04°'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Carpinterías 

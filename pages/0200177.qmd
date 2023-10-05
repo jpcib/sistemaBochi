@@ -45,3 +45,12 @@ subtitle: 'Sup Inicial II A - EPC N° 08 CARLOS DELLA PENNA - JIC N° 02/04° CA
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+

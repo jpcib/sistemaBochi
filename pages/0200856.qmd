@@ -45,3 +45,12 @@ subtitle: 'EPC N° 13 PRESBITERO ALBERTI - JIC N° 02/19°'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+

@@ -6,6 +6,15 @@ subtitle: 'JIN B (EPCJC 18/05°) - EPC N° 18 JUAN ENRIQUE PESTALOZZI - ESEA DAN
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Mesa inicial 5, Silla escolar 30 

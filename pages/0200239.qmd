@@ -6,6 +6,15 @@ subtitle: 'EPC N° 17 PEDRO MELITON LEDESMA - EPA N° 17 PEDRO MELITON LEDESMA'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 9, Silla escolar 62 

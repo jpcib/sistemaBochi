@@ -6,6 +6,15 @@ subtitle: 'JII Nº 05 DE 14 - Polideportivo EEM N° 01/14°'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: SI
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 

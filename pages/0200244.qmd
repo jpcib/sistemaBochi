@@ -35,3 +35,12 @@ subtitle: 'EPC N° 24 CONTRALMIRANTE MARTIN GUERRICO'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+

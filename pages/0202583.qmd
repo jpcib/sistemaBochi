@@ -6,6 +6,15 @@ subtitle: 'EPC N° 24'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Armario 9, Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 

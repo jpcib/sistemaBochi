@@ -6,6 +6,15 @@ subtitle: 'Supervisión de Nivel Primaria DE 02 - EPC N° 14 JUAN MARTIN DE PUEY
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Armario 14, Banco largo comedor 64, Escritorio 7, Mesa pupitre doble 26, Mesa usos múltiples 32, Pizarrón 8, Silla escolar 61 

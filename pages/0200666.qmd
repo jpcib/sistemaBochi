@@ -53,3 +53,12 @@ subtitle: 'EPC N° 13 PROVINCIA DEL NEUQUEN - JII N° 06/14°'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+

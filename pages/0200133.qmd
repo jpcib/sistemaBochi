@@ -64,3 +64,12 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+

@@ -6,6 +6,15 @@ subtitle: 'EPC N° 23 DE 20'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Mesa pupitre doble 13, Mesa usos múltiples 10, Pizarrón 7, Silla escolar 26 

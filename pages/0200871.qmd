@@ -46,3 +46,15 @@ subtitle: 'EEM N° 03/19° - CAIYJ CLUB BAJO FLORES - CAIYJ CLUB DE CHICOS BAJO 
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: Colocada a configurar 
+    + Guardia física: NO
+
+*  Espacios seguros: 1 - Estado: Colocada a configurar 
+    + Guardia física: SI
+
+
+

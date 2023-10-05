@@ -6,6 +6,21 @@ subtitle: 'CENOF POLA - EPC N° 19 HERMANOS LATINOAMERICANOS - EEM N° 01/21° -
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: Colocada a configurar 
+    + Guardia física: NO
+
+*  Espacios seguros: 3 - Estado: Colocada a configurar 
+    + Guardia física: NO
+
+*  Espacios seguros: 0 - Estado: Colocada a configurar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 

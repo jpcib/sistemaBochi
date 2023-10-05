@@ -54,3 +54,12 @@ subtitle: 'EPC N° 30 GRANADEROS DE SAN MARTIN - JIC N° 02/09° GRANADEROS DE S
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

@@ -6,6 +6,15 @@ subtitle: 'EPC N° 03 PRIMERA JUNTA - JIC N° 02/07° PROF. M. MARGARITA RAVIOLI
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Calefaccion y Refrigeracion 

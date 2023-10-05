@@ -60,3 +60,12 @@ subtitle: 'EPC N° 04 CNEL. MAYOR I. ALVAREZ THOMAS - JIN B (EPCJC 04/16°) JUAN
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

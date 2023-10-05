@@ -6,6 +6,15 @@ subtitle: 'JIC N° 09/10° - EPC N° 12 PROF. RODOLFO SENET - CENS N° 81'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: A ejecutar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Armario 2, Pizarrón 14, Silla escolar 25 

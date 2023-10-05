@@ -6,6 +6,15 @@ subtitle: 'EPC Nº 12 DE 21'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Armario 92 

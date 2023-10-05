@@ -6,6 +6,15 @@ subtitle: 'ESCUELA INF. N° 05/13° - ESCUELA INF. N° 04/13°'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Armario 3, Juego de patio 1, Mesa inicial 10, Piso antigolpe para juegos 60, Silla escolar 60 

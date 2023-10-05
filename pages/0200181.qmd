@@ -6,6 +6,15 @@ subtitle: 'Sup Primaria DE 04 A Sup Adultos Region V A - EPA N° 13 REPUBLICA DE
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Banco largo comedor 8, Mesa usos múltiples 4 

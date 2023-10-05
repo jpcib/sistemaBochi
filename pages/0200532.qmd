@@ -6,6 +6,15 @@ subtitle: 'ENS N° 10 JUAN BAUTISTA ALBERDI (SEDE)'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Escritorio 7, Mesa pupitre doble 105, Pizarrón 7, Silla escolar 217 

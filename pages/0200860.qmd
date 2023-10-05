@@ -6,6 +6,18 @@ subtitle: 'JIC N° 03/19° - EPC N° 17 GASPAR LUCILO BENAVENTO - CENOF CENTRO C
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+*  Espacios seguros: 0 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Armario 4, Escritorio 2, Mesa pupitre doble 45, Pizarrón 11, Silla escolar 90 

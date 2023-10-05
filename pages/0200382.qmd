@@ -43,3 +43,12 @@ subtitle: 'IFTS N° 07 - ESC. DE COM. N° 03 HIPOLITO VIEYTES'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Colocada a configurar 
+    + Guardia física: NO
+
+
+

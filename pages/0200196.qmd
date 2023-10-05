@@ -55,3 +55,12 @@ subtitle: 'Sup Media Tecnica Region II Este - ESC. TEC. N° 31 MAESTRO QUINQUELA
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

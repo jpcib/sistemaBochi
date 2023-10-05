@@ -40,3 +40,12 @@ subtitle: 'ESCUELA INF. N° 02/03° MANE BERNARDO'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+

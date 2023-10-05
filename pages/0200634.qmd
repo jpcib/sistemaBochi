@@ -6,6 +6,15 @@ subtitle: 'JINC(EPCJS 16/13°)NIÑOS LATINOAMERICANOS - EPC N° 16 DR. TOMAS A. 
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Mesa inicial 5, Pizarrón 1, Silla escolar 30 

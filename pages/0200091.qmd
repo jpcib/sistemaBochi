@@ -6,6 +6,15 @@ subtitle: 'EPC N° 20 ROSARIO VERA PEÑALOZA - JIN D (EPCJS 20/02°) [S] - CENOF
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Colocada a configurar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Calefaccion y Refrigeracion 

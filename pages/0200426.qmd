@@ -60,3 +60,12 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 19 - ESC. DE COM. N° 19 JU
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+

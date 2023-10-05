@@ -6,6 +6,15 @@ subtitle: 'JIN B (EPCJC 03/13°) - EPC N° 03 EDUARDO LADISLAO HOLMBERG - ESC. D
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Banco largo comedor 40, Mesa pupitre doble 30, Mesa usos múltiples 20, Silla escolar 60 

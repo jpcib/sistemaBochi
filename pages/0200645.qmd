@@ -6,6 +6,15 @@ subtitle: 'ESC. TEC. N° 23 CASAL CALVIÑO'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: A ejecutar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 

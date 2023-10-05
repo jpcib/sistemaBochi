@@ -46,3 +46,12 @@ subtitle: 'ESC. TEC. N° 28 REPUBLICA FRANCESA'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: A ejecutar 
+    + Guardia física: NO
+
+
+

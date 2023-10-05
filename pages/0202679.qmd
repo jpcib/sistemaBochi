@@ -6,6 +6,15 @@ subtitle: 'EPC N° 25 BANDERA ARGENTINA'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: SI
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Banco largo comedor 24, Mesa usos múltiples 12 

@@ -6,6 +6,15 @@ subtitle: 'ESCUELA INF. N° 04/11° - CAIYJ FLORES'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Carpinterías 

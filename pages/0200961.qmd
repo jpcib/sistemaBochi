@@ -6,6 +6,15 @@ subtitle: 'ESCUELA INF. N°05/21° HEBE SAN MARTIN DUPRAT'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 

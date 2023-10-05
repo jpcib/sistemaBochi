@@ -6,6 +6,18 @@ subtitle: 'ENS N° 03 BERNARDINO RIVADAVIA (SEDE) - ENS N° 03 BERNARDINO RIVADA
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 3 - Estado: A confirmar 
+    + Guardia física: NO
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Armario 4, Escritorio 10, Mesa pupitre doble 70, Pizarrón 16, Silla escolar 170 

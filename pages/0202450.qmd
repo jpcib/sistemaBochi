@@ -6,6 +6,15 @@ subtitle: 'ESCUELA INF. N° 11/04°'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Armario 20 

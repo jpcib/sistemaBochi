@@ -6,6 +6,15 @@ subtitle: 'ESC. POLITEC. MANUEL BELGRANO'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 

@@ -51,3 +51,12 @@ subtitle: 'ESC. TEC. N° 06 FERNANDO FADER'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

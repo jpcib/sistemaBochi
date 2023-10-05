@@ -6,6 +6,15 @@ subtitle: 'CENS Nº 48 - CFP Nº 25 DE 04 - CENP N°01-10-11-12-16-17-25-51 - PI
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: SI
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Banco largo comedor 12 

@@ -6,6 +6,15 @@ subtitle: 'JII N°17/21° VILLA OLIMPICA'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Carpinterías 

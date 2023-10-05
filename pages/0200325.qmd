@@ -6,6 +6,15 @@ subtitle: 'ENS N° 08 PRESIDENTE J.A. ROCA (SEDE)'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 3 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 

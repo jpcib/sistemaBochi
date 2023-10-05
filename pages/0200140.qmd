@@ -6,6 +6,15 @@ subtitle: 'CENS N° 34 - ESC. DE COM.  N° 34 MONSEÑOR MIGUEL DE ANDREA'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Escritorio 2, Mesa integradora con escotadura 1, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 

@@ -6,6 +6,18 @@ subtitle: 'PI EL RINCONCITO DE CLAUDIO - EEM N° 05/21° JUAN MANUEL FANGIO - EP
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: Finalizado 
+    + Guardia física: NO
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Escritorio 2, Mesa pupitre doble 18, Pizarrón 2, Silla escolar 38 

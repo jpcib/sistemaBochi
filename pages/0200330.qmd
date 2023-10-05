@@ -6,6 +6,15 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 06'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Escritorio 1, Mesa inicial 2, Silla escolar 8 

@@ -6,6 +6,15 @@ subtitle: 'COLEGIO N° 08 JULIO ARGENTINO ROCA'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 4 - Estado: A ejecutar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 

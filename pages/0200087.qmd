@@ -6,6 +6,15 @@ subtitle: 'EPC N° 16 PRESIDENTE MITRE - EPA N° 16 PRESIDENTE MITRE - ESCUELA I
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Armario 2 

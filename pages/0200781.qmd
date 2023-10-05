@@ -6,6 +6,15 @@ subtitle: 'EPA N° 16 RDO. PADRE AGUSTIN P. NORES - JIN C (EPCJS 16/17°) LOLA M
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 

@@ -6,6 +6,18 @@ subtitle: 'JIC N° 15/21° - EPC N° 07 DE 21'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: SI
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Banco largo comedor 20, Mesa usos múltiples 10, Silla escolar 27 

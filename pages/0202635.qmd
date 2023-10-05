@@ -25,3 +25,12 @@ subtitle: 'JII Nº 11/6º'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+

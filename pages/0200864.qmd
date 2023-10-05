@@ -6,6 +6,15 @@ subtitle: 'EPC N° 21 GUILLERMO JOSE BARROS - CENS N° 71 - CAIYJ CLUB DE JOVENE
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Armario 4 

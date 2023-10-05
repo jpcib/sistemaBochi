@@ -54,3 +54,12 @@ subtitle: 'JIN A (EPCJS 16/08°) - EPC N° 16 JOSE MARIA RAMOS MEJIA - CENOF CEN
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+

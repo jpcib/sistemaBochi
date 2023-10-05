@@ -51,3 +51,12 @@ Ampliación de taller de carpintería (ee timm), nueva aula en primer piso del t
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 3 - Estado: A ejecutar 
+    + Guardia física: SI
+
+
+

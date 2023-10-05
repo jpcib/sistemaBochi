@@ -6,6 +6,15 @@ subtitle: 'EPA N° 01 ESTEBAN DE LUCA - EPC N° 01 ESTEBAN DE LUCA - JIN A (EPCJ
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Mesa integradora con escotadura 3 

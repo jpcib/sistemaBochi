@@ -6,6 +6,15 @@ subtitle: 'CENS N° 38 - IFTS N° 22 - ESC. TEC. N° 02 OSVALDO MAGNASCO'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 

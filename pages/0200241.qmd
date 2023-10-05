@@ -6,6 +6,15 @@ subtitle: 'EPC N° 19 PROVINCIA DE FORMOSA'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Armario 5, Escritorio 4, Mesa pupitre doble 30, Pizarrón 10, Silla escolar 50 

@@ -6,6 +6,15 @@ subtitle: 'EPC N° 24 DE 20'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 3 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Armario 12, Banco largo comedor 35, Biblioteca 10, Escritorio 9, Mesa pupitre doble 115, Mesa usos múltiples 6, Pizarrón 18, Silla escolar 198 

@@ -6,6 +6,15 @@ subtitle: 'ESC. DE MUSICA N° 05 - EPC N° 03 BERNARDO DE IRIGOYEN - JIN A (EPCJ
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Escritorio 1 

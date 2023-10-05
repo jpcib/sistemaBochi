@@ -6,6 +6,15 @@ subtitle: 'CENS N° 14 - CFP N° 04 ([A])'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Armario 1 

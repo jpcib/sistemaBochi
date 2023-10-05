@@ -40,3 +40,12 @@ subtitle: 'CENS N° 45 - EPA N° 29 MANUEL BELGRANO'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+

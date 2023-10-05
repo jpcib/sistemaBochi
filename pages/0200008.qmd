@@ -6,6 +6,15 @@ subtitle: 'Sup Adultos Region VI - JIN A (EPCJC 08/01°) - EPC N° 08 NICOLAS AV
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Armario 4, Mesa inicial 4, Mesa integradora con escotadura 1, Mesa pupitre doble 30, Pizarrón 11, Silla escolar 83 

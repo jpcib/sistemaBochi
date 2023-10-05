@@ -6,6 +6,15 @@ subtitle: 'EPC N° 14 ISLAS MALVINAS'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Calefaccion y Refrigeracion 

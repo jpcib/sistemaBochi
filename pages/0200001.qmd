@@ -58,3 +58,12 @@ subtitle: 'JIN C (EPCJS 01/01°) - EPC N° 01 JUAN JOSE CASTELLI - CENS - UGEE N
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

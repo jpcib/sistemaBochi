@@ -6,6 +6,15 @@ subtitle: 'ESC. TEC. N° 04 REPUBLICA DEL LIBANO'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 

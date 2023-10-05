@@ -6,6 +6,15 @@ subtitle: 'Sup Inicial  VI A A Sup Primaria DE19 - JIN B (EPCJS 01/19°) HOMERO 
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Mesa inicial 5, Silla escolar 36 

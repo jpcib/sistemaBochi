@@ -6,6 +6,15 @@ subtitle: 'EPC N° 19 REPUBLICA ITALIANA - JIN C (EPCJC 19/04°)'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Mesa pupitre doble 13, Silla escolar 26 

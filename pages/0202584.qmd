@@ -57,3 +57,15 @@ subtitle: 'ESCUELA INF. N° 08/20° - JII N° 04/20° - EEM N° 01/20° BIB.CONG
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Suspendida ejecución 
+    + Guardia física: SI
+
+*  Espacios seguros: 0 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+

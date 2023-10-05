@@ -6,6 +6,15 @@ subtitle: 'JIN A (EPCJC 03/06°) [S] - EPC N° 03 RUFINO SANCHEZ'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mantenimiento
 
 *  (2022) Albañileria / Pintura 

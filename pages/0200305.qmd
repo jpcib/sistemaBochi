@@ -6,6 +6,15 @@ subtitle: 'EPC N° 14 INTENDENTE ALVEAR - JIC N° 04/06° MARIANO BOEDO'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2022) : Pizarrón 3 

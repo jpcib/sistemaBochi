@@ -6,6 +6,15 @@ subtitle: 'JIN B (EPCJS 08/08°) - EPA N° 08 ANTONIO SCHETTINO - EPC N° 08 ANT
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 5 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 

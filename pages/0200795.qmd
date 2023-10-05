@@ -55,3 +55,12 @@ subtitle: 'CBFO N° 02 SALVADOR MAZA - ESPACIO DE PRIMERA INFANCIA EEM Nº2 DE 1
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+

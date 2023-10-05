@@ -6,6 +6,15 @@ subtitle: 'EPC N° 19 JOSE MARTI - EPA N° 19 JOSE MARTI'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Armario 14, Escritorio 2, Mesa pupitre doble 30, Pizarrón 26, Silla escolar 62 

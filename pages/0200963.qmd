@@ -47,3 +47,12 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 3 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+

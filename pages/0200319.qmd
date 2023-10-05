@@ -44,3 +44,12 @@ subtitle: 'ESC. TEC. N° 11 MANUEL BELGRANO'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+

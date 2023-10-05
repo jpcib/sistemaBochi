@@ -6,6 +6,15 @@ subtitle: 'JIC N° 01/18° REPUBLICA ARGENTINA - EPC N° 02 ALEJANDRO AGUADO'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Armario 10, Pizarrón 4 

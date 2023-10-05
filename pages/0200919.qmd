@@ -6,6 +6,15 @@ subtitle: 'JII N° 01/20° - EPC N° 22 RUFINO LURO CAMBACERES'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Colocada a configurar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Banco largo comedor 20, Juego de patio 1, Piso antigolpe para juegos 60 
