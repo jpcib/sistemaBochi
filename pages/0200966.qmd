@@ -6,35 +6,11 @@ subtitle: 'CENS N° 14 - CFP N° 04 ([A])'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Armario 1 
 
 *  (2021) : Mesa trabajo estante 6, Varios 12 
-
-
-
-
-
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Provision y colocacion de luces de emerg
-
-*  (2022) Gas 
-    + Adecuación instalación de gas
-
-*  (2021) Carpinterías 
-    + Reparar carpinteria de hierro en aula
 
 
 

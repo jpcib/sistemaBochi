@@ -6,37 +6,10 @@ subtitle: 'ESCUELA INF. N° 12/19°'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mantenimiento
 
 *  (2023) Carpinterías 
     + Instalacion y extensión rejas
-
-*  (2022) Albañileria / Pintura 
-    + Proveer e instalar piso en sala lila
-
-*  (2022) Carpinterías 
-    + Instalacion concertina en perimetro
-
-*  (2022) Electricidad 
-    + Instalar ventilador en biblioteca
-
-*  (2022) Gas 
-    + Adecuación en la instalación de gas.
-
-*  (2021) Carpinterías 
-    + Prov e instalacion de cerradura x vandal
-
-*  (2021) Electricidad 
-    + Provision e instalacion de timbre
 
 
 

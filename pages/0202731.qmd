@@ -6,22 +6,10 @@ subtitle: 'JII N°18/05°'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Colocación y sujeción piso de goma Corre
-
-*  (2022) Electricidad 
-    + Prov. Coloc. 1 ventilador
 
 
 

@@ -12,15 +12,3 @@ subtitle: 'ESCUELA INF. N° 11/05° (A) - EPC N° 28 Argentino China'
 
 
 
-
-
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Proveer 11 ventiladores de pared de 20", Reparación de timbre de recreos
-
-*  (2021) Incendio 
-    + Cambiar caño de incendio con perdidas
-
-
-

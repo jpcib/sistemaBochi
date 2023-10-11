@@ -24,14 +24,5 @@ subtitle: 'JIN B (EPCJC 23/03°) [S] - CENS N° 37 SEDE - EPC N° 23 GRAL. VIAMO
 *  (2023) Electricidad 
     + Reemplazo de ventiladores de techo
 
-*  (2022) Gas 
-    + Adecuación de inst de gas a Normativa
-
-*  (2021) Electricidad 
-    + Instalacion luces de emergencia PB, Instalación luces de emergencia 1º piso
-
-*  (2021) Sanitarias 
-    + Reposición Tapas de tanques de agua
-
 
 

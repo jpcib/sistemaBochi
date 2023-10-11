@@ -4,18 +4,3 @@ subtitle: 'CENS N° 64 - CENS N° 05 ([A] 1)'
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + impermeabilizacion cubierta escuela
-
-*  (2021) Electricidad 
-    + Colocación de luces de emergencia
-
-*  (2021) Gas 
-    + Adecuación inst. gas a normativa
-
-
-

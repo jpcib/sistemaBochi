@@ -4,15 +4,3 @@ subtitle: 'EPC Nº 07 Aeronáutica Argentina (anexo)'
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2022) Albañileria / Pintura 
-    + Reparar y pintar paredes gimnasio, Impermeabilización de paredes ext
-
-*  (2022) Sanitarias 
-    + Cambio de Inodoro.
-
-
-

@@ -29,34 +29,10 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
     + Impermeabilización de hall ingreso
 
 *  (2023) Electricidad 
-    + Prov.Coloc. luces de emergencia, Instalar un sistema Alarma:, Remplazo de ventiladores de pared.
+    + Instalar un sistema Alarma:, Prov.Coloc. luces de emergencia, Remplazo de ventiladores de pared.
 
 *  (2023) Medios de elevación 
     + Adecuacion de ascensor
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Prov. coloc. 11 placas Eco sol 900watt
-
-*  (2022) Carpinterías 
-    + Remplazo de 4 puertas y arreglo de las d
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + IMPERMEABILIZACION DE AZOTEA, Remplazo de chapas en hall de entrada
-
-*  (2022) Gas 
-    + Reemplazo del tanque de expansión
-
-*  (2022) Medios de elevación 
-    + Adecuacion de ascensor
-
-*  (2022) Sanitarias 
-    + Puesta en marcha de 2 baños PB y 2 en PA, Remplazar inodoro corto capea por vandal
-
-*  (2021) Gas 
-    + Readecuacion instalacion completa de gas
-
-*  (2021) Incendio 
-    + Reponer hidrante por vandalismo
 
 
 
@@ -75,9 +51,6 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 
 
 ## Seguridad
-
-*  Espacios seguros: 0 - Estado: En ejecución 
-    + Guardia física: NO
 
 *  Espacios seguros: 1 - Estado: En ejecución 
     + Guardia física: NO

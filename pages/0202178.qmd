@@ -8,13 +8,7 @@ subtitle: 'CENOF POLA - EPC N° 19 HERMANOS LATINOAMERICANOS - EEM N° 01/21° -
 
 ## Seguridad
 
-*  Espacios seguros: 0 - Estado: Colocada a configurar 
-    + Guardia física: NO
-
 *  Espacios seguros: 3 - Estado: Colocada a configurar 
-    + Guardia física: NO
-
-*  Espacios seguros: 0 - Estado: Colocada a configurar 
     + Guardia física: NO
 
 
@@ -43,30 +37,6 @@ subtitle: 'CENOF POLA - EPC N° 19 HERMANOS LATINOAMERICANOS - EEM N° 01/21° -
 
 *  (2023) Medios de elevación 
     + Puesta en marcha ascensor por vandalismo
-
-*  (2022) Albañileria / Pintura 
-    + adecuacion aula sdf, Mamposteria de ladrillo
-
-*  (2022) Carpinterías 
-    + Colocacion de flim de color para aula
-
-*  (2022) Electricidad 
-    + Alimentación electrica en huerta
-
-*  (2022) Incendio 
-    + cambio 3 tapas de incendio via publica
-
-*  (2021) Albañileria / Pintura 
-    + Adecuación de 3 aulas SDF
-
-*  (2021) Carpinterías 
-    + cerradura baño discapacitado, Cerradura vandalizada  en exterior
-
-*  (2021) Electricidad 
-    + Colocar caja metalica p/protejer alarma, Cambio luminarias led comedor
-
-*  (2021) Medios de elevación 
-    + Corte de fuerza motriz de ascensor, Corte de fuerza motriz de ascensor
 
 
 

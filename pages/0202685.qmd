@@ -6,22 +6,10 @@ subtitle: 'JII Nº 18/21°'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mantenimiento
 
 *  (2023) Sanitarias 
     + Coloc 2 griferias bacha de sala y otro
-
-*  (2022) Electricidad 
-    + Iluminación LED
 
 
 

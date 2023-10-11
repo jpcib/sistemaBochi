@@ -4,15 +4,3 @@ subtitle: 'EPC N° 11 DR. ENRIQUE MOSCA'
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Adecuación eléctrica y cambio zocaloduct
-
-*  (2022) Sanitarias 
-    + Cambio de 3 tapas de camaras en patio, Cambio de tanque bombeo subsuelo
-
-
-

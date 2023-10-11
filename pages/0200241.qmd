@@ -6,36 +6,11 @@ subtitle: 'EPC N° 19 PROVINCIA DE FORMOSA'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
+*  (2023) : Pizarrón 10 
+
 *  (2022) : Armario 5, Escritorio 4, Mesa pupitre doble 30, Pizarrón 10, Silla escolar 50 
-
-
-
-
-
-## Mantenimiento
-
-*  (2022) Albañileria / Pintura 
-    + Piso de aula de 1 graso y laboratorio le
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Obra para la instalacion de equipos A°A°, Reemplazo de estufas por tiro balanceado
-
-*  (2022) Gas 
-    + Adecuar instalación de gas
-
-*  (2021) Incendio 
-    + Cambio central de Incendio
 
 
 

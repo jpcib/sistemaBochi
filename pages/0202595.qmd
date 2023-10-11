@@ -34,7 +34,7 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Pintura de circulaciones, Pintura de aulas y pasillos, Modificación de baños, Puesta a punto del edificio, Pintura interior de aulas, Reemplazo paneles vinilicos vandalizados, Mantenimiento equipo BMS
+    + Pintura de circulaciones, Pintura de aulas y pasillos, Modificación de baños, Puesta a punto del edificio, Pintura interior de aulas, Mantenimiento equipo BMS, Reemplazo paneles vinilicos vandalizados
 
 *  (2023) Calefaccion y Refrigeracion 
     + Reparación de equipo vrv
@@ -43,34 +43,10 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
     + reparación de carpinterias de aluminio, Colocación de red antipalomas
 
 *  (2023) Electricidad 
-    + Reparación del sistema de ventilación, Reparación del sistema de datos, Mantención del equipo BMS, Colocación de paneles LED
+    + Mantención del equipo BMS, Reparación del sistema de ventilación, Reparación del sistema de datos, Colocación de paneles LED
 
 *  (2023) Sanitarias 
     + Colocación de válvula interceptora, Reemplazo de bombas de circulacion
-
-*  (2022) Albañileria / Pintura 
-    + Ejecución de tabique antihumedad SUM, Acondicionamiento de medianera patio
-
-*  (2022) Calefaccion y Refrigeracion 
-    + instalación de un equipo de A°A°, Reparación de equipo vrv
-
-*  (2022) Electricidad 
-    + Reparación de grupo electrógeno
-
-*  (2022) Incendio 
-    + Prov. matafuegos y reparación IFCI
-
-*  (2022) Sanitarias 
-    + Mantenimiento del predio S. XXI, Modificación de colector tanques agua, Reparación de termotanques solares, Limpieza de tanques adicional
-
-*  (2021) Albañileria / Pintura 
-    + Acond acustico taller de radio
-
-*  (2021) Carpinterías 
-    + Prov,coloc puerta reja en cocina, Reparar reja plegable acceso, Extension reja exterior PB a gimnasio, Provisión de mosquiteros cocina
-
-*  (2021) Otros Servicios 
-    + Sist riego balcón 3er piso frente, Sist riego canteros azotea, Acond. y nivelacion cantero PB
 
 
 

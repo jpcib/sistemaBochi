@@ -19,8 +19,5 @@ subtitle: 'JIN A (EPCJC 01/12°) - EPC N°01 M.DE BELLAS ARTES GRAL. URQUIZA'
 *  (2023) Sanitarias 
     + Cambio de tanques cisterna en primaria
 
-*  (2021) Calefaccion y Refrigeracion 
-    + Puesta a punto estufas e inst de gas
-
 
 

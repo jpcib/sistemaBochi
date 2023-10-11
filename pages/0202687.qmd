@@ -17,7 +17,7 @@ subtitle: 'EPC N° 24 DE 20'
 
 ## Mobiliario
 
-*  (2021) : Armario 12, Banco largo comedor 35, Biblioteca 10, Escritorio 9, Mesa pupitre doble 115, Mesa usos múltiples 6, Pizarrón 18, Silla escolar 198 
+*  (2021) : Armario 12, Banco largo comedor 35, Biblioteca 10, Escritorio 9, Mesa pupitre doble 115, Mesa usos múltiples 6, Pizarrón 18, Silla escolar 185 
 
 
 
@@ -27,15 +27,6 @@ subtitle: 'EPC N° 24 DE 20'
 
 *  (2023) Electricidad 
     + Prov. y coloc. equipo de iluminacion, Sistema de Vigilancia, Prov.Coloc. 6 ventiladores
-
-*  (2022) Electricidad 
-    + Proveer y colocar ventilador de pared
-
-*  (2022) Sanitarias 
-    + Bombas cloacales
-
-*  (2021) Sanitarias 
-    + Desagote de camaras cloacales
 
 
 

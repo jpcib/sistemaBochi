@@ -24,26 +24,5 @@ subtitle: 'JIC Nº12 DE 06 - EPC N° 08 ALMAFUERTE'
 *  (2023) Electricidad 
     + PROVISION E INST. DE VENTILADORES
 
-*  (2022) Albañileria / Pintura 
-    + Revoques patio fondo medianera izquierda
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilizacion en cubierta jardin, Reparacion de dos terrazas transitables
-
-*  (2022) Electricidad 
-    + Provision e iinstalacion luces de emerg., Proveer e instalar dos ventiladores
-
-*  (2022) Incendio 
-    + Reemplazo de dos matafuegos jardin
-
-*  (2022) Medios de elevación 
-    + reparacion ascensor
-
-*  (2022) Otros Servicios 
-    + Adecuacion Inst. Electrica, Provision temporal de grupo electrogeno
-
-*  (2021) Otros Servicios 
-    + Reparacion y reinstalacion de bombas, Readecuacion instalacion de gas, Puesta en marcha Central de incendio, Instalacion de 6 ventiladores en comedor
-
 
 

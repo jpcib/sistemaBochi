@@ -8,7 +8,7 @@ subtitle: 'EPC N° 01 MARTIN FIERRO - JIN E (EPCJS 01/18°) (SEDE)'
 
 ## Mobiliario
 
-*  (2023) : Mesa inicial 14, Silla escolar 86 
+*  (2023) : Mesa inicial 14, Silla escolar 85 
 
 *  (2022) : Banco largo comedor 100, Mesa pupitre doble 90, Mesa usos múltiples 25, Pizarrón 7, Silla escolar 186 
 
@@ -18,23 +18,11 @@ subtitle: 'EPC N° 01 MARTIN FIERRO - JIN E (EPCJS 01/18°) (SEDE)'
 
 ## Mantenimiento
 
+*  (2023) Albañileria / Pintura 
+    + Pintura de hall y 2 aulas de Primaria, Pintura de sala verde
+
 *  (2023) Carpinterías 
     + Mallado en reja de acceso
-
-*  (2022) Albañileria / Pintura 
-    + Arreglos de revoques y pintura
-
-*  (2022) Electricidad 
-    + Reemplazo de 3 ventiladores
-
-*  (2022) Sanitarias 
-    + Solicitud tapa de inodoros
-
-*  (2021) Electricidad 
-    + Colocación de purificadores
-
-*  (2021) Incendio 
-    + Colocación de luces de emergencia
 
 
 

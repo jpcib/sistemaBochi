@@ -6,15 +6,6 @@ subtitle: 'EPC N° 01 DR. ANTONIO DELLEPIANE - JINA(EPCJC 01/17°)ALICIA MOREAU 
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Armario 2 

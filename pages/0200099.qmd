@@ -26,15 +26,6 @@ subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI L
 *  (2023) Gas 
     + Reparación en instalación de gas
 
-*  (2021) Calefaccion y Refrigeracion 
-    + REPARACION DE CALDERA
-
-*  (2021) Electricidad 
-    + Luces de emergencia, Colocación de purificadores
-
-*  (2021) Sanitarias 
-    + Conexión de agua en bacha-Sala Jardín
-
 
 
 

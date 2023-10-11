@@ -25,8 +25,5 @@ subtitle: 'JIC N° 03/08° - EPC N° 15 PROVINCIA DE SALTA'
 *  (2023) Gas 
     + Reparar medidores de gas
 
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Tabique para elevar dos bombas
-
 
 

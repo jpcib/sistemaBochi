@@ -14,15 +14,3 @@ subtitle: 'EPC N° 03 JUAN MARIA GUTIERREZ - JIN C (EPCJC 03/04°)'
 
 
 
-
-
-## Mantenimiento
-
-*  (2021) Gas 
-    + adecuación a norma vigente - GAS
-
-*  (2021) Medios de elevación 
-    + Provision y colocacion rampa
-
-
-

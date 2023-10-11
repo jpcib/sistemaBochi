@@ -19,23 +19,5 @@ subtitle: 'ESCUELA INF. N° 02/02° PAMPITA'
 *  (2023) Electricidad 
     + Cambio de ventilador en Dirección
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Reposición radiador 16 elementos
-
-*  (2022) Gas 
-    + Puesta a normativa de inst de gas
-
-*  (2021) Calefaccion y Refrigeracion 
-    + cambio de 1 radiador en planta baja
-
-*  (2021) Gas 
-    + Adecuación de ventilaciones
-
-*  (2021) Medios de elevación 
-    + Prov montaje y conexion sist de limites
-
-*  (2021) Sanitarias 
-    + Cambio termotanque agua caliente cocina
-
 
 

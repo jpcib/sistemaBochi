@@ -29,20 +29,5 @@ subtitle: 'EPC N° 04 CASIMIRO AURELIANO MACIEL - JINA(EPCJS 04/18°)LA CALESITA
 *  (2023) Gas 
     + Adecuación Inst. Gas
 
-*  (2022) Albañileria / Pintura 
-    + Demoler pileta en Sala 4y5 Inicial
-
-*  (2022) Electricidad 
-    + Instalacion luces de emergencia
-
-*  (2022) Sanitarias 
-    + Aliviadores de canaletas de cubiertas
-
-*  (2021) Albañileria / Pintura 
-    + Rep Revoques-Pintura Aulas Etapa 1
-
-*  (2021) Electricidad 
-    + Instalacion Purificadores de Aire
-
 
 

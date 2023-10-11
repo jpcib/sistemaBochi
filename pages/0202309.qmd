@@ -6,30 +6,9 @@ subtitle: 'ENS N° 03 BERNARDINO RIVADAVIA ([A])'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Mesa pupitre doble 7, Pizarrón 1, Silla escolar 15 
-
-
-
-
-
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Agregar tomas-Ajuste carpinteria y cerco
-
-*  (2021) Gas 
-    + Adecuar inst de gas
 
 
 

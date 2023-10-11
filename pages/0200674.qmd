@@ -6,15 +6,6 @@ subtitle: 'EPC N° 22 AGRONOMIA - JII N° 04/14'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Escritorio 4, Silla escolar 34 
@@ -27,18 +18,6 @@ subtitle: 'EPC N° 22 AGRONOMIA - JII N° 04/14'
 
 *  (2023) Albañileria / Pintura 
     + GUARDAGANADO Y PINTURA PATIO JARDIN
-
-*  (2022) Albañileria / Pintura 
-    + Ejecución de vallado perimetral  quincho
-
-*  (2022) Sanitarias 
-    + Cambio tanque de agua casera
-
-*  (2021) Gas 
-    + Adecuacion instalacion de gas
-
-*  (2021) Incendio 
-    + Instalación Fija Contra Incendi
 
 
 

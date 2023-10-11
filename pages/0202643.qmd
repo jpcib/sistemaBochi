@@ -11,9 +11,6 @@ subtitle: 'JIC N° 15/21° - EPC N° 07 DE 21'
 *  Espacios seguros: 0 - Estado: A confirmar 
     + Guardia física: SI
 
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
 
 
 
@@ -21,27 +18,6 @@ subtitle: 'JIC N° 15/21° - EPC N° 07 DE 21'
 ## Mobiliario
 
 *  (2021) : Banco largo comedor 20, Mesa usos múltiples 10, Silla escolar 27 
-
-
-
-
-
-## Mantenimiento
-
-*  (2022) Albañileria / Pintura 
-    + Reja de proteccion metalica.
-
-*  (2022) Carpinterías 
-    + Realizacion rejas 2 ventanas
-
-*  (2021) Carpinterías 
-    + Cambio cerradura de cocina
-
-*  (2021) Electricidad 
-    + Cableado y toma para A°A°-S. Computación, Colocar timbre exterior
-
-*  (2021) Medios de elevación 
-    + Corte de fuerza motriz de ascensor
 
 
 

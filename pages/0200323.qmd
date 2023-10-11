@@ -17,7 +17,7 @@ subtitle: 'ESC. TEC. N° 29 RECONQUISTA DE BUENOS AIRES'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 6, Silla escolar 93 
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 *  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 4, Silla escolar 93 
 
@@ -33,25 +33,7 @@ subtitle: 'ESC. TEC. N° 29 RECONQUISTA DE BUENOS AIRES'
     + Cambio de cerradura en puerta de acceso
 
 *  (2023) Electricidad 
-    + Espacios seguros, Reemplazo de 3 ventiladores
-
-*  (2022) Albañileria / Pintura 
-    + Reacondicionar aula Nro 1, Reacondicionamiento de 3 aulas A.Futuro
-
-*  (2022) Carpinterías 
-    + Colocar vidrios de seguridad-Aula Tecnol
-
-*  (2022) Incendio 
-    + Reposicion de 2 matafuegos ABC de 5 kg
-
-*  (2021) Electricidad 
-    + Instalacion 3 purificadores de aire
-
-*  (2021) Gas 
-    + Realizar ventilacion por ducto, Reponer e instalar estufa TB 5000kcal, Reparacion de cocina y red en buffet
-
-*  (2021) Incendio 
-    + Proveer e instalar extintores
+    + Espacios seguros, Reemplazo de 3 ventiladores, Reposición central telefónica
 
 
 

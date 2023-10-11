@@ -20,20 +20,5 @@ subtitle: 'EPC N° 02 JOSE MARIA GUTIERREZ'
 *  (2023) Incendio 
     + Adecuación sala bombas incendio
 
-*  (2022) Albañileria / Pintura 
-    + Reparar molduras y pintura de fachada
-
-*  (2021) Albañileria / Pintura 
-    + Adecuación de solado de primer patio
-
-*  (2021) Electricidad 
-    + Inst, telefonica por cañeria, Instalación de purificadores comedor, Adecuación tablero bombas incendio
-
-*  (2021) Incendio 
-    + Instalación 1 extintor, Cambio  de extintores
-
-*  (2021) Medios de elevación 
-    + Reparación montasillas por roturas Vanda
-
 
 

@@ -15,21 +15,6 @@ subtitle: 'ESCUELA INF. N° 02/03° MANE BERNARDO'
 
 
 
-## Mantenimiento
-
-*  (2022) Albañileria / Pintura 
-    + Tareas complementarias, Reacondicionamiento de la sala de 4
-
-*  (2022) Carpinterías 
-    + Reparacion Fachada y aberturas
-
-*  (2021) Gas 
-    + Cambio de termotanque jardin
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Armario 4, Escritorio 3, Juego de patio 1, Piso antigolpe para juegos 7, Pizarrón 1, Silla escolar 10 
@@ -37,15 +22,6 @@ subtitle: 'ESCUELA INF. N° 02/03° MANE BERNARDO'
 *  (2022) : Piso antigolpe para juegos 50, Silla escolar 28, Varios 27 
 
 *  (2021) : Mesa inicial 20, Silla escolar 120 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
 
 
 

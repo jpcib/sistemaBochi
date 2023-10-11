@@ -27,11 +27,11 @@ subtitle: 'CENS Nº 48 - CFP Nº 25 DE 04 - CENP N°01-10-11-12-16-17-25-51 - PI
 
 ## Mantenimiento
 
+*  (2023) Carpinterías 
+    + Prov colocacion de redes de proteccion
+
 *  (2023) Medios de elevación 
     + Reparacion de medios de elevacion
-
-*  (2021) Medios de elevación 
-    + Adec puesta en servicio elevadores e IFC
 
 
 

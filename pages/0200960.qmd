@@ -6,15 +6,6 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 21'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2021) : Armario 15, Escritorio 9, Pizarrón 6, Silla escolar 3, Varios 10 
@@ -30,18 +21,6 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 21'
 
 *  (2023) Gas 
     + Instalación de gas
-
-*  (2022) Carpinterías 
-    + Reposición de 2 cerraduras
-
-*  (2022) Sanitarias 
-    + Nuevo tramo de cañeria tanque de reserva, Prov. Coloc  termotanque a gas
-
-*  (2021) Carpinterías 
-    + Reponer cerradura del patio x vandalismo, Reposicion de cerradura-Reja fondo x van
-
-*  (2021) Sanitarias 
-    + Coloca bomba robadora de agua
 
 
 

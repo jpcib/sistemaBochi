@@ -30,28 +30,7 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
     + 2DA ETAPA-Adecuacion de inst de gas, Ejecución Espacios Seguros
 
 *  (2023) Gas 
-    + Carpinterás - Placas antihumeddad, Adecuacion de gas en el edificio
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Provisión y colocac. equipos frio/calor
-
-*  (2021) Albañileria / Pintura 
-    + Retiro de vegetales en medianera, Adecuación Aulas del Futuro 5º año
-
-*  (2021) Carpinterías 
-    + Cortinas Blackout
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Colocación de Placas antihumedad
-
-*  (2021) Electricidad 
-    + reemplazo central telefónica, Rep central de cámaras de seguridad, Intalación de purificadores de Aire
-
-*  (2021) Gas 
-    + Pruebas de hermeticidad y adecuación
-
-*  (2021) Incendio 
-    + Reponer 2 extintores
+    + Adecuacion de gas en el edificio, Carpinterás - Placas antihumeddad
 
 
 

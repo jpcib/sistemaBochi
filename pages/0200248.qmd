@@ -6,27 +6,9 @@ subtitle: 'ESCUELA INF. N° 07/05° PADRE DANIEL DE LA SIERRA'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2021) : Mesa inicial 44, Silla escolar 264 
-
-
-
-
-
-## Mantenimiento
-
-*  (2021) Incendio 
-    + Reemplazo Válvula de Impulsión
 
 
 

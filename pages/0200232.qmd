@@ -6,15 +6,6 @@ subtitle: 'EPC N° 10 DEAN DIEGO E. DE ZAVALETA - CENS N° 75'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Armario 4 
@@ -31,12 +22,6 @@ subtitle: 'EPC N° 10 DEAN DIEGO E. DE ZAVALETA - CENS N° 75'
 
 *  (2023) Gas 
     + Tapa tanque; recambio estufas; chapa vec
-
-*  (2022) Carpinterías 
-    + cambio de cerraduras
-
-*  (2022) Electricidad 
-    + Colocación de 4 aires acondiconados
 
 
 

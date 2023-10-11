@@ -28,22 +28,7 @@ subtitle: 'EPC N° 14 INTENDENTE ALVEAR - JIC N° 04/06° MARIANO BOEDO'
 ## Mantenimiento
 
 *  (2023) Electricidad 
-    + Provisión y colocacion de ventiladores, Prov. Coloc Espacios Seguros, Provisión y colocacion de ventiladores
-
-*  (2022) Albañileria / Pintura 
-    + Baldosas vinílicas para 3 aulas, Ejecución de contrapiso en 3 aulas
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalar equipo de aire acondicionado
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Cambio de membrana
-
-*  (2021) Electricidad 
-    + Colocar ventiladores
-
-*  (2021) Incendio 
-    + Reparación de dos bombas de incendio
+    + Provisión y colocacion de ventiladores, Provisión y colocacion de ventiladores, Prov. Coloc Espacios Seguros
 
 
 

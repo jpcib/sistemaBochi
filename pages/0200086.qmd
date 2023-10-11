@@ -33,17 +33,5 @@ subtitle: 'Supervisión de Nivel Primaria DE 02 - EPC N° 14 JUAN MARTIN DE PUEY
 *  (2023) Sanitarias 
     + Reposición termo tanque en casa casero
 
-*  (2022) Albañileria / Pintura 
-    + Refuerzo estructural losa y vigas
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Recambio de estufas
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Readecuacion de inst pluvial en terraza
-
-*  (2021) Electricidad 
-    + Reemplazo de tablero principal
-
 
 

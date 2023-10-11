@@ -21,11 +21,5 @@ subtitle: 'JIN D (EPCJC 26/14°) - EPC N° 26 DELFINA DE VEDIA DE MITRE - CENS N
 *  (2023) Gas 
     + Solenoide horno por falta de vástago
 
-*  (2022) Gas 
-    + Reemplazo Calefon 14lts fin vida util
-
-*  (2021) Gas 
-    + Tareas solic x Metrogas p Levant corte
-
 
 

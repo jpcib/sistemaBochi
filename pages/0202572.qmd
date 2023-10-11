@@ -4,12 +4,3 @@ subtitle: 'CEI N° 15'
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2021) Electricidad 
-    + Colocación de luces de emergencia
-
-
-

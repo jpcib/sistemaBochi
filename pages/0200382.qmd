@@ -23,12 +23,6 @@ subtitle: 'IFTS N° 07 - ESC. DE COM. N° 03 HIPOLITO VIEYTES'
 *  (2023) Incendio 
     + Proveer Extintores faltantes
 
-*  (2021) Electricidad 
-    + Portero eléctrico para casa casero
-
-*  (2021) Gas 
-    + Adecuacion de gas segun normativa
-
 
 
 

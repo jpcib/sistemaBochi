@@ -6,15 +6,6 @@ subtitle: 'EPC N° 02 CARLOS RAMON VIGNALE - EPA N° 02 CARLOS RAMON VIGNALE'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Armario 3, Varios 4 
@@ -29,24 +20,6 @@ subtitle: 'EPC N° 02 CARLOS RAMON VIGNALE - EPA N° 02 CARLOS RAMON VIGNALE'
 
 *  (2023) Calefaccion y Refrigeracion 
     + Cambio de estufa
-
-*  (2022) Albañileria / Pintura 
-    + Instalación eléctrica para ventiladores.
-
-*  (2022) Electricidad 
-    + Instalacion luces de emergencia
-
-*  (2022) Medios de elevación 
-    + Cambio de mecanismo montasilla
-
-*  (2021) Electricidad 
-    + Nuevo tablero general y seccional
-
-*  (2021) Gas 
-    + Adecuacion instalacion de gas
-
-*  (2021) Sanitarias 
-    + Recambio de Termotanque
 
 
 

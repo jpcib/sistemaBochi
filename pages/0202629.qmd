@@ -6,34 +6,10 @@ subtitle: 'JII Nº 09/20'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mantenimiento
 
 *  (2023) Gas 
     + Readecuacion de Instalacion de Gas
-
-*  (2022) Carpinterías 
-    + Provisión  vidrio roto por vandalismo., Prov. Coloc. trabas para ventanas corred, Prov. Coloc cerradura en sala por vandal
-
-*  (2022) Electricidad 
-    + Prov. coloc. equipo de iluminacion, Coloc luminarias en SUM y acceso
-
-*  (2022) Sanitarias 
-    + Provisión y coloc de mochila de inodoro, Prov. coloc.mochila de apoyar sala azul
-
-*  (2021) Carpinterías 
-    + Reposicion de vidrio entrada Jardin x va
-
-*  (2021) Electricidad 
-    + Prov y coloc dos ventiladores techo, Prov y coloc. extractor de cocina
 
 
 

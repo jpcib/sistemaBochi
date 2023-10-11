@@ -14,15 +14,3 @@ subtitle: 'JIN B (EPCJS 06/05°) (SEDE) - EPC N° 06 TOMAS GUIDO'
 
 
 
-
-
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Reposición de reflectores en circulación
-
-*  (2022) Gas 
-    + Cambio de Termotanque e inodoro, Adecuación de instalación de gas a norma, Reemplazo cañería de gas embutida
-
-
-

@@ -29,15 +29,6 @@ subtitle: 'Sup Media Region III - COLEGIO N° 03 MARIANO MORENO - IFTS N° 28'
 *  (2023) Electricidad 
     + Prov. Inst. sistema Espacio Seguro, Reemplazar ventiladores de techo
 
-*  (2022) Incendio 
-    + Provisión de 8 matafuegos 1 ABC 5 kg
-
-*  (2021) Gas 
-    + Acond. instalacion de gas buffet
-
-*  (2021) Incendio 
-    + Colocación de matafuego en subsuelo
-
 
 
 

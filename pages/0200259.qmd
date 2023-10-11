@@ -29,15 +29,6 @@ subtitle: 'ENS N° 05 GRAL.  M. M. DE GÜEMES (SEDE) - LICEO COM. N° 03 JOSE MA
 *  (2023) Incendio 
     + Recarga de 3 extintores accionados
 
-*  (2022) Albañileria / Pintura 
-    + Cambio de piso vinilico, pintura aula
-
-*  (2021) Carpinterías 
-    + Fabricación y colocación rampa discapaci
-
-*  (2021) Gas 
-    + Remplazar el artefacto cocina
-
 
 
 
@@ -49,15 +40,6 @@ subtitle: 'ENS N° 05 GRAL.  M. M. DE GÜEMES (SEDE) - LICEO COM. N° 03 JOSE MA
 *  (2022) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 *  (2021) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 10, Silla escolar 186 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
 
 
 

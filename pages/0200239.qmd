@@ -6,15 +6,6 @@ subtitle: 'EPC N° 17 PEDRO MELITON LEDESMA - EPA N° 17 PEDRO MELITON LEDESMA'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 9, Silla escolar 62 
@@ -27,30 +18,6 @@ subtitle: 'EPC N° 17 PEDRO MELITON LEDESMA - EPA N° 17 PEDRO MELITON LEDESMA'
 
 *  (2023) Electricidad 
     + Recambio de inodoro
-
-*  (2022) Carpinterías 
-    + "Reemplazo de Carpinterías Baños Niñas y
-
-*  (2022) Electricidad 
-    + Reparación Tableros Básquet, Tomas eléctricos para Rack computadoras
-
-*  (2022) Gas 
-    + Extractor y Válvula solenoide
-
-*  (2022) Sanitarias 
-    + Reemplazo Piletones baños niñas y niños, Reemplazo bomba elevadora
-
-*  (2021) Albañileria / Pintura 
-    + Adecuación de aulas
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Impermeabilización y cambio de vidrios
-
-*  (2021) Electricidad 
-    + Instalaciòn de 8 purificadores
-
-*  (2021) Gas 
-    + Reparación e instalación de gas
 
 
 

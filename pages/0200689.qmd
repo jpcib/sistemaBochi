@@ -21,20 +21,5 @@ subtitle: 'EEM N° 02/14° ARGENTINOS JUNIORS'
 *  (2023) Electricidad 
     + Prov. Inst.  circuito iluminación emerge
 
-*  (2022) Electricidad 
-    + Reponer 3 ventiladores de 4to año x vand, Prov y Coloc 5 Ventiladores Pared, SDF - Aula de primer año
-
-*  (2022) Incendio 
-    + Proveer y colocar matafuegos
-
-*  (2022) Medios de elevación 
-    + Reparación de Ascensor
-
-*  (2021) Albañileria / Pintura 
-    + Reparación Escalera Hormigón
-
-*  (2021) Incendio 
-    + Reparar alarma contra incendio
-
 
 

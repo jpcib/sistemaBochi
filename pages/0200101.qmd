@@ -15,33 +15,6 @@ subtitle: 'ENS N° 06 VICENTE LOPEZ Y PLANES'
 
 
 
-## Mantenimiento
-
-*  (2022) Electricidad 
-    + Cables y pintura sala computacion
-
-*  (2022) Gas 
-    + Cambio de llaves de paso de estufas
-
-*  (2022) Otros Servicios 
-    + Secundaria del Futuro etapa 5
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Cambio de membrana impermeable terrazas, Pintura sobre membrana geotextil
-
-*  (2021) Electricidad 
-    + Circuito independiente para luces emerg, Provisión y colocacion de 4 ventiladores
-
-*  (2021) Incendio 
-    + Instalacion electrica taller VLyPlanes
-
-*  (2021) Medios de elevación 
-    + Habilitacion del ascensor
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Armario 2 

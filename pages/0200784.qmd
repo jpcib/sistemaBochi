@@ -8,6 +8,8 @@ subtitle: 'Sup Inicial VIII B - EPC N° 19 BARTOLINA SISA - JII N° 03/17° EL J
 
 ## Mobiliario
 
+*  (2023) : Mesa inicial 10, Silla escolar 60 
+
 *  (2022) : Banco largo comedor 40, Mesa usos múltiples 20 
 
 *  (2021) : Armario 6, Mesa inicial 5, Pizarrón 1, Silla escolar 30 
@@ -20,15 +22,6 @@ subtitle: 'Sup Inicial VIII B - EPC N° 19 BARTOLINA SISA - JII N° 03/17° EL J
 
 *  (2023) Albañileria / Pintura 
     + Pintura en salas y hall de entrada JIN
-
-*  (2022) Albañileria / Pintura 
-    + Solicitud de c y p desmonte tabique
-
-*  (2022) Gas 
-    + Refaccion aula 4to grado
-
-*  (2021) Electricidad 
-    + Instalación 9 equipos purificadores de a
 
 
 

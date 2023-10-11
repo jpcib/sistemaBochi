@@ -19,23 +19,5 @@ subtitle: 'Sup Inicial III A - JII N° 01/07° ANDRES FERREYRA'
 *  (2023) Incendio 
     + Cambio de manguera
 
-*  (2022) Electricidad 
-    + Nueva central telefónica en supervision
-
-*  (2022) Incendio 
-    + Cambio de manguera en nicho, Recolocar 9 nuevos matafuegos
-
-*  (2021) Albañileria / Pintura 
-    + Pintura cocina, comedor, Hall y 4 aulas
-
-*  (2021) Calefaccion y Refrigeracion 
-    + Encendido estufas y rep cañerías calefac
-
-*  (2021) Electricidad 
-    + PROVISION Y COLOC. DE LUCES DE EMERG.
-
-*  (2021) Gas 
-    + Restablecimiento de Gas, Cambio caldera-Reacond. sala de maquinas
-
 
 

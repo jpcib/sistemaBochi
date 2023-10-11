@@ -12,21 +12,3 @@ subtitle: 'EPC N° 12 CARDENAL PACELLI - JIN D (EPCJS 12/16°)'
 
 
 
-
-
-## Mantenimiento
-
-*  (2021) Calefaccion y Refrigeracion 
-    + Instalacion de estufas TBU
-
-*  (2021) Carpinterías 
-    + Colocacion de Red Antipalomas
-
-*  (2021) Gas 
-    + Instalaciones de gas
-
-*  (2021) Incendio 
-    + Reponer 10 extintores
-
-
-

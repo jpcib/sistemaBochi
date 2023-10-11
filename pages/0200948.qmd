@@ -20,23 +20,5 @@ subtitle: 'EPC N° 03 CRISTOBAL COLON - EPA N° 03 CRISTOBAL COLON - JIN A (EPCJ
 *  (2023) Electricidad 
     + Seguridad sala informática y sala apoyo
 
-*  (2022) Medios de elevación 
-    + Adecuación a normas ascensor
-
-*  (2022) Sanitarias 
-    + Reposicion tanque reserva, Reposicion de inodoro y 2 depositos x va, Reposición de termotanque casa casera, Recambio de inodoro B° V PB
-
-*  (2021) Electricidad 
-    + Instalacion purificador de aire
-
-*  (2021) Gas 
-    + Puesta en normativa Gas
-
-*  (2021) Medios de elevación 
-    + Puesta en normativa ascensor
-
-*  (2021) Sanitarias 
-    + Reposicion inodoro por vandalismo
-
 
 

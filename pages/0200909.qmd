@@ -11,11 +11,5 @@ subtitle: 'CENS N° 25 - JIN B (EPCJS 12/20°) - EPC N° 12 PROF. RAMON J. GENE'
 *  (2023) Calefaccion y Refrigeracion 
     + Reemplazar estufas obsoletas o rotas
 
-*  (2022) Gas 
-    + Cambiar calefon roto vivienda casero
-
-*  (2021) Electricidad 
-    + Reponer ventilador y artef de luz-Secret, instalar purificadores en aulas primaria, Instalacion luces de emergencia
-
 
 

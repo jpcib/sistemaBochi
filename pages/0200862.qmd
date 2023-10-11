@@ -31,32 +31,5 @@ subtitle: 'EPC N° 19 JOSE MARTI - EPA N° 19 JOSE MARTI'
 *  (2023) Incendio 
     + Cambiar matafuegos de pasillo 1erP
 
-*  (2022) Carpinterías 
-    + Cambiar vidrio roto en SUM x vandalismo
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + cambio de cubierta en SUM y aulas 1°piso
-
-*  (2022) Electricidad 
-    + Ventiladores en SUM
-
-*  (2022) Gas 
-    + Adecuacion instalacion de gas
-
-*  (2022) Sanitarias 
-    + Prov,coloc griferias laborat y terraza x, Provisión instalacion inodoro
-
-*  (2021) Albañileria / Pintura 
-    + Aislación cubiertas-Pintura S Aceleració, Coloc. placas de cielorraso x vandalismo
-
-*  (2021) Calefaccion y Refrigeracion 
-    + Instalación de control de llama-Caldera
-
-*  (2021) Carpinterías 
-    + Colocar barandas y plataformas-Terraza
-
-*  (2021) Sanitarias 
-    + Proveer tapa para cámara cloacal x vanda, Adecuación de baños
-
 
 

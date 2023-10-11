@@ -31,20 +31,5 @@ subtitle: 'EPC N° 21 HIPOLITO VIEYTES - CENS N° 60'
 *  (2023) Electricidad 
     + Instalación en espacios seguros
 
-*  (2022) Albañileria / Pintura 
-    + Acondicionamiento de 2 aulas Primer Piso
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Aislación Hidrófuga de Azotea Inaccesibl
-
-*  (2022) Sanitarias 
-    + Reemplazo de 3 tanques fibrocemento
-
-*  (2021) Otros Servicios 
-    + Instalación Purificadores Aulas
-
-*  (2021) Saneamiento 
-    + Limpieza de Tanques
-
 
 

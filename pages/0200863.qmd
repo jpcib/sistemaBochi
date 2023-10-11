@@ -26,39 +26,6 @@ subtitle: 'POLIDEPORTIVO - EEM N° 02/19° - PI JAURETCHITOS - EEM N° 02/19° A
 *  (2023) Incendio 
     + Instalación contra incendio., Instalación contra incendio.
 
-*  (2022) Carpinterías 
-    + Reparación de mástil en Gral
-
-*  (2022) Electricidad 
-    + 12 reflectores para SUM e Ingreso
-
-*  (2022) Medios de elevación 
-    + Proveer e instalar tablero en ascensor
-
-*  (2022) Sanitarias 
-    + Reparacion de pluvial patio trasero
-
-*  (2021) Calefaccion y Refrigeracion 
-    + Instalacion de 2 purificadores de aire
-
-*  (2021) Carpinterías 
-    + Reparar paño de reja predio
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Impermeabiliz cubierta,pintura techo
-
-*  (2021) Electricidad 
-    + Proveer, instalar para rayos por vandal, Prov, inst de tablero en ascensor
-
-*  (2021) Gas 
-    + Puesta en norma de inst de gas, adecuación de mecheros a normativa., Prov, instalar termotanque casa casero
-
-*  (2021) Incendio 
-    + Rep. y prov. nicho, lanzas y manguera
-
-*  (2021) Medios de elevación 
-    + Adecuación de ascensor
-
 
 
 
@@ -78,12 +45,6 @@ subtitle: 'POLIDEPORTIVO - EEM N° 02/19° - PI JAURETCHITOS - EEM N° 02/19° A
 ## Seguridad
 
 *  Espacios seguros: 3 - Estado: Finalizado 
-    + Guardia física: NO
-
-*  Espacios seguros: 0 - Estado: Finalizado 
-    + Guardia física: NO
-
-*  Espacios seguros: 0 - Estado: Finalizado 
     + Guardia física: NO
 
 

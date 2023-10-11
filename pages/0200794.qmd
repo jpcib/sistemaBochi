@@ -20,14 +20,8 @@ subtitle: 'Sup. Media Region 7 - EEM N° 03/17° ANTONIO DEVOTO - CENS N° 65 - 
 *  (2023) Electricidad 
     + Instalación de luces de emergencia
 
-*  (2022) Albañileria / Pintura 
-    + Ejecucion 2 aulas del Futuro
-
-*  (2022) Incendio 
-    + Recarga de 8 matafuegos
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Impermeab. medianera SUM, Reparar cubierta biblioteca
+*  (2023) Gas 
+    + Retiro/provisíon/instalación 10 estufas
 
 
 
@@ -38,15 +32,6 @@ subtitle: 'Sup. Media Region 7 - EEM N° 03/17° ANTONIO DEVOTO - CENS N° 65 - 
 *  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 *  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
 
 
 

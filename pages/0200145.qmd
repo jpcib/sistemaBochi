@@ -10,7 +10,7 @@ subtitle: 'EPC N° 13 PROV. SANTIAGO DEL ESTERO - CENS N° 42'
 
 *  (2023) : Armario 8 
 
-*  (2021) : Armario 6, Escritorio 4, Mesa integradora con escotadura 1, Mesa pupitre doble 69, Pizarrón 3, Silla escolar 202 
+*  (2021) : Armario 6, Escritorio 4, Mesa pupitre doble 69, Pizarrón 3, Silla escolar 202 
 
 
 
@@ -21,11 +21,8 @@ subtitle: 'EPC N° 13 PROV. SANTIAGO DEL ESTERO - CENS N° 42'
 *  (2023) Incendio 
     + Reemplazo y provision de extintores
 
-*  (2022) Medios de elevación 
-    + Puesta en reglamentacion de ascensor
-
-*  (2021) Medios de elevación 
-    + Arreglo de ascensor
+*  (2023) Medios de elevación 
+    + Puesta en marcha del ascensor
 
 
 

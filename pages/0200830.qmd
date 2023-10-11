@@ -17,7 +17,7 @@ subtitle: 'ESC. TEC. N° 27 HIPOLITO YRIGOYEN'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Silla escolar 93 
 
 *  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 3, Silla escolar 123 
 
@@ -37,27 +37,6 @@ subtitle: 'ESC. TEC. N° 27 HIPOLITO YRIGOYEN'
 
 *  (2023) Electricidad 
     + Colocacion Sist Alarma Espacio Seguro, Inst. electrica reflectores azotea (3)
-
-*  (2022) Albañileria / Pintura 
-    + Secundarias del Futuro 2022 - 3 Aulas
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Aire Acondicionado Aula Computacion
-
-*  (2022) Carpinterías 
-    + Riel dentado fundicion en porton acceso, Films polarizados Laboratorio cero.
-
-*  (2022) Electricidad 
-    + Inst Eléctrica Reflectores azoteas (2), Colocac de grupo electróg/ selector fase, Puesta en Norma Inst Luces de Emergencia
-
-*  (2021) Albañileria / Pintura 
-    + Reparacion de fachadas y pintura patio, Demolición revestimiento fachadcipatio
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Impermeabilización membrana s/Biblioteca, Colocacion chapas sobre semicubierto
-
-*  (2021) Sanitarias 
-    + Provision agua pileta Sala Profesores
 
 
 

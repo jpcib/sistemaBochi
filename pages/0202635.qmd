@@ -17,20 +17,11 @@ subtitle: 'JII Nº 11/6º'
 
 ## Mantenimiento
 
-*  (2022) Gas 
-    + Adecuación de inst de gas a Normativa
+*  (2023) Electricidad 
+    + Instalación 4 fotocelulas reflectores
 
-*  (2022) Sanitarias 
-    + Provisión tablas inodoro bebé
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
+*  (2023) Medios de elevación 
+    + Cambio de colisas de cabina
 
 
 

@@ -33,20 +33,5 @@ subtitle: 'LICEO N° 09 SANTIAGO DERQUI'
 *  (2023) Sanitarias 
     + Reemplazo de tanque de reserva
 
-*  (2022) Albañileria / Pintura 
-    + Adecuación preceptoria PA, Colocacion piso sala de lectura, Adecuacion laboratorio
-
-*  (2022) Carpinterías 
-    + Adecuacion sala de computacion
-
-*  (2022) Electricidad 
-    + Aulas secundaria del futuro, Instalacion electrica sala de musica, Instalacion electrica sala de profesores
-
-*  (2021) Albañileria / Pintura 
-    + Aulas del futuro, Integracion sala de arte y tecnologia
-
-*  (2021) Calefaccion y Refrigeracion 
-    + COLOCACION DE AIRE ACONDICIONADO ENAULAS
-
 
 

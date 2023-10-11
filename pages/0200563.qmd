@@ -20,12 +20,6 @@ subtitle: 'Sup Primaria DE 11 - JIN D (EPCJS 15/11°) [S] SIN FRONTERAS - EPA N�
 *  (2023) Medios de elevación 
     + Colocación de rampa provisoria
 
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilización terraza 2da fase
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Impermeabilización terraza supervisión
-
 
 
 
@@ -35,15 +29,6 @@ subtitle: 'Sup Primaria DE 11 - JIN D (EPCJS 15/11°) [S] SIN FRONTERAS - EPA N�
 *  (2022) : Pizarrón 11 
 
 *  (2021) : Armario 3, Escritorio 4, Mesa pupitre doble 90, Pizarrón 2, Silla escolar 124 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
 
 
 

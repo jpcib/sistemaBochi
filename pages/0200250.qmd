@@ -19,14 +19,5 @@ subtitle: 'ESCUELA INF. N° 06/05° ROSARIO VERA PEÑALOZA'
 *  (2023) Albañileria / Pintura 
     + Freno de deterioro - etapa 1
 
-*  (2021) Calefaccion y Refrigeracion 
-    + Reemplazar estufa direccion y secretaria
-
-*  (2021) Carpinterías 
-    + Barandas y techos, Traba de madera en baranda,cielorrasos, Modificación de rejas linderas a Htal
-
-*  (2021) Gas 
-    + Extender ventilación termotanque cocina
-
 
 

@@ -11,11 +11,5 @@ subtitle: 'Polideportivo de establecimientos DE 16'
 *  (2023) Albañileria / Pintura 
     + Reacond de pisos y ampliación de red plu
 
-*  (2022) Albañileria / Pintura 
-    + Elevación de muro medianero
-
-*  (2021) Incendio 
-    + Proveer y colocar 6 Extintores
-
 
 

@@ -31,20 +31,5 @@ subtitle: 'JIC N° 01/18° REPUBLICA ARGENTINA - EPC N° 02 ALEJANDRO AGUADO'
 *  (2023) Sanitarias 
     + Cambiador en Sala de 2 años Inicial
 
-*  (2022) Albañileria / Pintura 
-    + Reparacion y Pintura Fachada
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Aire Acondicionado Direccion Inicial
-
-*  (2022) Electricidad 
-    + Timbre portero Sala Cooperadora
-
-*  (2021) Albañileria / Pintura 
-    + Piso de Goma Patio de Juegos Inicial
-
-*  (2021) Calefaccion y Refrigeracion 
-    + Conducto Reglamentario Sala Caldera, Conducto Ventilación SUM, Aire Acondicionado F/C  7mo grado PA
-
 
 

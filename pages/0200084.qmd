@@ -24,26 +24,5 @@ subtitle: 'EPC N° 11 PROVINCIA DE JUJUY - JIN C (EPCJC 11/02°) - CENS N° 29'
 *  (2023) Otros Servicios 
     + Protecciones para artefacto de gas
 
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Cambio de membrana en azotea
-
-*  (2022) Gas 
-    + Reparación de red y artefactos de gas
-
-*  (2022) Incendio 
-    + Reposición de 1 Matafuegos ABC 5kg
-
-*  (2021) Carpinterías 
-    + Confección de rampa de madera
-
-*  (2021) Gas 
-    + Cotizar y reemplazar estufa de aula y co, Rreemplazo valvula solenoide
-
-*  (2021) Medios de elevación 
-    + Puesta en normativa de sistema elevaplat
-
-*  (2021) Sanitarias 
-    + Cambiar 2 tanques de agua
-
 
 

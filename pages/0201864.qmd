@@ -28,21 +28,6 @@ subtitle: 'EEM N° 02/13°'
 *  (2023) Gas 
     + Reparar perdida en cañería exterior
 
-*  (2022) Albañileria / Pintura 
-    + Realizar protección-Fachada
-
-*  (2022) Electricidad 
-    + Realizar 2 aulas del futuro
-
-*  (2022) Gas 
-    + Arreglo de instalación de gas artefactos
-
-*  (2021) Albañileria / Pintura 
-    + Reponer revestimientos faltantes Items 1, Reparar baño vandalizado, Cateo en cornisa de fachada
-
-*  (2021) Carpinterías 
-    + Reponer vidrios y reja
-
 
 
 
@@ -52,15 +37,6 @@ subtitle: 'EEM N° 02/13°'
 *  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
 
 
 

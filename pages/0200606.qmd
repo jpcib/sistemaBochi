@@ -34,17 +34,5 @@ subtitle: 'COLEGIO N° 09 JUSTO JOSE DE URQUIZA'
 *  (2023) Gas 
     + CAMBIAR CAÑERIA GAS LABORATORIOS, HABILITACION CALDERA Y RAMAS REGULACIÓN
 
-*  (2022) Electricidad 
-    + Instalación de purificadores
-
-*  (2022) Gas 
-    + REACONDICIONAMIENTO INST GAS
-
-*  (2022) Incendio 
-    + Reacondicionamiento IFCI
-
-*  (2021) Gas 
-    + Reacondicionamiento instalacion gas
-
 
 

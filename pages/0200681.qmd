@@ -21,17 +21,5 @@ subtitle: 'Sup Inicial X A - JII N° 03/14° EL JARDIN DE OLLEROS'
 *  (2023) Calefaccion y Refrigeracion 
     + Instalacion Aire acondicionado
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Instalación aire acondicionado, Instalación aire acondicionado
-
-*  (2022) Electricidad 
-    + Readecuacion tableros, alimentacion toma
-
-*  (2021) Electricidad 
-    + Luces de emergencia
-
-*  (2021) Gas 
-    + Adecuacion instalacion de gas
-
 
 

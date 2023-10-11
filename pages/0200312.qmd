@@ -31,52 +31,19 @@ subtitle: 'Museo Bernasconi - ESC. PRIMARIA COMÚN N° 91 DR. CARLOS SAAVEDRA LA
     + Realizar plataforma, coloc piso goma
 
 *  (2023) Calefaccion y Refrigeracion 
-    + reemplazo cañería vapor colector caldera
+    + reemplazo cañería vapor colector caldera, Reparaciones cañeria de vapor PB
+
+*  (2023) Carpinterías 
+    + Reemplazo puertas de 2 aulas
 
 *  (2023) Cubiertas / Impermeabilizaciones 
     + Impermeabilizacion cubierta cocina comed
 
 *  (2023) Electricidad 
-    + Instalacion tomacorrientes en aulas, reparacion maquina de traccion A4
+    + Instalacion tomacorrientes en aulas, reparacion maquina de traccion A4, Trabajos varios piso, termotanque
 
 *  (2023) Saneamiento 
     + Realizar desinsectacion arañas en museo
-
-*  (2022) Albañileria / Pintura 
-    + Tratamiento antideslizante en solado
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Reemplazo cañería vapor torre 2 pb, Reemplazo tramo cañería vapor averiada, Instalacion estufa electrica 2do grado, Reemplazo alimentacion y retirno cañeria, reparaciones en intercambiador de calor
-
-*  (2022) Carpinterías 
-    + Pulido y plastificado de piso sala Jardi
-
-*  (2022) Electricidad 
-    + Reemplazar 5 telefonos salas jardin 10
-
-*  (2022) Sanitarias 
-    + Reemplazo cañería de desagüe mingitorios, Reemplazo cañería desague sala maestros
-
-*  (2021) Albañileria / Pintura 
-    + Instalac cercos y cubiertas de proteccio, Pintura friso sala museo
-
-*  (2021) Calefaccion y Refrigeracion 
-    + Adecuación 4 calderas a normativa
-
-*  (2021) Carpinterías 
-    + Vallado perimetral patios
-
-*  (2021) Electricidad 
-    + Iluminación sala 7,8, vitrinas Cs Natura
-
-*  (2021) Gas 
-    + Adecuacion instalacion de gas
-
-*  (2021) Incendio 
-    + Reponer 2 mangueras de incendio, Cambio  de extintores
-
-*  (2021) Sanitarias 
-    + Reemp. bomba desagüe pluvial S.Calderas
 
 
 
@@ -84,7 +51,7 @@ subtitle: 'Museo Bernasconi - ESC. PRIMARIA COMÚN N° 91 DR. CARLOS SAAVEDRA LA
 
 ## Mobiliario
 
-*  (2023) : Juego de patio 1, Mesa inicial 10, Piso antigolpe para juegos 60, Pizarrón 10, Silla escolar 60 
+*  (2023) : Juego de patio 1, Mesa inicial 32, Piso antigolpe para juegos 60, Pizarrón 10, Silla escolar 192 
 
 *  (2022) : Armario 2, Mesa inicial 10, Mesa pupitre doble 48, Pizarrón 5, Silla escolar 156 
 

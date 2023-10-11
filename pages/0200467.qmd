@@ -17,7 +17,7 @@ subtitle: 'CENS N° 38 - IFTS N° 22 - ESC. TEC. N° 02 OSVALDO MAGNASCO'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Silla escolar 93 
 
 *  (2022) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
 
@@ -34,30 +34,6 @@ subtitle: 'CENS N° 38 - IFTS N° 22 - ESC. TEC. N° 02 OSVALDO MAGNASCO'
 
 *  (2023) Otros Servicios 
     + Cerramiento medianera
-
-*  (2022) Gas 
-    + Cambio de llaves de paso de estufas, Prov. coloc. 4 estufasde Tiro Balanceado
-
-*  (2022) Incendio 
-    + Provision y colocacion de matafuegos
-
-*  (2022) Otros Servicios 
-    + Refaccion sala de informatica PB, Provision y colocacion de AA, Secundaria del Futuro etapa 5
-
-*  (2021) Albañileria / Pintura 
-    + Protecciones en ventanas y escaleras
-
-*  (2021) Electricidad 
-    + Colocar panel calefaccion elec., Luces de emergencia en ET Magnasco
-
-*  (2021) Gas 
-    + Protecciones mecanicas de estufas de gas, Colocar 4 estufas
-
-*  (2021) Incendio 
-    + Prov y colocacion detectores de humo
-
-*  (2021) Medios de elevación 
-    + Puesta en normativa ascensor
 
 
 

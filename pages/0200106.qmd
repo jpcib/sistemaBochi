@@ -19,28 +19,7 @@ subtitle: 'ESEA EN DANZA RAMICONE CURSO VOCACIONAL DE FOLKLORE N° 10 - ESC. SUP
 ## Mantenimiento
 
 *  (2023) Calefaccion y Refrigeracion 
-    + Acondicionar 4 calefactores del taller
-
-*  (2022) Carpinterías 
-    + Adicionales por tanque
-
-*  (2022) Incendio 
-    + Reemplazo de matafuegos
-
-*  (2022) Otros Servicios 
-    + Aulas sec. del futuro, PROVISION E INST. DE VENTILADORES
-
-*  (2022) Sanitarias 
-    + Provision e instalacion de tanque
-
-*  (2021) Incendio 
-    + Provision de matafuegos faltantes
-
-*  (2021) Medios de elevación 
-    + Botonera parada de emergencia ascensor
-
-*  (2021) Otros Servicios 
-    + Reparaciones generales de Gas
+    + Acondicionar 4 calefactores del taller, Reponer fancoil sector administrativo
 
 
 

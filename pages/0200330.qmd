@@ -6,38 +6,13 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 06'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
+
+*  (2023) : Biblioteca 5 
 
 *  (2022) : Escritorio 1, Mesa inicial 2, Silla escolar 8 
 
 *  (2021) : Armario 5, Biblioteca 3, Escritorio 3, Mesa pupitre doble 20, Mesa usos múltiples 6, Silla escolar 70 
-
-
-
-
-
-## Mantenimiento
-
-*  (2022) Albañileria / Pintura 
-    + Pintura: aulas del fondo biblioteca Ver, Pintura exterior: Patio, Baños, Falta ag
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Reparar equipo de aire acondicionado
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Tepa Verificar item HERRERIA 7.4 Me da 1
-
-*  (2021) Incendio 
-    + Cambio de central de incendio
 
 
 

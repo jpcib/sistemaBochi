@@ -17,26 +17,11 @@ subtitle: 'IS DEL PROF. DR. JOAQUIN V. GONZALEZ'
 
 ## Mantenimiento
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Bombas de sistema de calefacción
+
 *  (2023) Gas 
     + Adecuaciones de instalación de gas
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Readecuacion de caldera
-
-*  (2022) Carpinterías 
-    + Sistema de seguridad puertas
-
-*  (2022) Electricidad 
-    + Repisa para notebook 3
-
-*  (2022) Incendio 
-    + Reposición de las lanzas faltantes
-
-*  (2021) Carpinterías 
-    + Reparacion  integral de puerta accesos, Colocacion de puerta de aula 101
-
-*  (2021) Electricidad 
-    + Adecuación sistema de alarma de incendio, Cambio cables en ascensor 2
 
 
 

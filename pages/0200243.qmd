@@ -21,17 +21,5 @@ subtitle: 'EPC N° 23 LORENZO ANADON - CENOF CENTRO TRAFUL'
 *  (2023) Electricidad 
     + Recambio de inodoro
 
-*  (2022) Calefaccion y Refrigeracion 
-    + Reemplazo EstufasTraful 3847 (Jardín)
-
-*  (2022) Carpinterías 
-    + Rejas en Biblioteca
-
-*  (2022) Gas 
-    + Válvula Solenoide cocina, Válvula Solenoide cocina
-
-*  (2022) Incendio 
-    + Cambio de Extintores
-
 
 

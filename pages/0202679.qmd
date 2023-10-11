@@ -33,26 +33,5 @@ subtitle: 'EPC N° 25 BANDERA ARGENTINA'
 *  (2023) Electricidad 
     + Reemplazo de Ventiladores
 
-*  (2022) Carpinterías 
-    + Provision y Colocacion de Black out-ofic, Provision y colocacion de Black out-espa
-
-*  (2022) Incendio 
-    + Rep. de Extintores y Acc. de la IFCI
-
-*  (2022) Sanitarias 
-    + Reposicion de inodoros vandalizados
-
-*  (2021) Calefaccion y Refrigeracion 
-    + ADECUACION SIST CALEFACCION
-
-*  (2021) Incendio 
-    + PROVISION Y COLOCACION DE BLACKOUT
-
-*  (2021) Medios de elevación 
-    + Reparacion y puesta en marcha ascensores
-
-*  (2021) Sanitarias 
-    + Conexion de agua a cisternas, Proveer camion cisterna de agua potable
-
 
 

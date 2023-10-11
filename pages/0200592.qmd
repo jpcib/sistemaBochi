@@ -4,21 +4,3 @@ subtitle: 'JIN D (EPCJS 09/12°) - EPC N° 09 LIC. DON MAURO FERNANDEZ - CENS N�
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2022) Albañileria / Pintura 
-    + Reparación de revoques y pintura aulas
-
-*  (2022) Electricidad 
-    + Instalación de purificadores
-
-*  (2022) Incendio 
-    + Colocación de 2  matafuegos
-
-*  (2021) Gas 
-    + Reparaciones en instalacion de gas
-
-
-

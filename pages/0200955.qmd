@@ -8,9 +8,6 @@ subtitle: 'EPC N° 13 DR. ALFREDO LANARI - JIN C (EPCJS 13/21°) - EPA N° 13 DR
 
 ## Seguridad
 
-*  Espacios seguros: 0 - Estado: Colocada a configurar 
-    + Guardia física: NO
-
 *  Espacios seguros: 1 - Estado: Colocada a configurar 
     + Guardia física: NO
 
@@ -36,21 +33,6 @@ subtitle: 'EPC N° 13 DR. ALFREDO LANARI - JIN C (EPCJS 13/21°) - EPA N° 13 DR
 
 *  (2023) Sanitarias 
     + Reposición  válvula de descarga inodoro
-
-*  (2022) Carpinterías 
-    + Reposición sistema cortina de enrollar
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilización de varios sectores
-
-*  (2022) Electricidad 
-    + Reposición de 5 ventiladores quemados, Recambio reflectores-Patio y hall
-
-*  (2022) Sanitarias 
-    + Recambio de dos piletas en pasillo, Reposición de inodoro por vandalismo
-
-*  (2021) Electricidad 
-    + colocación de 1 purificador en 6to grado, Colocar 1 purificador de aire en aula, Colocar purificador en aula informática
 
 
 

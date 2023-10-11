@@ -28,7 +28,7 @@ subtitle: 'Casa de la Cultura - CAEBYT N° 47 - EEM N° 06/05° - EPC N° 12 HOR
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
-*  (2021) : Escritorio 2, Mesa pupitre doble 30, Mesa trabajo estante 9, Silla escolar 60, Varios 18 
+*  (2021) : Escritorio 2, Mesa integradora con escotadura 1, Mesa pupitre doble 30, Mesa trabajo estante 9, Silla escolar 60, Varios 18 
 
 
 
@@ -37,31 +37,13 @@ subtitle: 'Casa de la Cultura - CAEBYT N° 47 - EEM N° 06/05° - EPC N° 12 HOR
 ## Mantenimiento
 
 *  (2023) Cubiertas / Impermeabilizaciones 
-    + Trabajos a Realizar Reparación de Cubier, Trabajos a Reparación de Cubierta
+    + Trabajos a Reparación de Cubierta, Trabajos a Realizar Reparación de Cubier
 
 *  (2023) Electricidad 
     + 3 Aulas Secundaria del Futuro, Espacio Seguro, Espacio Seguro
 
 *  (2023) Sanitarias 
-    + Descubrir cámara cloacal oculta y otros., Realizar nueva red cloacal hasta cámara
-
-*  (2022) Albañileria / Pintura 
-    + Retiro del piso de Porcelanato
-
-*  (2021) Albañileria / Pintura 
-    + Humedad de cimientos y otros, Accesibilidad y otros
-
-*  (2021) Calefaccion y Refrigeracion 
-    + Rep. cañeria y sistema de calefaccion., REPARACION DE CALDERA, Colocacion un Split en Lactario
-
-*  (2021) Carpinterías 
-    + Cerramiento, puertas x 2 videoteca, Reparaciones y Pintura en Palestra
-
-*  (2021) Gas 
-    + Adecuación Gas por Inspección Metrogas, Adecuación instalación de gas, Adecuación instalación de gas, Adecuación por Inspección de Metrogas
-
-*  (2021) Incendio 
-    + Provisión faltantes Incendio, Reemplazo de Tapas de Tanque de Incendio, Cambio de Mangueras y Acondicionamiento, Cambio de Mangueras de Hidrantes
+    + Realizar nueva red cloacal hasta cámara, Descubrir cámara cloacal oculta y otros.
 
 
 

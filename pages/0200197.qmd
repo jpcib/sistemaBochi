@@ -28,18 +28,6 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 *  (2023) Incendio 
     + Reposición 1 matafuegos ABC
 
-*  (2022) Albañileria / Pintura 
-    + Adicional pintura cieloraso
-
-*  (2022) Electricidad 
-    + Trabajos instalacion electrica y pintura
-
-*  (2022) Incendio 
-    + Reparación de cañeria  IFCI
-
-*  (2021) Gas 
-    + Modificaciones informe matriculado, Cambio de artefacto cocina casero
-
 
 
 
@@ -51,15 +39,6 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 *  (2022) : Armario 12, Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 *  (2021) : Armario 7, Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
 
 
 

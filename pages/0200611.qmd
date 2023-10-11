@@ -21,14 +21,5 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 12'
 *  (2023) Gas 
     + Cambio de estufa FVU
 
-*  (2022) Albañileria / Pintura 
-    + Refacción de SUM
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Retiro de chapas cara interior cubierta
-
-*  (2022) Gas 
-    + Cambio de TT en casa habitación
-
 
 

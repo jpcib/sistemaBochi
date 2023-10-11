@@ -34,17 +34,5 @@ subtitle: 'JIN B (EPCJS 09/03°) - EPC N° 09 MARIANO MORENO - EPA N° 09 MARIAN
 *  (2023) Electricidad 
     + Ejecucion Espacios Seguros, Reemplazo de Ventiladores
 
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Reparacion  de filtracion en techo
-
-*  (2022) Electricidad 
-    + Colocar iluminación de emergencia
-
-*  (2022) Gas 
-    + Reemplazar cocina de casa de casera, Reposición de calefon
-
-*  (2022) Sanitarias 
-    + Reponer tapa de tanque de agua
-
 
 

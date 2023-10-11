@@ -6,15 +6,6 @@ subtitle: 'EPC N° 14 CAPIT.MARIA REMEDIOS DEL VALLE - JIN A (EPCJC 14/19°)'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Escritorio 3, Mesa pupitre doble 45, Silla escolar 93 
@@ -27,12 +18,6 @@ subtitle: 'EPC N° 14 CAPIT.MARIA REMEDIOS DEL VALLE - JIN A (EPCJC 14/19°)'
 
 *  (2023) Calefaccion y Refrigeracion 
     + Remplazo de equipo de aire acondicionado
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Demolicion terraza patio casera, imperme
-
-*  (2021) Gas 
-    + Adecuacion de instalacion de gas
 
 
 

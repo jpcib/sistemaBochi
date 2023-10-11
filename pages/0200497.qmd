@@ -18,7 +18,7 @@ subtitle: 'Superv.Educ.Prim. Zona E Región IX-DE10 - EPC N° 03 ESTEBAN ECHEVER
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
-    + Pintura del gimnasio, Reparación de muros y pintura
+    + Reparación de muros y pintura, Pintura del gimnasio
 
 *  (2023) Gas 
     + Inst.5 protecciones mecánicas en estufas
@@ -28,12 +28,6 @@ subtitle: 'Superv.Educ.Prim. Zona E Región IX-DE10 - EPC N° 03 ESTEBAN ECHEVER
 
 *  (2023) Sanitarias 
     + Nuevo red clocal entre cámara, Reparación del tramo de cañería hall
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Impermeabilización de patios
-
-*  (2021) Electricidad 
-    + Reparación de timbre de recreos
 
 
 

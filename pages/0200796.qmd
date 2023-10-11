@@ -21,7 +21,7 @@ subtitle: 'INST. DE ENSEÑANZA SUPERIOR EN LENGUAS VIVAS JUAN B. JUSTO (SEDE)'
 
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
-*  (2021) : Armario 18, Banco largo comedor 34, Biblioteca 4, Escritorio 19, Mesa pupitre doble 168, Mesa usos múltiples 28, Pizarrón 25, Silla escolar 464, Varios 7 
+*  (2021) : Armario 18, Banco largo comedor 34, Biblioteca 4, Escritorio 19, Mesa pupitre doble 168, Mesa usos múltiples 28, Pizarrón 25, Silla escolar 463, Varios 7 
 
 
 
@@ -31,12 +31,6 @@ subtitle: 'INST. DE ENSEÑANZA SUPERIOR EN LENGUAS VIVAS JUAN B. JUSTO (SEDE)'
 
 *  (2023) Calefaccion y Refrigeracion 
     + Reemplazo de estufas TB fin de vida útil
-
-*  (2022) Albañileria / Pintura 
-    + Reparaciones en Aula por Incendio, Pintura en cielorraso-Aula circulación
-
-*  (2022) Incendio 
-    + Reposición IFCI, Ampliación de IFCI
 
 
 

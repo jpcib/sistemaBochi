@@ -6,15 +6,6 @@ subtitle: 'EEM N° 06/19 - EPC N° 23 RENÉ FAVALORO'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
@@ -31,21 +22,6 @@ subtitle: 'EEM N° 06/19 - EPC N° 23 RENÉ FAVALORO'
 
 *  (2023) Albañileria / Pintura 
     + Secundarias del Futuro, dos aulas taller
-
-*  (2022) Carpinterías 
-    + Secundarias del Futuro
-
-*  (2021) Albañileria / Pintura 
-    + Cerco medianero con fundacion y rejas, Refacciones Aulas del Futuro + cerramien, Adicional reja medianera Chilavert
-
-*  (2021) Gas 
-    + Puesta en normativa inst. gas
-
-*  (2021) Incendio 
-    + Reposicion de lanzas plasticas para mang
-
-*  (2021) Medios de elevación 
-    + Puesta en normativa ascensor
 
 
 

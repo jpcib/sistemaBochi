@@ -15,33 +15,6 @@ subtitle: 'JII N° 05/09° - EPC N° 05 HON. CONGRESO DE LA NACION - CECEP N° 0
 
 
 
-## Mantenimiento
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Cambio de quemador en caldera
-
-*  (2021) Calefaccion y Refrigeracion 
-    + Reparacion de Caldera y puesta en marcha
-
-*  (2021) Electricidad 
-    + Colocacion llaver general Edenor, Fallas en iluminación de Emergencia
-
-*  (2021) Gas 
-    + Reparación cocina y termotanque
-
-*  (2021) Incendio 
-    + reacondicionamiento de tablero para bomb
-
-*  (2021) Medios de elevación 
-    + Puesta en normativa ascensor
-
-*  (2021) Sanitarias 
-    + Construcción de pozo para desagüe
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Piso antigolpe para juegos 40 

@@ -19,11 +19,5 @@ subtitle: 'EPC N° 05 GABRIELA MISTRAL - EPA N° 05 GABRIELA MISTRAL'
 *  (2023) Albañileria / Pintura 
     + Reparación de revoques y pintura
 
-*  (2022) Sanitarias 
-    + Instalación de termotanque en cocina
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Impermeabilización terraza vivienda
-
 
 

@@ -6,19 +6,18 @@ subtitle: 'CAI N° 17 DE 09 - JII N° 04/09° - EPC N° 17 BLAS PARERA - EPA N°
 #
 
 
+## Mobiliario
+
+*  (2023) : Armario 10 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Electricidad 
     + Instalación de 2 ventiladores de pared
-
-*  (2022) Albañileria / Pintura 
-    + Apuntalamiento
-
-*  (2022) Incendio 
-    + 4 extintores ABC de 5 kg, Reponer 8 lanzas robadas
-
-*  (2022) Sanitarias 
-    + Reponer inodoro por destrucción
 
 
 

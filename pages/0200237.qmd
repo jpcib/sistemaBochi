@@ -21,20 +21,5 @@ subtitle: 'EPC N° 15 ARZOBISPO MARIANO A. ESPINOSA - JIN A (EPCJS 15/05°)'
 *  (2023) Albañileria / Pintura 
     + Reacondicionamiento de la dirección
 
-*  (2022) Albañileria / Pintura 
-    + Colocacion  placas antihumedad -especifi
-
-*  (2022) Electricidad 
-    + Coloc artef de iluminación-Patio Jardín
-
-*  (2021) Albañileria / Pintura 
-    + Colocacion de placas antihumedad
-
-*  (2021) Electricidad 
-    + Instalacion de 6 purificadores
-
-*  (2021) Gas 
-    + Rejas para estufas
-
 
 

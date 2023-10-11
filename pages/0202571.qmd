@@ -4,12 +4,3 @@ subtitle: 'ESC. DOMICILIARIA N° 02'
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2021) Electricidad 
-    + Instalación circuito luces emergencia
-
-
-

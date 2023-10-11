@@ -14,8 +14,5 @@ subtitle: 'JIN D (EPCJC 11/07°) - EPC N° 11 JOSE IGNACIO GORRITI'
 *  (2023) Gas 
     + Adecuación caldera e instalación de gas
 
-*  (2021) Electricidad 
-    + Instalacion 7 equipos purificadores
-
 
 

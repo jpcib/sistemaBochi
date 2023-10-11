@@ -25,8 +25,5 @@ subtitle: 'EPC N° 18 PROVINCIA DE LA RIOJA'
 *  (2023) Incendio 
     + Reposición de matafuegos ABC
 
-*  (2021) Gas 
-    + adecuación gas a norma vigente.
-
 
 

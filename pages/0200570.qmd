@@ -19,23 +19,5 @@ subtitle: 'Sup Inicial IV B - EPC N° 24 DR. PEDRO AVELINO TORRES - JII N° 03/1
 *  (2023) Albañileria / Pintura 
     + Pintura dos aulas del primer piso Jardin
 
-*  (2022) Gas 
-    + Prov.  instalación de válvula
-
-*  (2022) Incendio 
-    + Reposición de mangueras en hidrantes
-
-*  (2021) Electricidad 
-    + Reparación de red telefónica interna
-
-*  (2021) Gas 
-    + Instalacion de horno en cocina, instalación de electroválvula en cocina
-
-*  (2021) Medios de elevación 
-    + puesta en norma del ascensor
-
-*  (2021) Sanitarias 
-    + REEMPLAZO TERMOTANQUE CASA CASERA, desvío de ramal pluvial en patio jardin
-
 
 

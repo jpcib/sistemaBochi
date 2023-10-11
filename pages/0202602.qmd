@@ -20,8 +20,5 @@ subtitle: 'ESCUELA INF. N° 05/16°'
 *  (2023) Electricidad 
     + Espacios seguros
 
-*  (2022) Albañileria / Pintura 
-    + Ejecución de contrapiso de 20 m2
-
 
 

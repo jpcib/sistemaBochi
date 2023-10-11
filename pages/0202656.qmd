@@ -6,15 +6,6 @@ subtitle: 'EPC N° 11 DE 21'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2021) : Banco largo comedor 10, Mesa usos múltiples 5 
@@ -29,22 +20,7 @@ subtitle: 'EPC N° 11 DE 21'
     + cambio de cableado de datos equipos AA
 
 *  (2023) Electricidad 
-    + Reemplazo de artefactos de luminarias, Prov y coloc de 4 ventiladores
-
-*  (2022) Albañileria / Pintura 
-    + Cambio de placas de cielorraso-Aulas 3P
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilizacion en cubierta
-
-*  (2022) Incendio 
-    + instalacion fijas contra incendio
-
-*  (2022) Sanitarias 
-    + Realizacion prueba hidraulica 8 embudos
-
-*  (2021) Carpinterías 
-    + cerradura salida calle
+    + Prov y coloc de 4 ventiladores, Reemplazo de artefactos de luminarias
 
 
 

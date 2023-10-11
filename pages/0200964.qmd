@@ -23,27 +23,6 @@ subtitle: 'ESEA DANZA RAMICONE  FOLK.N° 20 - ESEA ARTES VISUALES LOLA MORA'
 *  (2023) Sanitarias 
     + Cambio de inodoro roto x vandalismo
 
-*  (2022) Carpinterías 
-    + Instalar rejas-Modificar puertas, Cambio de 2 vidrios de puerta exterior v
-
-*  (2022) Electricidad 
-    + Cambio de portero y arreglos por vandali
-
-*  (2022) Gas 
-    + Refacción de protecciones de estufas
-
-*  (2022) Medios de elevación 
-    + Puesta en Normativa de Ascensor
-
-*  (2021) Carpinterías 
-    + Reponer cerraduras x vandalismo.
-
-*  (2021) Gas 
-    + Readecuacion de gas, cambio de calefon
-
-*  (2021) Sanitarias 
-    + Reparaciones en vestuario por vandalismo, Cambio de inodoro fisurado x vandalismo
-
 
 
 
@@ -54,16 +33,7 @@ subtitle: 'ESEA DANZA RAMICONE  FOLK.N° 20 - ESEA ARTES VISUALES LOLA MORA'
 
 *  (2022) : Escritorio 4, Locker 90, Mesa pupitre doble 62, Pizarrón 3, Silla escolar 124 
 
-*  (2021) : Armario 16, Banco largo comedor 25, Escritorio 6, Mesa pupitre doble 90, Mesa usos múltiples 15, Pizarrón 4, Silla escolar 186, Varios 6 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
+*  (2021) : Armario 16, Banco largo comedor 25, Escritorio 6, Mesa pupitre doble 60, Mesa usos múltiples 15, Pizarrón 4, Silla escolar 186, Varios 6 
 
 
 

@@ -4,21 +4,3 @@ subtitle: 'CENS N° 20 - ESCUELA DE LA JOYA MAESTRO JOYERO SERGIO LUKEZ'
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2022) Incendio 
-    + Reemplazo de matafuegos
-
-*  (2022) Otros Servicios 
-    + Reemplazo bomba
-
-*  (2021) Electricidad 
-    + Instalacion de purificadores en aulas
-
-*  (2021) Otros Servicios 
-    + reparacion ascensor
-
-
-

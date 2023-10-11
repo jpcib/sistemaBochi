@@ -6,15 +6,6 @@ subtitle: 'JII N° 16/05°'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Varios 1 
@@ -29,9 +20,6 @@ subtitle: 'JII N° 16/05°'
 
 *  (2023) Calefaccion y Refrigeracion 
     + Reposición Cañería de Aire Acondicionado
-
-*  (2022) Sanitarias 
-    + Reemplazo de Termotanque Electrico
 
 
 

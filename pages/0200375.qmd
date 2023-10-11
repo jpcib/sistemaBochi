@@ -17,8 +17,5 @@ subtitle: 'EPC N° 25 REPUBLICA DE GUATEMALA'
 *  (2023) Medios de elevación 
     + Rampa móvil
 
-*  (2021) Electricidad 
-    + Instalacion 6 equipos purificadores
-
 
 

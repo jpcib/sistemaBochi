@@ -33,37 +33,13 @@ Puesta en norma del ascensor.
 *  (2023) Sanitarias 
     + Colocar tablas de inodoros y matafuegos
 
-*  (2022) Albañileria / Pintura 
-    + Instalacion de agua en laboratorio, Aulas del futuro aula 2,7,12,22
-
-*  (2022) Carpinterías 
-    + Reparación de las ventanas de las aulas
-
-*  (2022) Electricidad 
-    + Cambio paneles LED, tableros, Arreglos en placas de LED-Aulas, Adecuar inst eléctrica-Laboratorio
-
-*  (2022) Gas 
-    + Reacondicionamiento reguladores gas, Readecuar instalación de gas-Laboratorio
-
-*  (2022) Sanitarias 
-    + Cambio del termotanque de la cocina
-
-*  (2021) Calefaccion y Refrigeracion 
-    + Adicional-Puesta en marcha-Calefactores
-
-*  (2021) Electricidad 
-    + Instalación de 2 nuevos motores
-
-*  (2021) Gas 
-    + Adecuacion inst de gas, Adecuación de los equipos de calefacción
-
 
 
 
 
 ## Mobiliario
 
-*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
+*  (2023) : Escritorio 5, Mesa pupitre doble 75, Silla escolar 155 
 
 *  (2022) : Escritorio 7, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 214 
 

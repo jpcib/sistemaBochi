@@ -23,17 +23,8 @@ subtitle: 'EPC N° 19 GALICIA'
 *  (2023) Gas 
     + Cajones de Durlock
 
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Cambio de cubierta  desagües pluviales
-
-*  (2022) Electricidad 
-    + Aumento de potencia, Adicional aumento de potencia, “Instalación de 3 de Aire Acondic
-
-*  (2022) Incendio 
-    + Proveer extintores según plano
-
-*  (2021) Electricidad 
-    + Instalacion equipos purificadores, Adecuación eléctrica de la válv solenoid
+*  (2023) Sanitarias 
+    + Arreglo Tanque de Agua y tablero electr.
 
 
 

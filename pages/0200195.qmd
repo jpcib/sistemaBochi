@@ -29,34 +29,10 @@ subtitle: 'Sup Media Tecnica Region I - IFTS Nº 06 - ESC. TEC. N° 01 ING. OTTO
 ## Mantenimiento
 
 *  (2023) Electricidad 
-    + INSTALACION EN ESPACIOS SEGUROS
+    + INSTALACION EN ESPACIOS SEGUROS, TENDIDO ELECTRICO Y CONEXION HORNO
 
-*  (2022) Albañileria / Pintura 
-    + Pintura de claustro de talleres
-
-*  (2022) Carpinterías 
-    + tareas complementarias sector aulas de t
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Reemplazo de canaleta en cub parabólica
-
-*  (2022) Electricidad 
-    + Reemplazo de Timbres y Adecuación de IE, Prov. coloc. ventiladores y reposicion
-
-*  (2022) Incendio 
-    + Reemplazo de termotanque
-
-*  (2022) Saneamiento 
-    + Desratizacion
-
-*  (2021) Albañileria / Pintura 
-    + Pintura Integral de Taller de Tornería, Complementarias a Pintura de Taller Torn
-
-*  (2021) Calefaccion y Refrigeracion 
-    + Colocacion de purificadores
-
-*  (2021) Sanitarias 
-    + Reponer termotanque de casera, Adecuaciones en la Inst de Agua Fría
+*  (2023) Incendio 
+    + REPARACION BOMBA INCENDIO
 
 
 
@@ -64,7 +40,7 @@ subtitle: 'Sup Media Tecnica Region I - IFTS Nº 06 - ESC. TEC. N° 01 ING. OTTO
 
 ## Mobiliario
 
-*  (2023) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
+*  (2023) : Escritorio 6, Mesa pupitre doble 90, Silla escolar 186 
 
 *  (2022) : Escritorio 9, Mesa pupitre doble 120, Pizarrón 8, Silla escolar 278 
 

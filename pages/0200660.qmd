@@ -12,18 +12,3 @@ subtitle: 'EPC N° 04 GRAL. JUAN ANTONIO LAVALLEJA'
 
 
 
-
-
-## Mantenimiento
-
-*  (2022) Gas 
-    + Adecuación instalación de gas
-
-*  (2022) Sanitarias 
-    + Tanque cisterna y bombas
-
-*  (2021) Incendio 
-    + Reparar central de incendio
-
-
-

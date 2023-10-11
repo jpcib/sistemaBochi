@@ -6,15 +6,6 @@ subtitle: 'EPA N° 16 SABINA BOVE DE BOZALLA - EPC N° 16 SABINA BOVE DE BOZALLA
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Mesa pupitre doble 45, Silla escolar 90 
@@ -30,21 +21,6 @@ subtitle: 'EPA N° 16 SABINA BOVE DE BOZALLA - EPC N° 16 SABINA BOVE DE BOZALLA
 
 *  (2023) Gas 
     + Prov.colocacion de 2 estufas en aulas
-
-*  (2022) Albañileria / Pintura 
-    + Adecuación de patio, Adecuación de dirección y secretaría
-
-*  (2022) Calefaccion y Refrigeracion 
-    + Colocación de 6 estufas en aulas
-
-*  (2022) Carpinterías 
-    + adecuación de comedor
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Tareas varias en patio principal
-
-*  (2021) Sanitarias 
-    + Recambio de bomba succión
 
 
 

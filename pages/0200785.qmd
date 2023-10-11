@@ -19,8 +19,5 @@ subtitle: 'EPC N° 20 PEDRO MEDRANO'
 *  (2023) Electricidad 
     + Acond. Inst. elect. por aum. de potencia
 
-*  (2021) Electricidad 
-    + Instalación 6 equipos de purificadores
-
 
 
