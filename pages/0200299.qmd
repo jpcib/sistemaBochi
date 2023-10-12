@@ -26,7 +26,10 @@ subtitle: 'EPC N° 06 DR. GUILLERMO CORREA - JIC N° 03/06° - CAIYJ CLUB DE CHI
 
 ## Seguridad
 
-*  Espacios seguros: 1 - Estado: A confirmar 
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+*  Espacios seguros: 1 - Estado: Finalizado 
     + Guardia física: NO
 
 

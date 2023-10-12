@@ -11,6 +11,9 @@ subtitle: 'EPC N° 13 DR. ALFREDO LANARI - JIN C (EPCJS 13/21°) - EPA N° 13 DR
 *  Espacios seguros: 1 - Estado: Colocada a configurar 
     + Guardia física: NO
 
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
 
 
 

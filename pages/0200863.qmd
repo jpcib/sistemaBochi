@@ -47,5 +47,8 @@ subtitle: 'POLIDEPORTIVO - EEM N° 02/19° - PI JAURETCHITOS - EEM N° 02/19° A
 *  Espacios seguros: 3 - Estado: Finalizado 
     + Guardia física: NO
 
+*  Espacios seguros: 3 - Estado: Finalizado 
+    + Guardia física: NO
+
 
 

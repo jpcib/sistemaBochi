@@ -11,6 +11,9 @@ subtitle: 'EPC N° 01 CHACABUCO - JII N° 01/08° CIUDAD DE BUENOS AIRES - CENS 
 *  Espacios seguros: 1 - Estado: Finalizado 
     + Guardia física: NO
 
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
 
 
 

@@ -14,7 +14,7 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
 *  Espacios seguros: 0 - Estado: A confirmar 
     + Guardia física: SI
 
-*  Espacios seguros: 1 - Estado: A confirmar 
+*  Espacios seguros: 1 - Estado: Finalizado 
     + Guardia física: SI
 
 

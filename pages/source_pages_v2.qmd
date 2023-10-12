@@ -293,7 +293,7 @@ add_mobi_section_v1(data_mobi, dir = ".")
 ```
 
 ```{r data_seguridad, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_seguridad <- read_csv("../data/tabla_seguridad_05102023.csv") %>% 
+data_seguridad <- read_csv("../data/tabla_seguridad_12-10-2023.csv") %>% 
   mutate(status = str_to_sentence(status)) %>%
   # filter(espacios_seguros != 0 ) %>% 
   # arrange(desc(entrega)) %>%

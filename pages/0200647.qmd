@@ -55,5 +55,8 @@ subtitle: 'ESC. DE COM. N° 06 AMERICA - EEM N° 01/13° MANUEL MUJICA LAINEZ - 
 *  Espacios seguros: 1 - Estado: En ejecución 
     + Guardia física: NO
 
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
 
 
