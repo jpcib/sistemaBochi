@@ -6,8 +6,8 @@ subtitle: 'Sup. Media Region 7 - EEM N° 03/17° ANTONIO DEVOTO - CENS N° 65 - 
 #
 ## Infraestructura
 
-* , Adecuacion de cubierta, pluviales, carpinteria. Arreglo de revoques en aulas y patio. Adecuacion pintura interior de areas significantes y patio. Agregar sdf 
-    + Mejora Edilicia - Licitación 
+* , Adecuacion de cubierta, pluviales, carpinteria. arreglo de revoques en aulas y patio. adecuacion pintura interior de areas significantes y patio. agregar sdf 
+    + mejora edilicia - Licitación 
     + Inicio de obra: 24/12/2023 
 
 

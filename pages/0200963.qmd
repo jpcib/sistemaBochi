@@ -7,7 +7,7 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 ## Infraestructura
 
 * 2do año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el - 
 
 

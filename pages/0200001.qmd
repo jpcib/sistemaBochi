@@ -6,8 +6,8 @@ subtitle: 'JIN C (EPCJS 01/01°) - EPC N° 01 JUAN JOSE CASTELLI - CENS - UGEE N
 #
 ## Infraestructura
 
-* Fachadas (cambio de carpinterias y parasoles), nucleos sanitarios,(aula jines) mudanza de una sala, pintura completa, instalacion electrica y sanitario. Analizar instalacion termomecanica. red de proteccion en azotea. 
-    + Mejora Edilicia - En Proyecto 
+* Fachadas (cambio de carpinterias y parasoles), nucleos sanitarios,(aula jines) mudanza de una sala, pintura completa, instalacion electrica y sanitario. analizar instalacion termomecanica. red de proteccion en azotea. 
+    + mejora edilicia - En Proyecto 
     + Inicio de obra: 24/3/2024 
 
 

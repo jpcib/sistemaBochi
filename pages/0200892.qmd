@@ -7,13 +7,13 @@ subtitle: 'JII N° 14/19°'
 ## Infraestructura
 
 * Instalacion de gas 
-    + Mejora Edilicia - En Proyecto 
-    + Inicio de obra: 10/10/2023 
+    + mejora edilicia - Fracasado 
+    + Inicio de obra: 3/11/2023 
 
 
 * Instalacion de gas 
-    + Mejora Edilicia - Licitación 
-    + Inicio de obra: 3/11/2023 
+    + mejora edilicia - Licitación 
+    + Inicio de obra: 15/01/2024 
 
 
 

@@ -7,7 +7,7 @@ subtitle: 'JM N°15/19°'
 ## Infraestructura
 
 * Instalacion electrica 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el 17/2/2022 
 
 

@@ -7,7 +7,7 @@ subtitle: 'EPC N° 03 ING. ALVAREZ CONDARCO - JIN C (EPCJC 03/14°) [S]'
 ## Infraestructura
 
 * Instalacion electrica completa 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el 30/6/2023 
 
 

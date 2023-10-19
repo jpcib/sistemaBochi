@@ -6,9 +6,9 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
 #
 ## Infraestructura
 
-* Sanitarios. (Fondos inet) 
-    + Mejora Edilicia - En Obra 
-    + Inicio de obra: 29/3/2023 - Avance: 77% - Fecha de finalización: 30/9/2023 
+* Sanitarios. (fondos inet) 
+    + mejora edilicia - Finalizado 
+    + Finalizada el 30/9/2023 
 
 
 

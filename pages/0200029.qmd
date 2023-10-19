@@ -7,12 +7,22 @@ subtitle: 'ENS N° 01 LENGUAS VIVAS PRES. R. S. PEÑA - LICEO N° 04 R. DE ESCAL
 ## Infraestructura
 
 * Impermeabilizacion 
-    + Mejora Edilicia - En Obra 
-    + Inicio de obra: 22/7/2023 - Avance: 94% - Fecha de finalización: NEUTRALIZADA 
+    + mejora edilicia - En Obra 
+    + Inicio de obra: 22/7/2023 - Avance: 94% - Fecha de finalización: neutralizada 
+
+
+* Impermeabilizacion 
+    + mejora edilicia - Fracasado 
+    + Inicio de obra: - 
+
+
+* Impermeabilizacion 
+    + mejora edilicia - Fracasado 
+    + Inicio de obra: - 
 
 
 * 2do año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el - 
 
 

@@ -7,7 +7,7 @@ subtitle: 'EPC N° 13 PREFECTURA NAVAL ARGENTINA - ESCUELA INF. N° 04/17°'
 ## Infraestructura
 
 * Impermeabilizacion 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el 3/4/2022 
 
 

@@ -6,9 +6,9 @@ subtitle: 'EPC N° 02 GRAL. MARIANO ACHA'
 #
 ## Infraestructura
 
-* Plan mejora en   adecuacion   cocina , comedor ,  cubierta  y reparacion revoques y pintura en areas significativas + evaluacion estado polideportivo. Acustizar comedor. 
-    + Mejora Edilicia - Planificado 
-    + Inicio de obra: Sin fecha de inicio 
+* Plan mejora en   adecuacion   cocina , comedor ,  cubierta  y reparacion revoques y pintura en areas significativas + evaluacion estado polideportivo. acustizar comedor. 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: 6/11/2024 
 
 
 

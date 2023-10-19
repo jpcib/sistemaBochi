@@ -7,7 +7,7 @@ subtitle: 'ESC. DE COM. N° 09 JOSE INGENIEROS'
 ## Infraestructura
 
 * 2do año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el - 
 
 

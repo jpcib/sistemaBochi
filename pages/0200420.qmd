@@ -7,7 +7,7 @@ subtitle: 'BOA N° 01 ANTONIO BERNI - COLEGIO N° 10 JOSE DE SAN MARTIN'
 ## Infraestructura
 
 * Mejoramiento edilicio e instalación eléctrica 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el 11/7/2023 
 
 

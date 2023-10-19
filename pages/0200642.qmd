@@ -7,13 +7,13 @@ subtitle: 'Sup Media Region V - LICEO N° 08 ESTEBAN ECHEVERRIA'
 ## Infraestructura
 
 * 3er año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el 11/3/2023 
 
 
 * Plan mejora en   adecuacion  patio, inst gas-calefaccion ,electricidad  y  pintura en areas significativas 
-    + Mejora Edilicia - Planificado 
-    + Inicio de obra: Sin fecha de inicio 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: 11/05/2025 
 
 
 

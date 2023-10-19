@@ -7,7 +7,7 @@ subtitle: 'ESCUELA INF. N° 09/05° - EPC N°05 DE 05'
 ## Infraestructura
 
 * NA 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el - 
 
 

@@ -6,8 +6,8 @@ subtitle: 'JII N° 04/03° EL JARDIN DEL MANZANO'
 #
 ## Infraestructura
 
-* Sanitarios. (Fondos covid) 
-    + Mejora Edilicia - Finalizado 
+* Sanitarios. (fondos covid) 
+    + mejora edilicia - Finalizado 
     + Finalizada el 1/3/2023 
 
 

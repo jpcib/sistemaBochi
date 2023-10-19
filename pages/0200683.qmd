@@ -7,7 +7,7 @@ subtitle: 'ESC. DE COM. N° 24 DR. DALMACIO VELEZ SARSFIELD'
 ## Infraestructura
 
 * 2do año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el 16/3/2023 
 
 

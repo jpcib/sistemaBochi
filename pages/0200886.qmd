@@ -7,7 +7,7 @@ subtitle: 'EEM N° 04/19° HOMERO MANZI - PI POMPEYITOS'
 ## Infraestructura
 
 * 3er año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el 19/3/2023 
 
 

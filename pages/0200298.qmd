@@ -7,7 +7,8 @@ subtitle: 'CENS N° 70 - EPC N° 05 PAUL GROUSSAC'
 ## Infraestructura
 
 * Pintura general y arreglos de algunos sectores de revoque. 
-    + Mejora Edilicia - Finalizado 
+ 
+    + mejora edilicia - Finalizado 
     + Finalizada el 11/4/2023 
 
 

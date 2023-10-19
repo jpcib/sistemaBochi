@@ -6,8 +6,8 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 05'
 #
 ## Infraestructura
 
-* Sanitarios. (Fondos covid) 
-    + Mejora Edilicia - Finalizado 
+* Sanitarios. (fondos covid) 
+    + mejora edilicia - Finalizado 
     + Finalizada el 25/8/2022 
 
 

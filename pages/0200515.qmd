@@ -4,13 +4,12 @@ subtitle: 'EPC N° 21 CNEL. CORNELIO SAAVEDRA - JIN E (EPCJC 21/10°) [S]'
 ---
 
 #
+## Infraestructura
 
+* Oficio judical 
+    + mejora edilicia - En Proyecto 
+    + Inicio de obra: 17/6/2024 
 
-## Mobiliario
-
-*  (2022) : Armario 4, Escritorio 2, Mesa pupitre doble 30, Mesa usos múltiples 2, Silla escolar 30, Varios 4 
-
-*  (2021) : Banco largo comedor 20, Mesa usos múltiples 10, Varios 4 
 
 
 
@@ -20,6 +19,16 @@ subtitle: 'EPC N° 21 CNEL. CORNELIO SAAVEDRA - JIN E (EPCJC 21/10°) [S]'
 
 *  (2023) Albañileria / Pintura 
     + Adecuación de sector depósitos, Reparar arenero en Jardín, Retiro revestimiento sala musica
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Armario 4, Escritorio 2, Mesa pupitre doble 30, Mesa usos múltiples 2, Silla escolar 30, Varios 4 
+
+*  (2021) : Banco largo comedor 20, Mesa usos múltiples 10, Varios 4 
 
 
 

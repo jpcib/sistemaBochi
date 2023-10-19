@@ -7,7 +7,7 @@ subtitle: 'ESEA DANZA RAMICONE  FOLK.N° 20 - ESEA ARTES VISUALES LOLA MORA'
 ## Infraestructura
 
 * 3er año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el - 
 
 

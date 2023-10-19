@@ -6,9 +6,9 @@ subtitle: 'JIN D (EPCJC 24/12°) - EPC N° 24 PADRE CASTAÑEDA'
 #
 ## Infraestructura
 
-* Acondicionamiento de cubierta, sanitarios, cocina  inst electrica gas, piso, cielorraso. Arreglo de revoque patio. Adecuacion pintura interior de areas significantes y 
-    + Mejora Edilicia - En Obra 
-    + Inicio de obra: 01/09/2023 - Avance: 0% - Fecha de finalización: 28/5/2024 
+* Acondicionamiento de cubierta, sanitarios, cocina  inst electrica gas, piso, cielorraso. arreglo de revoque patio. adecuacion pintura interior de areas significantes y 
+    + mejora edilicia - En Obra 
+    + Inicio de obra: 01/09/2023 - Avance: 2% - Fecha de finalización: 28/5/2024 
 
 
 

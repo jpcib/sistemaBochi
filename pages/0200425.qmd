@@ -7,12 +7,12 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
 ## Infraestructura
 
 * Accesibilidad, ascensor. (amparo) 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el 12/6/2022 
 
 
 * 3er año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el 11/3/2023 
 
 

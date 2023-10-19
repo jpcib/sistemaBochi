@@ -6,8 +6,8 @@ subtitle: 'EPC N° 24 CONTRALMIRANTE MARTIN GUERRICO'
 #
 ## Infraestructura
 
-* Sanitarios. (Fondos covid) 
-    + Mejora Edilicia - Finalizado 
+* Sanitarios. (fondos covid) 
+    + mejora edilicia - Finalizado 
     + Finalizada el 19/9/2022 
 
 

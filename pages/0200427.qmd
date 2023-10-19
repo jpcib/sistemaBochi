@@ -7,12 +7,12 @@ subtitle: 'ENS N°04 ESTANISLAO SEVERO ZEBALLOS - LICEO N° 02 AMANCIO ALCORTA'
 ## Infraestructura
 
 * Creacion de un comedor 
-    + Mejora Edilicia - En Obra 
-    + Inicio de obra: 01/06/2023 - Avance: 14% - Fecha de finalización: 28/12/2023 
+    + mejora edilicia - En Obra 
+    + Inicio de obra: 01/06/2023 - Avance: 17% - Fecha de finalización: 28/12/2023 
 
 
 * Instalacion electrica completa, impermeabilizacion, restauracion de un sector de fachada 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el 13/9/2022 
 
 

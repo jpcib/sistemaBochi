@@ -7,12 +7,12 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 19 - ESC. DE COM. N° 19 JU
 ## Infraestructura
 
 * 2do año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el 30/1/2023 
 
 
 * Accesibilidad, ascensor. (amparo) 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el 25/4/2022 
 
 

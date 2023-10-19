@@ -6,22 +6,31 @@ options(scipen = 999)
 
 
 #PLANIFICACIÓN - Selección de columnas
-gop_raw <- 
-  googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1Q1p_3pHECh8xOPOUeZj1bQV8dW7Ch1uJhk7-HFm3fRE/edit?usp=sharing",
-                            sheet = "Planificación 2022-23", col_types = "c") %>% 
-  janitor::clean_names() %>%
+# gop_raw <- 
+#   googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1Q1p_3pHECh8xOPOUeZj1bQV8dW7Ch1uJhk7-HFm3fRE/edit?usp=sharing",
+#                             sheet = "Planificación 2022-23", col_types = "c") %>% 
+#   janitor::clean_names() %>%
+#   # glimpse()
+#   #selecciono columnas para ME
+#   select(n_proyecto, direccion = nivel_7, cui, estado_actual, estado_a_fin_de_obra, intervenciones,
+#          presupuesto_estimado = ppto_estimado_plani, presupuesto_final = ppto_oficial, 
+#          estado, subestado, fuente, 
+#          pase_dgar = contains("dgar"), inicio_obra = contains("inicio_obra"), plazo_obra, ampliacion_de_plazo, 
+#          avance_de_obra = avance_de_obra_real, fin_obra = contains("fin_obra"), 
+#          expediente, 
+#          eje) %>%
+#   glimpse()
+
+gop_raw <- read_csv("../infra_reporte/data/clean/plani_clean_17-10-23.csv") %>%
   # glimpse()
-  #selecciono columnas para ME
-  select(n_proyecto, direccion = nivel_7, cui, estado_actual, estado_a_fin_de_obra, intervenciones,
-         presupuesto_estimado = ppto_estimado_plani, presupuesto_final = ppto_oficial, 
-         estado, subestado, fuente, 
+  select(n_proyecto, direccion, cui, intervenciones,
+         presupuesto_estimado = ppto_estimado_plani, presupuesto_final = presupuesto, 
+         estado, subestado, fuente,
          pase_dgar = contains("dgar"), inicio_obra = contains("inicio_obra"), plazo_obra, ampliacion_de_plazo, 
          avance_de_obra = avance_de_obra_real, fin_obra = contains("fin_obra"), 
          expediente, 
-         eje) %>%
+         eje) %>% 
   glimpse()
-
-
 
 plani_clean <- gop_raw %>% 
   filter(!is.na(n_proyecto)) %>% 
@@ -44,9 +53,10 @@ plani_clean <- gop_raw %>%
   filter(estado != "Baja") %>% 
   mutate(fin_obra = case_when(is.na(fin_obra) ~ " - ",
                               fin_obra == "-" ~ " - ",
-                              T ~ fin_obra),
-         fin_obra = case_when(n_proyecto == "x043" ~ "PARA RESCINDIR",
-                        T ~ fin_obra)) %>% 
+                              T ~ fin_obra)
+         # fin_obra = case_when(n_proyecto == "x043" ~ "PARA RESCINDIR",
+         #                T ~ fin_obra)
+         ) %>% 
   glimpse()
 
 DataExplorer::profile_missing(plani_clean)
@@ -59,4 +69,4 @@ DataExplorer::profile_missing(plani_clean)
 
 #OJO
 #
-write_csv(plani_clean, "data/infra_gop_13-09.csv")
+write_csv(plani_clean, "data/infra_gop_18-10.csv")

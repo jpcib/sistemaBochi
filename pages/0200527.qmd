@@ -7,7 +7,7 @@ subtitle: 'EEM N° 05/10° HEROES DE MALVINAS'
 ## Infraestructura
 
 * 2do año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el - 
 
 

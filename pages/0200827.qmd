@@ -7,7 +7,7 @@ subtitle: 'COLEGIO N° 13 CNEL. TOMAS ESPORA - EEM N° 01/18° E REINGRESO - PI 
 ## Infraestructura
 
 * 2do año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el 4/4/2023 
 
 

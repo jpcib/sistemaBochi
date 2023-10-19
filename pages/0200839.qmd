@@ -7,7 +7,7 @@ subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
 ## Infraestructura
 
 * 2do año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el 23/3/2023 
 
 

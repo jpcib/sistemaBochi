@@ -7,7 +7,7 @@ subtitle: 'COLEGIO N° 06 MANUEL BELGRANO - COLEGIO N° 15 REVOLUCION DE MAYO'
 ## Infraestructura
 
 * 3er año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el 4/4/2023 
 
 

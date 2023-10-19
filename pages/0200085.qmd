@@ -6,8 +6,8 @@ subtitle: 'Sup Inicial III B - JII N° 04/02º'
 #
 ## Infraestructura
 
-* Reparaciones varias. Mejoras en núcleos sanitarios. Ejecución cuña desmontable. Tratamiento de humedad de cimientos. Trabajos sanitarios. Instalación eléctrica 
-    + Mejora Edilicia - Finalizado 
+* Reparaciones varias. mejoras en núcleos sanitarios. ejecución cuña desmontable. tratamiento de humedad de cimientos. trabajos sanitarios. instalación eléctrica 
+    + mejora edilicia - Finalizado 
     + Finalizada el 30/7/2023 
 
 

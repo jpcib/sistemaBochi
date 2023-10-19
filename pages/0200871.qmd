@@ -7,7 +7,7 @@ subtitle: 'EEM N° 03/19° - CAIYJ CLUB BAJO FLORES - CAIYJ CLUB DE CHICOS BAJO 
 ## Infraestructura
 
 * 3er año 
-    + SDF - En Obra 
+    + sdf - En Obra 
     + Inicio de obra: Sin fecha de inicio - Avance: 90% - Fecha de finalización: - 
 
 

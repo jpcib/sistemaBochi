@@ -53,12 +53,9 @@ for (id_edificio in data$cui) {
 ```
 
 ```{r data_infra, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_infra <- read_csv("../data/infra_gop_13-09.csv") %>% 
+data_infra <- read_csv("../data/infra_gop_18-10.csv") %>% 
   mutate(intervenciones = str_to_sentence(intervenciones)) %>% 
-  # select(-c(nota_de_inicio:avance_de_obra_real)) %>% 
-  # filter(n_proyecto != "x093") %>% #elimino goleta santa cruz
   arrange(cui) %>% 
-  # slice(5:14) %>% 
   glimpse()
 
 ```

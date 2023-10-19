@@ -7,7 +7,7 @@ subtitle: 'ESC. DE COM. N° 33 MAIPU'
 ## Infraestructura
 
 * Instalacion electrica completa 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el 31/1/2023 
 
 

@@ -7,7 +7,7 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 ## Infraestructura
 
 * 3er año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el - 
 
 

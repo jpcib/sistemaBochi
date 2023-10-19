@@ -7,7 +7,7 @@ subtitle: 'EPC N° 04 PROVINCIA DE CORDOBA'
 ## Infraestructura
 
 * Sanitario e impermeabilizacion 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el - 
 
 

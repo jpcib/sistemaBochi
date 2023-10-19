@@ -6,9 +6,14 @@ subtitle: 'EPC N° 12 HERMINIA BRUMANA'
 #
 ## Infraestructura
 
-* Accesibilidad basica,  cubierta, pintura hall y patio. Instalacion electrica completa 
-    + Mejora Edilicia - Licitación 
+* Accesibilidad basica,  cubierta, pintura hall y patio. instalacion electrica completa 
+    + mejora edilicia - Licitación 
     + Inicio de obra: 15/1/2024 
+
+
+* Accesibilidad basica,  cubierta, pintura hall y patio. instalacion electrica completa 
+    + mejora edilicia - Licitación 
+    + Inicio de obra: 14/2/2024 
 
 
 

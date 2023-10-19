@@ -6,14 +6,14 @@ subtitle: 'Polideportivo ESC. TEC. N° 30 DR. NORBERTO PIÑERO - ESC. TEC. N° 3
 #
 ## Infraestructura
 
+* Mejora edilicia, sanitarios, talleres. 
+    + mejora edilicia - Finalizado 
+    + Finalizada el 7/1/2023 
+
+
 * Puesta en funcionamineot de la calefaccion 
     + 433 - Planificado 
     + Inicio de obra: Sin fecha de inicio 
-
-
-* Mejora edilicia, sanitarios, talleres. 
-    + Mejora Edilicia - Finalizado 
-    + Finalizada el 7/1/2023 
 
 
 

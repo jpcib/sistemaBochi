@@ -12,13 +12,14 @@ Reparación / recomposición de los revoques en paramentos interiores afectados 
 Restauración de carpinterías y herrerías (puertas, ventanas, postigos, celosías y rejas de protección).
 Pintura general de paramentos interiores y cielorrasos de todos los locales del establecimiento
 Adecuación de instalación eléctrica a normativas vigentes, ejecución de instalación sanitaria nueva para los núcleos sanitarios, instalación pluvial.
-Reinstalación de cañerías de gas exteriores en el interior del edificio. 
-    + Mejora Edilicia - En Obra 
-    + Inicio de obra: 01/08/2023 - Avance: 0% - Fecha de finalización: 31/7/2024 
+Reinstalación de cañerías de gas exteriores en el interior del edificio.
+ 
+    + mejora edilicia - En Obra 
+    + Inicio de obra: 01/08/2023 - Avance: 2% - Fecha de finalización: 31/7/2024 
 
 
 * Reparacion de medianera 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el - 
 
 

@@ -7,7 +7,7 @@ subtitle: 'ESC. TEC.  N°25 TTE.1° DE ARTILLERIA F.L.BELTRAN'
 ## Infraestructura
 
 * Cambio de chapas y pintura 
-    + Mejora Edilicia - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el 20/4/2023 
 
 

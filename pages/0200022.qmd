@@ -7,7 +7,7 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N° 02 - COLEGIO N° 02 DOMINGO FAUS
 ## Infraestructura
 
 * 2do año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el - 
 
 

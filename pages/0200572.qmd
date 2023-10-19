@@ -7,7 +7,7 @@ subtitle: 'ESC. TEC. N° 05 MARIA DE ESCALADA DE SAN MARTIN'
 ## Infraestructura
 
 * 3er año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el - 
 
 

@@ -7,7 +7,7 @@ subtitle: 'EEM N° 03/07°'
 ## Infraestructura
 
 * 2do año 
-    + SDF - Finalizado 
+    + sdf - Finalizado 
     + Finalizada el 18/3/2023 
 
 
