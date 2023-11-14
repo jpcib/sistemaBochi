@@ -18,7 +18,7 @@ options(scipen = 999)
 # write_csv(clean_resumida,"~/Documents/rst/megcba/sistemaBochi/data/base_resumida.csv")  
 
 
-raw_completa <- read_xlsx("../infra_reporte/data/Base de Edificios_08_03.xlsx", 
+raw_completa <- read_xlsx("data/Base de Edificios_18_10_23.xlsx", 
                           sheet = "BASE CON CUE_CUI COMPLETA") %>% 
   janitor::clean_names() %>% 
   drop_na(cui) %>%
@@ -104,9 +104,17 @@ base_completa <- clean_completa %>%
   select(cui,distrito,nombre_establecimiento,domicilio_edificio,numero_escuela) %>% 
   glimpse()
 
-write_csv(base_completa,"~/Documentos/rst/megcba/sistemaBochi/data/base_completa_v6.csv")  
+write_csv(base_completa,"~/Documentos/rst/megcba/sistemaBochi/data/base_completa_v7.csv")  
 
+#Check 
+v7 <- read_csv("data/base_completa_v7.csv") %>% 
+  glimpse()
 
+v6 <- read_csv("data/base_completa_v6.csv") %>% 
+  glimpse()
+
+anti_join(v6,v7, by = "cui") %>% 
+  view()
 
 #Update tabla con links 
 library(tidyverse)

@@ -20,6 +20,8 @@ subtitle: 'EPC N° 15 DR. CARLOS ALBERTO VERONELLI - JII N° 01/21° - CENOF CEN
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Mesa pupitre doble 94, Silla escolar 188 
 
 *  (2021) : Mesa inicial 20, Pizarrón 3, Silla escolar 60 
@@ -35,6 +37,33 @@ subtitle: 'EPC N° 15 DR. CARLOS ALBERTO VERONELLI - JII N° 01/21° - CENOF CEN
 
 *  (2023) Sanitarias 
     + Realizar camara de inspeccion, Cambio de tapas de tanque laterales, Cambio termotanque
+
+*  (2022) Albañileria / Pintura 
+    + Pintura fachadas y mejoras pintura
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Cambio de estufa en sala de maestros
+
+*  (2022) Carpinterías 
+    + Seguridad externas  por vandalismo, Reponer cerradura y picaporte x vandalis, Reparar cerradura por vandalismo
+
+*  (2022) Gas 
+    + Adecuación de Metrogas
+
+*  (2021) Calefaccion y Refrigeracion 
+    + 2 estufas eléctricas para casa casera
+
+*  (2021) Carpinterías 
+    + Reponer cerradura puerta comedor/patio x, Reponer cerradura de puerta cesac x vand
+
+*  (2021) Electricidad 
+    + Ejecución de 3 porteros por vandalismo
+
+*  (2021) Gas 
+    + Reparación en instalacion de gas, Colocación de 2 protecciones en estufas
+
+*  (2021) Sanitarias 
+    + Rep. termotanque en casa de casera
 
 
 

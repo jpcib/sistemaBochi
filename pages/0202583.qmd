@@ -34,5 +34,23 @@ subtitle: 'EPC N° 24'
 *  (2023) Incendio 
     + Adecuación de nichos de hidrantes
 
+*  (2022) Carpinterías 
+    + Vidrio vandalizado en puerta de ingreso, provision y colocacion de puerta por van, Prov y coloc.pasadores en pueta Sum, Puerta en baño nenes PB, Prov. Coloc soga en mastil, Rep.de alambre de púas por vandalismo, Provisión de puerta principal
+
+*  (2022) Gas 
+    + Instalación de gas
+
+*  (2022) Sanitarias 
+    + CAMBIO DE TERMOTANQUE
+
+*  (2021) Carpinterías 
+    + Prov e instalacion de cerraduras x vanda, Colocar cerradura puerta principal x van, Prov y coloc.  vidrios rotos por vandali
+
+*  (2021) Incendio 
+    + Reparar nichos y lanzas de incendio
+
+*  (2021) Medios de elevación 
+    + Adecuación de ascensor
+
 
 

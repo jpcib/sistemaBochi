@@ -23,11 +23,31 @@ Mejoramiento integral de los patios descubiertos del edificio. instalación elé
 *  (2023) Albañileria / Pintura 
     + Adecuacion de instalacion de gas
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Remplazo de 3 estufas a gas
+
+*  (2022) Electricidad 
+    + Iluminacion de  Emergencia
+
+*  (2022) Medios de elevación 
+    + Reparar montacargas
+
+*  (2022) Sanitarias 
+    + Reemplazo de caño pluvial
+
+*  (2021) Electricidad 
+    + Colocación de purificadores
+
+*  (2021) Medios de elevación 
+    + Reparar plataformas elevadoras
+
 
 
 
 
 ## Mobiliario
+
+*  (2023) : NA 1 
 
 *  (2022) : Armario 9, Escritorio 7, Mesa inicial 8, Mesa pupitre doble 78, Pizarrón 20, Silla escolar 221 
 

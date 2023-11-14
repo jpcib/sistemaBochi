@@ -17,5 +17,11 @@ subtitle: 'ESCUELA INF. N° 03/04°'
 *  (2023) Medios de elevación 
     + Reparar eje de polea, polea tensora
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Reponer el equipo de aire acondicionado
+
+*  (2021) Gas 
+    + Red de gas
+
 
 

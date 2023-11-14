@@ -33,5 +33,20 @@ subtitle: 'EPC N° 01 CHACABUCO - JII N° 01/08° CIUDAD DE BUENOS AIRES - CENS 
 *  (2023) Electricidad 
     + Reparacion de Sistema de Vigilancia
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Estufa de 5700kcal., INSTALACION DE 4 AA EN SALAS JARDIN
+
+*  (2022) Carpinterías 
+    + Coloc. carpinterias salas de jardin
+
+*  (2022) Electricidad 
+    + RECOLOCAR REFLECTORES EN FACHADA
+
+*  (2022) Incendio 
+    + SSTEMA DE PROTECCIÓN CONTRA INCENDIO
+
+*  (2021) Electricidad 
+    + COLOCACION DE REFLECTORES EN ACCESO
+
 
 

@@ -28,5 +28,8 @@ subtitle: 'ESC. POLITEC. MANUEL BELGRANO'
 *  (2023) Otros Servicios 
     + Instalación en espacios seguros
 
+*  (2021) Electricidad 
+    + Secundarias del Futuro
+
 
 

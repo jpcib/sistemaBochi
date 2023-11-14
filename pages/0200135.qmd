@@ -8,6 +8,8 @@ subtitle: 'JIN B (EPCJC 23/03°) [S] - CENS N° 37 SEDE - EPC N° 23 GRAL. VIAMO
 
 ## Mobiliario
 
+*  (2023) : Mesa inicial 10, Mesa pupitre doble 90, Silla escolar 240 
+
 *  (2022) : Armario 6, Escritorio 4, Mesa pupitre doble 30, Pizarrón 14, Silla escolar 64, Varios 1 
 
 *  (2021) : Banco largo comedor 10, Mesa usos múltiples 5 
@@ -23,6 +25,15 @@ subtitle: 'JIN B (EPCJC 23/03°) [S] - CENS N° 37 SEDE - EPC N° 23 GRAL. VIAMO
 
 *  (2023) Electricidad 
     + Reemplazo de ventiladores de techo
+
+*  (2022) Gas 
+    + Adecuación de inst de gas a Normativa
+
+*  (2021) Electricidad 
+    + Instalacion luces de emergencia PB, Instalación luces de emergencia 1º piso
+
+*  (2021) Sanitarias 
+    + Reposición Tapas de tanques de agua
 
 
 

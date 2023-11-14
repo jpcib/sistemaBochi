@@ -14,5 +14,14 @@ subtitle: 'POLIDEPORTIVO 9 DE JULIO'
 *  (2023) Carpinterías 
     + Colocar alambrado en sector faltante
 
+*  (2022) Electricidad 
+    + Cambio de termotanque 50 lts eléctrico.
+
+*  (2021) Albañileria / Pintura 
+    + Realizar muro bajo rejas
+
+*  (2021) Electricidad 
+    + Provision de anafe electrico
+
 
 

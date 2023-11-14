@@ -8,6 +8,8 @@ subtitle: 'EPC N° 02 PROF. JUAN JOSE MILLAN - JIN E (EPCJS 02/17°) JUANA MANSO
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Armario 2, Escritorio 4, Mesa pupitre doble 30, Silla escolar 64 
 
 
@@ -18,6 +20,18 @@ subtitle: 'EPC N° 02 PROF. JUAN JOSE MILLAN - JIN E (EPCJS 02/17°) JUANA MANSO
 
 *  (2023) Electricidad 
     + Inst. Eléctrica s/etapas prevista
+
+*  (2022) Albañileria / Pintura 
+    + 2da etapa Reparac Cielorr Aulas 1,2,3
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Puesta en marcha de calefacción, Cambio equipo calefactor fin vida útil
+
+*  (2021) Albañileria / Pintura 
+    + Reparar Cielorrasos 1ero,2do y 3er grado
+
+*  (2021) Electricidad 
+    + Instalación 7 equipos purificadores aire, Puesta en norma Tablero Principal en SS
 
 
 

@@ -15,6 +15,14 @@ subtitle: 'JIC N° 12/20°'
 
 
 
+## Mobiliario
+
+*  (2023) : NA 1 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
@@ -25,6 +33,15 @@ subtitle: 'JIC N° 12/20°'
 
 *  (2023) Electricidad 
     + Reparacion de Sistema de Vigilancia
+
+*  (2022) Carpinterías 
+    + Proveer y colocar cerradura-Dirección
+
+*  (2022) Sanitarias 
+    + Provision y colocación de termotanque
+
+*  (2021) Carpinterías 
+    + Colocar cerradura- Puerta Acceso por van
 
 
 

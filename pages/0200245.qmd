@@ -10,7 +10,7 @@ subtitle: 'EPC N° 25 MARCOS PAZ'
 
 *  (2023) : Pizarrón 15 
 
-*  (2021) : Pizarrón 2 
+*  (2021) : Mesa pupitre doble 149, Pizarrón 2 
 
 
 
@@ -20,6 +20,24 @@ subtitle: 'EPC N° 25 MARCOS PAZ'
 
 *  (2023) Calefaccion y Refrigeracion 
     + Remplazo 3 estufas + protecciones
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Reemplazo Estufas Alcorta 2502 Primaria
+
+*  (2022) Carpinterías 
+    + Colocación protección columnas, Reparacion de persianas.
+
+*  (2022) Incendio 
+    + Faltantes incendio según informe AJYB
+
+*  (2021) Carpinterías 
+    + Protecciones en esquinas hojas ventana
+
+*  (2021) Electricidad 
+    + Reposicion de portero electrico.
+
+*  (2021) Sanitarias 
+    + Reparación perdida cañería Cloacal
 
 
 

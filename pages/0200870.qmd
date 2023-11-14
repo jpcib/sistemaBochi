@@ -41,5 +41,29 @@ subtitle: 'ESC. TEC.  N° 33 F. MAESTRANZA DEL PLUMERILLO - CAIYJ CLUB POMPEYA'
 *  (2023) Sanitarias 
     + Adecuación bajada Sanitaria, Sanitarios, Sanitaria
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Reemplazo Estufas Rabanal 1549 (Técnica)
+
+*  (2022) Electricidad 
+    + Adecuación Tablero Buffet
+
+*  (2022) Incendio 
+    + Cambio de Mangueras
+
+*  (2022) Sanitarias 
+    + Rep. /Inst. de Automatico de Bomba, Rotura inodoro por vandalismo, Desvío salida cloacal provisoria
+
+*  (2021) Albañileria / Pintura 
+    + Reparacion de estructuras y otros, Adicionales Reparación cubierta, Fijacion de placas de cielorraso
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Reponer cañeria split por vandalismo, Instalar 10 splits
+
+*  (2021) Carpinterías 
+    + Guardaganado,pileta,conexion pluvial, Elevación rejas y colocación cocertina
+
+*  (2021) Incendio 
+    + Reposición de 2 lanzas por Vandalismo, Reemplazo de 7 extintores
+
 
 

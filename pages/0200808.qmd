@@ -8,11 +8,11 @@ subtitle: 'EPC N° 04 CASIMIRO AURELIANO MACIEL - JINA(EPCJS 04/18°)LA CALESITA
 
 ## Mobiliario
 
-*  (2023) : Mesa inicial 14, Silla escolar 84 
+*  (2023) : Mesa inicial 14, Silla escolar 84, NA 1 
 
 *  (2022) : Banco largo comedor 48, Mesa pupitre doble 30, Mesa usos múltiples 24, Silla escolar 60 
 
-*  (2021) : Escritorio 3, Mesa integradora con escotadura 1, Mesa pupitre doble 60, Pizarrón 3, Silla escolar 63 
+*  (2021) : Escritorio 3, Mesa integradora con escotadura 1, Mesa pupitre doble 30, Pizarrón 3, Silla escolar 63 
 
 
 
@@ -28,6 +28,21 @@ subtitle: 'EPC N° 04 CASIMIRO AURELIANO MACIEL - JINA(EPCJS 04/18°)LA CALESITA
 
 *  (2023) Gas 
     + Adecuación Inst. Gas
+
+*  (2022) Albañileria / Pintura 
+    + Demoler pileta en Sala 4y5 Inicial
+
+*  (2022) Electricidad 
+    + Instalacion luces de emergencia
+
+*  (2022) Sanitarias 
+    + Aliviadores de canaletas de cubiertas
+
+*  (2021) Albañileria / Pintura 
+    + Rep Revoques-Pintura Aulas Etapa 1
+
+*  (2021) Electricidad 
+    + Instalacion Purificadores de Aire
 
 
 

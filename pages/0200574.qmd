@@ -36,5 +36,17 @@ subtitle: 'LICEO N° 05 PASCUAL GUAGLIANONE - ESC. TEC.  N° 18 JOSE ANTONIO ALV
 *  (2023) Electricidad 
     + INSTALACION EN ESPACIOS SEGUROS
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Provisión de caldera de calefacción
+
+*  (2022) Incendio 
+    + Trabajos en la IFCI
+
+*  (2021) Albañileria / Pintura 
+    + Secundaria del Futuro 2021, Reparación solado exterior
+
+*  (2021) Electricidad 
+    + Secundaria del futuro 2022
+
 
 

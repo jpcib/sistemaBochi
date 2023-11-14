@@ -8,7 +8,11 @@ subtitle: 'EPC N° 03 POLICIA FEDERAL ARGENTINA - JINA(EPCJC 03/17°)ALICIA MORE
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Mesa inicial 5, Silla escolar 30 
+
+*  (2021) : Mesa pupitre doble 15 
 
 
 
@@ -18,6 +22,27 @@ subtitle: 'EPC N° 03 POLICIA FEDERAL ARGENTINA - JINA(EPCJC 03/17°)ALICIA MORE
 
 *  (2023) Gas 
     + Estufa en sala plastica
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Proveer Split frío/calor de 3000
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Insonorización 2da parte
+
+*  (2022) Electricidad 
+    + Insonorización extracción cocina
+
+*  (2022) Sanitarias 
+    + Reponer mingitorio roto por vandalismo
+
+*  (2021) Electricidad 
+    + Instalación 4 equipos purificadores aire
+
+*  (2021) Incendio 
+    + Reparar tablero control
+
+*  (2021) Sanitarias 
+    + Rep tramo cloacal Bº M-patio trasero
 
 
 

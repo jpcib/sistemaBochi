@@ -21,5 +21,14 @@ subtitle: 'EPC N° 22 MARTINA SILVA DE GURRUCHAGA - EPA N° 22 MARTINA SILVA DE 
 *  (2023) Electricidad 
     + Reemplazo de 2 ventiladores de pared
 
+*  (2021) Carpinterías 
+    + Reparacion de carpinteria de madera etap
+
+*  (2021) Electricidad 
+    + Circuito y luces de emergencia, colocacion de 7 luminarias asimetricas
+
+*  (2021) Gas 
+    + Proteccion de calefactores
+
 
 

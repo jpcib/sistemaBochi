@@ -8,7 +8,27 @@ subtitle: 'EPC N° 12 CARDENAL PACELLI - JIN D (EPCJS 12/16°)'
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2021) : Banco largo comedor 24, Mesa usos múltiples 12 
+
+
+
+
+
+## Mantenimiento
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Instalacion de estufas TBU
+
+*  (2021) Carpinterías 
+    + Colocacion de Red Antipalomas
+
+*  (2021) Gas 
+    + Instalaciones de gas
+
+*  (2021) Incendio 
+    + Reponer 10 extintores
 
 
 

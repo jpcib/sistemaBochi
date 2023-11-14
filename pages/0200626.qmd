@@ -17,7 +17,7 @@ subtitle: 'JINC(EPCJS 08/13)[S]NIÑOS LATINOAMERIC. - EPC N° 08 REINO DE THAILA
 
 ## Mobiliario
 
-*  (2023) : Armario 2, Mesa inicial 10, Pizarrón 2, Silla escolar 60 
+*  (2023) : Armario 2, Mesa inicial 10, Pizarrón 2, Silla escolar 60, NA 1 
 
 *  (2021) : Banco largo comedor 20, Mesa inicial 3, Mesa usos múltiples 10, Silla escolar 10 
 
@@ -35,6 +35,24 @@ subtitle: 'JINC(EPCJS 08/13)[S]NIÑOS LATINOAMERIC. - EPC N° 08 REINO DE THAILA
 
 *  (2023) Sanitarias 
     + Reemplazo de griferias en baños, Sumist e instalación de mochilas
+
+*  (2022) Carpinterías 
+    + Cambio puerta doble de acceso
+
+*  (2022) Electricidad 
+    + Reemplazar ventiladores faltante o rotos
+
+*  (2022) Medios de elevación 
+    + Reparar ascensor
+
+*  (2022) Sanitarias 
+    + Reponer inodoro roto
+
+*  (2021) Albañileria / Pintura 
+    + Rep pared irregular aulas,pase cañeria
+
+*  (2021) Carpinterías 
+    + reparar 10 puertas de madera rotas, Colocar placares en aulas
 
 
 

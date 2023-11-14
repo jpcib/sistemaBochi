@@ -10,7 +10,7 @@ subtitle: 'JII N° 02/15° JUAN M. COGHLAN - EPC N° 15 MANUEL ANTONIO ACEVEDO'
 
 *  (2022) : Armario 2, Escritorio 3, Mesa inicial 10, Silla escolar 63 
 
-*  (2021) : Banco largo comedor 8, Mesa usos múltiples 4, Pizarrón 4 
+*  (2021) : Banco largo comedor 8, Mesa pupitre doble 28, Mesa usos múltiples 4, Pizarrón 4 
 
 
 
@@ -26,6 +26,27 @@ subtitle: 'JII N° 02/15° JUAN M. COGHLAN - EPC N° 15 MANUEL ANTONIO ACEVEDO'
 
 *  (2023) Otros Servicios 
     + Cambio de cañería cloacal y acondicionam
+
+*  (2022) Albañileria / Pintura 
+    + Cielorraso suspendido-Comedor
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Instalación de cañerías nuevas de calefa
+
+*  (2022) Carpinterías 
+    + Reemplazo del ventanal de hierro
+
+*  (2022) Medios de elevación 
+    + Cambio de la placa de seguridades
+
+*  (2022) Sanitarias 
+    + Reparar y limpiar cámara desengrasadora
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Reparar instalaciones cloacales en baños
+
+*  (2021) Sanitarias 
+    + Trabajos en cañeria cloacal
 
 
 

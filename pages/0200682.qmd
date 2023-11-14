@@ -8,7 +8,7 @@ subtitle: 'JM N° 01/14° PAULA ALBARRACIN'
 
 ## Mobiliario
 
-*  (2023) : Mesa inicial 5, Silla escolar 40 
+*  (2023) : Mesa inicial 5, Silla escolar 40, NA 1 
 
 
 
@@ -18,6 +18,18 @@ subtitle: 'JM N° 01/14° PAULA ALBARRACIN'
 
 *  (2023) Carpinterías 
     + Remplazo puerta ventana/bomba presuriz.
+
+*  (2022) Albañileria / Pintura 
+    + Solicitud placas antihumedad
+
+*  (2022) Electricidad 
+    + Reemplazo del motor de la campan
+
+*  (2022) Incendio 
+    + Proveer Extintor clase K en cocina
+
+*  (2021) Sanitarias 
+    + Reacondicionamiento de baño de niños
 
 
 

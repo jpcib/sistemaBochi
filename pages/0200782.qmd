@@ -6,10 +6,30 @@ subtitle: 'EPC N° 17 RODOLFO RIVAROLA - JIN E (EPCJC 17/17°) JUANA MANSO [S]'
 #
 
 
+## Mobiliario
+
+*  (2023) : NA 1 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Sanitarias 
     + Provisión de bomba faltante
+
+*  (2022) Albañileria / Pintura 
+    + Cielorraso Circulación der 1er piso
+
+*  (2022) Sanitarias 
+    + Reparación cloaca y nueva CI
+
+*  (2021) Gas 
+    + Pintura Circulación y Prov 6 TB
+
+*  (2021) Sanitarias 
+    + Cambio hojas puertas placa Bo Alumnos, Desag.Cloacal 1erP+CielorrasoPb Baños Al
 
 
 

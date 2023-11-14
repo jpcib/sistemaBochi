@@ -28,5 +28,17 @@ subtitle: 'CENS N° 40 - EPC N° 09 CNEL. GENARO BERON DE ASTRADA - JIN A (EPCJS
 *  (2023) Electricidad 
     + Protocolo espacios seguros
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Cambio quemador en caldera
+
+*  (2022) Carpinterías 
+    + Reparación carpinteria metalica
+
+*  (2021) Carpinterías 
+    + Provision/colocacion puertas corredizas
+
+*  (2021) Medios de elevación 
+    + Puesta en normativa ascensor
+
 
 

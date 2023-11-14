@@ -14,5 +14,11 @@ subtitle: 'CENS N° 19 - EPC N° 24 VIRGEN GENERALA - JINB(EPCJC 24/07°)LA VELE
 *  (2023) Sanitarias 
     + Reemplazo termotanque eléctrico
 
+*  (2022) Gas 
+    + Adecuación instalación de gas
+
+*  (2021) Electricidad 
+    + ADECUACION INSTALACION ELECTRICA
+
 
 

@@ -20,5 +20,11 @@ subtitle: 'EPA N° 16 RDO. PADRE AGUSTIN P. NORES - JIN C (EPCJS 16/17°) LOLA M
 *  (2023) Albañileria / Pintura 
     + Pintura patio sobre medianera
 
+*  (2022) Electricidad 
+    + Colocación luces emergencia
+
+*  (2022) Gas 
+    + Sistema de extracción de 2 anafes
+
 
 

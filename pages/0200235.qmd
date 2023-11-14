@@ -8,7 +8,9 @@ subtitle: 'EPC N° 13 FRAY MAMERTO ESQUIU'
 
 ## Mobiliario
 
-*  (2021) : Mesa pupitre doble 30, Pizarrón 7, Silla escolar 30 
+*  (2023) : NA 1 
+
+*  (2021) : Mesa pupitre doble 15, Pizarrón 7, Silla escolar 30 
 
 
 
@@ -18,6 +20,15 @@ subtitle: 'EPC N° 13 FRAY MAMERTO ESQUIU'
 
 *  (2023) Calefaccion y Refrigeracion 
     + Provision e instalación de 1 A°A°
+
+*  (2022) Electricidad 
+    + Puesta en marcha instalación eléctrica
+
+*  (2022) Gas 
+    + Prov. Inst. artefacto cocina
+
+*  (2021) Electricidad 
+    + Prov. y Coloc. tomas corriente
 
 
 

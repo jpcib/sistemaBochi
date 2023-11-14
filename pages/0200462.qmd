@@ -8,7 +8,7 @@ subtitle: 'Sup Inicial IX A - JIC N° 09/09°'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 2 
+*  (2023) : Escritorio 2, NA 1 
 
 *  (2022) : Mesa inicial 9, Pizarrón 8, Silla escolar 58 
 
@@ -23,6 +23,12 @@ subtitle: 'Sup Inicial IX A - JIC N° 09/09°'
 
 *  (2023) Calefaccion y Refrigeracion 
     + Prov. Coloc. de estufas en aulas.
+
+*  (2022) Carpinterías 
+    + Reparacion de Carpinteria
+
+*  (2022) Electricidad 
+    + Tomas para sector contiguo a cocina
 
 
 

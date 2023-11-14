@@ -23,11 +23,34 @@ subtitle: 'JIN A (EPCJS 16/08°) - EPC N° 16 JOSE MARIA RAMOS MEJIA - CENOF CEN
 *  (2023) Electricidad 
     + Reemplazar-reponer bomba quemada, Reponer ventiladores
 
+*  (2022) Albañileria / Pintura 
+    + Retiro de cielorrasos-aulas y baños 1P, Pintura 3 aulas Aulas, direccion
+
+*  (2022) Incendio 
+    + Provisión de 13 matafuegos ABC 5 kg
+
+*  (2022) Saneamiento 
+    + Refuerzo de desratización
+
+*  (2021) Calefaccion y Refrigeracion 
+    + cambio de radiador en sala auxiliares
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Cambio de membrana en terraza accesible
+
+*  (2021) Electricidad 
+    + Instalación 6 purificadores de aire
+
+*  (2021) Gas 
+    + Ejecucion Observaciones por metrogas
+
 
 
 
 
 ## Mobiliario
+
+*  (2023) : NA 1 
 
 *  (2022) : Mesa inicial 5, Pizarrón 2, Silla escolar 30 
 

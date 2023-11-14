@@ -8,6 +8,8 @@ subtitle: 'INST. DE EDUCACIÓN SUPERIOR N° 01 DRA. ALICIA MOREAU DE JUSTO - CEN
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Armario 3, Pizarrón 6 
 
 
@@ -24,6 +26,21 @@ subtitle: 'INST. DE EDUCACIÓN SUPERIOR N° 01 DRA. ALICIA MOREAU DE JUSTO - CEN
 
 *  (2023) Electricidad 
     + Iluminacion sector Bilblioteca
+
+*  (2022) Albañileria / Pintura 
+    + Reponer/reparar placas de cielorraso
+
+*  (2022) Electricidad 
+    + Iluminacion de  Emergencia, Colocación de 4 plafones en laboratorio
+
+*  (2022) Saneamiento 
+    + Limpieza especial de conductos.
+
+*  (2021) Albañileria / Pintura 
+    + Pisos de madera en aulas 206 y 307
+
+*  (2021) Sanitarias 
+    + provision de agua para sector conseciona
 
 
 

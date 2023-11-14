@@ -8,6 +8,8 @@ subtitle: 'CENS N° 15 - EPC N° 18 DR. ANTONIO BERMEJO'
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Banco largo comedor 12, Mesa usos múltiples 6 
 
 
@@ -21,6 +23,24 @@ subtitle: 'CENS N° 15 - EPC N° 18 DR. ANTONIO BERMEJO'
 
 *  (2023) Sanitarias 
     + Proveer y colocar inodoro B° Varones
+
+*  (2022) Incendio 
+    + Provisión de 1 matafuego ABC 5 kg
+
+*  (2021) Albañileria / Pintura 
+    + Pintura-Luminaria-Coloc motor y durlock
+
+*  (2021) Carpinterías 
+    + Colocar protecciones en barandas
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Menmbranas en sector de aulas
+
+*  (2021) Electricidad 
+    + Colocar luces de emergencia y señaletica
+
+*  (2021) Medios de elevación 
+    + Prov montaje y conexion sist de limites
 
 
 

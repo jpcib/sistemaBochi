@@ -11,5 +11,8 @@ subtitle: 'ESC. DOMICILIARIA PARA NIÑOS, NIÑAS Y JÓVENES CON DISCAPACIDAD N°
 *  (2023) Incendio 
     + Provisión y colocación de dos matafuegos
 
+*  (2021) Gas 
+    + Ejecución instalación de gas general
+
 
 

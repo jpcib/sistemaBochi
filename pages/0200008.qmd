@@ -17,6 +17,8 @@ subtitle: 'Sup Adultos Region VI - JIN A (EPCJC 08/01°) - EPC N° 08 NICOLAS AV
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Armario 4, Mesa inicial 4, Mesa integradora con escotadura 1, Mesa pupitre doble 30, Pizarrón 11, Silla escolar 83 
 
 *  (2021) : Pizarrón 2 
@@ -32,6 +34,18 @@ subtitle: 'Sup Adultos Region VI - JIN A (EPCJC 08/01°) - EPC N° 08 NICOLAS AV
 
 *  (2023) Electricidad 
     + Espacios seguros
+
+*  (2022) Albañileria / Pintura 
+    + Pintura Integral de Supervisión, Circula
+
+*  (2022) Sanitarias 
+    + Reposicion y coloc. de inodoro vandaliza
+
+*  (2021) Albañileria / Pintura 
+    + Arreglo columnas en comedor y techo
+
+*  (2021) Carpinterías 
+    + Prov y coloc. Manijones
 
 
 

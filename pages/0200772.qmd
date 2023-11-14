@@ -8,7 +8,7 @@ subtitle: 'EPC N°05 CAP. JUAN DE SAN MARTIN Y GOMEZ - JIN E (EPCJC 05/17°) JUA
 
 ## Mobiliario
 
-*  (2023) : Mesa inicial 10, Silla escolar 60 
+*  (2023) : Mesa inicial 10, Silla escolar 60, NA 1 
 
 
 
@@ -18,6 +18,18 @@ subtitle: 'EPC N°05 CAP. JUAN DE SAN MARTIN Y GOMEZ - JIN E (EPCJC 05/17°) JUA
 
 *  (2023) Albañileria / Pintura 
     + Reparación Cielorrasos Circulación y Bañ
+
+*  (2022) Gas 
+    + doble regulación en nicho solic Metrogas
+
+*  (2021) Electricidad 
+    + Instalación 3 equipos purificadores aire, Provisión y coloc TT eléctr.Vivi Casera
+
+*  (2021) Gas 
+    + Ejecutar Recomendac. Form. Metrogas
+
+*  (2021) Incendio 
+    + Reemplazo 1 matafuegos ABC
 
 
 

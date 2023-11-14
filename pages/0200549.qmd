@@ -8,9 +8,18 @@ subtitle: 'CENS N° 09 - EPC N° 01 JOSE ALFREDO FERREIRA - JIN B (EPCJC 01/11°
 
 ## Mobiliario
 
-*  (2023) : Mesa inicial 8, Mesa pupitre doble 35, Pizarrón 3, Silla escolar 132 
+*  (2023) : Mesa inicial 8, Mesa pupitre doble 35, Pizarrón 4, Silla escolar 132 
 
 *  (2022) : Banco largo comedor 4, Escritorio 4, Mesa pupitre doble 40, Mesa usos múltiples 2, Silla escolar 80 
+
+
+
+
+
+## Mantenimiento
+
+*  (2022) Electricidad 
+    + Colocación de luces de emergencia
 
 
 

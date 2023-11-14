@@ -8,7 +8,25 @@ subtitle: 'EPC N° 23 ALFREDO RODOLFO BUFANO - JIN B (EPCJC 23/14°)'
 
 ## Mobiliario
 
-*  (2023) : Banco largo comedor 40, Mesa usos múltiples 20 
+*  (2023) : Banco largo comedor 40, Mesa usos múltiples 20, NA 1 
+
+
+
+
+
+## Mantenimiento
+
+*  (2022) Albañileria / Pintura 
+    + Colocacion placas de aislacion
+
+*  (2022) Electricidad 
+    + Reemplazo de caja/tabero
+
+*  (2021) Gas 
+    + Caldera, reguladores y ceramicos
+
+*  (2021) Sanitarias 
+    + Cambio de bombas de elevacion
 
 
 

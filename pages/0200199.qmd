@@ -35,5 +35,29 @@ subtitle: 'ENS N° 03 BERNARDINO RIVADAVIA (SEDE) - ENS N° 03 BERNARDINO RIVADA
 *  (2023) Electricidad 
     + Reemplazo de ventiladores en aulas
 
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Cambio de cubierta de chapa y cielorraso
+
+*  (2022) Gas 
+    + Adecuacion de instal de gas a normativa
+
+*  (2022) Medios de elevación 
+    + Reparacion de ascensor y reemplazo tapas
+
+*  (2022) Sanitarias 
+    + Cambio de bajadas pluviales en fachada
+
+*  (2021) Albañileria / Pintura 
+    + Demolicion tabique aula y adec IFCI, Adecuacion de 4 aulas para SDF
+
+*  (2021) Carpinterías 
+    + Provision y colocacion de ventana en com, Puerta de seguridad en calle Bolivar
+
+*  (2021) Medios de elevación 
+    + Adecuacion y puesta norm ascensor
+
+*  (2021) Otros Servicios 
+    + Colocacion de purificadores
+
 
 

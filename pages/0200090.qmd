@@ -17,7 +17,7 @@ subtitle: 'EPA N° 19 FLORENCIO BALCARCE - JIN D (EPCJC 19/02°) - EPC N° 19 FL
 
 ## Mobiliario
 
-*  (2023) : Armario 3, Escritorio 3, Mesa inicial 10, Silla escolar 69 
+*  (2023) : Armario 3, Escritorio 3, Mesa inicial 10, Silla escolar 69, NA 1 
 
 
 
@@ -30,6 +30,24 @@ subtitle: 'EPA N° 19 FLORENCIO BALCARCE - JIN D (EPCJC 19/02°) - EPC N° 19 FL
 
 *  (2023) Electricidad 
     + Prov. Inst. sistema Espacio Seguro, Conexión cañería de agua, tanques, Provisión y colocacion de ventiladores
+
+*  (2022) Albañileria / Pintura 
+    + Acondicionamiento de aula en planta baja, Tercer patio(rev., pintura, reemplazo vi
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Presupuesto x 3 caloventores
+
+*  (2022) Incendio 
+    + Provisión de un matafuego CO2 5 kg
+
+*  (2021) Albañileria / Pintura 
+    + Reparar revoque frente del edificio, Revoque,pintura,hall,medianera,celosias
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Coloc proteccion bandeja s/frente
+
+*  (2021) Gas 
+    + Acond. ventilaciones
 
 
 

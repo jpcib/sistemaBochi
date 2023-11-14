@@ -8,7 +8,22 @@ subtitle: 'EPC N° 04 GRAL. JUAN ANTONIO LAVALLEJA'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 6, Mesa pupitre doble 45, Pizarrón 14, Silla escolar 36 
+*  (2023) : Escritorio 6, Mesa pupitre doble 45, Pizarrón 14, Silla escolar 36, NA 1 
+
+
+
+
+
+## Mantenimiento
+
+*  (2022) Gas 
+    + Adecuación instalación de gas
+
+*  (2022) Sanitarias 
+    + Tanque cisterna y bombas
+
+*  (2021) Incendio 
+    + Reparar central de incendio
 
 
 

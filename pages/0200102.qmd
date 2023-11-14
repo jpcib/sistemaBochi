@@ -17,7 +17,7 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 25 - ENS N° 07 JOSE MARIA 
 
 ## Mobiliario
 
-*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124, NA 1 
 
 *  (2022) : Armario 8, Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124, Varios 3 
 
@@ -43,6 +43,30 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 25 - ENS N° 07 JOSE MARIA 
 
 *  (2023) Sanitarias 
     + Reposición de 3 inodoros
+
+*  (2022) Albañileria / Pintura 
+    + 4 aulas - Secundaria del Futuro
+
+*  (2022) Carpinterías 
+    + Prov. Coloc. rejas de seguridad en aula
+
+*  (2022) Electricidad 
+    + Reponer lámparas o artefactos
+
+*  (2022) Incendio 
+    + Reposicion de 1 matafuego ABC de 5 k, Reemplazo de 1 matafuegos ABC 5kg
+
+*  (2022) Medios de elevación 
+    + Reparación de ascensor n°2
+
+*  (2021) Albañileria / Pintura 
+    + Reparar e impermeab. medianera oeste, Aulas del Futuro- 5 aulas 2do piso
+
+*  (2021) Electricidad 
+    + Reponer ventiladores en diversas aulas, Instalacion 3 purificadores de aire
+
+*  (2021) Sanitarias 
+    + Prov. coloc  bomba de caudal de entrada
 
 
 

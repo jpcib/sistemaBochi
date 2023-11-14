@@ -8,7 +8,9 @@ subtitle: 'JIN C (EPCJS 06/17°) LOLA MORA - EPC N° 06 ESTADO DE ISRAEL'
 
 ## Mobiliario
 
-*  (2023) : Pizarrón 9 
+*  (2023) : Pizarrón 9, NA 1 
+
+*  (2021) : Mesa pupitre doble 83 
 
 
 
@@ -18,6 +20,12 @@ subtitle: 'JIN C (EPCJS 06/17°) LOLA MORA - EPC N° 06 ESTADO DE ISRAEL'
 
 *  (2023) Electricidad 
     + Timbre para hipoacsicos
+
+*  (2022) Electricidad 
+    + Instalacion luces de emergencia
+
+*  (2021) Electricidad 
+    + Instalar 6 equipos purificadores
 
 
 

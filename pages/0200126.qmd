@@ -26,5 +26,23 @@ subtitle: 'Sup Inicial I C - EPC N° 05 AGUSTIN ALVAREZ - JII N° 01/03° - ESEA
 *  (2023) Electricidad 
     + Reemplazo de portero eléctrico
 
+*  (2022) Albañileria / Pintura 
+    + Pintura Hall de planta baja
+
+*  (2022) Carpinterías 
+    + Protección de Carpinterías Aulas 1P-2P
+
+*  (2022) Otros Servicios 
+    + Arreglo filtración Baño Jardín
+
+*  (2022) Sanitarias 
+    + Reposición de inodoro baño nenas PB
+
+*  (2021) Gas 
+    + Adecuación Instalación de Gas y bombeo., Tareas complementarias Gas
+
+*  (2021) Saneamiento 
+    + Limpieza de Tanques
+
 
 

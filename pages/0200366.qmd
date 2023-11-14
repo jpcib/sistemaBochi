@@ -21,5 +21,23 @@ subtitle: 'Sup Primaria DE07 - EPA N° 16 ANDRES FERREYRA - EPC N° 16 ANDRES FE
 *  (2023) Calefaccion y Refrigeracion 
     + instalacion de aire acondicionado
 
+*  (2022) Albañileria / Pintura 
+    + Reemplazo de mesada de granito en cocina
+
+*  (2022) Carpinterías 
+    + Reemplazo de puertas de salida
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Retiro de tejas y colocacion cupertina
+
+*  (2022) Sanitarias 
+    + Reparacion de cañeria de desague
+
+*  (2021) Electricidad 
+    + Luces de emergencia
+
+*  (2021) Sanitarias 
+    + Instalacion de agua baño niños
+
 
 

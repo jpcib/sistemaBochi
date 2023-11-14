@@ -26,13 +26,31 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 *  (2023) Sanitarias 
     + Cambio de tapas de inspeccion y limpieza, Provision y colocación de bomba de agua
 
+*  (2022) Albañileria / Pintura 
+    + Realizar muro exterior en mamposteria
+
+*  (2022) Carpinterías 
+    + Puerta de aula taller de 1er PISO, Cambio de cerradura cocina vandalismo, Provisión y colocación puerta antipanico, Provisión de cerradura por vandalismo
+
+*  (2022) Sanitarias 
+    + Reemplazo de tanque, Prov. Coloc tapas de inodoros baños, Provision de un inodoro vandalizado B°al, Cambio de cañeria por termofucion aerea, Provision y colocación de inodoro por va
+
+*  (2021) Carpinterías 
+    + Colocacion de puerta antipanico, 2 cerradura vandalizada en el interior, Cerraduras vandalizadas exterior
+
+*  (2021) Gas 
+    + adecuacion instalacion gas, Prov,coloc termotanque 120lts cocina, Prov y coloc calefon casa casera
+
+*  (2021) Sanitarias 
+    + Termotanque eléctrico en casa casera
+
 
 
 
 
 ## Mobiliario
 
-*  (2023) : Armario 6, Escritorio 2, Silla escolar 60 
+*  (2023) : Armario 6, Escritorio 2, Silla escolar 60, NA 1 
 
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 124 
 

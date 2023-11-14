@@ -21,5 +21,20 @@ subtitle: 'EPC N° 14 DR. ERNESTO E. PADILLA'
 *  (2023) Albañileria / Pintura 
     + Pintura en circulación de 1P y B° Doc
 
+*  (2022) Electricidad 
+    + Instalación de un nuevo timbre de recreo
+
+*  (2022) Sanitarias 
+    + Instalación de nueva bomba tanque
+
+*  (2021) Electricidad 
+    + Inst elect pared cocina,cambio tablero
+
+*  (2021) Gas 
+    + Readecuación de la instalación de gas, Colocar llaves de paso en las cocina
+
+*  (2021) Sanitarias 
+    + Nuevo Tanque cisterna sala de maquinas
+
 
 

@@ -8,7 +8,7 @@ subtitle: 'EPC N° 14 GRAL. MARIANO NECOCHEA'
 
 ## Mobiliario
 
-*  (2023) : Pizarrón 8 
+*  (2023) : Pizarrón 8, NA 1 
 
 *  (2022) : Armario 2, Mesa pupitre doble 30, Silla escolar 62 
 
@@ -22,6 +22,12 @@ subtitle: 'EPC N° 14 GRAL. MARIANO NECOCHEA'
 
 *  (2023) Sanitarias 
     + Reemplazo de inodoro
+
+*  (2022) Incendio 
+    + Reposición de extintores portátiles
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Cambio de chapas transparentes
 
 
 

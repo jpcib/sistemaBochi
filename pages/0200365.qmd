@@ -8,6 +8,8 @@ subtitle: 'EPC N° 15 GRAL. JOSE GERVASIO DE ARTIGAS - JINB(EPCJC 15/07°)LA VEL
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Mesa pupitre doble 13, Pizarrón 2, Silla escolar 26 
 
 
@@ -18,6 +20,15 @@ subtitle: 'EPC N° 15 GRAL. JOSE GERVASIO DE ARTIGAS - JINB(EPCJC 15/07°)LA VEL
 
 *  (2023) Carpinterías 
     + Rampa movil el el ingreso
+
+*  (2022) Gas 
+    + cambio de 2 estufas de 2do y 5to., Cambio de reguladores de gas
+
+*  (2021) Electricidad 
+    + Colocacion de 6 purificadores
+
+*  (2021) Gas 
+    + Adecuacion de instalacion de gas
 
 
 

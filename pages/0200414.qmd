@@ -8,6 +8,8 @@ subtitle: 'EPC N° 20 ELOY FERNANDEZ ALONSO - JIN C (EPCJS 20/08°)'
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Escritorio 3, Mesa pupitre doble 37, Pizarrón 2, Silla escolar 77 
 
 
@@ -24,6 +26,12 @@ subtitle: 'EPC N° 20 ELOY FERNANDEZ ALONSO - JIN C (EPCJS 20/08°)'
 
 *  (2023) Otros Servicios 
     + Colocacion placa san francisco
+
+*  (2021) Electricidad 
+    + Instalacion de purificadores en aulas
+
+*  (2021) Otros Servicios 
+    + Reemplazo y colocacion de piso de goma
 
 
 

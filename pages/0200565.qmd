@@ -19,11 +19,29 @@ subtitle: 'JIN B (EPCJC 17/11°) [S] - EPC N° 17 GRAL. JUAN GALO LAVALLE'
 *  (2023) Albañileria / Pintura 
     + Tabiques de durlock en aulas de inicial, Refuncionalizacion de deposito para aula
 
+*  (2023) Calefaccion y Refrigeracion 
+    + Instalación de 2 estufas
+
 *  (2023) Electricidad 
     + Reacondicionamoento de instalación eléct
 
+*  (2023) Gas 
+    + Reparar extractor y solenoide de cocina
+
 *  (2023) Sanitarias 
     + Cambio de caños de agua y canillas
+
+*  (2022) Carpinterías 
+    + Colocacion de rejas en ventanas de aulas
+
+*  (2022) Medios de elevación 
+    + Puesta en servicio del ascensor
+
+*  (2021) Electricidad 
+    + Reparación de red telefónica interna
+
+*  (2021) Medios de elevación 
+    + puesta en norma del ascensor
 
 
 

@@ -11,5 +11,20 @@ subtitle: 'JII N° 15/05°'
 *  (2023) Electricidad 
     + Baja Tensión
 
+*  (2022) Carpinterías 
+    + Agregado Cerradura puerta lateral
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Reparación Filtraciones Azotea
+
+*  (2022) Sanitarias 
+    + Desvío caño pluvial cisterna, Endoscopía Cañería cloacal (Jardin)
+
+*  (2021) Gas 
+    + Adecuación de Gas por Inspección
+
+*  (2021) Incendio 
+    + Provisión de faltantes de incendio
+
 
 

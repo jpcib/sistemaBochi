@@ -23,5 +23,14 @@ subtitle: 'EPC N° 20 ROSARIO VERA PEÑALOZA - JIN D (EPCJS 20/02°) [S] - CENOF
 *  (2023) Electricidad 
     + Espacios seguros
 
+*  (2023) Sanitarias 
+    + Reposición de 3 inodoros
+
+*  (2021) Electricidad 
+    + cotizacion y Reemplazo de ventiladores
+
+*  (2021) Gas 
+    + reemplazar regulador de gas en caldera, Cambio de quemador de caldera
+
 
 

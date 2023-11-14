@@ -8,7 +8,24 @@ subtitle: 'ESCUELA INF. N° 07/01° PALACIO PIZZURNO'
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Armario 2 
+
+
+
+
+
+## Mantenimiento
+
+*  (2022) Sanitarias 
+    + Adecuar sistema de bombas
+
+*  (2021) Electricidad 
+    + Colocación de luces de emergencia
+
+*  (2021) Incendio 
+    + Colocación de extintor en cocina.
 
 
 

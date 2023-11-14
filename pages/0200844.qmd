@@ -19,5 +19,29 @@ subtitle: 'Sup Inicial  VI A A Sup Primaria DE19 - JIN B (EPCJS 01/19°) HOMERO 
 *  (2023) Calefaccion y Refrigeracion 
     + Provision estufa de 3000 kcal.
 
+*  (2022) Albañileria / Pintura 
+    + Reparación de piso Pinotea-Biblioteca
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Reemplazar estufas de tiro balanceado., Prov. estufa Skabe de Tiro Balanceado
+
+*  (2022) Electricidad 
+    + Reparar programador de timbre
+
+*  (2022) Gas 
+    + Acondicionar instalaciones y vent. x Gas
+
+*  (2022) Incendio 
+    + Falta Matafuegos en Supervicion.
+
+*  (2022) Medios de elevación 
+    + Reparación de plataformas elevadoras
+
+*  (2022) Sanitarias 
+    + Adecuacion de Tablero para Termica
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Cambio de policarbonato
+
 
 

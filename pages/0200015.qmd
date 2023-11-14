@@ -26,5 +26,14 @@ subtitle: 'EPA N° 18 DR. RAFAEL HERRERA VEGAS - EPC N° 18 DR. RAFAEL HERRERA V
 *  (2023) Gas 
     + Adecuaciones en la instacion de gas
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Cambio de 1 una estufa, Solicitud 2 ventiladores pared por aula.
+
+*  (2022) Electricidad 
+    + Tendido de cableado y otros
+
+*  (2021) Sanitarias 
+    + Puesta en valor tanque de reserva y terr
+
 
 

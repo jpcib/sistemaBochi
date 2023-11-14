@@ -8,7 +8,7 @@ subtitle: 'JII N° 01/06°'
 
 ## Mobiliario
 
-*  (2023) : Juego de patio 1, Mesa inicial 15, Piso antigolpe para juegos 60, Silla escolar 90 
+*  (2023) : Juego de patio 1, Mesa inicial 15, Piso antigolpe para juegos 60, Silla escolar 90, NA 1 
 
 
 
@@ -21,6 +21,21 @@ subtitle: 'JII N° 01/06°'
 
 *  (2023) Gas 
     + Provisión y conexión de 2 estufas
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Reemplazo de cubierta en patio
+
+*  (2021) Carpinterías 
+    + Colocar proteccion de malla balcon  En p
+
+*  (2021) Electricidad 
+    + Cambiar termotanque-Vivienda casera
+
+*  (2021) Gas 
+    + Rejas de proteccion en estufas
+
+*  (2021) Sanitarias 
+    + Reemplazo tapa de inspeccion en tanque
 
 
 

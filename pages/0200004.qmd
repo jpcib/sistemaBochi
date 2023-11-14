@@ -8,6 +8,8 @@ subtitle: 'CENS N° 08 - EPC N° 04 JOSE MANUEL ESTRADA'
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2021) : Banco largo comedor 50, Mesa usos múltiples 25 
 
 
@@ -18,6 +20,9 @@ subtitle: 'CENS N° 08 - EPC N° 04 JOSE MANUEL ESTRADA'
 
 *  (2023) Albañileria / Pintura 
     + Reemplazo de solado en gimnasio
+
+*  (2021) Electricidad 
+    + Inst equipo purificador en aula
 
 
 

@@ -20,6 +20,18 @@ subtitle: 'EPC N° 04 PROVINCIA DE CORDOBA'
 *  (2023) Sanitarias 
     + Colocacion de Bomba y tanque de bombeo
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Instalación de 2 AA
+
+*  (2022) Gas 
+    + Prov y coloc 3 Estufas de TB
+
+*  (2022) Otros Servicios 
+    + Pintura e instalacion de pileta en aula
+
+*  (2021) Gas 
+    + Protecciones mecanicas de estufas de gas
+
 
 
 

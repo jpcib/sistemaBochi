@@ -8,6 +8,8 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 12'
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Banco largo comedor 12, Mesa usos múltiples 6 
 
 *  (2021) : Armario 5, Mesa pupitre doble 30, Mesa usos múltiples 3, Pizarrón 10, Silla escolar 60 
@@ -20,6 +22,15 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 12'
 
 *  (2023) Gas 
     + Cambio de estufa FVU
+
+*  (2022) Albañileria / Pintura 
+    + Refacción de SUM
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Retiro de chapas cara interior cubierta
+
+*  (2022) Gas 
+    + Cambio de TT en casa habitación
 
 
 

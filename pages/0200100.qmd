@@ -31,13 +31,31 @@ subtitle: 'Polideportivo ESC. TEC. N° 30 DR. NORBERTO PIÑERO - ESC. TEC. N° 3
 *  (2023) Electricidad 
     + Espacios seguros, Reemplazo de un ventilador de pared
 
+*  (2022) Carpinterías 
+    + Cambiar hojas de puerta de acceso
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Impermeabilizar techos de aulas
+
+*  (2022) Gas 
+    + Instalaciones de gas en taller fundicion
+
+*  (2022) Incendio 
+    + Reposicion matafuego ABC de 5 kg, Reposicion de 6 matafuegos ABC de 5 kg
+
+*  (2021) Electricidad 
+    + Instalacion de 4 purificadores
+
+*  (2021) Gas 
+    + Reparar perdidas en cocina de buffet, Recolocar tubos de ventilacion, Cambio de cañeria de termofusion, Reacondicionamiento de redes de gas
+
 
 
 
 
 ## Mobiliario
 
-*  (2023) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 
+*  (2023) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186, NA 1 
 
 *  (2022) : Escritorio 3, Mesa pupitre doble 60, Pizarrón 8, Silla escolar 123 
 

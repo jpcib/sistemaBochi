@@ -8,6 +8,8 @@ subtitle: 'EPC N° 19 DR. T. SANCHEZ DE BUSTAMANTE'
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2021) : Banco largo comedor 30, Mesa pupitre doble 30, Mesa usos múltiples 15, Silla escolar 62 
 
 
@@ -18,6 +20,9 @@ subtitle: 'EPC N° 19 DR. T. SANCHEZ DE BUSTAMANTE'
 
 *  (2023) Sanitarias 
     + Reemplazo de guardaganados en patio.
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Reparar-cambiar bomba recirculadoras
 
 
 

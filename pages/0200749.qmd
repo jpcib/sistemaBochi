@@ -19,5 +19,11 @@ subtitle: 'EPC N° 11 CONGRESO DE TUCUMAN - JIN B (EPCJC 11/16°) JUANA AZURDUY'
 *  (2023) Electricidad 
     + Reacondicionar  tablero electrico
 
+*  (2021) Albañileria / Pintura 
+    + Arreglar filtracion terraza
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Instalacion equipos de aire acondicionad
+
 
 

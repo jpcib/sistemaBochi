@@ -34,5 +34,20 @@ subtitle: 'CENS N° 39 - EPC N° 11 ANTONIO J. BUCICH - JII N° 04/04° - CAIYJ 
 *  (2023) Electricidad 
     + implementar los medios espacios seguro
 
+*  (2022) Albañileria / Pintura 
+    + Reparar pared medianera
+
+*  (2022) Carpinterías 
+    + Reparacion puertas deterioradas, Reparación o cambio de 19 puertas
+
+*  (2021) Albañileria / Pintura 
+    + colocación  de piso antigolpe 150 m2
+
+*  (2021) Gas 
+    + Proveer 5 estufas
+
+*  (2021) Sanitarias 
+    + reparación de las canaletas
+
 
 

@@ -20,6 +20,8 @@ subtitle: 'CFP N° 24 -Anexo - JII N° 01/19° MANUEL BELGRANO - EPC N° 12 JOSE
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Armario 2 
 
 *  (2021) : Escritorio 3, Mesa inicial 5, Mesa integradora con escotadura 1, Mesa pupitre doble 45, Pizarrón 20, Silla escolar 123 
@@ -35,6 +37,27 @@ subtitle: 'CFP N° 24 -Anexo - JII N° 01/19° MANUEL BELGRANO - EPC N° 12 JOSE
 
 *  (2023) Incendio 
     + Reacondicionamiento de IFCI
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Reparación de equipos UTA
+
+*  (2021) Albañileria / Pintura 
+    + Reparaciones en biblioteca primaria
+
+*  (2021) Carpinterías 
+    + Cambio puerta vestuario cocina y dos box
+
+*  (2021) Cubiertas / Impermeabilizaciones 
+    + Impermeabilizacion sectores faltantes ja
+
+*  (2021) Electricidad 
+    + Instalacion 3 AºA°
+
+*  (2021) Otros Servicios 
+    + Construccion desague cantero jardin
+
+*  (2021) Sanitarias 
+    + Cambio compuertas tanque reserva
 
 
 

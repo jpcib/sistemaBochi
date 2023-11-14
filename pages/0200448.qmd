@@ -23,5 +23,8 @@ subtitle: 'JINB(EPCJC 09/09°)[S]JARD.DE LOS PUENTES - EPC N° 09 JUAN CRISOSTOM
 *  (2023) Incendio 
     + Provisión y colocación de un matafuego
 
+*  (2021) Incendio 
+    + Proveer Extintores 5 Kg ABC
+
 
 

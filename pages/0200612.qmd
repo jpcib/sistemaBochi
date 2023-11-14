@@ -14,5 +14,17 @@ subtitle: 'CENS N° 56 - CE DE NIVEL PRIMARIO - SEDE SUPERVISION - CENTRO EDUCAT
 *  (2023) Gas 
     + Reemplazo de estufas
 
+*  (2022) Albañileria / Pintura 
+    + Revoques y pintura de patio central. Agr, Pintura de patio exterior. Agregar techo
+
+*  (2022) Gas 
+    + Puesta en norma de la instalación de gas
+
+*  (2022) Medios de elevación 
+    + Cambio de batería de plataforma elevador
+
+*  (2022) Sanitarias 
+    + Cambiar inodoros rotos-B° Mujeres
+
 
 

@@ -21,5 +21,8 @@ subtitle: 'EPC N° 05 JUAN B. PEÑA - JIN C (EPCJC 05/07°)'
 *  (2023) Medios de elevación 
     + Rampa para elecciones PASO 2023
 
+*  (2022) Electricidad 
+    + Instalacion luces de emergencia
+
 
 

@@ -6,10 +6,21 @@ subtitle: 'ESCUELA INF. N° 08/10° CAMINITO (EX 03/15°)'
 #
 
 
+## Mobiliario
+
+*  (2023) : NA 1 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Carpinterías 
     + Pintura barandas y refuerzo placares.
+
+*  (2022) Carpinterías 
+    + cambio puertas de acceso, ventana nueva cocina y puerta aula
 
 
 

@@ -24,5 +24,11 @@ subtitle: 'JIN C (EPCJS 25/06°) - EPC N° 25 PAULA ALBARRACIN DE SARMIENTO - ES
 *  (2023) Otros Servicios 
     + Reponer regulador de gas e instalacion
 
+*  (2021) Incendio 
+    + Provision de matafuego faltante
+
+*  (2021) Otros Servicios 
+    + Proteccion para estufa, Instalacion de luces en baño de mujeres
+
 
 

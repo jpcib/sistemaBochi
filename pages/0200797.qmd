@@ -20,13 +20,28 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
 *  (2023) Gas 
     + Reemplazo estufa tb 5500cal
 
+*  (2022) Gas 
+    + Reparación Solenoide Cocina
+
+*  (2022) Incendio 
+    + Reponer 2 matafuegos co2 fin vida util
+
+*  (2022) Sanitarias 
+    + Tendido Prov Agua Baño 1er piso, Conectar sector gastronomia red cloacal
+
+*  (2021) Electricidad 
+    + Instalación 6 equipos purificadores aire
+
+*  (2021) Gas 
+    + Proteccion de estufa Aula 2A
+
 
 
 
 
 ## Mobiliario
 
-*  (2021) : Armario 6, Escritorio 2, Mesa pupitre doble 30, Silla escolar 58 
+*  (2021) : Armario 6, Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
 

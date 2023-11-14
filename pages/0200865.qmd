@@ -20,11 +20,34 @@ subtitle: 'EPC N° 22 JUANA AZURDUY - JIN B (EPCJS 11/19°) [S] HOMERO MANZI'
 *  (2023) Sanitarias 
     + Sanitaria
 
+*  (2022) Albañileria / Pintura 
+    + Restauración de muro y gabinete de gas
+
+*  (2022) Carpinterías 
+    + Herrajes, 2 cerraduras, puerta Riestra, Revestimiento perimetral interno y exter
+
+*  (2022) Incendio 
+    + Cambio de Mangueras
+
+*  (2022) Sanitarias 
+    + Reemplazo bomba elevadora, Reemplazo de tanque de reserva, Rotura inodoro por vandalismo, Reemplazo de tanque de reserva
+
+*  (2021) Electricidad 
+    + Prov, colocacion de 2 ventiladECIs
+
+*  (2021) Gas 
+    + Adecuación Gas según relevamiento
+
+*  (2021) Sanitarias 
+    + Reemplazo de Canaletas Pluviales Patio
+
 
 
 
 
 ## Mobiliario
+
+*  (2023) : NA 1 
 
 *  (2022) : Silla escolar 30 
 

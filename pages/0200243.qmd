@@ -8,6 +8,8 @@ subtitle: 'EPC N° 23 LORENZO ANADON - CENOF CENTRO TRAFUL'
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2022) : Armario 4, Banco largo comedor 32, Mesa usos múltiples 16, Pizarrón 3 
 
 *  (2021) : Escritorio 7, Mesa pupitre doble 107, Pizarrón 21, Silla escolar 149 
@@ -20,6 +22,18 @@ subtitle: 'EPC N° 23 LORENZO ANADON - CENOF CENTRO TRAFUL'
 
 *  (2023) Electricidad 
     + Recambio de inodoro
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Reemplazo EstufasTraful 3847 (Jardín)
+
+*  (2022) Carpinterías 
+    + Rejas en Biblioteca
+
+*  (2022) Gas 
+    + Válvula Solenoide cocina, Válvula Solenoide cocina
+
+*  (2022) Incendio 
+    + Cambio de Extintores
 
 
 

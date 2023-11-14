@@ -142,7 +142,7 @@ add_project_section_v6(data = data_infra, dir = ".")
 
 
 ```{r data_mtom, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_mtom <- read_csv("../data/mtom_2021_2023_10-10_framed.csv") %>% 
+data_mtom <- read_csv("../data/mtom_2021_2023_13-11_framed.csv") %>% 
   # filter(ano %in% c("2023", "2022", "2021")) %>%
   drop_na(cui) %>% 
   arrange(desc(ano)) %>%
@@ -219,7 +219,7 @@ add_service_section_v3(data_mtom, dir = ".")
 
 
 ```{r data_mobi, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_mobi <- read_csv("../data/base_mobiliario_itemizada_10-10.csv") %>% 
+data_mobi <- read_csv("../data/base_mobiliario_itemizada_13-11.csv") %>% 
   arrange(desc(entrega)) %>%
   glimpse()
 ```

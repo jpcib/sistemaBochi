@@ -8,7 +8,7 @@ subtitle: 'JIC N° 01/02° - EPC N° 10 GREGORIA PEREZ - EPA N° 10 GREGORIA PER
 
 ## Mobiliario
 
-*  (2023) : Mesa inicial 10, Silla escolar 60 
+*  (2023) : Mesa inicial 10, Silla escolar 60, NA 1 
 
 *  (2022) : Armario 2 
 
@@ -23,8 +23,29 @@ subtitle: 'JIC N° 01/02° - EPC N° 10 GREGORIA PEREZ - EPA N° 10 GREGORIA PER
 *  (2023) Albañileria / Pintura 
     + Puesta en valor de 2 aulas de PB
 
+*  (2023) Cubiertas / Impermeabilizaciones 
+    + Impermeabilización de terraza
+
 *  (2023) Electricidad 
     + Prov y colocación de ventiladores SUM, Prov y coloc  luces de emergencia
+
+*  (2022) Carpinterías 
+    + Prov. Coloc. de Rejas en ventana
+
+*  (2022) Gas 
+    + Reemplazo de 3 calefactores
+
+*  (2021) Calefaccion y Refrigeracion 
+    + Calefactor de TB en aula lila de Jardín
+
+*  (2021) Electricidad 
+    + Prov,coloc ventilador sala maestros
+
+*  (2021) Incendio 
+    + provisión y colocación de  6 Extintores
+
+*  (2021) Sanitarias 
+    + Colocar termotanque y canillas-B° Jardín
 
 
 

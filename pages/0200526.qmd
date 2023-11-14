@@ -8,9 +8,9 @@ subtitle: 'ESC. DE COM. N° 07 MANUEL BELGRANO - PI EL MUNDO DEL REVÉS - EEM N�
 
 ## Mobiliario
 
-*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
+*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155, NA 1 
 
-*  (2021) : Escritorio 4, Mesa pupitre doble 44, Silla escolar 92, Varios 3 
+*  (2021) : Escritorio 4, Silla escolar 92, Varios 3 
 
 
 
@@ -23,6 +23,21 @@ subtitle: 'ESC. DE COM. N° 07 MANUEL BELGRANO - PI EL MUNDO DEL REVÉS - EEM N�
 
 *  (2023) Electricidad 
     + 5 Aulas secundarias del Futuro, Adecuar central telefonica
+
+*  (2022) Albañileria / Pintura 
+    + Reparacion piso SUM
+
+*  (2022) Carpinterías 
+    + Reemplazo de los vidrios
+
+*  (2022) Gas 
+    + PROVISION Y COLOCACION MECHEROS
+
+*  (2021) Gas 
+    + Cambio de reguladores de gas
+
+*  (2021) Incendio 
+    + DETECCION DE INCENDIO
 
 
 

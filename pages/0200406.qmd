@@ -31,5 +31,8 @@ subtitle: 'JIN B (EPCJS 08/08°) - EPA N° 08 ANTONIO SCHETTINO - EPC N° 08 ANT
 *  (2023) Electricidad 
     + Instalación de tomas en oficina
 
+*  (2022) Calefaccion y Refrigeracion 
+    + Reacondicionar sector electrico caldera
+
 
 

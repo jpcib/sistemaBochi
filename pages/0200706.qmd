@@ -6,10 +6,24 @@ subtitle: 'EPC N° 04 PROVINCIA DE BUENOS AIRES'
 #
 
 
+## Mobiliario
+
+*  (2023) : NA 1 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Albañileria / Pintura 
     + Cateo estructural bajo solado
+
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Reemplazo de chapas-Aulas de patio
+
+*  (2021) Electricidad 
+    + Instalacion de 4 purificadores de aire
 
 
 

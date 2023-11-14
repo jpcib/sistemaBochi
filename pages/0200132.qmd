@@ -8,7 +8,7 @@ subtitle: 'EPA N° 16 EUSTAQUIO CARDENAS - EPC N° 16 EUSTAQUIO CARDENAS'
 
 ## Mobiliario
 
-*  (2023) : Banco largo comedor 8, Mesa pupitre doble 5, Mesa usos múltiples 4, Pizarrón 3, Silla escolar 10 
+*  (2023) : Banco largo comedor 8, Escritorio 13, Mesa pupitre doble 55, Mesa usos múltiples 4, Pizarrón 3, Silla escolar 123, NA 18 
 
 
 
@@ -18,6 +18,9 @@ subtitle: 'EPA N° 16 EUSTAQUIO CARDENAS - EPC N° 16 EUSTAQUIO CARDENAS'
 
 *  (2023) Electricidad 
     + Cambio de ventiladores
+
+*  (2021) Otros Servicios 
+    + Instalación de Purificador
 
 
 

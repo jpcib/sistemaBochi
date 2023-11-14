@@ -8,6 +8,8 @@ subtitle: 'EPA N° 01 VALENTIN GOMEZ - EPC N° 01 VALENTIN GOMEZ - CENS N° 36 -
 
 ## Mobiliario
 
+*  (2023) : NA 1 
+
 *  (2021) : Banco largo comedor 32, Escritorio 4, Mesa pupitre doble 60, Mesa usos múltiples 16, Silla escolar 124 
 
 
@@ -18,6 +20,15 @@ subtitle: 'EPA N° 01 VALENTIN GOMEZ - EPC N° 01 VALENTIN GOMEZ - CENS N° 36 -
 
 *  (2023) Albañileria / Pintura 
     + Construcción de depósito
+
+*  (2022) Gas 
+    + Adecuación Instalación de Calefacción
+
+*  (2022) Sanitarias 
+    + Cambiar tapas de inspección en tranques, Provosion y colocacion de inodoro
+
+*  (2021) Electricidad 
+    + Reemplazo de motor montasillla acceso
 
 
 

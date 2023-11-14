@@ -12,7 +12,7 @@ subtitle: 'EPC N° 08 LUIS FEDERICO LELOIR - JIN A (EPCJC 08/19°)'
 
 *  (2022) : Armario 5, Mesa inicial 4, Pizarrón 4, Silla escolar 24 
 
-*  (2021) : Escritorio 1, Mesa pupitre doble 60, Silla escolar 62 
+*  (2021) : Escritorio 1, Mesa pupitre doble 30, Silla escolar 62 
 
 
 
@@ -25,6 +25,15 @@ subtitle: 'EPC N° 08 LUIS FEDERICO LELOIR - JIN A (EPCJC 08/19°)'
 
 *  (2023) Calefaccion y Refrigeracion 
     + Remplazo de equipo de aire acondicionado
+
+*  (2022) Gas 
+    + Cambio de reguladores.
+
+*  (2022) Medios de elevación 
+    + decuación del ascensor
+
+*  (2021) Medios de elevación 
+    + Habilitacion del ascensor
 
 
 

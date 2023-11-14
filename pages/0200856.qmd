@@ -15,6 +15,30 @@ subtitle: 'EPC N° 13 PRESBITERO ALBERTI - JIC N° 02/19°'
 
 
 
+## Mantenimiento
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Placas calefactores electricos, Adecuación de sistema de calefacción
+
+*  (2022) Electricidad 
+    + Adecuación de sistema de caldera
+
+*  (2022) Gas 
+    + Adecuación de sistema de gas.
+
+*  (2021) Carpinterías 
+    + Provisión y colocacioón vidrios
+
+*  (2021) Gas 
+    + reparación e instalacion de gas, adecuación de caldera
+
+*  (2021) Incendio 
+    + Recambio central de incendio, Reemplazo de matafuegos
+
+
+
+
+
 ## Mobiliario
 
 *  (2021) : Mesa inicial 28, Silla escolar 168 

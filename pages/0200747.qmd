@@ -6,6 +6,14 @@ subtitle: 'EPC N° 08 SAN JUAN BOSCO - JIN A (EPCJS 08/16°)'
 #
 
 
+## Mobiliario
+
+*  (2023) : NA 1 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Cubiertas / Impermeabilizaciones 
@@ -13,6 +21,12 @@ subtitle: 'EPC N° 08 SAN JUAN BOSCO - JIN A (EPCJS 08/16°)'
 
 *  (2023) Sanitarias 
     + Cambio de un tanque cisterna
+
+*  (2022) Electricidad 
+    + Prov. y coloc. de luces de emergencia, Timbre de recreo automatico
+
+*  (2021) Electricidad 
+    + Instalacion de purificadores de aire, Cambio de central telefónica
 
 
 
