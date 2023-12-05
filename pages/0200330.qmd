@@ -4,15 +4,12 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 06'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Biblioteca 5 
-
-*  (2022) : Escritorio 1, Mesa inicial 2, Silla escolar 8 
-
-*  (2021) : Armario 5, Biblioteca 3, Escritorio 3, Mesa usos múltiples 6, Silla escolar 70 
 
 
 
@@ -31,6 +28,18 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 06'
 
 *  (2021) Incendio 
     + Cambio de central de incendio
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Biblioteca 5 
+
+*  (2022) : Escritorio 1, Mesa inicial 2, Silla escolar 8 
+
+*  (2021) : Armario 5, Biblioteca 3, Escritorio 3, Mesa usos múltiples 6, Silla escolar 70 
 
 
 

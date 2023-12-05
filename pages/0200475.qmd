@@ -4,13 +4,12 @@ subtitle: 'ESC. PARA NIÑOS Y NIÑAS CON SEVEROS TRASTORNOS DE LA PERSONALIDAD N
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Armario 10 
-
-*  (2021) : Armario 4, Mesa usos múltiples 3, Pizarrón 10 
 
 
 
@@ -35,6 +34,18 @@ subtitle: 'ESC. PARA NIÑOS Y NIÑAS CON SEVEROS TRASTORNOS DE LA PERSONALIDAD N
 
 *  (2021) Otros Servicios 
     + Prov y col termotanque en cocina
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 60 
+
+*  (2022) : Armario 10 
+
+*  (2021) : Armario 4, Mesa usos múltiples 3, Pizarrón 10 
 
 
 

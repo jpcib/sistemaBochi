@@ -4,15 +4,12 @@ subtitle: 'EPC N° 21 GUILLERMO JOSE BARROS - CENS N° 71 - CAIYJ CLUB DE JOVENE
 ---
 
 #
+## Infraestructura
 
+* Mejora edilicia, reparacion de cubiertas, adecuacion de instalaciones sanitarias, electricas y pluvial. reparacion de muros y pintura integral 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Armario 4 
-
-*  (2022) : Pizarrón 15 
-
-*  (2021) : Banco largo comedor 70, Mesa integradora con escotadura 1, Mesa usos múltiples 35, Pizarrón 3 
 
 
 
@@ -46,6 +43,18 @@ subtitle: 'EPC N° 21 GUILLERMO JOSE BARROS - CENS N° 71 - CAIYJ CLUB DE JOVENE
 
 *  (2021) Carpinterías 
     + Prov, instalacion de cerraduras x vandal, Prov,coloc cerradura en 6toi x vandalism
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Armario 4, Mesa pupitre doble 45, Silla escolar 90 
+
+*  (2022) : Pizarrón 15 
+
+*  (2021) : Banco largo comedor 70, Mesa integradora con escotadura 1, Mesa usos múltiples 35, Pizarrón 3 
 
 
 

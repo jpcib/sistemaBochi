@@ -4,13 +4,12 @@ subtitle: 'CENS N° 14 - CFP N° 04 ([A])'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Armario 1 
-
-*  (2021) : Mesa trabajo estante 6, Varios 12 
 
 
 
@@ -26,6 +25,16 @@ subtitle: 'CENS N° 14 - CFP N° 04 ([A])'
 
 *  (2021) Carpinterías 
     + Reparar carpinteria de hierro en aula
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Armario 1 
+
+*  (2021) : Mesa trabajo estante 6, Varios 12 
 
 
 

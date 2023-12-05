@@ -4,11 +4,12 @@ subtitle: 'ESCUELA INF. N° 11/20°'
 ---
 
 #
+## Infraestructura
 
+* Conexion de instalacion de gas (medidor y conexion)+ reemplazo de artefacto de cocina 
+    + mejora edilicia - En Obra 
+    + Inicio de obra: 21/09/2023 - Avance: 0% - Fecha de finalización: 20/11/2023 
 
-## Mobiliario
-
-*  (2023) : Escritorio 3, NA 1 
 
 
 
@@ -24,6 +25,14 @@ subtitle: 'ESCUELA INF. N° 11/20°'
 
 *  (2022) Sanitarias 
     + Prov. Coloc tanque tipo rotoplas
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 3, NA 1 
 
 
 

@@ -4,12 +4,22 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 ---
 
 #
-## Infraestructura
 
-* 2do año 
-    + sdf - Finalizado 
-    + Finalizada el - 
 
+## Seguridad
+
+*  Espacios seguros: 3 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 6, Mesa pupitre doble 90, Silla escolar 186 
+
+*  (2022) : Escritorio 7, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 216 
 
 
 
@@ -34,25 +44,6 @@ subtitle: 'ESC. TEC. N° 13 ING. JOSE LUIS DELPINI'
 
 *  (2021) Carpinterías 
     + Instalar rejas en aula dibujo 2º piso, Reemplazo de cuatro ventanas-Salas
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Escritorio 6, Mesa pupitre doble 90, Silla escolar 186 
-
-*  (2022) : Escritorio 7, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 216 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: En ejecución 
-    + Guardia física: NO
 
 
 

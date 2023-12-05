@@ -4,12 +4,11 @@ subtitle: 'CONSERVATORIO SUPERIOR DE MÚSICA MANUEL DE FALLA - ANEXO 3 - JIN B (
 ---
 
 #
-## Infraestructura
 
-* Acondicionamiento  de acc basica, sanitarios , inst electrica e incendio, prov de agua , cielorraso   , carpinteria ,arreglo patio y  muros con sus revoques. pintura  y patio 
-    + mejora edilicia - En Obra 
-    + Inicio de obra: 1/9/2023 - Avance: 1% - Fecha de finalización: 27/6/2024 
 
+## Mobiliario
+
+*  (2021) : Escritorio 2, Mesa inicial 10, Mesa pupitre doble 30, Silla escolar 122 
 
 
 
@@ -28,14 +27,6 @@ subtitle: 'CONSERVATORIO SUPERIOR DE MÚSICA MANUEL DE FALLA - ANEXO 3 - JIN B (
 
 *  (2021) Sanitarias 
     + Reemp tapa de inspeccion en tanque
-
-
-
-
-
-## Mobiliario
-
-*  (2021) : Escritorio 2, Mesa inicial 10, Mesa pupitre doble 30, Silla escolar 122 
 
 
 

@@ -4,12 +4,11 @@ subtitle: 'CENS N° 45 - EPA N° 29 MANUEL BELGRANO'
 ---
 
 #
-## Infraestructura
 
-* NA 
-    + mejora edilicia - Finalizado 
-    + Finalizada el - 
 
+## Mobiliario
+
+*  (2023) : Escritorio 5, Mesa pupitre doble 75, Mesa usos múltiples 4, Pizarrón 5, Silla escolar 150 
 
 
 
@@ -37,14 +36,6 @@ subtitle: 'CENS N° 45 - EPA N° 29 MANUEL BELGRANO'
 
 *  (2021) Gas 
     + Adecuacion del sistema de gas
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Mesa usos múltiples 4, Pizarrón 5 
 
 
 

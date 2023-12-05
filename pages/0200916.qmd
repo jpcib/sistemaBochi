@@ -8,7 +8,7 @@ subtitle: 'EPC N° 19 ROMA - JII N° 14/20 - CENTRO DE ACTIVIDADES INFANTILES Y 
 
 * Ampliación de nucleos sanitarios / ampliacion del comedor / instalacion electrica del jardin 
     + mejora edilicia - En Obra 
-    + Inicio de obra: 1/9/2023 - Avance: 4% - Fecha de finalización: 29/3/2024 
+    + Inicio de obra: 1/09/2023 - Avance: 27% - Fecha de finalización: 29/04/2024 
 
 
 
@@ -17,7 +17,7 @@ subtitle: 'EPC N° 19 ROMA - JII N° 14/20 - CENTRO DE ACTIVIDADES INFANTILES Y 
 
 ## Mobiliario
 
-*  (2023) : Mesa inicial 8, Silla escolar 60 
+*  (2023) : Mesa inicial 8, Silla escolar 60, NA 1 
 
 *  (2021) : Armario 4, Mesa pupitre doble 30, Silla escolar 73 
 

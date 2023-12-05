@@ -10,7 +10,12 @@ subtitle: 'ESC. TEC. N° 09 ING. LUIS A. HUERGO - CAIYJ CLUB HUERGO'
 Laboratorios. instalaciones eléctrica, sanitaria, contra incendio, termomecánica y la reparación –
 Puesta en norma del ascensor. 
     + mejora edilicia - En Obra 
-    + Inicio de obra: 19/1/2023 - Avance: 54% - Fecha de finalización: 15/12/2023 
+    + Inicio de obra: 19/01/2023 - Avance: 70% - Fecha de finalización: 28/2/24 
+
+
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 * Imperbeabilizacion de un sector de azotea 

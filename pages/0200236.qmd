@@ -4,15 +4,12 @@ subtitle: 'JIC N° 04/05° SEDE - EPC N° 14 PROVINCIA DE SAN LUIS'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Armario 2, Mesa inicial 10, Silla escolar 60 
-
-*  (2022) : Mesa inicial 10, Pizarrón 4, Silla escolar 60 
-
-*  (2021) : Armario 28, Escritorio 14, Mesa pupitre doble 90, Silla escolar 194 
 
 
 
@@ -49,6 +46,18 @@ subtitle: 'JIC N° 04/05° SEDE - EPC N° 14 PROVINCIA DE SAN LUIS'
 
 *  (2021) Incendio 
     + 2 EXTINTORES ABC X 5 KG
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Armario 2, Mesa inicial 10, Silla escolar 60 
+
+*  (2022) : Mesa inicial 10, Pizarrón 4, Silla escolar 60 
+
+*  (2021) : Armario 28, Escritorio 14, Mesa pupitre doble 90, Silla escolar 194 
 
 
 

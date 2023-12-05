@@ -4,11 +4,12 @@ subtitle: 'EPC N° 23 CANADA - CENS N° 68'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Escritorio 8, Mesa pupitre doble 105, Pizarrón 6, Silla escolar 186 
 
 
 
@@ -24,6 +25,14 @@ subtitle: 'EPC N° 23 CANADA - CENS N° 68'
 
 *  (2021) Albañileria / Pintura 
     + Reemplazo solado en 5 aulas
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Escritorio 8, Mesa pupitre doble 105, Pizarrón 6, Silla escolar 186 
 
 
 

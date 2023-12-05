@@ -6,10 +6,23 @@ subtitle: 'EPC N° 09 JOSE MARIA TORRES - JIN B (EPCJS 09/20°)'
 #
 ## Infraestructura
 
+* Instalacion electrica 
+    + mejora edilicia - En Obra 
+    + Inicio de obra: 24/11/2023 - Avance: 5% - Fecha de finalización: 22/4/2024 
+
+
 * Reparación en cubiertas, impermeabilización. 
     + mejora edilicia - Finalizado 
     + Finalizada el 30/7/2023 
 
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa pupitre doble 120, Pizarrón 14, Silla escolar 240 
 
 
 

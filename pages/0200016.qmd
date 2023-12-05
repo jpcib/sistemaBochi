@@ -6,9 +6,9 @@ subtitle: 'JIN C (EPCJC 21/01°) - EPC N° 21 ANGEL GALLARDO'
 #
 ## Infraestructura
 
-* Instalacion electrica 
-    + mejora edilicia - Licitación 
-    + Inicio de obra: 20/11/2023 
+* Finalizacion de obra instalacion electrica 
+    + mejora edilicia - En Obra 
+    + Inicio de obra: 29/11/2023 - Avance: 0% - Fecha de finalización: 28/03/2024 
 
 
 * Sanitarios ( covid) 
@@ -57,6 +57,8 @@ subtitle: 'JIN C (EPCJC 21/01°) - EPC N° 21 ANGEL GALLARDO'
 
 
 ## Mobiliario
+
+*  (2023) : Juego de patio 1, Piso antigolpe para juegos 36 
 
 *  (2022) : Armario 2, Banco largo comedor 112, Mesa inicial 5, Mesa usos múltiples 56, Pizarrón 7, Silla escolar 30 
 

@@ -4,6 +4,15 @@ subtitle: 'EPA N° 06 DR. CARLOS VAZ FERREIRA - EPC N° 06 DR. CARLOS VAZ FERREI
 ---
 
 #
+## Infraestructura
+
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
+
+
+
+
 
 
 ## Mantenimiento
@@ -13,6 +22,14 @@ subtitle: 'EPA N° 06 DR. CARLOS VAZ FERREIRA - EPC N° 06 DR. CARLOS VAZ FERREI
 
 *  (2021) Gas 
     + levantamiento de corte de suministro
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa pupitre doble 15, Silla escolar 30 
 
 
 

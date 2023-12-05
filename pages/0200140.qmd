@@ -4,22 +4,12 @@ subtitle: 'CENS N° 34 - ESC. DE COM.  N° 34 MONSEÑOR MIGUEL DE ANDREA'
 ---
 
 #
+## Infraestructura
 
+* Patios + muros+carpinterias+   inst electrica y pintura en areas significativas y evaluar posible crecimiento aulico. catalogacion? 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: En ejecución 
-    + Guardia física: NO
-
-
-
-
-
-## Mobiliario
-
-*  (2022) : Escritorio 2, Mesa integradora con escotadura 1, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 
@@ -50,6 +40,25 @@ subtitle: 'CENS N° 34 - ESC. DE COM.  N° 34 MONSEÑOR MIGUEL DE ANDREA'
 
 *  (2021) Cubiertas / Impermeabilizaciones 
     + Reponer tanque cisterna y bombas
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Escritorio 2, Mesa integradora con escotadura 1, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2021) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+
+
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: En ejecución 
+    + Guardia física: NO
 
 
 

@@ -4,11 +4,12 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Mesa usos múltiples 2, Silla escolar 20 
 
 
 
@@ -30,6 +31,14 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS, JÓVENES Y ADULTOS CON DISCAPACIDAD MENTAL 
 
 *  (2021) Sanitarias 
     + Reemplazo tanque de agua
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Mesa usos múltiples 2, Silla escolar 20 
 
 
 

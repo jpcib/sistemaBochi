@@ -4,13 +4,12 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 03'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : NA 1 
-
-*  (2021) : Armario 4, Banco largo comedor 24, Escritorio 1, Mesa pupitre doble 15, Mesa usos múltiples 12, Silla escolar 31 
 
 
 
@@ -20,6 +19,16 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 03'
 
 *  (2023) Albañileria / Pintura 
     + Cambio de solado en patio descubierto
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : NA 1 
+
+*  (2021) : Armario 4, Banco largo comedor 24, Escritorio 1, Mesa pupitre doble 15, Mesa usos múltiples 12, Silla escolar 31 
 
 
 

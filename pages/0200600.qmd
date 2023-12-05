@@ -7,8 +7,8 @@ subtitle: 'EPC N° 23 SATURNINO SEGUROLA'
 ## Infraestructura
 
 * Ampliación - rehabilitación parcial - instalación eléctrica 
-    + mejora edilicia - En Obra 
-    + Inicio de obra: 1/11/2022 - Avance: 76% - Fecha de finalización: 31/11/2023 
+    + ampliacion - En Obra 
+    + Inicio de obra: 1/11/2022 - Avance: 86% - Fecha de finalización: 30/12/23 
 
 
 
@@ -37,6 +37,8 @@ subtitle: 'EPC N° 23 SATURNINO SEGUROLA'
 
 
 ## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 120 
 
 *  (2021) : Banco largo comedor 20, Mesa usos múltiples 10 
 

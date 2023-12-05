@@ -4,13 +4,12 @@ subtitle: 'Supervisión Primaria DE 14 - EPC N° 24 FRANCISCO BEIRO - JIN D (EPC
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : NA 1 
-
-*  (2021) : Mesa inicial 15, Pizarrón 4, Silla escolar 90 
 
 
 
@@ -29,6 +28,16 @@ subtitle: 'Supervisión Primaria DE 14 - EPC N° 24 FRANCISCO BEIRO - JIN D (EPC
 
 *  (2021) Carpinterías 
     + Rejas para Biblioteca, Pluviales Fachada
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : NA 1 
+
+*  (2021) : Mesa inicial 15, Pizarrón 4, Silla escolar 90 
 
 
 

@@ -4,12 +4,13 @@ subtitle: 'Esc. de Teatro Niní Marschall'
 ---
 
 #
-## Infraestructura
 
-* 3er año 
-    + sdf - Finalizado 
-    + Finalizada el - 
 
+## Mobiliario
+
+*  (2023) : Escritorio 2, Locker 20, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 
@@ -28,16 +29,6 @@ subtitle: 'Esc. de Teatro Niní Marschall'
 
 *  (2022) Electricidad 
     + Adecuación inst. eléctrica en secretaria
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Escritorio 2, Locker 20, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 
 
 

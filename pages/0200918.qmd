@@ -7,8 +7,8 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 ## Infraestructura
 
 * Carpinterías, cubierta y pintura en areas significativas 
-    + mejora edilicia - Licitación 
-    + Inicio de obra: 1/11/2023 
+    + mejora edilicia - En Obra 
+    + Inicio de obra: 13/10/2023 - Avance: 0% - Fecha de finalización: 10/05/2024 
 
 
 
@@ -50,7 +50,7 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 
 ## Mobiliario
 
-*  (2023) : Armario 6, Escritorio 2, Silla escolar 60, NA 1 
+*  (2023) : Armario 6, Escritorio 2, Mesa inicial 10, Silla escolar 60, NA 1 
 
 *  (2021) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 124 
 

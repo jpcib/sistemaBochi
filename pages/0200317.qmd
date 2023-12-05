@@ -4,15 +4,12 @@ subtitle: 'Sup Inicial I B - JII N° 08/06° M.A.SCHIAVONI DE LOPEZ'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Armario 2, Escritorio 2, NA 1 
-
-*  (2022) : Armario 2, Escritorio 1, Juego de patio 1, Mesa inicial 10, Piso antigolpe para juegos 36, Pizarrón 2, Silla escolar 63 
-
-*  (2021) : Mesa inicial 5, Silla escolar 20 
 
 
 
@@ -31,6 +28,18 @@ subtitle: 'Sup Inicial I B - JII N° 08/06° M.A.SCHIAVONI DE LOPEZ'
 
 *  (2021) Medios de elevación 
     + Puesta en normativa sistema elevaplatos
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Armario 2, Escritorio 2, Mesa inicial 15, Silla escolar 90, NA 1 
+
+*  (2022) : Armario 2, Escritorio 1, Juego de patio 1, Mesa inicial 10, Piso antigolpe para juegos 36, Pizarrón 2, Silla escolar 63 
+
+*  (2021) : Mesa inicial 5, Silla escolar 20 
 
 
 

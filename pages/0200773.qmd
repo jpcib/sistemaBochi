@@ -4,13 +4,12 @@ subtitle: 'JIN C (EPCJS 06/17°) LOLA MORA - EPC N° 06 ESTADO DE ISRAEL'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Pizarrón 9, NA 1 
-
-*  (2021) : Mesa pupitre doble 83 
 
 
 
@@ -26,6 +25,16 @@ subtitle: 'JIN C (EPCJS 06/17°) LOLA MORA - EPC N° 06 ESTADO DE ISRAEL'
 
 *  (2021) Electricidad 
     + Instalar 6 equipos purificadores
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 9, Silla escolar 60, NA 1 
+
+*  (2021) : Mesa pupitre doble 83 
 
 
 

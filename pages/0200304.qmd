@@ -6,14 +6,9 @@ subtitle: 'EPC N° 13 BRIG. GRAL. JOSE M. ZAPIOLA - JIN B (EPCJC 13/06°) MAESTR
 #
 ## Infraestructura
 
-* Casa de casero 
-    + mejora edilicia - En Obra 
-    + Inicio de obra: 01/09/2023 - Avance: 0% - Fecha de finalización: 30/12/2023 
-
-
-* Restauracion, pintura, sanitarias, carpinterias 
+* Historica. fachada, patio, instalacion electrica,carpinterias,sanitarios y pintura 
     + mejora edilicia - Planificado 
-    + Inicio de obra: 24/12/2024 
+    + Inicio de obra: 23/11/2024 
 
 
 

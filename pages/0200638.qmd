@@ -4,11 +4,12 @@ subtitle: 'JIN D (EPCJC 21/13°) - EPC N° 21 PEDRO INCHAUSPE'
 ---
 
 #
+## Infraestructura
 
+* Instalacion electrica 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: 25/09/2024 
 
-## Mobiliario
-
-*  (2023) : Pizarrón 8 
 
 
 
@@ -21,6 +22,14 @@ subtitle: 'JIN D (EPCJC 21/13°) - EPC N° 21 PEDRO INCHAUSPE'
 
 *  (2023) Electricidad 
     + Prov.Coloc.  dos ventiladores
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa inicial 5, Mesa pupitre doble 60, Pizarrón 8, Silla escolar 150 
 
 
 

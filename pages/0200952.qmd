@@ -4,22 +4,12 @@ subtitle: 'JIC N° 04/21° - EPC N° 08 JUDITH Y DEMETRIO DEMARCHI - EPA N° 08 
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Suspendida ejecución 
-    + Guardia física: NO
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : NA 1 
-
-*  (2021) : Mesa pupitre doble 60 
 
 
 
@@ -59,6 +49,25 @@ subtitle: 'JIC N° 04/21° - EPC N° 08 JUDITH Y DEMETRIO DEMARCHI - EPA N° 08 
 
 *  (2021) Sanitarias 
     + Cambio tanque cisterna
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : NA 1 
+
+*  (2021) : Mesa pupitre doble 60 
+
+
+
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Suspendida ejecución 
+    + Guardia física: NO
 
 
 

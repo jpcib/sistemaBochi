@@ -6,9 +6,9 @@ subtitle: 'ISEF N° 02 PROF. FEDERICO W. DICKENS'
 #
 ## Infraestructura
 
-* Refaccion integral edilicia accesibilidad plena carpinteria y pintura patio 
-    + mejora edilicia - Licitación 
-    + Inicio de obra: 1/11/2023 
+* Pintura, patios, electricidad 
+    + mejora edilicia - En Obra 
+    + Inicio de obra: 11/10/2023 - Avance: 0% - Fecha de finalización: 7/06/2024 
 
 
 

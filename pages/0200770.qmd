@@ -4,15 +4,12 @@ subtitle: 'EPC N° 03 POLICIA FEDERAL ARGENTINA - JINA(EPCJC 03/17°)ALICIA MORE
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : NA 1 
-
-*  (2022) : Mesa inicial 5, Silla escolar 30 
-
-*  (2021) : Mesa pupitre doble 15 
 
 
 
@@ -43,6 +40,18 @@ subtitle: 'EPC N° 03 POLICIA FEDERAL ARGENTINA - JINA(EPCJC 03/17°)ALICIA MORE
 
 *  (2021) Sanitarias 
     + Rep tramo cloacal Bº M-patio trasero
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : NA 1 
+
+*  (2022) : Mesa inicial 5, Silla escolar 30 
+
+*  (2021) : Mesa pupitre doble 15 
 
 
 

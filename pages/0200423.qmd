@@ -4,11 +4,12 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 08 LUIS VERNET'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2021) : Armario 4, Escritorio 2, Mesa pupitre doble 30, Pizarrón 14, Silla escolar 62 
 
 
 
@@ -18,6 +19,16 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 08 LUIS VERNET'
 
 *  (2023) Medios de elevación 
     + Rampa para elecciones PASO 2023
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa pupitre doble 15, Silla escolar 30 
+
+*  (2021) : Armario 4, Escritorio 2, Mesa pupitre doble 30, Pizarrón 14, Silla escolar 62 
 
 
 

@@ -4,12 +4,24 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 ---
 
 #
-## Infraestructura
 
-* 2do año 
-    + sdf - Finalizado 
-    + Finalizada el - 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 
+
+*  (2022) : Armario 20, Escritorio 8, Mesa pupitre doble 120, Pizarrón 10, Silla escolar 248 
+
+*  (2021) : Armario 4, Escritorio 4, Mesa pupitre doble 90, Pizarrón 4, Silla escolar 184 
 
 
 
@@ -49,27 +61,6 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 
 *  (2021) Otros Servicios 
     + 4 AULAS SECUNDARIAS DEL FUTURO
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 
-
-*  (2022) : Armario 20, Escritorio 8, Mesa pupitre doble 120, Pizarrón 10, Silla escolar 248 
-
-*  (2021) : Armario 4, Escritorio 4, Mesa pupitre doble 90, Pizarrón 4, Silla escolar 184 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: Finalizado 
-    + Guardia física: NO
 
 
 

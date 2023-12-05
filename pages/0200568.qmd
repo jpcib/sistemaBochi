@@ -7,11 +7,9 @@ subtitle: 'EPC N° 22 HIPOLITO BOUCHARD'
 ## Infraestructura
 
 * Evaluacion estructural de varias fisura (muros de aula, cocina y escaler). expte?
-Plan mejora de patio+muros+acond gas-electricidad+ sanitarios y pintura en areas significativaspatios amerita mejora en pisos y pintura. humedad ascendente en medianera de aulas y comedor. acondicionamiento de cielorrasos dela circulación del primer piso. acondicionamiento de instalacion electrica y termomecanica. acondicionamiento del sanitarios del piso 1. la accesibilidad si bien es básica amerita resolución de algunos desniveles internos en sus recorridos.  
-
- 
+Plan mejora de patio+muros+acond gas-electricidad+ sanitarios y pintura en areas significativaspatios amerita mejora en pisos y pintura. humedad ascendente en medianera de aulas y comedor. acondicionamiento de cielorrasos dela circulación del primer piso. acondicionamiento de instalacion electrica y termomecanica. acondicionamiento del sanitarios del piso 1. la accesibilidad si bien es básica amerita resolución de algunos desniveles internos en sus recorridos. 
     + mejora edilicia - En Proyecto 
-    + Inicio de obra: 15/4/2024 
+    + Inicio de obra: 15/04/2024 
 
 
 
@@ -37,6 +35,8 @@ Plan mejora de patio+muros+acond gas-electricidad+ sanitarios y pintura en areas
 
 
 ## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 120 
 
 *  (2022) : Escritorio 1, Mesa pupitre doble 12, Silla escolar 25 
 

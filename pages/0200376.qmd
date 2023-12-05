@@ -8,7 +8,7 @@ subtitle: 'ESC. DE COM. N° 16 GABRIELA MISTRAL'
 
 * Instalación electrica y pintura 
     + mejora edilicia - Planificado 
-    + Inicio de obra: 1/9/2023 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 
@@ -41,7 +41,7 @@ subtitle: 'ESC. DE COM. N° 16 GABRIELA MISTRAL'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124, NA 1 
 
 
 

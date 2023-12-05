@@ -6,9 +6,10 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 19 - ESC. DE COM. N° 19 JU
 #
 ## Infraestructura
 
-* 2do año 
-    + sdf - Finalizado 
-    + Finalizada el 30/1/2023 
+* Polideportivo contempla la construcción de un volumen de apoyo y servicios, un área de cancha cubierta con estructura liviana de chapa y un área de cancha descubierta de verde que permite terreno absorbente en pulmón de manzana.
+ 
+    + ampliacion - En Obra 
+    + Inicio de obra: 20/01/2023 - Avance: 50% - Fecha de finalización: 22/1/2024 
 
 
 * Accesibilidad, ascensor. (amparo) 

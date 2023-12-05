@@ -4,21 +4,12 @@ subtitle: 'EPC N° 11 PRIMER MINISTRO INDIRA GANDHI - JIN D (EPCJC 11/10°)'
 ---
 
 #
-## Infraestructura
-
-* Obra nueva primaria -ajustes por cambio de terreno- 
-    + obra nueva - En Obra 
-    + Inicio de obra: 1/2/2023 - Avance: 14% - Fecha de finalización: 24/6/2024 
 
 
+## Seguridad
 
-
-
-
-## Mantenimiento
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilización Sector 1, Impermeabilización Cubierta, Impermeabilizacion sala plastica y patio
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: SI
 
 
 
@@ -34,10 +25,10 @@ subtitle: 'EPC N° 11 PRIMER MINISTRO INDIRA GANDHI - JIN D (EPCJC 11/10°)'
 
 
 
-## Seguridad
+## Mantenimiento
 
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: SI
+*  (2022) Cubiertas / Impermeabilizaciones 
+    + Impermeabilización Sector 1, Impermeabilización Cubierta, Impermeabilizacion sala plastica y patio
 
 
 

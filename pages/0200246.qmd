@@ -4,13 +4,12 @@ subtitle: 'EPC N° 26 BRIGADIER MIGUEL DE AZCUENAGA - JIN B (EPCJC 26/05°)'
 ---
 
 #
+## Infraestructura
 
+* Fachadas, pintura general, adecuacion sanitarios, patios, instalacion electrica y calefaccion 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Banco largo comedor 6, NA 1 
-
-*  (2022) : Armario 6, Banco largo comedor 14, Escritorio 3, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 45 
 
 
 
@@ -29,6 +28,16 @@ subtitle: 'EPC N° 26 BRIGADIER MIGUEL DE AZCUENAGA - JIN B (EPCJC 26/05°)'
 
 *  (2021) Electricidad 
     + Instalacion de purificadores
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Banco largo comedor 6, Mesa pupitre doble 15, Silla escolar 30, NA 1 
+
+*  (2022) : Armario 6, Banco largo comedor 14, Escritorio 3, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 45 
 
 
 

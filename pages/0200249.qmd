@@ -4,6 +4,15 @@ subtitle: 'ESCUELA INF. N°05/05° MARIA EVA DUARTE DE PERON'
 ---
 
 #
+## Infraestructura
+
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
+
+
+
+
 
 
 ## Mantenimiento
@@ -19,6 +28,14 @@ subtitle: 'ESCUELA INF. N°05/05° MARIA EVA DUARTE DE PERON'
 
 *  (2021) Sanitarias 
     + Tanque de agua Plastico ROTOPLAS 1000 L, Colocacion TERMOTANQUE Electrico de 80L
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa inicial 10, Silla escolar 60 
 
 
 

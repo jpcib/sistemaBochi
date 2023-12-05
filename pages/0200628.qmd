@@ -8,11 +8,6 @@ subtitle: 'EPC N° 10 ANTONIO ZACCAGNINI - JII N° 03/13° JARDIN DEL PARQUE'
 
 * Cubierta, carpinterias (madera, deterioradas), playon de acceso, puesta en valor sector original del edificio 
     + mejora edilicia - Planificado 
-    + Inicio de obra: 11/01/2025 
-
-
-* Cubierta, carpinterias (madera, deterioradas), playon de acceso, puesta en valor sector original del edificio 
-    + mejora edilicia - Planificado 
     + Inicio de obra: 14/9/2024 
 
 
@@ -31,7 +26,7 @@ subtitle: 'EPC N° 10 ANTONIO ZACCAGNINI - JII N° 03/13° JARDIN DEL PARQUE'
 
 ## Mobiliario
 
-*  (2023) : Mesa inicial 12, Silla escolar 56 
+*  (2023) : Mesa inicial 27, Silla escolar 146, NA 1 
 
 *  (2022) : Juego de patio 1, Piso antigolpe para juegos 60 
 

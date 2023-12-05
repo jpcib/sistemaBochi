@@ -4,13 +4,12 @@ subtitle: 'EPC N° 14 CAPIT.MARIA REMEDIOS DEL VALLE - JIN A (EPCJC 14/19°)'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Mesa pupitre doble 90, Silla escolar 180 
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Silla escolar 93 
 
 
 
@@ -26,6 +25,16 @@ subtitle: 'EPC N° 14 CAPIT.MARIA REMEDIOS DEL VALLE - JIN A (EPCJC 14/19°)'
 
 *  (2021) Gas 
     + Adecuacion de instalacion de gas
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa pupitre doble 90, Silla escolar 180 
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Silla escolar 93 
 
 
 

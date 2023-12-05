@@ -4,11 +4,12 @@ subtitle: 'ESC. PARA NIÑOS Y NIÑAS CON DISCAPACIDAD MENTAL N° 25 MACACHA GÜE
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Mesa usos múltiples 2, Pizarrón 8 
 
 
 
@@ -21,6 +22,16 @@ subtitle: 'ESC. PARA NIÑOS Y NIÑAS CON DISCAPACIDAD MENTAL N° 25 MACACHA GÜE
 
 *  (2021) Incendio 
     + Luces de emergencia en EE25 M Guemes
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 60 
+
+*  (2022) : Mesa usos múltiples 2, Pizarrón 8 
 
 
 

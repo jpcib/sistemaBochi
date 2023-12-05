@@ -4,15 +4,12 @@ subtitle: 'Sup Inicial VIII B - EPC N° 19 BARTOLINA SISA - JII N° 03/17° EL J
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Mesa inicial 10, Silla escolar 60, NA 1 
-
-*  (2022) : Banco largo comedor 40, Mesa usos múltiples 20 
-
-*  (2021) : Armario 6, Mesa inicial 5, Pizarrón 1, Silla escolar 30 
 
 
 
@@ -31,6 +28,18 @@ subtitle: 'Sup Inicial VIII B - EPC N° 19 BARTOLINA SISA - JII N° 03/17° EL J
 
 *  (2021) Electricidad 
     + Instalación 9 equipos purificadores de a
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa inicial 10, Silla escolar 60, NA 1 
+
+*  (2022) : Banco largo comedor 40, Mesa usos múltiples 20 
+
+*  (2021) : Armario 6, Mesa inicial 5, Pizarrón 1, Silla escolar 30 
 
 
 

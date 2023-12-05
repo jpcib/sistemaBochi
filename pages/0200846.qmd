@@ -4,11 +4,12 @@ subtitle: 'EPC N° 03 PROF. CARLOS JUSTO FLORIT - CENS N° 84'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2021) : Banco largo comedor 14, Mesa usos múltiples 7 
 
 
 
@@ -39,6 +40,14 @@ subtitle: 'EPC N° 03 PROF. CARLOS JUSTO FLORIT - CENS N° 84'
 
 *  (2021) Sanitarias 
     + Cambio de tapa de tanque de reserva
+
+
+
+
+
+## Mobiliario
+
+*  (2021) : Banco largo comedor 14, Mesa usos múltiples 7 
 
 
 

@@ -4,11 +4,12 @@ subtitle: 'CENS N° 01 - EPC N° 23 TOMAS MANUEL DE ANCHORENA - ESEA  DANZA RAMI
 ---
 
 #
+## Infraestructura
 
+* Adecuacion de sanitarios, pintura, instalacion electrica e incendio 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Armario 22, Escritorio 11, Mesa pupitre doble 52, Pizarrón 11, Silla escolar 125 
 
 
 
@@ -21,6 +22,14 @@ subtitle: 'CENS N° 01 - EPC N° 23 TOMAS MANUEL DE ANCHORENA - ESEA  DANZA RAMI
 
 *  (2023) Gas 
     + Adecuacion de instalacion de gas
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Armario 22, Escritorio 11, Mesa pupitre doble 52, Pizarrón 11, Silla escolar 125 
 
 
 

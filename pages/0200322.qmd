@@ -8,7 +8,12 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
 
 * Sanitarios. (fondos inet) 
     + mejora edilicia - Finalizado 
-    + Finalizada el 30/9/2023 
+    + Finalizada el - 
+
+
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 

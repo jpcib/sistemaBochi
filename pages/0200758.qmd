@@ -4,11 +4,12 @@ subtitle: 'EPC N° 22 REPUBLICA DE NICARAGUA - JIN D (EPCJS 22/16°) [S]'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : NA 1 
 
 
 
@@ -21,6 +22,14 @@ subtitle: 'EPC N° 22 REPUBLICA DE NICARAGUA - JIN D (EPCJS 22/16°) [S]'
 
 *  (2022) Otros Servicios 
     + Limpieza total de la casa habitación
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 9, Mesa pupitre doble 135, Silla escolar 270, NA 1 
 
 
 

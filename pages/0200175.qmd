@@ -4,13 +4,12 @@ subtitle: 'EPC N° 03 JUAN MARIA GUTIERREZ - JIN C (EPCJC 03/04°)'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Pizarrón 12, Varios 3 
-
-*  (2021) : Banco largo comedor 48, Mesa usos múltiples 24 
 
 
 
@@ -23,6 +22,16 @@ subtitle: 'EPC N° 03 JUAN MARIA GUTIERREZ - JIN C (EPCJC 03/04°)'
 
 *  (2021) Medios de elevación 
     + Provision y colocacion rampa
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Pizarrón 12, Varios 3 
+
+*  (2021) : Banco largo comedor 48, Mesa usos múltiples 24 
 
 
 

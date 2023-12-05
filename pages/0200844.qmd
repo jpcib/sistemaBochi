@@ -4,11 +4,12 @@ subtitle: 'Sup Inicial  VI A A Sup Primaria DE19 - JIN B (EPCJS 01/19°) HOMERO 
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Mesa inicial 5, Silla escolar 36 
 
 
 
@@ -42,6 +43,14 @@ subtitle: 'Sup Inicial  VI A A Sup Primaria DE19 - JIN B (EPCJS 01/19°) HOMERO 
 
 *  (2021) Cubiertas / Impermeabilizaciones 
     + Cambio de policarbonato
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa inicial 5, Silla escolar 36 
 
 
 

@@ -4,6 +4,15 @@ subtitle: 'JIN B (EPCJC 16/16°) JUANA AZURDUY - EPC N° 16 RICARDO ROJAS - CENS
 ---
 
 #
+## Infraestructura
+
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
+
+
+
+
 
 
 ## Mantenimiento
@@ -16,6 +25,14 @@ subtitle: 'JIN B (EPCJC 16/16°) JUANA AZURDUY - EPC N° 16 RICARDO ROJAS - CENS
 
 *  (2021) Carpinterías 
     + Ventanas con mosquiteros y rejas
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 120 
 
 
 

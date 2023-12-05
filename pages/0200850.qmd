@@ -4,11 +4,12 @@ subtitle: 'EPC N° 07 AERONAUTICA ARGENTINA - CECIE N° 19'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Armario 6, Mesa pupitre doble 60, Pizarrón 9, Silla escolar 129 
 
 
 
@@ -24,6 +25,16 @@ subtitle: 'EPC N° 07 AERONAUTICA ARGENTINA - CECIE N° 19'
 
 *  (2022) Gas 
     + Artefacto de cocina para casa casero.
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 120 
+
+*  (2022) : Armario 6, Mesa pupitre doble 60, Pizarrón 9, Silla escolar 129 
 
 
 

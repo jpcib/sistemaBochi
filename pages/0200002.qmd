@@ -8,7 +8,7 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
 
 * Acondicionamiento de fachadas/ adecuacion de supervision de1 
     + mejora edilicia - En Obra 
-    + Inicio de obra: 1/12/2022 - Avance: 38% - Fecha de finalización: 30/12/2023 
+    + Inicio de obra: 1/12/2022 - Avance: 63% - Fecha de finalización: 30/12/23 
 
 
 
@@ -49,6 +49,8 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
 
 
 ## Mobiliario
+
+*  (2023) : Escritorio 1, Mesa pupitre doble 15, Silla escolar 30 
 
 *  (2022) : Armario 2, Mesa inicial 5, Pizarrón 7, Silla escolar 30, Varios 1 
 

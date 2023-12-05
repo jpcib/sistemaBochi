@@ -10,7 +10,7 @@ subtitle: 'EPC N° 23 ABEL AYERZA - CECIE N° 17'
 Restauración de revoques en general, cielorrasos, solados, cambio de cubierta
 De tejas coloniales, reacondicionamiento de locales en 1º piso, instalaciones eléctricas , sanitarias y termomecánicas 
     + mejora edilicia - En Obra 
-    + Inicio de obra: 22/2/2022 - Avance: 90% - Fecha de finalización: neutralizada 
+    + Inicio de obra: 22/02/2022 - Avance: 90% - Fecha de finalización: neutralizada 
 
 
 
@@ -30,6 +30,8 @@ De tejas coloniales, reacondicionamiento de locales en 1º piso, instalaciones e
 
 
 ## Mobiliario
+
+*  (2023) : Escritorio 4, Mesa pupitre doble 60, Silla escolar 120 
 
 *  (2022) : Armario 4, Escritorio 3, Mesa pupitre doble 30, Pizarrón 6, Silla escolar 60 
 

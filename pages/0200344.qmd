@@ -4,11 +4,12 @@ subtitle: 'EPC N° 23 PROVINCIA DE ENTRE RIOS'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Armario 3, Pizarrón 6 
 
 
 
@@ -30,6 +31,14 @@ subtitle: 'EPC N° 23 PROVINCIA DE ENTRE RIOS'
 
 *  (2021) Incendio 
     + Provision de matafuegos faltante
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Armario 3, Pizarrón 6 
 
 
 

@@ -6,14 +6,9 @@ subtitle: 'Sup Media Region V - LICEO N° 08 ESTEBAN ECHEVERRIA'
 #
 ## Infraestructura
 
-* 3er año 
-    + sdf - Finalizado 
-    + Finalizada el 11/3/2023 
-
-
 * Plan mejora en   adecuacion  patio, inst gas-calefaccion ,electricidad  y  pintura en areas significativas 
     + mejora edilicia - Planificado 
-    + Inicio de obra: 11/05/2025 
+    + Inicio de obra: 16/10/2024 
 
 
 
@@ -37,7 +32,7 @@ subtitle: 'Sup Media Region V - LICEO N° 08 ESTEBAN ECHEVERRIA'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+*  (2023) : Escritorio 8, Mesa pupitre doble 120, Pizarrón 2, Silla escolar 242 
 
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
 

@@ -6,10 +6,9 @@ subtitle: 'EPC N° 10 GRAL. ARAOZ DE LAMADRID'
 #
 ## Infraestructura
 
-* Historica. fachada, patio, instalacion electrica,carpinterias,sanitarios y pintura
-Requiere refuncionalización vivienda casera 
+* Historica. fachada, patio, instalacion electrica,carpinterias,sanitarios y pintura 
     + mejora edilicia - En Proyecto 
-    + Inicio de obra: 22/7/2024 
+    + Inicio de obra: 22/07/2024 
 
 
 

@@ -4,13 +4,12 @@ subtitle: 'EPC N° 11 FRAY LUIS BELTRAN - JIN A (EPCJC 11/15°)'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Mesa pupitre doble 45, Silla escolar 90 
-
-*  (2021) : Mesa usos múltiples 6 
 
 
 
@@ -29,6 +28,16 @@ subtitle: 'EPC N° 11 FRAY LUIS BELTRAN - JIN A (EPCJC 11/15°)'
 
 *  (2021) Electricidad 
     + Instalación para 8 purificadores de aire
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa pupitre doble 45, Silla escolar 90 
+
+*  (2021) : Mesa usos múltiples 6 
 
 
 

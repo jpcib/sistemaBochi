@@ -6,9 +6,14 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS Y JÓVENES CON DISCAPACIDAD MENTAL Y DE FORM
 #
 ## Infraestructura
 
+* Plan mejoras, solados, canchas, adecuacion sanitarios, cubiertas y pintura 
+    + ampliacion - Planificado 
+    + Inicio de obra: 21/09/2024 
+
+
 * Plan mejora de  patio+ inst gas-calefaccion + cubierta  y reparacion de revoques y pintura en areas significativas 
     + mejora edilicia - Planificado 
-    + Inicio de obra: 16/8/2024 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 
@@ -43,6 +48,14 @@ subtitle: 'ESC. PARA NIÑOS, NIÑAS Y JÓVENES CON DISCAPACIDAD MENTAL Y DE FORM
 
 *  (2021) Gas 
     + Adecuacion instalacion de gas, Adecuación en la instalación de gas
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 60, NA 1 
 
 
 

@@ -6,11 +6,6 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 #
 ## Infraestructura
 
-* 3er año 
-    + sdf - Finalizado 
-    + Finalizada el 4/4/2023 
-
-
 * Plan mejora en   adecuacion   inst electrica , patio , muros ,carpinteria, sanitarios, cubierta  y  pintura en areas significativas 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 

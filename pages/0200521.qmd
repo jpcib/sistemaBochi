@@ -4,13 +4,12 @@ subtitle: 'LICEO N° 09 SANTIAGO DERQUI'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 106 
 
 
 
@@ -47,6 +46,16 @@ subtitle: 'LICEO N° 09 SANTIAGO DERQUI'
 
 *  (2021) Calefaccion y Refrigeracion 
     + COLOCACION DE AIRE ACONDICIONADO ENAULAS
+
+
+
+
+
+## Mobiliario
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 106 
 
 
 

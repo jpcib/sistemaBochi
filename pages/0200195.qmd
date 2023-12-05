@@ -7,19 +7,14 @@ subtitle: 'Sup Media Tecnica Region I - IFTS Nº 06 - ESC. TEC. N° 01 ING. OTTO
 ## Infraestructura
 
 * Instalacion electrica completa sector talleres 
-    + mejora edilicia - En Obra 
-    + Inicio de obra: 27/12/2021 - Avance: 66% - Fecha de finalización: para rescindir 
-
-
-* 2do año 
-    + sdf - Finalizado 
+    + mejora edilicia - Finalizado 
     + Finalizada el - 
 
 
 * Accesibilidad. pintura. impermeabilización en sector de aulas. instalación eléctrica: terminar obra rescindida de instalación eléctrica de talleres. termo
 . Terminar la obra eléctrica rescindida (instalación eléctrica de los talleres). adecuación de instalación de gas. instalación sanitaria (vestuariso) 
     + mejora edilicia - En Proyecto 
-    + Inicio de obra: 10/6/2024 
+    + Inicio de obra: 24/06/2024 
 
 
 

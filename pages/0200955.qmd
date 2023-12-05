@@ -4,25 +4,12 @@ subtitle: 'EPC N° 13 DR. ALFREDO LANARI - JIN C (EPCJS 13/21°) - EPA N° 13 DR
 ---
 
 #
+## Infraestructura
 
+* Adecuacion de cubierta, sanitarios, termomecanica, patios y pintura 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Colocada a configurar 
-    + Guardia física: NO
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : NA 1 
-
-*  (2021) : Pizarrón 3 
 
 
 
@@ -53,6 +40,28 @@ subtitle: 'EPC N° 13 DR. ALFREDO LANARI - JIN C (EPCJS 13/21°) - EPA N° 13 DR
 
 *  (2021) Electricidad 
     + colocación de 1 purificador en 6to grado, Colocar 1 purificador de aire en aula, Colocar purificador en aula informática
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : NA 1 
+
+*  (2021) : Pizarrón 3 
+
+
+
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Colocada a configurar 
+    + Guardia física: NO
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
 
 
 

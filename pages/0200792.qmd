@@ -4,24 +4,12 @@ subtitle: 'ESC. TEC. N° 16 ESPAÑA'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Escritorio 1, Mesa pupitre doble 15, Silla escolar 31 
-
-*  (2022) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 
-
-*  (2021) : Escritorio 2, Mesa pupitre doble 30, Mesa trabajo estante 4, Pizarrón 2, Silla escolar 62, Varios 8 
 
 
 
@@ -40,6 +28,27 @@ subtitle: 'ESC. TEC. N° 16 ESPAÑA'
 
 *  (2021) Albañileria / Pintura 
     + Ejecucion 2 aulas del Futuro
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 1, Mesa pupitre doble 15, Silla escolar 31 
+
+*  (2022) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 
+
+*  (2021) : Escritorio 2, Mesa pupitre doble 30, Mesa trabajo estante 4, Pizarrón 2, Silla escolar 62, Varios 8 
+
+
+
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
 
 
 

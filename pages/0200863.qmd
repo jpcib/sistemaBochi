@@ -4,12 +4,27 @@ subtitle: 'POLIDEPORTIVO - EEM N° 02/19° - PI JAURETCHITOS - EEM N° 02/19° A
 ---
 
 #
-## Infraestructura
 
-* 3er año 
-    + sdf - Finalizado 
-    + Finalizada el - 
 
+## Seguridad
+
+*  Espacios seguros: 3 - Estado: Finalizado 
+    + Guardia física: NO
+
+*  Espacios seguros: 3 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62, NA 1 
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
 
@@ -58,30 +73,6 @@ subtitle: 'POLIDEPORTIVO - EEM N° 02/19° - PI JAURETCHITOS - EEM N° 02/19° A
 
 *  (2021) Medios de elevación 
     + Adecuación de ascensor
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62, NA 1 
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2021) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: Finalizado 
-    + Guardia física: NO
-
-*  Espacios seguros: 3 - Estado: Finalizado 
-    + Guardia física: NO
 
 
 

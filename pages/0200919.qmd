@@ -4,20 +4,12 @@ subtitle: 'JII N° 01/20° - EPC N° 22 RUFINO LURO CAMBACERES'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: Colocada a configurar 
-    + Guardia física: NO
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Banco largo comedor 20, Juego de patio 1, Mesa integradora con escotadura 1, Piso antigolpe para juegos 60, NA 2 
 
 
 
@@ -48,6 +40,23 @@ subtitle: 'JII N° 01/20° - EPC N° 22 RUFINO LURO CAMBACERES'
 
 *  (2021) Sanitarias 
     + 2 bombas centrifugas,achique,tanque, Provision de camion atmosferico
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Banco largo comedor 20, Juego de patio 1, Mesa inicial 15, Mesa integradora con escotadura 1, Piso antigolpe para juegos 60, Silla escolar 90, NA 2 
+
+
+
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Colocada a configurar 
+    + Guardia física: NO
 
 
 

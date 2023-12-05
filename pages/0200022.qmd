@@ -4,12 +4,22 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N° 02 - COLEGIO N° 02 DOMINGO FAUS
 ---
 
 #
-## Infraestructura
 
-* 2do año 
-    + sdf - Finalizado 
-    + Finalizada el - 
 
+## Seguridad
+
+*  Espacios seguros: 3 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155, NA 1 
+
+*  (2022) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 
 
@@ -31,25 +41,6 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N° 02 - COLEGIO N° 02 DOMINGO FAUS
 
 *  (2021) Electricidad 
     + Reemplazo de ventiladores en aulas
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
-
-*  (2022) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: Finalizado 
-    + Guardia física: NO
 
 
 

@@ -4,15 +4,12 @@ subtitle: 'EPC N° 07 JORGE NEWBERY'
 ---
 
 #
+## Infraestructura
 
+* Plan mejora en   adecuacion   inst electrica, cielorraso  , patio , muros ,carpinteria, cubierta  y  pintura en areas significativas 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : NA 2 
-
-*  (2022) : Banco largo comedor 20, Mesa pupitre doble 45, Mesa usos múltiples 10, Silla escolar 90 
-
-*  (2021) : Armario 8 
 
 
 
@@ -28,6 +25,18 @@ subtitle: 'EPC N° 07 JORGE NEWBERY'
 
 *  (2021) Incendio 
     + Provisión de matafuegos
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Armario 6, Escritorio 7, Mesa pupitre doble 105, Silla escolar 210, NA 2 
+
+*  (2022) : Banco largo comedor 20, Mesa pupitre doble 45, Mesa usos múltiples 10, Silla escolar 90 
+
+*  (2021) : Armario 8 
 
 
 

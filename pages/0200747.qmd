@@ -4,11 +4,17 @@ subtitle: 'EPC N° 08 SAN JUAN BOSCO - JIN A (EPCJS 08/16°)'
 ---
 
 #
+## Infraestructura
+
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
 
-## Mobiliario
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-*  (2023) : NA 1 
 
 
 
@@ -27,6 +33,14 @@ subtitle: 'EPC N° 08 SAN JUAN BOSCO - JIN A (EPCJS 08/16°)'
 
 *  (2021) Electricidad 
     + Instalacion de purificadores de aire, Cambio de central telefónica
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 60, NA 1 
 
 
 

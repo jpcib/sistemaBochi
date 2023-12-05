@@ -6,6 +6,14 @@ subtitle: 'ESCUELA INF. N° 12/19°'
 #
 
 
+## Mobiliario
+
+*  (2023) : Escritorio 1, Mesa inicial 5, Silla escolar 30 
+
+
+
+
+
 ## Mantenimiento
 
 *  (2023) Carpinterías 

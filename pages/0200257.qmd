@@ -4,27 +4,12 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 ---
 
 #
-## Infraestructura
-
-* 3er año 
-    + sdf - Finalizado 
-    + Finalizada el - 
 
 
+## Seguridad
 
-
-
-
-## Mantenimiento
-
-*  (2023) Electricidad 
-    + Espacio Seguro
-
-*  (2021) Gas 
-    + Adecuacion de gas
-
-*  (2021) Sanitarias 
-    + Reemp tapas tanques-Reserva y Cisterna
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
 
 
 
@@ -42,10 +27,16 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 
 
 
-## Seguridad
+## Mantenimiento
 
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
+*  (2023) Electricidad 
+    + Espacio Seguro
+
+*  (2021) Gas 
+    + Adecuacion de gas
+
+*  (2021) Sanitarias 
+    + Reemp tapas tanques-Reserva y Cisterna
 
 
 

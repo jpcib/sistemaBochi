@@ -4,12 +4,22 @@ subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
 ---
 
 #
-## Infraestructura
 
-* 2do año 
-    + sdf - Finalizado 
-    + Finalizada el 23/3/2023 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 
 
 
@@ -37,25 +47,6 @@ subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
 
 *  (2021) Carpinterías 
     + Pintura aulas y provisión de puerta
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Suspendida ejecución 
-    + Guardia física: NO
 
 
 

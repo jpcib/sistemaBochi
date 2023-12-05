@@ -6,9 +6,9 @@ subtitle: 'Sup Inicial IX B - EPC N° 07 MANUEL J. GARCIA - CENOF CENTRO CABILDO
 #
 ## Infraestructura
 
-* Sanitarios, impermeablizacion y pintura / ie completa - baños de pa sin instalacion de agua, requiere reemplazo de colectores en tanques 
+* Sanitarios, impermeablizacion y pintura / ie completa 
     + mejora edilicia - En Proyecto 
-    + Inicio de obra: 24/6/2024 
+    + Inicio de obra: 24/06/2024 
 
 
 

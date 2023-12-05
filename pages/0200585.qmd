@@ -4,13 +4,12 @@ subtitle: 'EPC N° 02 FLORENCIO VARELA - EPA N° 02 FLORENCIO VARELA'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : NA 1 
-
-*  (2021) : Mesa pupitre doble 44, Silla escolar 88 
 
 
 
@@ -23,6 +22,16 @@ subtitle: 'EPC N° 02 FLORENCIO VARELA - EPA N° 02 FLORENCIO VARELA'
 
 *  (2022) Electricidad 
     + Colocación de luces de emergencia, Instalación de purificadores
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : NA 1 
+
+*  (2021) : Mesa pupitre doble 44, Silla escolar 88 
 
 
 

@@ -4,6 +4,15 @@ subtitle: 'EPC N° 13 CNEL. JOSE ANTONIO MELIAN - JIN C (EPCJC 13/18°) - ESC. D
 ---
 
 #
+## Infraestructura
+
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
+
+
+
+
 
 
 ## Mantenimiento
@@ -28,6 +37,14 @@ subtitle: 'EPC N° 13 CNEL. JOSE ANTONIO MELIAN - JIN C (EPCJC 13/18°) - ESC. D
 
 *  (2021) Electricidad 
     + provision y colocación de 5 ventiladores, Instalación de purificadores.Las horas d
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa pupitre doble 15, Silla escolar 30 
 
 
 

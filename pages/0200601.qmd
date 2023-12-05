@@ -8,7 +8,7 @@ subtitle: 'JIN D (EPCJC 24/12°) - EPC N° 24 PADRE CASTAÑEDA'
 
 * Acondicionamiento de cubierta, sanitarios, cocina  inst electrica gas, piso, cielorraso. arreglo de revoque patio. adecuacion pintura interior de areas significantes y 
     + mejora edilicia - En Obra 
-    + Inicio de obra: 01/09/2023 - Avance: 2% - Fecha de finalización: 28/5/2024 
+    + Inicio de obra: 1/09/2023 - Avance: 13% - Fecha de finalización: 28/05/2024 
 
 
 
@@ -31,6 +31,8 @@ subtitle: 'JIN D (EPCJC 24/12°) - EPC N° 24 PADRE CASTAÑEDA'
 
 
 ## Mobiliario
+
+*  (2023) : Escritorio 5, Mesa pupitre doble 105, Silla escolar 210 
 
 *  (2022) : Mesa pupitre doble 24, Mesa usos múltiples 12, Pizarrón 18, Silla escolar 148 
 

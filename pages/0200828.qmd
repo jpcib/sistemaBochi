@@ -4,13 +4,12 @@ subtitle: 'ESC. DE COM. N° 30 DR. ESTEBAN AGUSTIN GASCON'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
 
@@ -53,6 +52,16 @@ subtitle: 'ESC. DE COM. N° 30 DR. ESTEBAN AGUSTIN GASCON'
 
 *  (2021) Sanitarias 
     + Rep de caño de agua en Patio Exterior, Reemplazo de termotanque casa casera
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2021) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 
 
 

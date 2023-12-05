@@ -4,13 +4,12 @@ subtitle: 'EPC N° 07 RECUERDOS DE PROVINCIA - JIN D (EPCJS 07/13°) - CENOF CEN
 ---
 
 #
+## Infraestructura
 
+* Completo o por etapas de obra / acondicionamiento de aulas, sanitarios y pintura general 
+    + obra nueva - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : NA 1 
-
-*  (2021) : Escritorio 3, Mesa pupitre doble 65, Silla escolar 75 
 
 
 
@@ -23,6 +22,16 @@ subtitle: 'EPC N° 07 RECUERDOS DE PROVINCIA - JIN D (EPCJS 07/13°) - CENOF CEN
 
 *  (2022) Incendio 
     + Colocacion de matafuegos
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa inicial 5, Silla escolar 30, NA 1 
+
+*  (2021) : Escritorio 3, Mesa pupitre doble 65, Silla escolar 75 
 
 
 

@@ -6,9 +6,9 @@ subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI L
 #
 ## Infraestructura
 
-* 3er año 
-    + sdf - Finalizado 
-    + Finalizada el 4/4/2023 
+* Accesibilidad basica, fisuras, reparacion de revoques, pintura general, carpinterias, adecuacion sanitarios, patios 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 

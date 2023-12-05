@@ -6,14 +6,9 @@ subtitle: 'EEM N° 04/21° - EPC N° 04 PROVINCIA DE TUCUMAN - CAIYJ CLUB LUGANO
 #
 ## Infraestructura
 
-* 3er año 
-    + sdf - Finalizado 
-    + Finalizada el 19/3/2023 
-
-
 * Plan mejora en   adecuacion   cocina , comedor ,  cubierta  y reparacion revoques y pintura en areas significativas + evaluacion estado polideportivo. 
     + mejora edilicia - Planificado 
-    + Inicio de obra: 06/09/2024 
+    + Inicio de obra: 3/10/2024 
 
 
 
@@ -52,7 +47,7 @@ subtitle: 'EEM N° 04/21° - EPC N° 04 PROVINCIA DE TUCUMAN - CAIYJ CLUB LUGANO
 
 ## Mobiliario
 
-*  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93, NA 1 
+*  (2023) : Escritorio 10, Mesa pupitre doble 210, Pizarrón 3, Silla escolar 423, NA 1 
 
 *  (2022) : Armario 2, Escritorio 3, Mesa pupitre doble 48, Pizarrón 3, Silla escolar 99 
 

@@ -8,7 +8,7 @@ subtitle: 'EPC N° 05 ENRIQUE DE VEDIA - JIN C (EPCJS 05/14°) - CECIE N° 24'
 
 * Instalacion electrica 
     + mejora edilicia - En Obra 
-    + Inicio de obra: 1/9/2023 - Avance: 0% - Fecha de finalización: 29/1/2024 
+    + Inicio de obra: 12/09/2023 - Avance: 41% - Fecha de finalización: 9/02/2024 
 
 
 
@@ -29,7 +29,7 @@ subtitle: 'EPC N° 05 ENRIQUE DE VEDIA - JIN C (EPCJS 05/14°) - CECIE N° 24'
 
 ## Mobiliario
 
-*  (2023) : NA 1 
+*  (2023) : Mesa inicial 10, Silla escolar 60, NA 1 
 
 *  (2022) : Armario 1, Mesa inicial 5, Pizarrón 2, Silla escolar 30 
 

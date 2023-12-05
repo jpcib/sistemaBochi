@@ -4,22 +4,12 @@ subtitle: 'EPC N° 09 HOMERO MANZI - CENS N° 91'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
-## Mobiliario
-
-*  (2022) : Armario 4, Escritorio 6, Mesa pupitre doble 30, Silla escolar 60 
-
-*  (2021) : Mesa pupitre doble 45, Pizarrón 13 
 
 
 
@@ -50,6 +40,27 @@ subtitle: 'EPC N° 09 HOMERO MANZI - CENS N° 91'
 
 *  (2021) Electricidad 
     + colocar 3 purificadores de aire
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Armario 2 
+
+*  (2022) : Armario 4, Escritorio 6, Mesa pupitre doble 30, Silla escolar 60 
+
+*  (2021) : Mesa pupitre doble 45, Pizarrón 13 
+
+
+
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
 
 
 

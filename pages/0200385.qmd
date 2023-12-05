@@ -4,12 +4,13 @@ subtitle: 'EEM N° 03/07°'
 ---
 
 #
-## Infraestructura
 
-* 2do año 
-    + sdf - Finalizado 
-    + Finalizada el 18/3/2023 
 
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Banco largo comedor 20, Escritorio 2, Mesa pupitre doble 30, Mesa usos múltiples 10, Pizarrón 2, Silla escolar 62 
 
 
 
@@ -37,16 +38,6 @@ subtitle: 'EEM N° 03/07°'
 
 *  (2021) Medios de elevación 
     + Habilitación de platafoma de PB
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Banco largo comedor 20, Escritorio 2, Mesa pupitre doble 30, Mesa usos múltiples 10, Pizarrón 2, Silla escolar 62 
 
 
 

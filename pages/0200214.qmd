@@ -4,12 +4,12 @@ subtitle: 'EEM N° 02/04° E.REINGRESO'
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
 
 
 
@@ -28,6 +28,15 @@ subtitle: 'EEM N° 02/04° E.REINGRESO'
 
 *  (2021) Sanitarias 
     + reparación de la cañería de bajada
+
+
+
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
 
 
 

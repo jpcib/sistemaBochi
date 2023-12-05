@@ -4,11 +4,12 @@ subtitle: 'EPC N° 06 DELFIN JIJENA'
 ---
 
 #
+## Infraestructura
 
+* Reparacion de revoques, pintura general, instalacion electrica, cubiertas y pluviales, carpinterias 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2022) : Banco largo comedor 36, Mesa integradora con escotadura 1, Mesa pupitre doble 30, Mesa usos múltiples 18, Silla escolar 60 
 
 
 
@@ -21,6 +22,16 @@ subtitle: 'EPC N° 06 DELFIN JIJENA'
 
 *  (2023) Electricidad 
     + Cambio de mueble y mesada de cocina Y lu
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : NA 1 
+
+*  (2022) : Banco largo comedor 36, Mesa integradora con escotadura 1, Mesa pupitre doble 30, Mesa usos múltiples 18, Silla escolar 60 
 
 
 

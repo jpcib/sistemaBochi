@@ -6,11 +6,6 @@ subtitle: 'ESCUELA INF. N° 08/20° - JII N° 04/20° - EEM N° 01/20° BIB.CONG
 #
 ## Infraestructura
 
-* 3er año 
-    + sdf - Finalizado 
-    + Finalizada el - 
-
-
 * Tanque de bombeo, bombas (fondos covid) 
     + mejora edilicia - Finalizado 
     + Finalizada el 11/4/2022 
@@ -49,7 +44,7 @@ subtitle: 'ESCUELA INF. N° 08/20° - JII N° 04/20° - EEM N° 01/20° BIB.CONG
 
 ## Mobiliario
 
-*  (2023) : Banco largo comedor 38, Escritorio 2, Mesa pupitre doble 30, Mesa usos múltiples 19, Pizarrón 2, Silla escolar 84 
+*  (2023) : Banco largo comedor 38, Escritorio 2, Mesa inicial 20, Mesa pupitre doble 30, Mesa usos múltiples 19, Pizarrón 2, Silla escolar 204 
 
 *  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
 

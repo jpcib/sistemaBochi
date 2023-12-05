@@ -6,9 +6,9 @@ subtitle: 'LICEO N° 10 RICARDO ROJAS - BOA N° 04 XUL SOLAR'
 #
 ## Infraestructura
 
-* 2do año 
-    + sdf - Finalizado 
-    + Finalizada el 30/1/2023 
+* Fachadas, reparacion de humedad de cimientos, carpinterias, pintura general, adecuacion de instalacion electrica y reparacion fltraciones 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
 
 

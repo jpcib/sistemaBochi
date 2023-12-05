@@ -4,15 +4,12 @@ subtitle: 'ESC. PARA NIÑOS Y NIÑAS CON DISCAPACIDAD MENTAL N° 14 CONSTANCIO C
 ---
 
 #
+## Infraestructura
 
+* Accesibilidad plena, instalacion electrica, calefaccion, sum, cocina, patios, pintura general 
+    + mejora edilicia - En Proyecto 
+    + Inicio de obra: 12/06/2024 
 
-## Mobiliario
-
-*  (2023) : NA 1 
-
-*  (2022) : Mesa pupitre doble 45, Mesa usos múltiples 3, Silla escolar 108 
-
-*  (2021) : Mesa usos múltiples 12, Silla escolar 72 
 
 
 
@@ -22,6 +19,18 @@ subtitle: 'ESC. PARA NIÑOS Y NIÑAS CON DISCAPACIDAD MENTAL N° 14 CONSTANCIO C
 
 *  (2021) Calefaccion y Refrigeracion 
     + Coloc y provisión de purificadores
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 60, NA 1 
+
+*  (2022) : Mesa pupitre doble 45, Mesa usos múltiples 3, Silla escolar 108 
+
+*  (2021) : Mesa usos múltiples 12, Silla escolar 72 
 
 
 

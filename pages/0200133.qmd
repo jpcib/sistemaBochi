@@ -6,7 +6,7 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
 #
 ## Infraestructura
 
-* Adecuacion  calefaccion, inst electrica , patio , muros ,cubierta, acesibilidad basica  , pintura en areas significativas 
+* Adecuacion  calefaccion, inst electrica , patio , muros ,cubierta, acesibilidad basica  , pintura en areas significativas, adecuacion cocina. 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
 
@@ -56,7 +56,7 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
 
 ## Mobiliario
 
-*  (2023) : Pizarrón 9 
+*  (2023) : Mesa pupitre doble 30, Pizarrón 9, Silla escolar 90 
 
 *  (2022) : Armario 2, Mesa pupitre doble 30, Silla escolar 70 
 

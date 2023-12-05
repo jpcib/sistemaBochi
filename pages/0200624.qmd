@@ -4,6 +4,15 @@ subtitle: 'EPC N° 06 CARLOS GUIDO Y SPANO - JIN D (EPCJC 06/13°)'
 ---
 
 #
+## Infraestructura
+
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
+
+
+
+
 
 
 ## Mantenimiento
@@ -25,6 +34,14 @@ subtitle: 'EPC N° 06 CARLOS GUIDO Y SPANO - JIN D (EPCJC 06/13°)'
 
 *  (2021) Sanitarias 
     + Cambiar tanque de reserva
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Mesa inicial 10, Silla escolar 60 
 
 
 

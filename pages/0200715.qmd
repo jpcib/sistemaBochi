@@ -6,6 +6,11 @@ subtitle: 'EPA N° 16 EJERCITO DE LOS ANDES - EPC N° 16 EJERCITO DE LOS ANDES'
 #
 ## Infraestructura
 
+* Reparacion de cubierta (fondos covid) 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
+
+
 * Reparacion de cubierta (fondos covid) - actualizar alcance 
     + mejora edilicia - Planificado 
     + Inicio de obra: 28/3/2025 

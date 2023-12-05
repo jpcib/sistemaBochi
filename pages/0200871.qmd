@@ -4,12 +4,24 @@ subtitle: 'EEM N° 03/19° - CAIYJ CLUB BAJO FLORES - CAIYJ CLUB DE CHICOS BAJO 
 ---
 
 #
-## Infraestructura
 
-* 3er año 
-    + sdf - En Obra 
-    + Inicio de obra: Sin fecha de inicio - Avance: 90% - Fecha de finalización: - 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Colocada a configurar 
+    + Guardia física: SI
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
+
+*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
+
+*  (2021) : Escritorio 3, Mesa inicial 14, Mesa pupitre doble 37, Pizarrón 3, Silla escolar 177 
 
 
 
@@ -31,27 +43,6 @@ subtitle: 'EEM N° 03/19° - CAIYJ CLUB BAJO FLORES - CAIYJ CLUB DE CHICOS BAJO 
 
 *  (2021) Carpinterías 
     + Colocación vidrios seguridad
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 
-
-*  (2022) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 
-
-*  (2021) : Escritorio 3, Mesa inicial 14, Mesa pupitre doble 37, Pizarrón 3, Silla escolar 177 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Colocada a configurar 
-    + Guardia física: SI
 
 
 

@@ -4,24 +4,12 @@ subtitle: 'ENS N°02 EN LENGUAS VIVAS MARIANO ACOSTA - IES MARIANO ACOSTA - ESEA
 ---
 
 #
+## Infraestructura
 
+* Casa de casero 
+    + ampliacion - En Obra 
+    + Inicio de obra: 1/09/2023 - Avance: 42% - Fecha de finalización: 30/12/2023 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Armario 6, Escritorio 5, Mesa inicial 9, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 147 
-
-*  (2022) : Armario 4, Escritorio 6, Mesa usos múltiples 1 
-
-*  (2021) : Armario 4, Escritorio 4, Mesa pupitre doble 40, Silla escolar 84 
 
 
 
@@ -64,6 +52,27 @@ subtitle: 'ENS N°02 EN LENGUAS VIVAS MARIANO ACOSTA - IES MARIANO ACOSTA - ESEA
 
 *  (2021) Sanitarias 
     + Reparar puertas de cubiculos de baños, Refacción de baño de niñas - Patio
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Armario 6, Escritorio 5, Mesa inicial 9, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 147 
+
+*  (2022) : Armario 4, Escritorio 6, Mesa usos múltiples 1 
+
+*  (2021) : Armario 4, Escritorio 4, Mesa pupitre doble 40, Silla escolar 84 
+
+
+
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
 
 
 

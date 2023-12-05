@@ -4,12 +4,24 @@ subtitle: 'IFTS N° 07 - ESC. DE COM. N° 03 HIPOLITO VIEYTES'
 ---
 
 #
-## Infraestructura
 
-* 2do año 
-    + sdf - En Obra 
-    + Inicio de obra: 17/02/2023 - Avance: 90% - Fecha de finalización: - 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Colocada a configurar 
+    + Guardia física: NO
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 11, Mesa pupitre doble 165, Pizarrón 11, Silla escolar 341 
+
+*  (2022) : Escritorio 12, Mesa pupitre doble 180, Pizarrón 12, Silla escolar 372 
+
+*  (2021) : Armario 1 
 
 
 
@@ -31,27 +43,6 @@ subtitle: 'IFTS N° 07 - ESC. DE COM. N° 03 HIPOLITO VIEYTES'
 
 *  (2021) Gas 
     + Adecuacion de gas segun normativa
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Escritorio 11, Mesa pupitre doble 165, Pizarrón 11, Silla escolar 341 
-
-*  (2022) : Escritorio 12, Mesa pupitre doble 180, Pizarrón 12, Silla escolar 372 
-
-*  (2021) : Armario 1 
-
-
-
-
-
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Colocada a configurar 
-    + Guardia física: NO
 
 
 

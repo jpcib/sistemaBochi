@@ -7,8 +7,8 @@ subtitle: 'JII N° 01/05° WALT DISNEY'
 ## Infraestructura
 
 * Impermeabilización de techos 
-    + mejora edilicia - En Obra 
-    + Inicio de obra: 28/06/2023 - Avance: 68% - Fecha de finalización: 25/12/2023 
+    + mejora edilicia - Finalizado 
+    + Finalizada el 25/12/2023 
 
 
 
@@ -34,6 +34,8 @@ subtitle: 'JII N° 01/05° WALT DISNEY'
 
 
 ## Mobiliario
+
+*  (2023) : NA 1 
 
 *  (2022) : Mesa inicial 15, Silla escolar 89 
 

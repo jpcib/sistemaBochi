@@ -4,13 +4,12 @@ subtitle: 'ESC. DE COM. N° 07 MANUEL BELGRANO - PI EL MUNDO DEL REVÉS - EEM N�
 ---
 
 #
+## Infraestructura
 
+* NA 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155, NA 1 
-
-*  (2021) : Escritorio 4, Silla escolar 92, Varios 3 
 
 
 
@@ -38,6 +37,16 @@ subtitle: 'ESC. DE COM. N° 07 MANUEL BELGRANO - PI EL MUNDO DEL REVÉS - EEM N�
 
 *  (2021) Incendio 
     + DETECCION DE INCENDIO
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155, NA 1 
+
+*  (2021) : Escritorio 4, Silla escolar 92, Varios 3 
 
 
 

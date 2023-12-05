@@ -4,11 +4,12 @@ subtitle: 'ESC. PARA NIÑOS Y NIÑAS CON DISCAPACIDAD MENTAL N° 05 DR. ANGEL AR
 ---
 
 #
+## Infraestructura
 
+* Accesibilidad, sanitarios, pintura 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2021) : Silla escolar 40 
 
 
 
@@ -30,6 +31,14 @@ subtitle: 'ESC. PARA NIÑOS Y NIÑAS CON DISCAPACIDAD MENTAL N° 05 DR. ANGEL AR
 
 *  (2021) Electricidad 
     + Revisión y colocación de caloventores
+
+
+
+
+
+## Mobiliario
+
+*  (2021) : Silla escolar 40 
 
 
 

@@ -4,15 +4,12 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 12'
 ---
 
 #
+## Infraestructura
 
+* Instalacion electrica, accesibilidad, pintura 
+    + mejora edilicia - Planificado 
+    + Inicio de obra: Sin fecha de inicio 
 
-## Mobiliario
-
-*  (2023) : NA 1 
-
-*  (2022) : Banco largo comedor 12, Mesa usos múltiples 6 
-
-*  (2021) : Armario 5, Mesa pupitre doble 30, Mesa usos múltiples 3, Pizarrón 10, Silla escolar 60 
 
 
 
@@ -31,6 +28,18 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 12'
 
 *  (2022) Gas 
     + Cambio de TT en casa habitación
+
+
+
+
+
+## Mobiliario
+
+*  (2023) : NA 1 
+
+*  (2022) : Banco largo comedor 12, Mesa usos múltiples 6 
+
+*  (2021) : Armario 5, Mesa pupitre doble 30, Mesa usos múltiples 3, Pizarrón 10, Silla escolar 60 
 
 
 

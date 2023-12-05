@@ -6,9 +6,9 @@ subtitle: 'EPC N° 08 JORGE ANGEL BOERO'
 #
 ## Infraestructura
 
-* Impermeabilización e inst electrica completa 
-    + mejora edilicia - Licitación 
-    + Inicio de obra: 14/10/2023 
+* Inst electrica completa 
+    + mejora edilicia - En Obra 
+    + Inicio de obra: 14/10/2023 - Avance: 1% - Fecha de finalización: 12/03/2024 
 
 
 
