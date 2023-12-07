@@ -15,24 +15,6 @@ subtitle: 'EEM N° 02/04° E.REINGRESO'
 
 
 
-## Mantenimiento
-
-*  (2023) Carpinterías 
-    + Reparacion de puerta de espacios seguros
-
-*  (2023) Electricidad 
-    + Espacios seguros
-
-*  (2022) Electricidad 
-    + Colocación de luces de emergencia
-
-*  (2021) Sanitarias 
-    + reparación de la cañería de bajada
-
-
-
-
-
 ## Seguridad
 
 *  Espacios seguros: 1 - Estado: Finalizado 

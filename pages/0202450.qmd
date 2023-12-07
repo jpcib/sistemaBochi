@@ -14,21 +14,3 @@ subtitle: 'ESCUELA INF. N° 11/04°'
 
 
 
-
-
-## Mantenimiento
-
-*  (2022) Albañileria / Pintura 
-    + Modificar pared divisoria
-
-*  (2022) Electricidad 
-    + Prov. coloc. artefactos de iluminación, Proteger cables expuestos en tablero
-
-*  (2021) Carpinterías 
-    + Aumentar altura alambrado en pared, Coloc rejas en acceso, Instalación de reja
-
-*  (2021) Sanitarias 
-    + Colocar canilla de servicio
-
-
-

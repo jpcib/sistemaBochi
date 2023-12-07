@@ -22,8 +22,14 @@ subtitle: 'Museo de Bellas Artes de Artistas Argentinos Benito Quinquela Martin 
 
 ## Mantenimiento
 
-*  (2022) Carpinterías 
-    + Cerramiento sobre portón nuevo
+*  (2023) Calefaccion y Refrigeracion 
+    + Reparar equipo de aire acondicionado
+
+*  (2022) Calefaccion y Refrigeracion 
+    + Reemplazo de compresor en corto, Abono mensual mantenimiento AA, Instalación de humectadores, Limpiar filtros de aire acondicionado, Proveer y colocar humectadores
+
+*  (2021) Calefaccion y Refrigeracion 
+    + reposicion bombas calderas
 
 
 

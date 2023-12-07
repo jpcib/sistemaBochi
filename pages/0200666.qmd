@@ -15,39 +15,6 @@ subtitle: 'EPC N° 13 PROVINCIA DEL NEUQUEN - JII N° 06/14°'
 
 
 
-## Mantenimiento
-
-*  (2023) Albañileria / Pintura 
-    + Mosaico de patio principal
-
-*  (2023) Medios de elevación 
-    + Colocar rampa móvil para acceso
-
-*  (2023) Sanitarias 
-    + Prov. Coloc termotanque electrico
-
-*  (2022) Electricidad 
-    + Instalacion de purificador en comedor
-
-*  (2022) Medios de elevación 
-    + Habilitacion plataforma elevadora
-
-*  (2022) Sanitarias 
-    + Cambio tanque cisterna y pinches palomas, Cambio tanque reserva, pinches o red ant
-
-*  (2021) Incendio 
-    + Inst. contra incencio y red antipalomas
-
-*  (2021) Otros Servicios 
-    + Pintura y colocacion de guardaganado
-
-*  (2021) Sanitarias 
-    + Cañería AF B° Docentes-Pintura Comput.
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : NA 2 

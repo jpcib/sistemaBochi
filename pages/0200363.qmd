@@ -21,9 +21,6 @@ subtitle: 'EPC N° 13 LEOPOLDO MARECHAL - JIN C (EPCJS 13/07°)'
 *  (2023) Gas 
     + Cambio de estufa FVU
 
-*  (2021) Electricidad 
-    + Colocación de purificadores., Provisión y colocación luces emergencia
-
 *  (2021) Gas 
     + Adecuación de instalaciónes de gas
 

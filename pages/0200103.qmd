@@ -19,17 +19,8 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 02'
 *  (2023) Calefaccion y Refrigeracion 
     + Provision e instalacion de Calefactor
 
-*  (2023) Carpinterías 
-    + Proteccion ventanas en fachada
-
 *  (2021) Calefaccion y Refrigeracion 
     + Instalacion de 3 purificadores
-
-*  (2021) Incendio 
-    + Proveer Extintores 5 Kg ABC
-
-*  (2021) Sanitarias 
-    + Prov y coloc.termotanque en cocina
 
 
 

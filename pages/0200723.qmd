@@ -17,9 +17,6 @@ subtitle: 'EPC N° 27 PETRONILA RODRIGUEZ'
 
 ## Mantenimiento
 
-*  (2022) Albañileria / Pintura 
-    + Cambio solado aula y pintura, Adicional cambio aula, Pulir piso aula
-
 *  (2021) Calefaccion y Refrigeracion 
     + instalcion equipos de aire acondicionado
 

@@ -20,20 +20,11 @@ subtitle: 'EPC N° 08 LUIS FEDERICO LELOIR - JIN A (EPCJC 08/19°)'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + EJECUCION DE DIRECCION
-
 *  (2023) Calefaccion y Refrigeracion 
     + Remplazo de equipo de aire acondicionado
 
 *  (2022) Gas 
     + Cambio de reguladores.
-
-*  (2022) Medios de elevación 
-    + decuación del ascensor
-
-*  (2021) Medios de elevación 
-    + Habilitacion del ascensor
 
 
 

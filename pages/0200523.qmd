@@ -20,30 +20,6 @@ subtitle: 'INST. SUPERIOR DE DEPORTES - EEM N° 03/10° - INST. SUPERIOR DE EDUC
 
 
 
-## Mantenimiento
-
-*  (2023) Albañileria / Pintura 
-    + Acondicionamiento 2 aulas para SDF, Pintura de Fachades, pintura interior
-
-*  (2023) Electricidad 
-    + Acondicionamiento de aula p/espacio digi
-
-*  (2022) Carpinterías 
-    + Vidrios rotos
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilizacion sector de servicio, Impermeabilizacion cubierta gimnasio de, Impermeabilizacion cubierta gimnasio 3., Impermeabilizacion cubierta baños gimnas
-
-*  (2022) Electricidad 
-    + Instalacion de caloventores.
-
-*  (2022) Sanitarias 
-    + Problema en Tanque de Agua
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 

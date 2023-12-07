@@ -20,26 +20,11 @@ Mejoramiento integral de los patios descubiertos del edificio. instalación elé
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Adecuacion de instalacion de gas
-
 *  (2023) Calefaccion y Refrigeracion 
     + Remplazo de 3 estufas a gas
 
-*  (2022) Electricidad 
-    + Iluminacion de  Emergencia
-
-*  (2022) Medios de elevación 
-    + Reparar montacargas
-
-*  (2022) Sanitarias 
-    + Reemplazo de caño pluvial
-
-*  (2021) Electricidad 
-    + Colocación de purificadores
-
-*  (2021) Medios de elevación 
-    + Reparar plataformas elevadoras
+*  (2023) Gas 
+    + CAMBIO DE TERMOTANQUE
 
 
 

@@ -18,23 +18,8 @@ subtitle: 'EPC N° 17 FRANCISCO DE VITORIA - CENS N° 33 LEOPOLDO MARECHAL - JIN
 
 ## Mantenimiento
 
-*  (2023) Carpinterías 
-    + Reparar red protección en patio
-
-*  (2023) Incendio 
-    + Reemplazo de tendido de cable
-
-*  (2022) Electricidad 
-    + Adecuación eléctrica en casa casera
-
-*  (2022) Sanitarias 
-    + Colocación de grasera en cocina
-
-*  (2021) Carpinterías 
-    + Rejas en escalera y en 2 ventanas fachad
-
-*  (2021) Electricidad 
-    + Colocación de luces de emergencia
+*  (2023) Calefaccion y Refrigeracion 
+    + Reparación Caldera,Cambio de Forzadores, Reparación de calderas
 
 
 

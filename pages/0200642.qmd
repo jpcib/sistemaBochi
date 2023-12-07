@@ -17,14 +17,8 @@ subtitle: 'Sup Media Region V - LICEO N° 08 ESTEBAN ECHEVERRIA'
 
 ## Mantenimiento
 
-*  (2023) Carpinterías 
-    + Colocación de vidrios de seguridad
-
 *  (2022) Gas 
     + Adecuación instalación de gas
-
-*  (2022) Incendio 
-    + Provisión de matafuegos
 
 
 

@@ -14,24 +14,3 @@ subtitle: 'EPC N° 20 ELOY FERNANDEZ ALONSO - JIN C (EPCJS 20/08°)'
 
 
 
-
-
-## Mantenimiento
-
-*  (2023) Albañileria / Pintura 
-    + Provision e instalacion de placa antihum
-
-*  (2023) Electricidad 
-    + PROVISION E INST. DE VENTILADORES
-
-*  (2023) Otros Servicios 
-    + Colocacion placa san francisco
-
-*  (2021) Electricidad 
-    + Instalacion de purificadores en aulas
-
-*  (2021) Otros Servicios 
-    + Reemplazo y colocacion de piso de goma
-
-
-

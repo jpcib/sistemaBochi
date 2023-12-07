@@ -18,26 +18,11 @@ subtitle: 'JIN D (EPCJC 01/13°) [S] - EPC N° 01 PROF. JOSE ONAINDIA'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Rep. piso cocina consecionario, Reparar sala de maestros, Reparacion y Pintura Fachada
-
-*  (2022) Electricidad 
-    + Reemplazar ventiladores rotos
-
 *  (2022) Gas 
     + instalar cocina en sector concesionario.
 
-*  (2022) Sanitarias 
-    + Cambiar cuadro de ducha-Casa casera
-
-*  (2021) Electricidad 
-    + instalar purificador en sala jardin
-
 *  (2021) Gas 
     + Poner en norma instalacion de gas renglo
-
-*  (2021) Incendio 
-    + Reponer matafuegos
 
 
 

@@ -16,21 +16,6 @@ subtitle: 'EPC N° 23 JOSE CLEMENTE PAZ - JIN D (EPCJS 23/10°) - EPA N° 23 JOS
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Pintura Patio exterior., Pintura Comedor, Caja de escaleras SUM, Pintura Pasillo primer piso
-
-*  (2022) Albañileria / Pintura 
-    + Puesta en valor de Fachada, Adecuacion de Comedor., Proyecto sala de Danza y Maestros.
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilizacion cubierta sala Danza
-
-*  (2022) Electricidad 
-    + Adecuacion tablero electrico principal.
-
-*  (2021) Electricidad 
-    + Colocacion de purificador
-
 *  (2021) Gas 
     + Cambio artefacto cocina, Cambio puerta de nicho de gas
 

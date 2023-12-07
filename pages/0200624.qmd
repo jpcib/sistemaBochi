@@ -17,23 +17,11 @@ subtitle: 'EPC N° 06 CARLOS GUIDO Y SPANO - JIN D (EPCJC 06/13°)'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Reparar mampostería de arco-Pasillo PA
-
-*  (2023) Electricidad 
-    + Reemplazar ventiladores rotos.
-
 *  (2022) Calefaccion y Refrigeracion 
     + Reemplazar 5 estufas tiro balanceado
 
-*  (2021) Albañileria / Pintura 
-    + Recomponer 3 canteros
-
 *  (2021) Gas 
     + Poner en norma instalacion de gas renglo
-
-*  (2021) Sanitarias 
-    + Cambiar tanque de reserva
 
 
 

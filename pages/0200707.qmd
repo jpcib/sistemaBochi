@@ -17,12 +17,6 @@ subtitle: 'EPC N° 08 JORGE ANGEL BOERO'
 
 ## Mantenimiento
 
-*  (2022) Electricidad 
-    + Reparacion de Central Telefonica
-
-*  (2021) Electricidad 
-    + Instalacion de purificadores de aire
-
 *  (2021) Gas 
     + Reemplazo de Termotanque-Caseros
 

@@ -33,20 +33,8 @@ subtitle: 'COLEGIO N° 18 DR. ALBERTO LARROQUE'
 *  (2022) Calefaccion y Refrigeracion 
     + Reparacion de Fan Coil
 
-*  (2022) Carpinterías 
-    + Reparar paño de carpintería de aluminio
-
-*  (2022) Electricidad 
-    + 3 aulas para SDF
-
 *  (2022) Gas 
     + Modificacion de instalacion de gas
-
-*  (2022) Incendio 
-    + Acondicionar la IFCI, Provisión de 2 matafuegos
-
-*  (2021) Carpinterías 
-    + Pintura aulas y provisión de puerta
 
 
 

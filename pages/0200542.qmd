@@ -4,12 +4,3 @@ subtitle: 'ET Raggio (anexo: Polideportivo)'
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2023) Electricidad 
-    + Instalación en espacios seguros.
-
-
-

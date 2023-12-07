@@ -18,20 +18,11 @@ subtitle: 'EPC N° 07 REPUBLICA DE MEXICO - EPA N° 07 REPUBLICA DE MEXICO - JIN
 
 ## Mantenimiento
 
-*  (2022) Incendio 
-    + Puesta en valor de IFCI
-
 *  (2021) Calefaccion y Refrigeracion 
     + Reparación de caldera
 
-*  (2021) Carpinterías 
-    + Redes y pintura en gimnasio
-
 *  (2021) Gas 
     + Adecuación de instalaciónes de gas
-
-*  (2021) Incendio 
-    + Recambio de matafuegos
 
 
 

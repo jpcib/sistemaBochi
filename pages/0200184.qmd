@@ -16,15 +16,6 @@ subtitle: 'EPC N° 19 REPUBLICA ITALIANA - JIN C (EPCJC 19/04°)'
 
 ## Mantenimiento
 
-*  (2022) Electricidad 
-    + Cambio de ventilador de techo
-
-*  (2021) Carpinterías 
-    + Cerradura reja corrediza en acceso
-
-*  (2021) Electricidad 
-    + Instalación de tres cajas de tomas elec.
-
 *  (2021) Gas 
     + Arreglos requeridos por Metrogas, normalizar la red de gas
 

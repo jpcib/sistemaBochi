@@ -16,11 +16,8 @@ subtitle: 'EPA N° 16 EUSTAQUIO CARDENAS - EPC N° 16 EUSTAQUIO CARDENAS'
 
 ## Mantenimiento
 
-*  (2023) Electricidad 
-    + Cambio de ventiladores
-
-*  (2021) Otros Servicios 
-    + Instalación de Purificador
+*  (2023) Gas 
+    + Reemplazo de termotanque cocina
 
 
 

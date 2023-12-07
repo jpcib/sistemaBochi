@@ -25,29 +25,8 @@ subtitle: 'JII N° 10/19° (SEDE)'
 
 ## Mantenimiento
 
-*  (2023) Electricidad 
-    + INSTALACION EN ESPACIOS SEGUROS
-
 *  (2023) Gas 
     + Regulador de gas en fachada
-
-*  (2022) Carpinterías 
-    + Prov. coloc.puerta en cocina., Vidrio vandalizado
-
-*  (2022) Electricidad 
-    + Prov y coloc. ventilador sala azul
-
-*  (2022) Incendio 
-    + Adecuacion instalacion contra incendio
-
-*  (2022) Sanitarias 
-    + Cambio de mochila de inodoro sala roja
-
-*  (2021) Carpinterías 
-    + Prov, inst de candados nichos de gas
-
-*  (2021) Electricidad 
-    + Proveer y colocar timbre
 
 
 

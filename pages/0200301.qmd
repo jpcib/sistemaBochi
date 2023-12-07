@@ -18,26 +18,11 @@ subtitle: 'EPC N° 10 FRANCISCO DE GURRUCHAGA'
 
 ## Mantenimiento
 
-*  (2023) Electricidad 
-    + Generador electrico, Reemplazo del programador del timbre
-
-*  (2022) Albañileria / Pintura 
-    + Pintura paredes  sala de computacion
-
-*  (2022) Carpinterías 
-    + Red de protección en escaleras
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Placas antihumedad Sector Comedor
-
 *  (2022) Gas 
     + Adecuación de inst de gas a Normativa
 
 *  (2021) Gas 
     + Pruebas de hermeticidad y adecuación
-
-*  (2021) Incendio 
-    + Reposicion de extintor, Reponer un extintor de 10L
 
 
 

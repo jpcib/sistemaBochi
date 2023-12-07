@@ -29,14 +29,8 @@ subtitle: 'ESC. TEC. N° 14 LIBERTAD'
 
 ## Mantenimiento
 
-*  (2023) Electricidad 
-    + Espacio Seguro
-
 *  (2021) Gas 
     + Adecuacion de gas
-
-*  (2021) Sanitarias 
-    + Reemp tapas tanques-Reserva y Cisterna
 
 
 

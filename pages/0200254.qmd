@@ -17,23 +17,8 @@ subtitle: 'ESC. TEC. N° 04 REPUBLICA DEL LIBANO'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Freno deterioro
-
 *  (2023) Calefaccion y Refrigeracion 
     + Reemplazo estufa/reposición 1 matafuegos
-
-*  (2023) Carpinterías 
-    + Cerraduras
-
-*  (2023) Electricidad 
-    + Luces de emergencia, Instalacion Espacio Seguro
-
-*  (2022) Albañileria / Pintura 
-    + 2 aulas - SDF
-
-*  (2022) Electricidad 
-    + Instalacion de tomacorrientes
 
 *  (2021) Gas 
     + Reformas en instalación de gas

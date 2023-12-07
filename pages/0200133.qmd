@@ -17,35 +17,11 @@ subtitle: 'CENS N° 44 - JIN A (EPCJC 21/03°) - EPC N° 21 CARLOS PELLEGRINI - 
 
 ## Mantenimiento
 
-*  (2023) Electricidad 
-    + Instalación en espacios seguros
-
 *  (2023) Gas 
-    + Adecuación de inst de gas a Normativa, REPONER MEDIDOR DE GAS EN COCINA, Reparacion segun informe MetroGas
-
-*  (2022) Albañileria / Pintura 
-    + Reparar revoques de aula de plástica, Pintura de pasillo y 2 hall
-
-*  (2022) Carpinterías 
-    + Sustitucion Puertas baño Jardin
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Reparar filtraciones en cubierta, Elemento estructural para filtraciones
-
-*  (2022) Electricidad 
-    + Reemplazar y suministrar ventiladores, Colocar Cinco Ventiladores distribuidos
+    + Adecuación de inst de gas a Normativa, REPONER MEDIDOR DE GAS EN COCINA, Reparacion segun informe MetroGas, Normalizacion segun Informe de Metrogas
 
 *  (2022) Gas 
     + Adecuación de inst de gas a Normativa
-
-*  (2022) Otros Servicios 
-    + RETIRO DE ARBOL, Retiro de Materiales o Restos de Obra
-
-*  (2022) Sanitarias 
-    + Sustitucion de inodoro b.discapacitados
-
-*  (2021) Albañileria / Pintura 
-    + Rep,pintar cielorraso biblioteca,pasillo
 
 *  (2021) Gas 
     + Verificar instalacion de gas

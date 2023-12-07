@@ -19,26 +19,5 @@ subtitle: 'EPC N° 11 DE 21'
 *  (2023) Calefaccion y Refrigeracion 
     + cambio de cableado de datos equipos AA
 
-*  (2023) Electricidad 
-    + Prov y coloc de 4 ventiladores, Reemplazo de artefactos de luminarias
-
-*  (2023) Medios de elevación 
-    + Reparación de Ascensor
-
-*  (2022) Albañileria / Pintura 
-    + Cambio de placas de cielorraso-Aulas 3P
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Impermeabilizacion en cubierta
-
-*  (2022) Incendio 
-    + instalacion fijas contra incendio
-
-*  (2022) Sanitarias 
-    + Realizacion prueba hidraulica 8 embudos
-
-*  (2021) Carpinterías 
-    + cerradura salida calle
-
 
 

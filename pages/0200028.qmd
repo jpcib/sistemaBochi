@@ -20,41 +20,11 @@ subtitle: 'ESC. DE COM. N° 26 ENRIQUE DE VEDIA - ENS LENGUAS VIVAS SOFIA DE SPA
 *  (2023) Calefaccion y Refrigeracion 
     + Cambio de Caldera
 
-*  (2023) Carpinterías 
-    + Protección rejas
-
-*  (2023) Incendio 
-    + Reemplazo de 1 matafuego
-
-*  (2022) Albañileria / Pintura 
-    + Realización de espacio digital, Colocación de cerámicas, pint y electric
-
 *  (2022) Calefaccion y Refrigeracion 
     + Reparación de caldera
 
-*  (2022) Carpinterías 
-    + Seguridad en espacio tecnológico
-
-*  (2022) Electricidad 
-    + Reparación de Iluminación de cancha de f, Instalación de termotanque eléctrico, Instalación de luminaria en huerta
-
-*  (2021) Albañileria / Pintura 
-    + Arreglos en Buffet, Aulas del futuro
-
-*  (2021) Carpinterías 
-    + Readecuación de escalera metálica ext.
-
-*  (2021) Electricidad 
-    + Readecuación de Tablero
-
 *  (2021) Gas 
     + Prolongación conducto vent campana
-
-*  (2021) Incendio 
-    + Reemplazo de 2 matafuegos 5k abc
-
-*  (2021) Otros Servicios 
-    + Readecuacion de patio sala 2 años
 
 
 

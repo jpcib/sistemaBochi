@@ -29,38 +29,11 @@ subtitle: 'IFTS Nº 11 DE 05 - ESC. TEC. N° 07 DOLORES LAVALLE DE LAVALLE - CAI
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + SDF 2023. Adecuación, 2 aulas
-
-*  (2023) Electricidad 
-    + Traslado Tablero Eléctrico, Espacios seguros
-
-*  (2022) Carpinterías 
-    + Secundarias del futuro 2022 - 2 aulas
-
-*  (2022) Cubiertas / Impermeabilizaciones 
-    + Filtraciones aulas nuevas
-
-*  (2022) Electricidad 
-    + Conexión Aula Computación con tecnología, Colocación  toma en aula nueva PB, Colocación de 30 tomas en aula nueva
-
 *  (2022) Gas 
     + Cambio TT sala auxiliares
 
-*  (2022) Medios de elevación 
-    + Cambio control de maniobras ascensor
-
-*  (2022) Sanitarias 
-    + Reemplazo 14 depósitos de inodoro
-
-*  (2021) Electricidad 
-    + Adecuar 2 aulas del futuro, Agregar dos circuitos de tomas
-
 *  (2021) Gas 
     + Reponer calefon, Adecuación Gas por Inspección Metrogas, Adecuación por inspección de gas
-
-*  (2021) Medios de elevación 
-    + Adecuacion ascensor
 
 
 

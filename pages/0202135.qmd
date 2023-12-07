@@ -4,24 +4,3 @@ subtitle: 'ESCUELA INF. N° 07/04° CASA AMARILLA'
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2023) Albañileria / Pintura 
-    + Pintura de Paredes y Cielo rasos
-
-*  (2023) Sanitarias 
-    + Colocar canilla en patio
-
-*  (2022) Albañileria / Pintura 
-    + Cambiar tapa de cámara de pasillo
-
-*  (2021) Carpinterías 
-    + Cambio paños fijos por ventanas en Viced
-
-*  (2021) Incendio 
-    + agregar 1 matafuegos de polvo abc
-
-
-

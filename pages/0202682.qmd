@@ -19,29 +19,8 @@ subtitle: 'SUPERVISIÓN INICIAL DE 21 - ESCUELA INF. N° 11/21°'
 *  (2023) Calefaccion y Refrigeracion 
     + Provision y coloc. Aire acondicionado, Reparacion de Caldera N° 4
 
-*  (2023) Carpinterías 
-    + Prov y coloc rejas en ventanas sector ad, Prov. Coloc  rejas en sector posterior
-
-*  (2023) Cubiertas / Impermeabilizaciones 
-    + Aislación en cubierta de chapa
-
-*  (2023) Electricidad 
-    + Recambio de luces y ventiladores en sum, Reposición de 4 ventiladores de techo
-
 *  (2022) Calefaccion y Refrigeracion 
     + Cambio de placa de caldera por golpe de
-
-*  (2022) Carpinterías 
-    + Cambio de cerradura por vandalismo., Cambio de cerradura por vandalismo.
-
-*  (2022) Sanitarias 
-    + Reposición de termotanque eléctrico
-
-*  (2021) Carpinterías 
-    + Cambio de vidrios en comedor y sala 5M x
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Babeta en plegado de chapa pintada
 
 *  (2021) Gas 
     + Readecuacion de sistema de gas

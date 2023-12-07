@@ -20,26 +20,11 @@ subtitle: 'EPC N° 09 HOMERO MANZI - CENS N° 91'
 *  (2023) Calefaccion y Refrigeracion 
     + Prov. Coloc  de A°A
 
-*  (2023) Electricidad 
-    + INSTALACION DE SISTEMA DE ALARMA
-
-*  (2022) Albañileria / Pintura 
-    + Pintura en frisos
-
-*  (2022) Electricidad 
-    + Prov y coloc 2 veentiladores
-
 *  (2022) Gas 
     + Adecuación de la Instalación de Gas, ADECUACION DE GAS 2 PARTE
 
 *  (2021) Calefaccion y Refrigeracion 
     + Colocar 7 purificadores de aire
-
-*  (2021) Carpinterías 
-    + Proveer y colocar puerta en B° nenes
-
-*  (2021) Electricidad 
-    + colocar 3 purificadores de aire
 
 
 

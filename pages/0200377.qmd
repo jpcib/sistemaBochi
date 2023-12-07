@@ -28,26 +28,8 @@ subtitle: 'EPC N° 03 PRIMERA JUNTA - JIC N° 02/07° PROF. M. MARGARITA RAVIOLI
 *  (2023) Calefaccion y Refrigeracion 
     + Adecuación sistema de calefacción
 
-*  (2023) Electricidad 
-    + Instalacion Espacio Seguro, Colocacíon de portero electrico
-
-*  (2022) Albañileria / Pintura 
-    + Demolicion de pared
-
-*  (2022) Sanitarias 
-    + Recambio bombas cloacales
-
-*  (2021) Carpinterías 
-    + Colocar trabas en ventanas
-
-*  (2021) Electricidad 
-    + Prov,coloc timbre de acceso
-
 *  (2021) Gas 
     + Recambio de 2 termotanques de gas, Reacondicionamiento de gas
-
-*  (2021) Sanitarias 
-    + Recambio de tanque de reserva, Recambio de termotanque de casa casera
 
 
 

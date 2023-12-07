@@ -18,20 +18,14 @@ subtitle: 'EPC N° 22 AGRONOMIA - JII N° 04/14'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + GUARDAGANADO Y PINTURA PATIO JARDIN
+*  (2023) Calefaccion y Refrigeracion 
+    + Reparación de calefactor central
 
-*  (2022) Albañileria / Pintura 
-    + Ejecución de vallado perimetral  quincho
-
-*  (2022) Sanitarias 
-    + Cambio tanque de agua casera
+*  (2023) Gas 
+    + Termotanque casa casera
 
 *  (2021) Gas 
     + Adecuacion instalacion de gas
-
-*  (2021) Incendio 
-    + Instalación Fija Contra Incendi
 
 
 

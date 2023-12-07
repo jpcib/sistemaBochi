@@ -17,26 +17,11 @@ subtitle: 'ESC. DE COM. N° 12 JUAN XXIII'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Pintura de dos aulas
-
-*  (2023) Electricidad 
-    + Seguridad rectoria y aula virtual PA, Suministrar un grupo electrogeno
-
-*  (2022) Carpinterías 
-    + Reponer dos vidrios rotos por vandalismo
-
 *  (2022) Gas 
     + Adecuación instalación de gas
 
-*  (2021) Electricidad 
-    + Provision y colocación de luces de emerg
-
 *  (2021) Gas 
     + Reacondicionamiento de inst de gas
-
-*  (2021) Incendio 
-    + reemplazo de 12 matafuego ACB vencidos
 
 
 

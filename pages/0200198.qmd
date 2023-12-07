@@ -16,17 +16,8 @@ subtitle: 'CENS N° 51 - CFP N° 01'
 
 ## Mantenimiento
 
-*  (2022) Sanitarias 
-    + Cambio de termotanque a gas, Alimentación de agua en baño varones
-
-*  (2021) Albañileria / Pintura 
-    + Placas San Francisco -Aula Maquillaje
-
 *  (2021) Gas 
     + Extender ventilación de caldera
-
-*  (2021) Medios de elevación 
-    + reparacion ascensor
 
 
 

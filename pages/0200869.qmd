@@ -28,18 +28,6 @@ subtitle: 'ESCUELA INF. N° 04/19° DR. RAMON CARRILLO'
 *  (2023) Calefaccion y Refrigeracion 
     + Reposicion de caldera fuera de servicio
 
-*  (2023) Electricidad 
-    + INSTALACION EN ESPACIOS SEGUROS
-
-*  (2023) Sanitarias 
-    + Reponer bomba de agua
-
-*  (2022) Otros Servicios 
-    + Instalacion pinches y redes para palomas
-
-*  (2021) Albañileria / Pintura 
-    + Reparacion humedad de cimientos comedor
-
 *  (2021) Gas 
     + Puesta en normativa Gas
 

@@ -20,23 +20,8 @@ subtitle: 'EPC N° 06 MANUEL DORREGO'
 *  (2023) Calefaccion y Refrigeracion 
     + PROVISION E INSTALACION DE 2 A°A°
 
-*  (2023) Otros Servicios 
-    + Toldo sobre calle Besares
-
-*  (2023) Sanitarias 
-    + Instalación de bombas elevadora por robo
-
-*  (2022) Carpinterías 
-    + CAMBIO REJILLAS PATIO AZUL
-
-*  (2022) Electricidad 
-    + cambio de alarma de robo
-
-*  (2022) Sanitarias 
-    + cambio T°R° y colector, PUESTA EN VALOR B°DOC CRAMER
-
-*  (2021) Sanitarias 
-    + cambio pluvial patio.Puertas y persianas
+*  (2023) Gas 
+    + reacondicionamiento instalación de gas
 
 
 

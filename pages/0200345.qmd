@@ -11,8 +11,5 @@ subtitle: 'Sup Primaria DE06 A Sup Adultos Region II A'
 *  (2022) Gas 
     + Adecuación de inst. de gas/calefacción
 
-*  (2022) Sanitarias 
-    + Reponer asientos y tapas para inodoros
-
 
 

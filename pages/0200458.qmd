@@ -17,9 +17,6 @@ subtitle: 'JIN D (EPCJS 19/09°) - EPC N° 19 PROVINCIA DEL CHUBUT - CAIYJ CHACA
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + PINTURA DE FRISO EN CIRCULACION
-
 *  (2021) Gas 
     + Adecuacion instalacion de gas
 

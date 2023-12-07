@@ -18,29 +18,8 @@ subtitle: 'EPC N° 08 PROVINCIA DE SAN JUAN - JIC N° 04/07° - ESC. DE MUSICA N
 
 ## Mantenimiento
 
-*  (2023) Medios de elevación 
-    + Reparación de Ascensor
-
-*  (2022) Electricidad 
-    + Conexión de 3 ventiladores en gimnasio S
-
-*  (2022) Medios de elevación 
-    + Cables de traccion ascensor
-
 *  (2021) Calefaccion y Refrigeracion 
     + Reparacion de Caldera y bombas
-
-*  (2021) Electricidad 
-    + Adecuación eléctrica de la válv solenoid, Instalacion nueva bomba elevadora agua, instalación de válvula solenoide, instalación de 2 bombas sumergibles, Instalacion Aire acondicionado
-
-*  (2021) Incendio 
-    + Prov, coloc extintores
-
-*  (2021) Medios de elevación 
-    + Reparacion y puesta en marcha de la Plat
-
-*  (2021) Sanitarias 
-    + Instalación de un termotanque eléctrico
 
 
 

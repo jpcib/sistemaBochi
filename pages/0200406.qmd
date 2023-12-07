@@ -25,11 +25,8 @@ subtitle: 'JIN B (EPCJS 08/08°) - EPA N° 08 ANTONIO SCHETTINO - EPC N° 08 ANT
 
 ## Mantenimiento
 
-*  (2023) Carpinterías 
-    + Ejecución de oficina y cambiador en sala, Prov. Coloc. Mosquiter en ventana
-
-*  (2023) Electricidad 
-    + Instalación de tomas en oficina
+*  (2023) Calefaccion y Refrigeracion 
+    + Reacondicionamiento de caldera
 
 *  (2022) Calefaccion y Refrigeracion 
     + Reacondicionar sector electrico caldera

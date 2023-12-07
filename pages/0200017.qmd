@@ -16,26 +16,8 @@ subtitle: 'CENS N° 24 - EPC N° 23 BERNARDINO RIVADAVIA'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Puesta en valor de 3 aulas en 1er piso, Puesta en valor de dos aulas en 1er pis
-
-*  (2023) Electricidad 
-    + Provisión de generador por falta de luz
-
-*  (2023) Sanitarias 
-    + Prov.Coloc mingitorio
-
-*  (2022) Electricidad 
-    + Reemplazo de ventiladores de techo
-
 *  (2022) Gas 
     + Reemplazo de 2 calefactores, Adecuar instalación de gas
-
-*  (2022) Sanitarias 
-    + Prov. coloc canillas ducha y lavatorio
-
-*  (2021) Electricidad 
-    + Colocación e instalación luces emergenci
 
 *  (2021) Gas 
     + Adecuación de instalación de gas

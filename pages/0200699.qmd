@@ -4,12 +4,3 @@ subtitle: 'EPC N° 02 Gral. Mariano Acha (Polid.)'
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2023) Electricidad 
-    + Ejecucion Pilar de Luz
-
-
-

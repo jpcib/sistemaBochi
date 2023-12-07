@@ -17,20 +17,8 @@ subtitle: 'ESEA ARTES VISUALES MANUEL BELGRANO'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Durlock
-
-*  (2023) Incendio 
-    + Reposición 1 matafuegos ABC
-
-*  (2022) Albañileria / Pintura 
-    + Adicional pintura cieloraso
-
-*  (2022) Electricidad 
-    + Trabajos instalacion electrica y pintura
-
-*  (2022) Incendio 
-    + Reparación de cañeria  IFCI
+*  (2023) Calefaccion y Refrigeracion 
+    + REPARACION DE CALDERA
 
 *  (2021) Gas 
     + Modificaciones informe matriculado, Cambio de artefacto cocina casero

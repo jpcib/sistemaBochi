@@ -17,20 +17,11 @@ subtitle: 'Sup Primaria DE08 - CENS N° 52 - JIN A (EPCJC 09/08°) - EPC N° 09 
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Pintura de circulación de 1erPiso
-
-*  (2023) Electricidad 
-    + Coloc.  luces de emergencia, INSTALACION EN ESPACIOS SEGUROS
-
-*  (2022) Incendio 
-    + Recolocar 4 nuevos matafuegos
+*  (2023) Calefaccion y Refrigeracion 
+    + Colocación de aires acondicionados
 
 *  (2021) Gas 
     + Readecuacion de gas casa casero, Presupuesto adecuacion instalacion gas
-
-*  (2021) Sanitarias 
-    + Nueva cañería desde tanque a baños
 
 
 

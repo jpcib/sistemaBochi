@@ -20,8 +20,5 @@ subtitle: 'EPC N° 07 GRAL. MAXIMO DE ZAMUDIO'
 *  (2023) Calefaccion y Refrigeracion 
     + Cambio de eq compactos de calef. central
 
-*  (2022) Electricidad 
-    + Prov. y coloc. de luces de emergencia
-
 
 

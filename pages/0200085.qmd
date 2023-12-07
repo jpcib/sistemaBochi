@@ -17,26 +17,11 @@ subtitle: 'Sup Inicial III B - JII N° 04/02º'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Demol cielorraso/puerta reja/Inst. 2 AA
-
 *  (2023) Calefaccion y Refrigeracion 
     + Adicional por conexionados de AA
 
 *  (2022) Gas 
     + Reemplazo de estufa TB de comedor
-
-*  (2022) Incendio 
-    + Prov. Coloc. 4 extintores tipo ABC.
-
-*  (2021) Albañileria / Pintura 
-    + Reparación y pintura de fachada, Puesta en valor de cuatro aulas, Puesta en valor de sala auxiliar y docen
-
-*  (2021) Carpinterías 
-    + Prov. coloc  puerta en supervisión
-
-*  (2021) Electricidad 
-    + Ventilador de 20" para Dirección
 
 *  (2021) Gas 
     + Adecuación de instalación de gas

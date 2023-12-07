@@ -17,12 +17,6 @@ subtitle: 'ESCUELA INF. N° 02/03° MANE BERNARDO'
 
 ## Mantenimiento
 
-*  (2022) Albañileria / Pintura 
-    + Tareas complementarias, Reacondicionamiento de la sala de 4
-
-*  (2022) Carpinterías 
-    + Reparacion Fachada y aberturas
-
 *  (2021) Gas 
     + Cambio de termotanque jardin
 

@@ -29,23 +29,8 @@ subtitle: 'COLEGIO N° 16 GUILLERMO RAWSON - COLEGIO N° 12 RECONQUISTA - LICEO 
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Puesta en valor de aulas SDF
-
-*  (2023) Electricidad 
-    + Instalación en espacios seguros
-
-*  (2022) Albañileria / Pintura 
-    + Adecuación de tres aulas PA- SDF
-
-*  (2021) Albañileria / Pintura 
-    + Aulas del futuro PB y PA
-
 *  (2021) Gas 
     + Cambio de picos de gas en laboratorios
-
-*  (2021) Medios de elevación 
-    + Reparar ascensor
 
 
 

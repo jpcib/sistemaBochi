@@ -19,17 +19,8 @@ subtitle: 'EPC N° 01 ALTE. GUILLERMO BROWN - EEM N° 07/04° ESCUELA DE LA RIBE
 *  (2023) Calefaccion y Refrigeracion 
     + Reemplazar 1 estufa
 
-*  (2023) Carpinterías 
-    + Cerradura puerta principal
-
 *  (2022) Gas 
     + Provision cocina casera, INSTALACION DE GAS
-
-*  (2022) Sanitarias 
-    + Hundimiento sala de sisterna
-
-*  (2021) Carpinterías 
-    + Reparar nicho de gas
 
 *  (2021) Gas 
     + Adecuar a norma vigente-Inst de gas

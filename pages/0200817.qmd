@@ -20,38 +20,8 @@ subtitle: 'EPC N° 16 JOHN F. KENNEDY - JIC N° 02/18° EL TRENCITO DE VERSALLES
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Reparar frizos PB y 1er piso, Reacondicionamiento solado, Reparar desprendimientos en pared
-
-*  (2023) Electricidad 
-    + Reemplazar 4 ventiladores, Cambio de timbre del recreo
-
-*  (2022) Albañileria / Pintura 
-    + División de Baño en nucleo
-
-*  (2022) Carpinterías 
-    + Construcción de cubierta en sala, Cerramiento para cocina
-
-*  (2022) Electricidad 
-    + Reinstalación de luces en linea fachada, Tendido electrico para carros de computa, Reemplazo de 9 ventiladores, Reemplazo de 4 ventiladores, Reemplazo de 1 ventilador
-
-*  (2022) Incendio 
-    + Colocación de luces de emergencia, Colocación de luces de emergencia
-
-*  (2021) Albañileria / Pintura 
-    + Reparacion de piso exterior en cancha, Reparar revoques y pintura Bº V y M PB
-
 *  (2021) Calefaccion y Refrigeracion 
     + Reemplazo de radiador
-
-*  (2021) Carpinterías 
-    + Colocar red tenzada en ventanas
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Cambio de toldos en acceso
-
-*  (2021) Sanitarias 
-    + Colocar cambiador de bebes Bº discapac
 
 
 

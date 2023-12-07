@@ -17,11 +17,11 @@ subtitle: 'EPC N° 23 GRAL. DE DIV. MANUEL N. SAVIO'
 
 ## Mantenimiento
 
-*  (2022) Electricidad 
-    + Instalación de purificadores
+*  (2023) Calefaccion y Refrigeracion 
+    + Coloc. equipo de aire acondicionado
 
-*  (2021) Electricidad 
-    + Adecuación de instalación electrica
+*  (2023) Gas 
+    + Colocar 15 protecciones de estufas
 
 
 

@@ -25,14 +25,8 @@ subtitle: 'EPC N° 07 ARISTOBULO DEL VALLE - JIN C (EPCJS 07/20°)'
 
 ## Mantenimiento
 
-*  (2023) Carpinterías 
-    + Colocar protecciones de ventanas
-
-*  (2023) Electricidad 
-    + Reemplazo de artefactos led titilando, Colocacion de camaras, alarma( Apolo)
-
-*  (2022) Albañileria / Pintura 
-    + Colocar redes plásticas y bandejas
+*  (2023) Calefaccion y Refrigeracion 
+    + proveer y cambiar 3 estufas TB
 
 *  (2022) Calefaccion y Refrigeracion 
     + Proveer y coloc 5 estufas de 5000 calorí

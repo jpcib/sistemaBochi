@@ -18,18 +18,6 @@ subtitle: 'EPC N° 09 BENITO JUAREZ - JIN D (EPCJS 09/17°) VICTORIA OCAMPO'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Pintura de completa patio cubierto, Pintura/mueble/terminaciones en cocina
-
-*  (2021) Albañileria / Pintura 
-    + Pintura de Paredes aula plastica - Coefi
-
-*  (2021) Cubiertas / Impermeabilizaciones 
-    + Reemplazo de molinillos para apertura cu
-
-*  (2021) Electricidad 
-    + Instalar 6 purificadores de aire
-
 *  (2021) Gas 
     + Sist. extraccion cocina y protec estufas
 

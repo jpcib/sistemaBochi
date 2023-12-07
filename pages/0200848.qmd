@@ -22,11 +22,5 @@ subtitle: 'EPC N° 05 PROVINCIA DE CORRIENTES - CECEP N° 19'
 *  (2022) Calefaccion y Refrigeracion 
     + Instalacion de purificadores de aire, Reemplazar estufas de tiro balanceado.
 
-*  (2022) Electricidad 
-    + CAMBIO DE LAVAMANOS CASA CASERA
-
-*  (2022) Sanitarias 
-    + Camara septica y desagües cloacales
-
 
 

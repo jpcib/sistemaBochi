@@ -17,9 +17,6 @@ subtitle: 'JIN D (EPCJC 08/18°) [S] - EPC N° 08 BASE AEREA VICEC.MARAMBIO'
 
 ## Mantenimiento
 
-*  (2021) Electricidad 
-    + Colocar ventilador sala naranja, reponer 2 ventiladores rotos
-
 *  (2021) Gas 
     + Poner en norma instalacion de gas renglo
 

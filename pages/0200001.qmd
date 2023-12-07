@@ -17,32 +17,11 @@ subtitle: 'JIN C (EPCJS 01/01°) - EPC N° 01 JUAN JOSE CASTELLI - CENS - UGEE N
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Adecuacion de gas
-
 *  (2023) Calefaccion y Refrigeracion 
     + Cambio de aprox 10 equipos y calderas.
 
-*  (2023) Carpinterías 
-    + Colocacion de red antipalomas pb y films
-
-*  (2023) Electricidad 
-    + Reparacion de Sistema de Vigilancia, Colocacion de ventiladores
-
-*  (2023) Sanitarias 
-    + Cambio de 2 inodoros
-
 *  (2022) Gas 
     + Cambio de termotanque casa casera
-
-*  (2022) Sanitarias 
-    + Bajada de caño pluvial, Cambio de tapa en tanque de bombeo
-
-*  (2021) Albañileria / Pintura 
-    + Cambio de solados vinilicos
-
-*  (2021) Sanitarias 
-    + sanitarios de comedor niños y adultos
 
 
 

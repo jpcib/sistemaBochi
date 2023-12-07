@@ -21,20 +21,8 @@ subtitle: 'Sup Primaria DE 04 A Sup Adultos Region V A - EPA N° 13 REPUBLICA DE
 *  (2023) Calefaccion y Refrigeracion 
     + Cambio de estufas
 
-*  (2023) Electricidad 
-    + Prov. Coloc 2 ventiladores de pared
-
-*  (2022) Electricidad 
-    + Extensión  de línea de energía y enchufe
-
-*  (2021) Albañileria / Pintura 
-    + Retiro material aislante y reposicion, Impermeabilizacion y pintura pinacoteca., Pulido y plastificado de la pinacoteca
-
 *  (2021) Gas 
     + Adecuar a norma vigente-Inst de gas
-
-*  (2021) Incendio 
-    + colocación de 6 extintores
 
 
 

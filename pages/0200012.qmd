@@ -19,8 +19,5 @@ subtitle: 'EPC N° 13 GRAL. SAN MARTIN - CENS N° 46'
 *  (2021) Gas 
     + Remplazar cañerias por perdida de gas, Habilitación de artefactos de caldera
 
-*  (2021) Sanitarias 
-    + Adecuacion sistema bombeo cloacal
-
 
 

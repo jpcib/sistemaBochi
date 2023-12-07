@@ -20,9 +20,6 @@ subtitle: 'EPC N° 07 AERONAUTICA ARGENTINA - CECIE N° 19'
 *  (2022) Calefaccion y Refrigeracion 
     + Instalacion de purificadores de aire
 
-*  (2022) Electricidad 
-    + Iluminación en terraza
-
 *  (2022) Gas 
     + Artefacto de cocina para casa casero.
 

@@ -23,24 +23,3 @@ subtitle: 'ESC. TEC. N° 11 MANUEL BELGRANO'
 
 
 
-
-
-## Mantenimiento
-
-*  (2023) Electricidad 
-    + Instalación en espacios seguros
-
-*  (2022) Medios de elevación 
-    + Reparacion botonera montasilla
-
-*  (2021) Carpinterías 
-    + Mallas de Protección en vanos
-
-*  (2021) Incendio 
-    + Reponer 5 extintores, IFCI reemplazo de mangueras
-
-*  (2021) Sanitarias 
-    + Reposición Tapas de tanques de agua
-
-
-

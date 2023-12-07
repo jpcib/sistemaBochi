@@ -21,12 +21,6 @@ subtitle: 'EPC N° 06 DR. ALFREDO L. PALACIOS'
 *  (2023) Gas 
     + Ventilación cocina s/pedido
 
-*  (2021) Albañileria / Pintura 
-    + Acond Sala Informática c/Radio y Multim, Rep adicional revoques de S Informática
-
-*  (2021) Electricidad 
-    + Instalación 7 equipos purificadores aire
-
 *  (2021) Gas 
     + Cambio TB aula 2, 3 y Sala Maestros, Ejecutar Recomendac. Form. Metrogas
 

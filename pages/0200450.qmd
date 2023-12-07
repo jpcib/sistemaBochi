@@ -21,17 +21,8 @@ subtitle: 'EPC N° 11 MANUELA PEDRAZA'
 *  (2023) Calefaccion y Refrigeracion 
     + Cambio de equipo calefactor
 
-*  (2022) Albañileria / Pintura 
-    + Adecuación de sala de plástica
-
-*  (2022) Carpinterías 
-    + Colocación de protección barandas
-
-*  (2022) Incendio 
-    + Reemplazo de 1 matafuego
-
-*  (2021) Electricidad 
-    + Instalación de luces de emergencia
+*  (2023) Gas 
+    + Cambio de termotanque y cocina
 
 
 

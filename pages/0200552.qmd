@@ -17,23 +17,8 @@ subtitle: 'EPC N° 04 BENJAMIN ZORRILLA - JIC N° 02/11°'
 
 ## Mantenimiento
 
-*  (2022) Incendio 
-    + Provision de matafuego en cocina, Instalación de detectores
-
-*  (2022) Sanitarias 
-    + Acondicionamiento de acceso a tanque
-
-*  (2021) Albañileria / Pintura 
-    + reemplazo de cielorraso en varios sector
-
-*  (2021) Electricidad 
-    + Tendido alimentacion electrica de jardin
-
 *  (2021) Gas 
     + Reemplazo termotanque sala auxiliares
-
-*  (2021) Medios de elevación 
-    + puesta en norma del ascensor
 
 
 

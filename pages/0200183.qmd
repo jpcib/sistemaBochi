@@ -16,14 +16,8 @@ subtitle: 'EPC N° 18 PROVINCIA DE LA RIOJA'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Trabajos de pintura
-
 *  (2023) Calefaccion y Refrigeracion 
     + Cambio de estufas
-
-*  (2023) Incendio 
-    + Reposición de matafuegos ABC
 
 *  (2021) Gas 
     + adecuación gas a norma vigente.

@@ -142,7 +142,7 @@ add_project_section_v6(data = data_infra, dir = ".")
 
 
 ```{r data_mtom, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_mtom <- read_csv("../data/mtom_2021_2023_13-11_framed.csv") %>% 
+data_mtom <- read_csv("../data/mtom_2021_2023_05-12_framed.csv") %>% 
   # filter(ano %in% c("2023", "2022", "2021")) %>%
   drop_na(cui) %>% 
   arrange(desc(ano)) %>%

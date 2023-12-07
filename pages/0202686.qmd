@@ -4,21 +4,3 @@ subtitle: 'ESCUELA INF. N° 06/06°'
 ---
 
 #
-
-
-## Mantenimiento
-
-*  (2023) Carpinterías 
-    + Reparación de rejas
-
-*  (2022) Electricidad 
-    + Reemplazo de paneles Led Hall de entrada
-
-*  (2021) Electricidad 
-    + Alarma de intrusion
-
-*  (2021) Medios de elevación 
-    + Reparación de Ascensor
-
-
-

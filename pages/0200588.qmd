@@ -16,20 +16,11 @@ subtitle: 'JIN A (EPCJC 05/12°) - EPC N° 05 REPUBLICA DE EL SALVADOR'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + Pintura de aulas - 1era etapa
-
 *  (2023) Calefaccion y Refrigeracion 
     + INSTALACION ELECTRICA PARA SPLITS  AA
 
-*  (2022) Electricidad 
-    + Colocación luces emergencia
-
 *  (2022) Gas 
     + REACONDICIONAMIENTO INST GAS, COCINA Y VENTILACIONES
-
-*  (2022) Incendio 
-    + Proveer e instalar extintores
 
 
 

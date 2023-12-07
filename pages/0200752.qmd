@@ -18,20 +18,8 @@ subtitle: 'EPC N° 14 LEOPOLDO LUGONES - JIC N° 04/16° DR. FLORENCIO ESCARDO'
 
 ## Mantenimiento
 
-*  (2023) Electricidad 
-    + Prov y col de 12 ventiladores
-
 *  (2022) Calefaccion y Refrigeracion 
     + Reparar calefacción
-
-*  (2021) Albañileria / Pintura 
-    + Albañilería- Instalaciones
-
-*  (2021) Electricidad 
-    + Instalacion Electricidad- Purificadores
-
-*  (2021) Sanitarias 
-    + Reparación cámara cloacal
 
 
 

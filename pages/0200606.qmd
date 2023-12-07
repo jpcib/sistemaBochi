@@ -25,26 +25,14 @@ subtitle: 'COLEGIO N° 09 JUSTO JOSE DE URQUIZA'
 
 ## Mantenimiento
 
-*  (2023) Albañileria / Pintura 
-    + AULAS SECUNDARIAS DEL FUTURO, FRISO GALERIA Y AULAS
-
 *  (2023) Calefaccion y Refrigeracion 
-    + Cambio de estufas
-
-*  (2023) Electricidad 
-    + Instalaciones en Espacio Seguro
+    + Cambio de estufas, CAMBIO DE CAÑERIA Y BOMBA DE CALEFACCION
 
 *  (2023) Gas 
     + CAMBIAR CAÑERIA GAS LABORATORIOS, HABILITACION CALDERA Y RAMAS REGULACIÓN
 
-*  (2022) Electricidad 
-    + Instalación de purificadores
-
 *  (2022) Gas 
     + REACONDICIONAMIENTO INST GAS
-
-*  (2022) Incendio 
-    + Reacondicionamiento IFCI
 
 *  (2021) Gas 
     + Reacondicionamiento instalacion gas

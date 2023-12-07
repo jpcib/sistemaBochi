@@ -29,26 +29,8 @@ subtitle: 'JIN C (EPCJS 14/21°) [S] - EPC N° 14 DR. RICARDO LEVENE'
 
 ## Mantenimiento
 
-*  (2023) Electricidad 
-    + Seguridad aula informática salón  música
-
 *  (2023) Gas 
     + Adecuación gas casa casero
-
-*  (2022) Electricidad 
-    + Adecuación inst de luces emergencia
-
-*  (2022) Sanitarias 
-    + Recambio de inodoro por vandalismo
-
-*  (2021) Albañileria / Pintura 
-    + Desprend. cielorraso galeria PA, Rep  pared medianera y  filtraciones
-
-*  (2021) Carpinterías 
-    + cambio de cerradura por vandalismo
-
-*  (2021) Electricidad 
-    + Reponer 3 luces de emergencia, coloc timbre inalámbrico en jardin, Coloc 3 purificadores de aire salas jard
 
 *  (2021) Gas 
     + reacondicionamiento instalación de gas
