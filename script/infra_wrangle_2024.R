@@ -9,7 +9,7 @@ gop23_raw <- read_csv("data/gop23_05-12.csv") %>%
          pase_dgar = contains("dgar"), inicio_obra, plazo_obra, ampliacion_plazo, 
          avance_de_obra = avance_de_obra_real, fin_obra, 
          # expediente, 
-         eje = programa, año_plan = ano_plan) %>% 
+         eje = programa, ano_plan) %>% 
   drop_na(proy) %>% 
   glimpse()
 
@@ -20,7 +20,7 @@ gop24_raw <- read_csv("data/gop24_05-12.csv") %>%
          pase_dgar = contains("dgar"), inicio_obra, plazo_obra, ampliacion_plazo, 
          avance_de_obra = avance_de_obra_real, fin_obra, 
          # expediente, 
-         eje = programa, año_plan = ano_plan) %>% 
+         eje = programa, ano_plan) %>% 
   mutate(across(everything(), ~as.character(.))) %>%
   glimpse()
 
@@ -29,6 +29,8 @@ gop23_left <- gop23_raw %>%
   glimpse()
 
 gop_raw <- bind_rows(gop24_raw,gop23_left) %>% 
+  # mutate(ano_plan = parse_number(ano_plan)) %>% 
+  # distinct(ano_plan) %>% 
   glimpse()
 
 # gop_raw  %>% 
@@ -57,6 +59,9 @@ plani_clean <- gop_raw %>%
          # fin_obra = case_when(n_proyecto == "x043" ~ "PARA RESCINDIR",
          #                T ~ fin_obra)
   ) %>% 
+  mutate(ano_plan = case_match(ano_plan, .default = ano_plan, 
+                               c("2021","2022","2023") ~ "2021 - 2023", 
+                               c("2024","2025","2026","2027","2027") ~ "2024 - 2027")) %>% 
   glimpse()
 
 write_csv(plani_clean, "data/infra_gop_05-12.csv")
