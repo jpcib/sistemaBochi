@@ -6,7 +6,7 @@ subtitle: 'EPC N° 03 POLICIA FEDERAL ARGENTINA - JINA(EPCJC 03/17°)ALICIA MORE
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -30,7 +30,7 @@ subtitle: 'EPC N° 03 POLICIA FEDERAL ARGENTINA - JINA(EPCJC 03/17°)ALICIA MORE
 
 ## Mobiliario
 
-*  (2023) : NA 1 
+*  (2023) : Estación movil cooperadoras 1 
 
 *  (2022) : Mesa inicial 5, Silla escolar 30 
 

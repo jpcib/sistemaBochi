@@ -6,7 +6,7 @@ subtitle: 'ESC. DE COM. N° 07 MANUEL BELGRANO - PI EL MUNDO DEL REVÉS - EEM N�
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -30,7 +30,7 @@ subtitle: 'ESC. DE COM. N° 07 MANUEL BELGRANO - PI EL MUNDO DEL REVÉS - EEM N�
 
 ## Mobiliario
 
-*  (2023) : Escritorio 5, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155, NA 1 
+*  (2023) : Escritorio 5, Estación movil cooperadoras 1, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 
 
 *  (2021) : Escritorio 4, Silla escolar 92, Varios 3 
 

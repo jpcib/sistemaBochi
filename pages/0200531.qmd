@@ -6,7 +6,7 @@ subtitle: 'CBFO N° 03 OLGA COSSETTINI'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -26,6 +26,8 @@ subtitle: 'CBFO N° 03 OLGA COSSETTINI'
 
 
 ## Mobiliario
+
+*  (2023) : Armario 2 
 
 *  (2022) : Armario 8 
 

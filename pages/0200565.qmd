@@ -6,7 +6,7 @@ subtitle: 'JIN B (EPCJC 17/11°) [S] - EPC N° 17 GRAL. JUAN GALO LAVALLE'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -30,7 +30,7 @@ subtitle: 'JIN B (EPCJC 17/11°) [S] - EPC N° 17 GRAL. JUAN GALO LAVALLE'
 
 ## Mobiliario
 
-*  (2023) : Armario 9, Escritorio 7, Mesa inicial 15, Silla escolar 87, NA 1 
+*  (2023) : Armario 9, Escritorio 7, Estación movil cooperadoras 1, Mesa inicial 15, Silla escolar 87 
 
 
 

@@ -6,7 +6,7 @@ subtitle: 'JIN A (EPCJS 04/02°) - EPC N° 04 AMADEO JACQUES'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 

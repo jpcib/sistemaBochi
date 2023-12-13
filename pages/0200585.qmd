@@ -6,7 +6,7 @@ subtitle: 'EPC N° 02 FLORENCIO VARELA - EPA N° 02 FLORENCIO VARELA'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -27,7 +27,7 @@ subtitle: 'EPC N° 02 FLORENCIO VARELA - EPA N° 02 FLORENCIO VARELA'
 
 ## Mobiliario
 
-*  (2023) : NA 1 
+*  (2023) : Estación movil cooperadoras 1 
 
 *  (2021) : Mesa pupitre doble 44, Silla escolar 88 
 

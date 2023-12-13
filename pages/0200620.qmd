@@ -6,7 +6,7 @@ subtitle: 'EPC N° 02 PATRIA GRANDE - JIN B (EPCJC 02/13°)'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -18,7 +18,7 @@ subtitle: 'EPC N° 02 PATRIA GRANDE - JIN B (EPCJC 02/13°)'
 
 ## Mobiliario
 
-*  (2023) : Mesa inicial 5, Silla escolar 30, NA 1 
+*  (2023) : Estación movil cooperadoras 1, Mesa inicial 5, Silla escolar 30 
 
 
 

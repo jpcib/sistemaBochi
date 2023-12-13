@@ -6,7 +6,7 @@ subtitle: 'EPC N° 13 REPUBLICA DE FILIPINAS - JIN C (EPCJS 13/20°)'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -18,7 +18,7 @@ subtitle: 'EPC N° 13 REPUBLICA DE FILIPINAS - JIN C (EPCJS 13/20°)'
 
 ## Mobiliario
 
-*  (2023) : NA 1 
+*  (2023) : Estación movil cooperadoras 1 
 
 *  (2022) : Armario 2, Escritorio 8, Mesa inicial 4, Mesa pupitre doble 69, Mesa usos múltiples 1, Pizarrón 4, Silla escolar 177 
 

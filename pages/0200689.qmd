@@ -6,7 +6,7 @@ subtitle: 'EEM N° 02/14° ARGENTINOS JUNIORS'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -18,7 +18,7 @@ subtitle: 'EEM N° 02/14° ARGENTINOS JUNIORS'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31, NA 1 
+*  (2023) : Escritorio 1, Estación movil cooperadoras 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 
 
 *  (2021) : Armario 4, Escritorio 2, Mesa pupitre doble 30, Silla escolar 62 
 

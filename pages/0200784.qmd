@@ -6,7 +6,7 @@ subtitle: 'Sup Inicial VIII B - EPC N° 19 BARTOLINA SISA - JII N° 03/17° EL J
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -27,7 +27,7 @@ subtitle: 'Sup Inicial VIII B - EPC N° 19 BARTOLINA SISA - JII N° 03/17° EL J
 
 ## Mobiliario
 
-*  (2023) : Mesa inicial 10, Silla escolar 60, NA 1 
+*  (2023) : Estación movil cooperadoras 1, Mesa inicial 10, Silla escolar 60 
 
 *  (2022) : Banco largo comedor 40, Mesa usos múltiples 20 
 

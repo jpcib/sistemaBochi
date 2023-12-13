@@ -6,13 +6,13 @@ subtitle: 'EPC N° 08 SAN JUAN BOSCO - JIN A (EPCJS 08/16°)'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
 
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -24,7 +24,7 @@ subtitle: 'EPC N° 08 SAN JUAN BOSCO - JIN A (EPCJS 08/16°)'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 2, Mesa pupitre doble 30, Silla escolar 60, NA 1 
+*  (2023) : Banco largo comedor 28, Escritorio 2, Estación movil cooperadoras 1, Mesa pupitre doble 30, Mesa usos múltiples 14, Silla escolar 60 
 
 
 

@@ -51,6 +51,8 @@ plani_clean <- gop_raw %>%
                                  T ~ inicio_obra), 
          plazo_obra = case_when(is.na(plazo_obra) ~ "Sin plazo", 
                                 T ~ plazo_obra)) %>% 
+  mutate(intervenciones = case_when(is.na(intervenciones) ~ "Alcance a definir", 
+                                    T ~ intervenciones)) %>% 
   
   mutate(cui = str_pad(cui, 7, "left", "0")) %>% 
   mutate(fin_obra = case_when(is.na(fin_obra) ~ " - ",

@@ -6,7 +6,7 @@ subtitle: 'EPC N° 09 IRLANDA - JIN C (EPCJC 09/16°)'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -30,7 +30,7 @@ subtitle: 'EPC N° 09 IRLANDA - JIN C (EPCJC 09/16°)'
 
 ## Mobiliario
 
-*  (2023) : Mesa pupitre doble 36, Silla escolar 72, NA 1 
+*  (2023) : Estación movil cooperadoras 1, Mesa pupitre doble 36, Silla escolar 72 
 
 *  (2021) : Banco largo comedor 6, Mesa usos múltiples 3 
 

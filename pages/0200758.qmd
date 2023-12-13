@@ -6,7 +6,7 @@ subtitle: 'EPC N° 22 REPUBLICA DE NICARAGUA - JIN D (EPCJS 22/16°) [S]'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -18,7 +18,7 @@ subtitle: 'EPC N° 22 REPUBLICA DE NICARAGUA - JIN D (EPCJS 22/16°) [S]'
 
 ## Mobiliario
 
-*  (2023) : Escritorio 9, Mesa pupitre doble 135, Silla escolar 270, NA 1 
+*  (2023) : Escritorio 9, Estación movil cooperadoras 1, Mesa pupitre doble 120, Silla escolar 240 
 
 
 

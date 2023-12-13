@@ -6,7 +6,7 @@ subtitle: 'JII N° 01/20° - EPC N° 22 RUFINO LURO CAMBACERES'
 #
 ## Infraestructura
 
-* NA 
+* Alcance a definir 
     + mejora edilicia - Planificado 
     + Inicio de obra: Sin fecha de inicio 
     + Plan de obras 2024 - 2027 
@@ -27,7 +27,7 @@ subtitle: 'JII N° 01/20° - EPC N° 22 RUFINO LURO CAMBACERES'
 
 ## Mobiliario
 
-*  (2023) : Banco largo comedor 20, Juego de patio 1, Mesa inicial 15, Mesa integradora con escotadura 1, Piso antigolpe para juegos 60, Silla escolar 90, NA 2 
+*  (2023) : Banco largo comedor 20, Estación movil cooperadoras 2, Juego de patio 1, Mesa inicial 15, Mesa integradora con escotadura 1, Piso antigolpe para juegos 60, Silla escolar 90 
 
 
 
