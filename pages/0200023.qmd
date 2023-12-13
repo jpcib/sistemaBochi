@@ -35,12 +35,3 @@ subtitle: 'Sup Media Region I - Sup.Educ.Tec.Region I DE 01,03 - ESC. DE COM. NÂ
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia fÃ­sica: NO
-
-
-

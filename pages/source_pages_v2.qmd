@@ -297,76 +297,76 @@ add_mobi_section_v1(data_mobi, dir = ".")
 ```
 
 ```{r data_seguridad, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_seguridad <- read_csv("../data/tabla_seguridad_12-10-2023.csv") %>% 
-  mutate(status = str_to_sentence(status)) %>%
-  # filter(espacios_seguros != 0 ) %>% 
-  # arrange(desc(entrega)) %>%
-  glimpse()
+# data_seguridad <- read_csv("../data/tabla_seguridad_12-10-2023.csv") %>% 
+#   mutate(status = str_to_sentence(status)) %>%
+#   # filter(espacios_seguros != 0 ) %>% 
+#   # arrange(desc(entrega)) %>%
+#   glimpse()
 ```
 
 ```{r add_seguridad_section, include=FALSE}
 
-add_seguridad_section_v1 <- function(data, dir) {
-  # Loop through each cui in the dataset
-  for (i in unique(data$cui)) {
-    
-    # Generate the file name for the corresponding Quarto Markdown document
-    file_name <- paste0(i, ".qmd")
-    file_path <- file.path(dir, file_name)
-    
-    # Check if the file exists
-    if (file.exists(file_path)) {
-      
-      # Subset the dataset for the current cui
-      cui_data <- data[data$cui == i, ]
-      
-      # Create a bulleted list of the services and areas
-      services_list <- paste0("* "," Espacios seguros: ", cui_data$espacios_seguros, " - ", "Estado: ", cui_data$status , " \n", 
-                              "    + ", "Guardia física: ", cui_data$guardia_fisica, "\n")  
-      
-      # Combine the title and bulleted list
-      services_section <- paste0("\n\n", "## Seguridad\n\n", paste(services_list, collapse = "\n"), "\n\n")
-      
-      # Read the contents of the Quarto Markdown file
-      file_contents <- readLines(file_path)
-      
-      # Find the position of the Infrastructure header in the file
-      infra_pos <- grep("^## Infraestructura", file_contents)
-      
-      if (length(infra_pos) > 0) {
-        # Find the position of the last bulleted item under the Infrastructure header
-        infra_end_pos <- length(file_contents)
-        
-        # Insert the services section after the last bulleted item under the Infrastructure header
-        updated_contents <- append(file_contents, services_section, after = infra_end_pos)
-      } else {
-        # Find the position of the first heading in the file
-        heading_pos <- grep("^#", file_contents)[1]
-        if (is.na(heading_pos)) {
-          cat("Warning: File", file_name, "does not contain any heading\n")
-          next
-        }
-        # Insert the services section after the first heading
-        updated_contents <- append(file_contents, services_section, after = heading_pos)
-      }
-      
-      # Write the updated contents back to the file
-      writeLines(updated_contents, file_path)
-      
-      # Print a message indicating the file was updated
-      cat("Updated", file_name, "\n")
-      
-    } else {
-      
-      # Print a warning if the file doesn't exist
-      cat("Warning: File", file_name, "not found in directory\n")
-      
-    }
-    
-  }
-}
-
-add_seguridad_section_v1(data_seguridad, dir = ".")
+# add_seguridad_section_v1 <- function(data, dir) {
+#   # Loop through each cui in the dataset
+#   for (i in unique(data$cui)) {
+#     
+#     # Generate the file name for the corresponding Quarto Markdown document
+#     file_name <- paste0(i, ".qmd")
+#     file_path <- file.path(dir, file_name)
+#     
+#     # Check if the file exists
+#     if (file.exists(file_path)) {
+#       
+#       # Subset the dataset for the current cui
+#       cui_data <- data[data$cui == i, ]
+#       
+#       # Create a bulleted list of the services and areas
+#       services_list <- paste0("* "," Espacios seguros: ", cui_data$espacios_seguros, " - ", "Estado: ", cui_data$status , " \n", 
+#                               "    + ", "Guardia física: ", cui_data$guardia_fisica, "\n")  
+#       
+#       # Combine the title and bulleted list
+#       services_section <- paste0("\n\n", "## Seguridad\n\n", paste(services_list, collapse = "\n"), "\n\n")
+#       
+#       # Read the contents of the Quarto Markdown file
+#       file_contents <- readLines(file_path)
+#       
+#       # Find the position of the Infrastructure header in the file
+#       infra_pos <- grep("^## Infraestructura", file_contents)
+#       
+#       if (length(infra_pos) > 0) {
+#         # Find the position of the last bulleted item under the Infrastructure header
+#         infra_end_pos <- length(file_contents)
+#         
+#         # Insert the services section after the last bulleted item under the Infrastructure header
+#         updated_contents <- append(file_contents, services_section, after = infra_end_pos)
+#       } else {
+#         # Find the position of the first heading in the file
+#         heading_pos <- grep("^#", file_contents)[1]
+#         if (is.na(heading_pos)) {
+#           cat("Warning: File", file_name, "does not contain any heading\n")
+#           next
+#         }
+#         # Insert the services section after the first heading
+#         updated_contents <- append(file_contents, services_section, after = heading_pos)
+#       }
+#       
+#       # Write the updated contents back to the file
+#       writeLines(updated_contents, file_path)
+#       
+#       # Print a message indicating the file was updated
+#       cat("Updated", file_name, "\n")
+#       
+#     } else {
+#       
+#       # Print a warning if the file doesn't exist
+#       cat("Warning: File", file_name, "not found in directory\n")
+#       
+#     }
+#     
+#   }
+# }
+# 
+# add_seguridad_section_v1(data_seguridad, dir = ".")
 
 ```
 

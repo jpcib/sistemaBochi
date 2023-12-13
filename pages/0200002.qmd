@@ -35,12 +35,3 @@ subtitle: 'SUPERVISIÓN DE 1 - JIC N° 04/01° CINCO ESQUINAS - EPC N° 02 DOMIN
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: En ejecución 
-    + Guardia física: NO
-
-
-

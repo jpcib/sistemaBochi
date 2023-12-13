@@ -34,12 +34,3 @@ Instalaciones: eléctrica en sector histórico y termomecanica (unificar criteri
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: A ejecutar 
-    + Guardia física: SI
-
-
-

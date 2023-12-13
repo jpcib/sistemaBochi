@@ -6,15 +6,6 @@ subtitle: 'JIC N° 09/10° - EPC N° 12 PROF. RODOLFO SENET - CENS N° 81'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: A ejecutar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

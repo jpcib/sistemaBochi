@@ -41,12 +41,3 @@ subtitle: 'COLEGIO N° 05 BARTOLOME MITRE - COLEGIO N° 14 JUAN JOSE PASO - PI L
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-

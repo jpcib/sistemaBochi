@@ -6,24 +6,6 @@ subtitle: 'Casa de la Cultura - CAEBYT N° 47 - EEM N° 06/05° - EPC N° 12 HOR
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: En ejecución 
-    + Guardia física: SI
-
-*  Espacios seguros: 0 - Estado: En ejecución 
-    + Guardia física: SI
-
-*  Espacios seguros: 0 - Estado: En ejecución 
-    + Guardia física: SI
-
-*  Espacios seguros: 0 - Estado: En ejecución 
-    + Guardia física: SI
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 

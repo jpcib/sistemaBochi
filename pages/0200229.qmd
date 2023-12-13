@@ -6,15 +6,6 @@ subtitle: 'EPC N° 07 JUAN DE GARAY - EPA N° 07 JUAN DE GARAY - JIN A (EPCJS 07
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Mesa inicial 12, Silla escolar 72 

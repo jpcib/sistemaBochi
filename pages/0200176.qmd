@@ -6,15 +6,6 @@ subtitle: 'EPC N° 04 JOSE JACINTO BERRUTTI'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

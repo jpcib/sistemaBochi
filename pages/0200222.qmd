@@ -6,15 +6,6 @@ subtitle: 'CAIYJ CLUB SAN TELMO/Polideportivo Martina Cespedes'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: SI
-
-
-
-
-
 ## Mantenimiento
 
 *  (2022) Calefaccion y Refrigeracion 

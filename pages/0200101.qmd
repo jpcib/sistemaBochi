@@ -35,12 +35,3 @@ subtitle: 'ENS N° 06 VICENTE LOPEZ Y PLANES'
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-

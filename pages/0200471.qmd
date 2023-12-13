@@ -6,15 +6,6 @@ subtitle: 'ESC. TEC. DE JARDINERIA CRISTOBAL M. HICKEN'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: Cancelada definitivamente 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 

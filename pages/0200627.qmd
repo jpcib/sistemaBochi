@@ -41,12 +41,3 @@ subtitle: 'EPC N° 09 HOMERO MANZI - CENS N° 91'
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-

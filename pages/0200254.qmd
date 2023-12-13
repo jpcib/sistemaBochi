@@ -38,12 +38,3 @@ subtitle: 'ESC. TEC. N° 04 REPUBLICA DEL LIBANO'
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-

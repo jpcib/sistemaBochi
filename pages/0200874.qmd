@@ -37,12 +37,3 @@ subtitle: 'ESC. DE EDUC. MEDIA Nº 05 DE 19 E.REINGRESO'
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-

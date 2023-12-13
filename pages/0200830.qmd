@@ -6,15 +6,6 @@ subtitle: 'ESC. TEC. N° 27 HIPOLITO YRIGOYEN'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: En ejecución 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Silla escolar 93 

@@ -6,15 +6,6 @@ subtitle: 'EPC N° 14 INTENDENTE ALVEAR - JIC N° 04/06° MARIANO BOEDO'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: En ejecución 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Banco largo comedor 36, Escritorio 2, Estación movil cooperadoras 1, Mesa pupitre doble 30, Mesa usos múltiples 18, Silla escolar 60 

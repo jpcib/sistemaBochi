@@ -6,15 +6,6 @@ subtitle: 'JIN A (EPCJS 04/12°) [S] - EPC N° 04 PROVINCIA DE LA PAMPA - ESEA E
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Banco largo comedor 16, Escritorio 2, Mesa inicial 10, Mesa pupitre doble 90, Mesa usos múltiples 8, Silla escolar 240 

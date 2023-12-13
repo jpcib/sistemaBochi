@@ -6,15 +6,6 @@ subtitle: 'JIN B (EPCJS 06/08°) [S] - EPC N° 06 SAN JOSE DE CALASANZ - EPA N°
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2021) : Mesa inicial 5, Silla escolar 30 

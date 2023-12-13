@@ -6,15 +6,6 @@ subtitle: 'JIC N° 07/09° EL JARDIN DE LAS GLICINAS - EPC N° 13 RAUL SCALABRIN
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: A ejecutar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Armario 4, Escritorio 1, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 90 

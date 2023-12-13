@@ -6,15 +6,6 @@ subtitle: 'EPA N° 04 PRES. DR. ARTURO UMBERTO ILLIA - EPC N° 04 PRES. DR. ARTU
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Armario 4, Escritorio 2, Estación movil cooperadoras 1, Mesa inicial 10, Mesa pupitre doble 30, Silla escolar 120 

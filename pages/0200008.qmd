@@ -6,15 +6,6 @@ subtitle: 'Sup Adultos Region VI - JIN A (EPCJC 08/01°) - EPC N° 08 NICOLAS AV
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

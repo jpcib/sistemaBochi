@@ -6,15 +6,6 @@ subtitle: 'JIN A (EPCJC 19/12°) - EPC N° 19 LEANDRO NICEFORO ALEM - CENS N° 7
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: Suspendida ejecución 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

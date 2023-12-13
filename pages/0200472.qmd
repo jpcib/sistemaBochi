@@ -6,15 +6,6 @@ subtitle: 'INST. SUPERIOR DEL PROF. DE EDUC. INICIAL SARA CHAMBERLAIN DE ECCLEST
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: SI
-
-
-
-
-
 ## Mobiliario
 
 *  (2021) : Mesa inicial 4, Silla escolar 46 

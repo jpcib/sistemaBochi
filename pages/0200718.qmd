@@ -6,15 +6,6 @@ subtitle: 'EPC N° 19 NACIONES UNIDAS - JIC N° 01/15° - CAIYJ CLUB SAAVEDRA'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Mesa pupitre doble 15, Silla escolar 30 

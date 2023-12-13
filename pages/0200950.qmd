@@ -39,15 +39,3 @@ subtitle: 'EPC N° 05 ARMADA ARGENTINA - EPA N° 05 ARMADA ARGENTINA - CECIE N°
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-

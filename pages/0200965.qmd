@@ -42,12 +42,3 @@ subtitle: 'JII Nº 10 DE 21 - EEM N° 06/21° E.REINGRESO - PI LARRAZABAL - EPC 
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: SI
-
-
-

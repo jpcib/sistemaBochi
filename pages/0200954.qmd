@@ -6,15 +6,6 @@ subtitle: 'EPC N° 10 ITALO AMERICO FORADORI - JIC N° 07/21°'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: En ejecución 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1, Mesa inicial 9, Silla escolar 54 
