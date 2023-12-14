@@ -40,7 +40,7 @@ subtitle: 'ESC. DE COM. N° 12 JUAN XXIII'
 
 ## Seguridad
 
-*  Espacios seguros: 2 - Estado: Finalizado 
+*  Espacios seguros: 2 
     + Guardia física: NO
 
 

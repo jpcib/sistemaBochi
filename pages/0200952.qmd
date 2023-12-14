@@ -36,12 +36,3 @@ subtitle: 'JIC N° 04/21° - EPC N° 08 JUDITH Y DEMETRIO DEMARCHI - EPA N° 08 
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Suspendida ejecución 
-    + Guardia física: NO
-
-
-

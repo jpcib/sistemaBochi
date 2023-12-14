@@ -8,10 +8,7 @@ subtitle: 'JIC N° 03/19° - EPC N° 17 GASPAR LUCILO BENAVENTO - CENOF CENTRO C
 
 ## Seguridad
 
-*  Espacios seguros: 2 - Estado: Finalizado 
-    + Guardia física: NO
-
-*  Espacios seguros: 2 - Estado: Finalizado 
+*  Espacios seguros: 2 
     + Guardia física: NO
 
 

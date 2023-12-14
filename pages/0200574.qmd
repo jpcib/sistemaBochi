@@ -8,10 +8,7 @@ subtitle: 'LICEO N° 05 PASCUAL GUAGLIANONE - ESC. TEC.  N° 18 JOSE ANTONIO ALV
 
 ## Seguridad
 
-*  Espacios seguros: 0 - Estado: Finalizado 
-    + Guardia física: SI
-
-*  Espacios seguros: 1 - Estado: Finalizado 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

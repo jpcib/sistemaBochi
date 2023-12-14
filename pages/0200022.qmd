@@ -8,7 +8,7 @@ subtitle: 'ESPACIO PRIMERA INFANCIA COLEGIO N° 02 - COLEGIO N° 02 DOMINGO FAUS
 
 ## Seguridad
 
-*  Espacios seguros: 3 - Estado: Finalizado 
+*  Espacios seguros: 3 
     + Guardia física: NO
 
 

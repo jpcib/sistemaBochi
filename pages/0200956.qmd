@@ -8,7 +8,7 @@ subtitle: 'JIN C (EPCJS 14/21°) [S] - EPC N° 14 DR. RICARDO LEVENE'
 
 ## Seguridad
 
-*  Espacios seguros: 2 - Estado: Finalizado 
+*  Espacios seguros: 2 
     + Guardia física: NO
 
 

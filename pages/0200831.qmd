@@ -35,12 +35,3 @@ subtitle: 'ESC. TEC. N° 35 ING. EDUARDO LATZINA'
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: En ejecución 
-    + Guardia física: SI
-
-
-

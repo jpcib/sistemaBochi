@@ -6,15 +6,6 @@ subtitle: 'EPC N° 24 DR. FLORIAN OLIVER - CENS N° 05 ([A] 2) - JIN C (EPCJC 24
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: En ejecución 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Armario 7 

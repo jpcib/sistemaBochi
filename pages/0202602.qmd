@@ -6,15 +6,6 @@ subtitle: 'ESCUELA INF. N° 05/16°'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Suspendida ejecución 
-    + Guardia física: NO
-
-
-
-
-
 ## Mantenimiento
 
 *  (2023) Gas 

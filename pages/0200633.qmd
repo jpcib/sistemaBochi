@@ -41,12 +41,3 @@ subtitle: 'JIC N° 02/13° - EPC N° 15 REPUBLICA ARGENTINA - CECEP N° 13 MARTI
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: A ejecutar 
-    + Guardia física: NO
-
-
-

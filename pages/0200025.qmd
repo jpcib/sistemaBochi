@@ -25,12 +25,3 @@ subtitle: 'ESC. TEC. N° 19 ALEJANDRO VOLTA'
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: En ejecución 
-    + Guardia física: NO
-
-
-

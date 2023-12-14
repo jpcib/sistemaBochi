@@ -42,7 +42,7 @@ subtitle: 'Polideportivo ESC. TEC. N° 30 DR. NORBERTO PIÑERO - ESC. TEC. N° 3
 
 ## Seguridad
 
-*  Espacios seguros: 1 - Estado: Finalizado 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

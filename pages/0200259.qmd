@@ -38,12 +38,3 @@ subtitle: 'ENS N° 05 GRAL.  M. M. DE GÜEMES (SEDE) - LICEO COM. N° 03 JOSE MA
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-

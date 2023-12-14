@@ -6,15 +6,6 @@ subtitle: 'ESC. TEC. N° 24 DEFENSA DE BUENOS AIRES'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: Suspendida ejecución 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Escritorio 6, Mesa pupitre doble 90, Pizarrón 6, Silla escolar 186 

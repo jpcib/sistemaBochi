@@ -8,7 +8,7 @@ subtitle: 'COLEGIO N° 09 JUSTO JOSE DE URQUIZA'
 
 ## Seguridad
 
-*  Espacios seguros: 2 - Estado: Finalizado 
+*  Espacios seguros: 2 
     + Guardia física: NO
 
 

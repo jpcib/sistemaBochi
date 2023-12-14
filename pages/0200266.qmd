@@ -8,7 +8,7 @@ subtitle: 'CENTRO EDUCATIVO PARA NIÑOS EN TIEMPOS Y ESPACIOS SINGULARES N° 01 
 
 ## Seguridad
 
-*  Espacios seguros: 1 - Estado: Finalizado 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

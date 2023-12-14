@@ -8,7 +8,7 @@ subtitle: 'JIN A (EPCJS 04/12°) [S] - EPC N° 04 PROVINCIA DE LA PAMPA - ESEA E
 
 ## Seguridad
 
-*  Espacios seguros: 1 - Estado: Finalizado 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

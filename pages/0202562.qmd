@@ -6,15 +6,6 @@ subtitle: 'JII N° 10/19° (SEDE)'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: En ejecución 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2021) : Mesa inicial 5, Silla escolar 30 

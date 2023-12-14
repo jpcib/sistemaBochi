@@ -6,18 +6,6 @@ subtitle: 'EPC N° 15 DR. CARLOS ALBERTO VERONELLI - JII N° 01/21° - CENOF CEN
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Suspendida ejecución 
-    + Guardia física: NO
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1, Mesa inicial 5, Silla escolar 30 

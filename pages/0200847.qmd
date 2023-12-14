@@ -6,15 +6,6 @@ subtitle: 'EPC N° 04 RICARDO GÜIRALDES'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: SI
-
-
-
-
-
 ## Mobiliario
 
 *  (2021) : Banco largo comedor 10, Mesa usos múltiples 5 

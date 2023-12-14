@@ -297,8 +297,8 @@ add_mobi_section_v1(data_mobi, dir = ".")
 ```
 
 ```{r data_seguridad, warning=FALSE,error=FALSE,message=FALSE,include=FALSE}
-data_seguridad <- read_csv("../data/tabla_seguridad_12-10-2023.csv") %>%
-  mutate(status = str_to_sentence(status)) %>%
+data_seguridad <- read_csv("../data/tabla_seguridad_13-12-2023.csv") %>%
+  # mutate(status = str_to_sentence(status)) %>%
   # filter(espacios_seguros != 0 ) %>%
   # arrange(desc(entrega)) %>%
   glimpse()
@@ -321,7 +321,7 @@ add_seguridad_section_v1 <- function(data, dir) {
       cui_data <- data[data$cui == i, ]
 
       # Create a bulleted list of the services and areas
-      services_list <- paste0("* "," Espacios seguros: ", cui_data$espacios_seguros, " - ", "Estado: ", cui_data$status , " \n",
+      services_list <- paste0("* "," Espacios seguros: ", cui_data$espacios_seguros, " \n",
                               "    + ", "Guardia física: ", cui_data$guardia_fisica, "\n")
 
       # Combine the title and bulleted list

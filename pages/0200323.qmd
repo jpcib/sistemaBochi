@@ -8,7 +8,7 @@ subtitle: 'ESC. TEC. N° 29 RECONQUISTA DE BUENOS AIRES'
 
 ## Seguridad
 
-*  Espacios seguros: 3 - Estado: Finalizado 
+*  Espacios seguros: 3 
     + Guardia física: NO
 
 

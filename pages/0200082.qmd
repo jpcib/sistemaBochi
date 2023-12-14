@@ -8,7 +8,7 @@ subtitle: 'CENS N° 40 - EPC N° 09 CNEL. GENARO BERON DE ASTRADA - JIN A (EPCJS
 
 ## Seguridad
 
-*  Espacios seguros: 1 - Estado: Finalizado 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

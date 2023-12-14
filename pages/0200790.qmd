@@ -35,12 +35,3 @@ subtitle: 'COLEGIO N° 19 LUIS PASTEUR'
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: A ejecutar 
-    + Guardia física: NO
-
-
-

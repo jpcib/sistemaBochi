@@ -8,7 +8,7 @@ subtitle: 'ESC. POLITEC. MANUEL BELGRANO'
 
 ## Seguridad
 
-*  Espacios seguros: 2 - Estado: Finalizado 
+*  Espacios seguros: 2 
     + Guardia física: NO
 
 

@@ -8,7 +8,7 @@ subtitle: 'ESC. DE COM.  N° 17 SANTA MARIA DE LOS BUENOS AIRES'
 
 ## Seguridad
 
-*  Espacios seguros: 1 - Estado: Finalizado 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

@@ -39,7 +39,7 @@ subtitle: 'EPC N° 11 REPUBLICA DE HAITI - EPA N° 11 REPUBLICA DE HAITI - UGEE 
 
 ## Seguridad
 
-*  Espacios seguros: 1 - Estado: Finalizado 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

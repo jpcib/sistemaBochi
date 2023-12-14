@@ -6,15 +6,6 @@ subtitle: 'EPC N° 16 WENCESLAO POSSE - JIC N° 03/01° - CENOF CENTRO JUNCAL - 
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Mesa inicial 10, Silla escolar 85 

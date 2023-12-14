@@ -21,12 +21,3 @@ subtitle: 'ESCUELA INF. N° 09/05° - EPC N°05 DE 05'
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 0 - Estado: A confirmar 
-    + Guardia física: SI
-
-
-

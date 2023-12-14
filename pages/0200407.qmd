@@ -36,12 +36,3 @@ subtitle: 'Sup Primaria DE08 - CENS N° 52 - JIN A (EPCJC 09/08°) - EPC N° 09 
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-

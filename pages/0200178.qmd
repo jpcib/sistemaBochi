@@ -49,10 +49,7 @@ subtitle: 'Museo de Bellas Artes de Artistas Argentinos Benito Quinquela Martin 
 
 ## Seguridad
 
-*  Espacios seguros: 20 - Estado: Finalizado 
-    + Guardia física: SI
-
-*  Espacios seguros: 1 - Estado: Finalizado 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

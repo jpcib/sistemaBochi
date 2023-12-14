@@ -6,15 +6,6 @@ subtitle: 'JII N° 13/01° - EPC N° 05 NICOLAS RODRIGUEZ PEÑA - IFTS N° 05'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: Suspendida ejecución 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2022) : Armario 4, Mesa inicial 10, Mesa pupitre doble 22, Silla escolar 134 

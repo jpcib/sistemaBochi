@@ -8,7 +8,7 @@ subtitle: 'EPC N° 26 ADOLFO VAN GELDEREN - CONSERVATORIO SUPERIOR DE MÚSICA MA
 
 ## Seguridad
 
-*  Espacios seguros: 1 - Estado: A ejecutar 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

@@ -6,15 +6,6 @@ subtitle: 'CENOF POLA - EPC N° 19 HERMANOS LATINOAMERICANOS - EEM N° 01/21° -
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: Colocada a configurar 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Banco largo comedor 80, Escritorio 1, Estación movil cooperadoras 1, Mesa pupitre doble 15, Mesa usos múltiples 40, Pizarrón 1, Silla escolar 31 

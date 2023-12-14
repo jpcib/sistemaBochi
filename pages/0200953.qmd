@@ -35,7 +35,7 @@ subtitle: 'JIC N° 03/21° - EPC N° 09 HECTOR PANIZZA'
 
 ## Seguridad
 
-*  Espacios seguros: 3 - Estado: A ejecutar 
+*  Espacios seguros: 3 
     + Guardia física: NO
 
 

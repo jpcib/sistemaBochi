@@ -38,12 +38,3 @@ subtitle: 'ESC. DE COM. N° 33 MAIPU'
 
 
 
-
-
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: Suspendida ejecución 
-    + Guardia física: NO
-
-
-

@@ -6,15 +6,6 @@ subtitle: 'ESC. TEC. N° 37 HOGAR NAVAL STELLA MARIS - EPC N° 14 HOGAR NAVAL ST
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 3 - Estado: En ejecución 
-    + Guardia física: NO
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Escritorio 2, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 

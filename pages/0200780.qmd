@@ -8,7 +8,7 @@ subtitle: 'Sup Media Region VII A Centro Cultural Devoto - EPC N° 15 ANTONIO DE
 
 ## Seguridad
 
-*  Espacios seguros: 1 - Estado: Finalizado 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

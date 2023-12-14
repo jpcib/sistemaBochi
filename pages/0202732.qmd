@@ -4,12 +4,3 @@ subtitle: 'INST. DE ENSEÑANZA SUPERIOR EN LENGUAS VIVAS JUAN B. JUSTO (ANEXO)'
 ---
 
 #
-
-
-## Seguridad
-
-*  Espacios seguros: 1 - Estado: Finalizado 
-    + Guardia física: NO
-
-
-

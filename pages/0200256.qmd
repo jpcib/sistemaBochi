@@ -8,7 +8,7 @@ subtitle: 'ESC. TEC. N° 10 FRAY LUIS BELTRAN - LICEO COM. N° 03 J. M. ESTRADA 
 
 ## Seguridad
 
-*  Espacios seguros: 1 - Estado: Finalizado 
+*  Espacios seguros: 1 
     + Guardia física: NO
 
 

@@ -6,15 +6,6 @@ subtitle: 'ESC. TEC.  N° 33 F. MAESTRANZA DEL PLUMERILLO - CAIYJ CLUB POMPEYA'
 #
 
 
-## Seguridad
-
-*  Espacios seguros: 2 - Estado: Finalizado 
-    + Guardia física: SI
-
-
-
-
-
 ## Mobiliario
 
 *  (2023) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 
