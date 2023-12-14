@@ -6,6 +6,15 @@ subtitle: 'JIN A (EPCJC 11/01Âº) - EPC N° 11 DE 01 - Adultos 2000 - Direcció
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: SI
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Mesa inicial 5, Mesa pupitre doble 50, Silla escolar 130 

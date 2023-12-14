@@ -6,6 +6,15 @@ subtitle: 'ESC. TEC. N° 29 RECONQUISTA DE BUENOS AIRES'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 3 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 6, Silla escolar 93 

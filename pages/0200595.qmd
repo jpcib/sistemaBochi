@@ -6,6 +6,15 @@ subtitle: 'JIC N° 02/12° PROVIMCIA DE CHACO - EPC N° 12 PROVINCIA DEL CHACO'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Mesa inicial 5, Pizarrón 12, Silla escolar 30 

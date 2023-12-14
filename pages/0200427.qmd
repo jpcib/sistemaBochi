@@ -47,3 +47,12 @@ subtitle: 'ENS N°04 ESTANISLAO SEVERO ZEBALLOS - LICEO N° 02 AMANCIO ALCORTA'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

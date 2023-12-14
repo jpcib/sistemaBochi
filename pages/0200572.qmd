@@ -6,6 +6,15 @@ subtitle: 'ESC. TEC. N° 05 MARIA DE ESCALADA DE SAN MARTIN'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 5, Estación movil cooperadoras 1, Mesa pupitre doble 75, Pizarrón 5, Silla escolar 155 

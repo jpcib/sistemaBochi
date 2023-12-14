@@ -6,6 +6,15 @@ subtitle: 'JIN C (EPCJS 14/21°) [S] - EPC N° 14 DR. RICARDO LEVENE'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

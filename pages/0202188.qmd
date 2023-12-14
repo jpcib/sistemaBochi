@@ -50,3 +50,21 @@ subtitle: 'ESC. TEC. N° 36 ALTE. GUILLERMO BROWN - ESC. SUPERIOR DE EDUCACIÓN 
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: Finalizado 
+    + Guardia física: SI
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: SI
+
+*  Espacios seguros: 0 - Estado: Finalizado 
+    + Guardia física: SI
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

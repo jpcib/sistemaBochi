@@ -37,3 +37,12 @@ subtitle: 'ESC. TEC.  N°25 TTE.1° DE ARTILLERIA F.L.BELTRAN'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

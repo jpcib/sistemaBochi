@@ -6,6 +6,15 @@ subtitle: 'JII N° 13/04°'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: SI
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

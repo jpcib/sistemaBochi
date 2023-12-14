@@ -31,3 +31,12 @@ subtitle: 'Sup Media Region III - COLEGIO N° 03 MARIANO MORENO - IFTS N° 28'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+

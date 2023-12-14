@@ -4,3 +4,15 @@ subtitle: 'ENS N° 05 GRAL. M. M. DE GÜEMES ([A])'
 ---
 
 #
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

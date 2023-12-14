@@ -6,6 +6,15 @@ subtitle: 'JIC N° 01/18° REPUBLICA ARGENTINA - EPC N° 02 ALEJANDRO AGUADO'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Armario 6, Escritorio 1, Estación movil cooperadoras 2, Mesa pupitre doble 15, Silla escolar 30 

@@ -26,3 +26,12 @@ subtitle: 'ESC. TEC. N° 16 ESPAÑA'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

@@ -39,3 +39,18 @@ subtitle: 'ESC. INTEGRAL INTERDISCIPLINARIA N° 20 ALICIA MOREAU DE JUSTO - EPA 
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: Finalizado 
+    + Guardia física: SI
+
+*  Espacios seguros: 0 - Estado: Finalizado 
+    + Guardia física: SI
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

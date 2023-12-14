@@ -6,6 +6,15 @@ subtitle: 'JIC N° 12/20°'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

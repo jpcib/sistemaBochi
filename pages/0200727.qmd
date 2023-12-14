@@ -38,3 +38,12 @@ En primaria pintura integral, acondicionamiento de instalación eléctrica y acc
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+

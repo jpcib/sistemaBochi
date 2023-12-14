@@ -6,6 +6,15 @@ subtitle: 'EPC N° 17 PROF. RAUL L. BERNARDELLI - CENS N° 22'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Cancelada definitivamente 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

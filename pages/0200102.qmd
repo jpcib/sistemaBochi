@@ -6,6 +6,15 @@ subtitle: 'ESPACIO PRIMERA INFANCIA ESC. DE COM. N° 25 - ENS N° 07 JOSE MARIA 
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 4, Estación movil cooperadoras 1, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 

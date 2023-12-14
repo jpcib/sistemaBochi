@@ -1,9 +1,13 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - robots.txt
 
 website:
   title: "SistemaBochi"
+  favicon: baeducacion.png
+  
   navbar:
     left:
       - href: index.qmd

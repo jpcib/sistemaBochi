@@ -6,6 +6,15 @@ subtitle: 'Sup Media Region VII A Centro Cultural Devoto - EPC N° 15 ANTONIO DE
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Armario 2, Escritorio 4, Mesa inicial 20, Silla escolar 120 

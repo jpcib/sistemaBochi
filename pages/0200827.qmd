@@ -24,3 +24,12 @@ subtitle: 'COLEGIO N° 13 CNEL. TOMAS ESPORA - EEM N° 01/18° E REINGRESO - PI 
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+

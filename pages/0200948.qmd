@@ -6,6 +6,15 @@ subtitle: 'EPC N° 03 CRISTOBAL COLON - EPA N° 03 CRISTOBAL COLON - JIN A (EPCJ
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mantenimiento
 
 *  (2021) Gas 

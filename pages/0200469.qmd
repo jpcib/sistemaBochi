@@ -38,3 +38,12 @@ subtitle: 'Sup Media Region VIII A Sup Media Tecnica Region VIII - ESC. TEC. N°
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+

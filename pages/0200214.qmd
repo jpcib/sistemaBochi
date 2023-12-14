@@ -14,3 +14,12 @@ subtitle: 'EEM N° 02/04° E.REINGRESO'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

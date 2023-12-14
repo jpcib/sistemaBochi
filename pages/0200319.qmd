@@ -6,6 +6,15 @@ subtitle: 'ESC. TEC. N° 11 MANUEL BELGRANO'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 4, Mesa pupitre doble 60, Pizarrón 4, Silla escolar 124 

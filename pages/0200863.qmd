@@ -6,6 +6,18 @@ subtitle: 'POLIDEPORTIVO - EEM N° 02/19° - PI JAURETCHITOS - EEM N° 02/19° A
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 3 - Estado: Finalizado 
+    + Guardia física: NO
+
+*  Espacios seguros: 3 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 2, Estación movil cooperadoras 1, Mesa pupitre doble 30, Pizarrón 2, Silla escolar 62 

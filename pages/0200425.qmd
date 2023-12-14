@@ -35,3 +35,12 @@ subtitle: 'LICEO N° 12 FRAY MAMERTO ESQUIU'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

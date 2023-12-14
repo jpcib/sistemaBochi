@@ -55,3 +55,12 @@ Puesta en norma del ascensor.
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+

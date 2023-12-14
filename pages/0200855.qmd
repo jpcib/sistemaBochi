@@ -6,6 +6,18 @@ subtitle: 'CFP N° 24 -Anexo - JII N° 01/19° MANUEL BELGRANO - EPC N° 12 JOSE
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: Finalizado 
+    + Guardia física: SI
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: SI
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 2, Estación movil cooperadoras 1, Mesa pupitre doble 30, Silla escolar 60 

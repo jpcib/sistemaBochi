@@ -6,6 +6,15 @@ subtitle: 'JII N° 13/20°'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: SI
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

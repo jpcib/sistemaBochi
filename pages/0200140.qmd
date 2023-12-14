@@ -36,3 +36,12 @@ subtitle: 'CENS N° 34 - ESC. DE COM.  N° 34 MONSEÑOR MIGUEL DE ANDREA'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+

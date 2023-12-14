@@ -6,6 +6,15 @@ subtitle: 'INST. DE ENSEÑANZA SUPERIOR EN LENGUAS VIVAS JUAN B. JUSTO (SEDE)'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 1, Mesa pupitre doble 15, Mesa usos múltiples 6, Pizarrón 1, Silla escolar 31 

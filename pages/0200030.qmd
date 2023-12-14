@@ -6,6 +6,15 @@ subtitle: 'ENS N° 09 DOMINGO FAUSTINO SARMIENTO - LICEO N° 07 DOMINGO FAUSTINO
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 1, Mesa pupitre doble 15, Pizarrón 1, Silla escolar 31 

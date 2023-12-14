@@ -44,3 +44,12 @@ subtitle: 'EEM N° 02/20° - JM N° 05/20° (A) - CAIYJ CLUB MATADEROS - IFTS N�
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 5 - Estado: Suspendida ejecución 
+    + Guardia física: NO
+
+
+

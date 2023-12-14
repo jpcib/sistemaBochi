@@ -6,6 +6,21 @@ subtitle: 'ESCUELA INF. N° 08/15° - EPC N° 24 FRANCISCO MORAZAN - INST. SUPER
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: SI
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: SI
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: SI
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1, Piso antigolpe para juegos 120 

@@ -6,6 +6,15 @@ subtitle: 'CBFO N° 02 SALVADOR MAZA - ESPACIO DE PRIMERA INFANCIA EEM Nº2 DE 1
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: En ejecución 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Escritorio 3, Mesa pupitre doble 45, Pizarrón 3, Silla escolar 93 

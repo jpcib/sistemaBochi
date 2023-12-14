@@ -6,6 +6,15 @@ subtitle: 'JIC N° 15/21° - EPC N° 07 DE 21'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 0 - Estado: A confirmar 
+    + Guardia física: SI
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Mesa inicial 20, Silla escolar 120 

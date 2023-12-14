@@ -6,6 +6,15 @@ subtitle: 'EPC N° 08 CARLOS NORBERTO VERGARA - JIN B (EPCJS 08/05°)'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: A ejecutar 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

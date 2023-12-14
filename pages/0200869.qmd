@@ -6,6 +6,15 @@ subtitle: 'ESCUELA INF. N° 04/19° DR. RAMON CARRILLO'
 #
 
 
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+
+
+
 ## Mobiliario
 
 *  (2023) : Estación movil cooperadoras 1 

@@ -35,3 +35,12 @@ subtitle: 'ESC. TEC. N° 21 FRAGATA ESCUELA LIBERTAD'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 1 - Estado: Finalizado 
+    + Guardia física: NO
+
+
+

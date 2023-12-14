@@ -49,3 +49,12 @@ subtitle: 'ESC. TEC. N° 26 CONFEDERACION SUIZA'
 
 
 
+
+
+## Seguridad
+
+*  Espacios seguros: 2 - Estado: Finalizado 
+    + Guardia física: SI
+
+
+
