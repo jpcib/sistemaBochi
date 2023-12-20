@@ -4,13 +4,11 @@ subtitle: 'JII N° 01/06°'
 ---
 
 #
-## Infraestructura
 
-* Acondicionamiento  de acc basica, sanitarios , inst electrica e incendio, prov de agua , cielorraso   , carpinteria ,arreglo patio y  muros con sus revoques. pintura  y patio 
-    + mejora edilicia - En Obra 
-    + Inicio de obra: 1/09/2023 - Avance: 14% - Fecha de finalización: 27/6/2024 
-    + Plan de obras 2021 - 2023 
 
+## Mobiliario
+
+*  (2023) : Estación movil cooperadoras 1, Juego de patio 1, Mesa inicial 15, Piso antigolpe para juegos 60, Silla escolar 90 
 
 
 
@@ -23,14 +21,6 @@ subtitle: 'JII N° 01/06°'
 
 *  (2021) Gas 
     + Rejas de proteccion en estufas
-
-
-
-
-
-## Mobiliario
-
-*  (2023) : Estación movil cooperadoras 1, Juego de patio 1, Mesa inicial 15, Piso antigolpe para juegos 60, Silla escolar 90 
 
 
 

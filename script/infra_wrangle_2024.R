@@ -68,5 +68,8 @@ plani_clean <- gop_raw %>%
 
 write_csv(plani_clean, "data/infra_gop_05-12.csv")
 
-
+read_csv("data/infra_gop_05-12.csv") %>% 
+  mutate(cui = str_pad(cui, 7, "left", "0")) %>% 
+  glimpse() %>% 
+  write_csv("data/infra_gop_05-12b.csv")
 
