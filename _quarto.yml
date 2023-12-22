@@ -6,7 +6,7 @@ project:
 
 website:
   title: "SistemaBochi"
-  favicon: baeducacion.png
+  favicon: esuela1.png
   
   navbar:
     left:
